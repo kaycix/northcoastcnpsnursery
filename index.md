@@ -1,5 +1,5 @@
 ---
-title: "Welcome our native plant nursery."
+title: "Welcome to our native plant nursery."
 layout: splash
 header:
   overlay_color: "#000"

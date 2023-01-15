@@ -3,6 +3,13 @@ permalink: /contact/
 layout: single
 ---
 
+Hours:
+<br/>
+Wed, Fri, Sun: 10a - 1p
+<br/>
+<br/>
+Address:
+<br/>
 North Coast CNPS Nursery
 <br/>
 5851 Myrtle Ave 
