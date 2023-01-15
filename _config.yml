@@ -1,0 +1,12 @@
+# This will require each of these plugins automatically.
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+title                    : "Humboldt Native Plants"
+name                     : "Humboldt Native Plants"
+#baseurl                  : /humboldtnativeplants
+include                  : ["_pages"]
+logo                     : "/assets/images/logo/leaf-icon.png"
+search                   : true
