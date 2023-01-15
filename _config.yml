@@ -4,9 +4,9 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-title                    : "Humboldt Native Plants"
-name                     : "Humboldt Native Plants"
-#baseurl                  : /humboldtnativeplants
+title                    : "North Coast CNPS Nursery"
+name                     : "North Coast CNPS Nursery"
+#baseurl                  : /northcoastcnpsnursery
 include                  : ["_pages"]
-logo                     : "/assets/images/logo/leaf-icon.png"
+#logo                     : "/assets/images/logo/leaf-icon.png"
 search                   : true
