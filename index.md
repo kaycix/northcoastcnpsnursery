@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Hours & Directions"
       url: "/contact/"
-excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms Reserve in Eureka, CA. We grow over 100 species of Pacific Northwest and California native plants. We have been supplying our beautiful region with native plants since 2004."
+excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms Reserve in Eureka, CA. We grow over 100 species of Pacific Northwest and California native plants. We have been supplying our beautiful region with native plants since 2015."
 
 #intro: 
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
