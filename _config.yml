@@ -10,3 +10,14 @@ name                     : "North Coast CNPS Nursery"
 include                  : ["_pages"]
 #logo                     : "/assets/images/logo/leaf-icon.png"
 search                   : true
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/northcoastcnpsnursery"    
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/northcoastcnpsnursery"    
+    - label: "Powered by GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kaycix/northcoastcnpsnursery"
