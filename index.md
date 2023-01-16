@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/starts.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "Stop by during our Volunteer Hours to browse our current inventory or visit us during our larger Fall and Spring sales. See <a href='https://www.facebook.com/NorthCoastCNPS'>Facebook page</a> for latest updates. <br/>Pricing: $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked."
+    excerpt: "Plant sales are currently on hold as we gear up for our Spring sale. See our <a href='https://www.facebook.com/NorthCoastCNPSnursery'>Facebook page</a> for latest updates. <br/>Pricing: $5 for a 4-inch pot, $10-$12 for 1-gallon pots, or unless otherwise marked."
     #url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
     #btn_label: "More Information"
