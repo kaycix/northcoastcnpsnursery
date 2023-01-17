@@ -25,6 +25,13 @@ sale:
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
 
+social:
+  - image_path: /assets/images/icons/social.png 
+    title: "Social Media Contributor" 
+    excerpt: "Create connection by becoming a contributor on our Facebook and Instagram accounts. Ideal candidates would stop by the nursery once or twice a month to be able to share insight into nursery operations."
+    #url: "/gardens" 
+    #btn_label: "READ MORE &#8594;"
+
 ---
 <p>
 The Nursery's volunteer program is designed to provide training, support and connection. We would love for you to join us - whether you come often or occasionally, everyone can help make a difference.
@@ -39,4 +46,5 @@ The Nursery's volunteer program is designed to provide training, support and con
 
 {% include feature_row id="sale" type="left"%}
 
+{% include feature_row id="social" type="left"%}
 
