@@ -34,9 +34,9 @@ feature_row:
     alt: "Volunteer"
     title: "Volunteer"
     excerpt: "Join us as we continue to help restore local ecosystems by providing affordable native plants for the home gardener."
-    #url: "/volunteer/cnps"
-    #btn_label: "More Information"
-    #btn_class: "btn--primary"
+    url: "/volunteer"
+    btn_label: "Learn More"
+    btn_class: "btn--info btn--small"
 ---
 {% include feature_row id="intro" type="center" %}
 
