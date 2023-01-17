@@ -1,8 +1,8 @@
 ---
 permalink: /volunteer/
 layout: single
-#classes: wide
-title: Volunteer 
+classes: wide
+title: Become a Volunteer 
 
 nursery:
   - image_path: /assets/images/seed-starting.jpg 
@@ -27,8 +27,10 @@ sale:
 
 ---
 <p>
-Join our team. We would love to have you - whether you come often or occasionally, everyone can help make a difference. All training and tools provided. 
-<a href = "mailto:northcoastcnps@gmail.com">Email us</a> to sign up!
+The Nursery's volunteer program is designed to provide training, support and connection. We would love for you to join us - whether you come often or occasionally, everyone can help make a difference.
+</p>
+<p>No skills required. All training and tools provided.
+<a href = "mailto:northcoastcnps@gmail.com">Email us</a> and let us know if you'd like to jump in and help.
 </p>
 
 {% include feature_row id="nursery" type="left"%}
