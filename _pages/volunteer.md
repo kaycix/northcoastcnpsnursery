@@ -10,7 +10,7 @@ header:
 nursery:
   - image_path: /assets/images/seed-starting.jpg 
     title: "Nursery Volunteer" 
-    excerpt: "This is our largest team of volunteers and a great place to get started. Nursery volunteers assist in all aspects of growing native plants - from seed collection to nurturing healthy plants. Whether you are a beginner or expert gardener, we would love to have you!<br/>Beginner gardeners, this is an amazing hands-on learning opportunity. You'll never be mystified by the back of a seed packet again! &#128521;
+    excerpt: "This is our largest team of volunteers and a great place to get started. Nursery volunteers assist in all aspects of growing native plants - from seed collection to nurturing healthy plants. All skill levels welcome!<br/>Beginner gardeners, this is an amazing hands-on learning opportunity. You'll never be mystified by the back of a seed packet again! &#128521;
         <br/>Drop-in hours occur every Wednesday, Friday, and Sunday 10a - 1p."
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
@@ -26,7 +26,7 @@ garden:
 sale:
   - image_path: /assets/images/volunteers/sale-prep.jpg 
     title: "Plant Sale Volunteer" 
-    excerpt: "Help spread the love! Volunteer at our seasonal sales - occuring the first weekend in May and last weekend of September. There are a variety of tasks - cashier, tallying, set up, clean up, hospitality, etc."
+    excerpt: "Help spread the love! Volunteer at our seasonal sales - occuring the first weekend in May and last weekend of September. There are a variety of tasks: cashier, tallying, set up, clean up, hospitality, etc."
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
 
@@ -54,7 +54,7 @@ We would love for you to join us - whether you come often or occasionally, every
 <p>
 <a href = "mailto:northcoastcnps@gmail.com">Email us</a> or <a href="/volunteer/form/">fill out this form</a> to let us know you're interested! 
 </p>
-<p>Check out our <a href="#faq">FAQ</a> or email us with any question.</p>
+<p>Check out our <a href="#faq">FAQ</a> or email us with any questions.</p>
 
 {% include feature_row id="nursery" type="left"%}
 
@@ -70,7 +70,7 @@ We would love for you to join us - whether you come often or occasionally, every
 
 <h5>When is the nursery open for volunteering?</h5>
 <p>
-We are open every Wednesday, Friday and Sunday from 10a - 1p. Please check our Facebook page for any updates.
+We are open every Wednesday, Friday and Sunday from 10a - 1p. Please check our <a href="https://www.facebook.com/northcoastcnpsnursery">Facebook page</a> for any updates.
 </p>
 
 <h5>Do I need to sign up to volunteer for nursery or garden days?</h5>

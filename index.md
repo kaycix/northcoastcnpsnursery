@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/starts.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "<img src='/assets/images/icons/stop-sign-small.png' style='float:left; margin-right: 5px;' />Hang tight! Plant sales are on hold as we gear up for our Spring sale.<br/><br/>Pricing, unless otherwise marked: <br/>4 inch pot, $5.00<br/> 1-gallon pot, $10.00 - $12.00"
+    excerpt: "<img src='/assets/images/icons/stop-sign-small.png' style='float:left; margin-right: 5px;' />Hang tight! Plant sales are on hold as we gear up for our Spring sale.<br/><br/>Pricing (unless otherwise marked): <br/>4 inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
     #btn_label: "More Information"
