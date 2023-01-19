@@ -1,0 +1,50 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.plant_spotlight {
+    margin-bottom: 2em;
+    background-color: #f8e2dd; 
+    background-image: url('/assets/images/icons/watercolor-flower2.png'); 
+    background-position: bottom right;
+    background-repeat: no-repeat; 
+    border-radius: 15px;
+    padding: 1em; 
+
+    h2 {
+        margin-top: 0.5em;
+    }
+
+    h2 span {
+        font-weight: 400;
+    }
+
+    img.plant {
+        border-radius: 100px; 
+        border: 2px solid white
+    }
+
+    img.spotlight {
+        float: left; 
+        height: 35px; 
+        margin-right: 20px;
+    }
+
+    .info {
+        div {
+            margin-bottom: 0.5em;
+        }
+        font-size: 0.9em;
+    }
+
+}
+
+.clear {
+    clear: both;
+}

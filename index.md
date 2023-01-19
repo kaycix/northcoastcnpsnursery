@@ -15,16 +15,6 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #
 
 
-featured_plant: 
-  - image_path: /assets/images/plants/romanzoffia_californica.jpg
-    alt: "Plant Sale"
-    title: "Plant Spotlight: California Mistmaiden"
-    excerpt: "This beautiful little plant is one of the first to bloom. Dries out in the summer but returns with the rains - often with baby plants close by! Great for a woodland garden."
-    #url: "/category/cnps-2022-fall"
-    #url: "/category/cnps-master-inventory"
-    #btn_label: "More Information"
-    #btn_class: "btn--primary"
-
 feature_row:
   - image_path: /assets/images/starts.jpg
     alt: "Plant Sale"
@@ -49,20 +39,25 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--info btn--small"
 ---
-<div class="plant_spotlight" style="margin-bottom: 2em; background-color: #f8e2dd; padding: 1em; border-radius: 15px; 
-    background-image: url('/assets/images/icons/watercolor-flower2.png'); background-repeat: no-repeat; background-position: bottom right">
-    <img src="/assets/images/plants/romanzoffia_californica.jpg" class="align-left" style="border-radius: 100px; border: 2px solid white" />
+<!-- TODO Make this into a template -->
+<div class="plant_spotlight">
+    <img class="plant align-left" src="/assets/images/plants/romanzoffia_californica.jpg">
     <div>
-        <img src="/assets/images/icons/spotlight2b.png" style="height: 35px; float: left; margin-right: 20px;">
-        <h2 style="margin-top:0.5em">
-            Plant Spotlight: <span style="font-weight:400">California Mistmaiden</span>
+        <img class="spotlight" src="/assets/images/icons/spotlight.png" />
+        <h2>
+            Plant Spotlight: <span>California Mistmaiden</span>
         </h2>
-        <p style="font-size:0.9em">
-        <b>Scientific Name:</b> Romanzoffia californica.
-        <br/>This delicate beauty is one of the first to bloom in the late winter. Dries out in the summer but returns with the rains - often with baby plants close by! Great for a woodland garden. <a href="https://calscape.org/Romanzoffia-californica-()">View on Calscape</a>
-        </p>
+        <div class="info">
+            <div class="scientific_name">
+                <b>Scientific Name:</b> Romanzoffia californica
+            </div>
+            <div class="description">
+                This delicate beauty is one of the first to bloom in the late winter. Dries out in the summer but returns with the rains - often with baby plants close by! Great for a woodland garden.
+            </div>
+            <a class="btn--inverse btn" href="https://calscape.org/Romanzoffia-californica-()">View on Calscape</a>
+        </div>
     </div>
-    <div style="clear:both"></div>
+    <div class="clear"></div>
 </div>
 
 {% include feature_row %}
