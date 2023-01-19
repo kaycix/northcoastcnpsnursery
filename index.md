@@ -49,14 +49,18 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--info btn--small"
 ---
-<div class="plant_spotlight" style="margin-bottom: 2em; background-color: #f8e2dd; padding: 1em; border-radius: 15px">
-    <img src="/assets/images/plants/romanzoffia_californica.jpg" class="align-left" style="border-radius: 100px; border: 5px solid pink" />
+<div class="plant_spotlight" style="margin-bottom: 2em; background-color: #f8e2dd; padding: 1em; border-radius: 15px; 
+    background-image: url('/assets/images/icons/watercolor-flower2.png'); background-repeat: no-repeat; background-position: bottom right">
+    <img src="/assets/images/plants/romanzoffia_californica.jpg" class="align-left" style="border-radius: 100px; border: 2px solid white" />
     <div>
-        <img src="/assets/images/icons/spotlight.png" style="height: 35px; float: left; margin-right: 20px;">
-        <h2>
-            Plant Spotlight: California Mistmaiden
+        <img src="/assets/images/icons/spotlight2b.png" style="height: 35px; float: left; margin-right: 20px;">
+        <h2 style="margin-top:0.5em">
+            Plant Spotlight: <span style="font-weight:400">California Mistmaiden</span>
         </h2>
-        Romanzoffia californica. This delicate beauty is one of the first to bloom in the late winter. Dries out in the summer but returns with the rains - often with baby plants close by! Great for a woodland garden. <a href="https://calscape.org/Romanzoffia-californica-()">View on Calscape</a>
+        <p style="font-size:0.9em">
+        <b>Scientific Name:</b> Romanzoffia californica.
+        <br/>This delicate beauty is one of the first to bloom in the late winter. Dries out in the summer but returns with the rains - often with baby plants close by! Great for a woodland garden. <a href="https://calscape.org/Romanzoffia-californica-()">View on Calscape</a>
+        </p>
     </div>
     <div style="clear:both"></div>
 </div>
