@@ -8,6 +8,13 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+#banner {
+ background-color: #a27ebf; 
+ color: #FFF; 
+ font-size: 0.9em;
+ padding: 0.5em 0.5em; 
+}
+
 .plant_spotlight {
     margin-bottom: 2em;
     background-color: #f8e2dd; 
