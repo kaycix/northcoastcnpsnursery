@@ -33,16 +33,16 @@ feature_row:
     alt: "Demonstration Garden"
     title: "Demonstration Garden"
     excerpt: "The demonstration garden occupies a corner of the nursery and is a valuable example of what homeowners can accomplish on a small suburban lot."
-    #url: "/garden/cnps-demo"
-    #btn_label: "More Information"
-    #btn_class: "btn--primary"
+    url: "/garden"
+    btn_label: "Explore the Garden"
+    btn_class: "btn--info"
   - image_path: /assets/images/plants.jpg
     alt: "Volunteer"
     title: "Volunteer"
     excerpt: "Join us as we continue to help restore local ecosystems by providing affordable native plants for the home gardener."
     url: "/volunteer"
-    btn_label: "Learn More"
-    btn_class: "btn--info btn--small"
+    btn_label: "Join Our Team"
+    btn_class: "btn--info"
 ---
 <!-- TODO Make this into a template -->
 <div class="feature_blurb plant_spotlight">

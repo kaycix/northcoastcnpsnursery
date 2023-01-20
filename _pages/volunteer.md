@@ -37,7 +37,7 @@ social:
     image_caption: "Image by Pixabay"
     title: "Social Media Contributor" 
     excerpt: "Create connection by becoming a contributor on our Facebook and Instagram accounts. Ideal candidates would stop by the nursery once or twice a month to be able to share insight into nursery operations.
-    <br/>Skills Required: Basic tech-savvyness and emoji literacy. The ability to take a photo on your phone, open an app, and post photo with caption - done!"
+    <br/>Skills Required: Basic tech-savvyness and emoji literacy &#128540;"
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
 
@@ -45,14 +45,14 @@ website:
   - image_path: /assets/images/icons/laptop.png 
     image_caption: "Image by Pixabay"
     title: "Website Contributor" 
-    excerpt: "If words like 'Github' and 'basic coding' don't scare you off, please join us! You're a rare intersection of computer and plant nerd and we would love to make use of your talents. You would be joining our existing website development team of one." 
+    excerpt: "If 'Github' and 'Coding' are somewhat familiar concepts, come join us! You're a rare intersection of computer and plant nerd and we would love to make use of your talents. You would be joining our existing website development team." 
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
 
 ---
 <h1>Join Our Team</h1>
 <p>
-We would love for you to join us - whether you come often or occasionally, everyone can help make a difference.
+We would love for you to join us - whether you come often or occasionally, every little bit helps propel us forward in our mission.
 </p>
 <p>
 <a href = "mailto:northcoastcnps@gmail.com">Email us</a> or <a href="/volunteer/form/">fill out this form</a> to let us know you're interested! 
@@ -75,11 +75,11 @@ We would love for you to join us - whether you come often or occasionally, every
 
 <h5>When is the nursery open for volunteering?</h5>
 <p>
-We are open every Wednesday, Friday and Sunday from 10a - 1p. Please check our <a href="https://www.facebook.com/northcoastcnpsnursery">Facebook page</a> for any updates.
+We are open consistently on Wednesday, Friday and Sunday from 10a - 1p and sometimes at other times for special events. Please check our <a href="https://www.facebook.com/northcoastcnpsnursery">Facebook page</a> for any updates.
 </p>
 
 <h5>Do I need to sign up to volunteer for nursery or garden days?</h5>
-<p> Please email to let us know if you'll be coming and it's your first time. Afterwards you can drop in whenever without RSVPing.
+<p> Please RSVP via email if it's your first time. Afterwards you can drop in whenever!
 </p>
 
 <h5>
@@ -93,7 +93,7 @@ Not at all! You make your own hours. This is just the time that the nursery is o
 What do I wear?
 </h5>
 <p>
-Anything that you don't mind getting a little dirty and/or wet. Closed-toed shoes are also recommended. Face masks are optional but welcome.
+Anything that you don't mind getting a little dirty and/or wet. Closed-toed shoes are recommended.
 </p>
 
 <h5>
