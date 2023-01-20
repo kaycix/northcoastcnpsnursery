@@ -2,10 +2,12 @@
 permalink: /volunteer/
 layout: splash
 classes: wide
-title: Become a Volunteer 
+title: Volunteer 
 #excerpt: "The one thing we need more than hope is action. Because once we start to act, hope is everywhere - Greta Thunberg"
 header:
-  overlay_color: "#247937"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/garden/wildflowers.jpg
 
 nursery:
   - image_path: /assets/images/seed-starting.jpg 
@@ -48,13 +50,16 @@ website:
     #btn_label: "READ MORE &#8594;"
 
 ---
+<h1>Join Our Team</h1>
 <p>
 We would love for you to join us - whether you come often or occasionally, everyone can help make a difference.
 </p>
 <p>
 <a href = "mailto:northcoastcnps@gmail.com">Email us</a> or <a href="/volunteer/form/">fill out this form</a> to let us know you're interested! 
 </p>
-<p>Check out our <a href="#faq">FAQ</a> or email us with any questions.</p>
+<p><a href="#faq">Visit our FAQ</a> to learn more.</p>
+
+<h2>Volunteer Roles</h2>
 
 {% include feature_row id="nursery" type="left"%}
 
@@ -66,7 +71,7 @@ We would love for you to join us - whether you come often or occasionally, every
 
 {% include feature_row id="website" type="left"%}
 
-<h3><a id="faq">Volunteer FAQ</a></h3>
+<h2><a id="faq">Volunteer FAQ</a></h2>
 
 <h5>When is the nursery open for volunteering?</h5>
 <p>
