@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/starts.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "<img src='/assets/images/icons/stop-sign-small.png' style='float:left; margin-right: 5px;' />Hang tight! Plant sales are on hold as we gear up for our Spring sale, May 6th  & May 7th, 2023.<br/><br/>Pricing (unless otherwise marked): <br/>4 inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
+    excerpt: "<img src='/assets/images/icons/stop-sign-small.png' style='float:left; margin-right: 5px;' />Hang tight! Plant sales are on hold as we gear up for our Spring sale, May 6th  & May 7th, 2023.<br/><br/>Pricing (unless otherwise marked): <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
     #btn_label: "More Information"
@@ -68,22 +68,16 @@ feature_row:
 {% include feature_row %}
 
 <div class="consultations" style="margin-bottom: 2em; background-color: #00A896; padding: 1em; border-radius: 15px; color: #FFF">
-    <div>
-        <img src="/assets/images/icons/clipboard.png" style="height: 35px; float: left; margin-right: 20px;">
-        <div>
-            <h2>
-                Did you know?
-            </h2>
-            The North Coast CNPS provides free on-site landscaping consultations. 
-            Volunteer consultants will answer questions and discuss recommendations for
-            <ul>
-                <li>tackling invasives</li>
-                <li>landscaping challenges</li>
-                <li>finding the right natives to fit your needs</li>
-            </ul>
-            Wherever you are in your native plant journey, our consultants would love to help you along your way.
-            <br/><a style="color:#FFF" href="mailto:nc.cnps.consult@gmail.com">Email</a> to request a consultation today!
-        </div>
-    </div>
-    <div style="clear:both"></div>
+    <h2 style="margin:0">
+        Free Native Plant Consultations
+    </h2>
+    The North Coast CNPS provides free on-site landscaping consultations. 
+    Volunteer consultants will answer questions and discuss recommendations for
+    <ul>
+        <li>tackling invasives</li>
+        <li>landscaping challenges</li>
+        <li>finding the right natives to fit your needs</li>
+    </ul>
+    Wherever you are in your native plant journey, our consultants would love to help you along your way.
+    <br/><a style="color:#FFF" href="mailto:nc.cnps.consult@gmail.com">Email</a> to request a consultation today!
 </div>
