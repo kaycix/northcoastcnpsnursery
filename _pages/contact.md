@@ -1,7 +1,12 @@
 ---
 permalink: /contact/
-layout: single
+layout: splash
+classes: wide
 title: Contact Us 
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/garden/grass.jpg
 ---
 <h3>Email</h3>
 <a href = "mailto:northcoastcnps@gmail.com">
@@ -29,4 +34,5 @@ Eureka, CA 95503
 <h3>Parking</h3>
 Park along Myrtle Avenue in front of the barn or long white building.
 You can also park in the Freshwater Farms Reserve parking lot and walk East (through the grounds of the former Kneeland Glen Farmstand) to the nursery. Look for the white hoop house located behind the white building.
+<br/>
 <img src="/assets/images/parking.png">
