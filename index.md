@@ -45,7 +45,7 @@ feature_row:
     btn_class: "btn--info btn--small"
 ---
 <!-- TODO Make this into a template -->
-<div class="plant_spotlight">
+<div class="feature_blurb plant_spotlight">
     <img class="plant align-left" src="/assets/images/plants/romanzoffia_californica.jpg">
     <div>
         <img class="spotlight" src="/assets/images/icons/spotlight.png" />
@@ -67,17 +67,21 @@ feature_row:
 
 {% include feature_row %}
 
-<div class="consultations" style="margin-bottom: 2em; background-color: #00A896; padding: 1em; border-radius: 15px; color: #FFF">
-    <h2 style="margin:0">
-        Free Native Plant Consultations
+<div class="feature_blurb consultations">
+    <h2>
+        Native Plant Consultations
     </h2>
-    The North Coast CNPS provides free on-site landscaping consultations. 
-    Volunteer consultants will answer questions and discuss recommendations for
-    <ul>
-        <li>tackling invasives</li>
-        <li>landscaping challenges</li>
-        <li>finding the right natives to fit your needs</li>
-    </ul>
-    Wherever you are in your native plant journey, our consultants would love to help you along your way.
-    <br/><a style="color:#FFF" href="mailto:nc.cnps.consult@gmail.com">Email</a> to request a consultation today!
+    <div class="info">
+        <div class="description">
+            The North Coast CNPS provides free on-site landscaping consultations. 
+            Volunteer consultants will answer questions and discuss recommendations for
+            <ul>
+                <li>tackling invasives</li>
+                <li>handling landscaping challenges</li>
+                <li>finding the right natives to fit your needs</li>
+            </ul>
+            Wherever you are in your native plant journey, our consultants can help!
+        </div>
+        <a class="btn btn--primary" href="mailto:nc.cnps.consult@gmail.com?subject=New Consultation Request!">Request a Free Consultation</a>
+    </div>
 </div>

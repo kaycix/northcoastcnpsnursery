@@ -15,18 +15,36 @@ search: false
  padding: 0.5em 0.5em; 
 }
 
-.plant_spotlight {
+.feature_blurb {
     margin-bottom: 2em;
-    background-color: #f8e2dd; 
-    background-image: url('/assets/images/icons/watercolor-flower2.png'); 
-    background-position: bottom right;
-    background-repeat: no-repeat; 
     border-radius: 15px;
     padding: 1em; 
 
     h2 {
         margin-top: 0.5em;
     }
+
+    .info {
+        div {
+            margin-bottom: 0.5em;
+        }
+        font-size: 0.9em;
+    }
+
+    ul {
+        margin: 0.5em;
+    }
+
+    li {
+        margin: 0;
+    }
+}
+
+.plant_spotlight {
+    background-color: #f8e2dd; 
+    background-image: url('/assets/images/icons/watercolor-flower2.png'); 
+    background-position: bottom right;
+    background-repeat: no-repeat; 
 
     h2 span {
         font-weight: 400;
@@ -42,14 +60,19 @@ search: false
         height: 35px; 
         margin-right: 20px;
     }
+}
 
-    .info {
-        div {
-            margin-bottom: 0.5em;
-        }
-        font-size: 0.9em;
+.consultations {
+    background-color: #00A896;
+    background-image: url('/assets/images/icons/watercolor-leaves.png'); 
+    background-position: bottom right;
+    background-repeat: no-repeat; 
+    color: #FFF;
+
+    a {
+        background-color: #000;
+        color: #FFF;
     }
-
 }
 
 .clear {
