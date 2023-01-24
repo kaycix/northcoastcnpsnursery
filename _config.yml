@@ -10,6 +10,11 @@ name                     : "North Coast CNPS Nursery"
 include                  : ["_pages"]
 #logo                     : "/assets/images/logo/leaf-icon.png"
 search                   : true
+collections_dir          : collections
+collections:        
+        plants:
+        output: true
+        permalink: /:collection/:path
 footer:
   links:
     - label: "Facebook"

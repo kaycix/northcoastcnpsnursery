@@ -45,25 +45,40 @@ feature_row:
     btn_class: "btn--info"
 ---
 <!-- TODO Make this into a template -->
+{% for plant in site.plants %}
+   {% if plant.plant_id == 153 %} 
 <div class="feature_blurb plant_spotlight">
-    <img class="plant align-left" src="/assets/images/plants/romanzoffia_californica.jpg">
+    {% if plant.icon and plant.icon.small and plant.icon.small.url %}
+    <img class="plant align-left" src="{{plant.icon.small.url}}">
+    {% endif %}
     <div>
         <img class="spotlight" src="/assets/images/icons/spotlight.png" />
         <h2>
-            Plant Spotlight: <span>California Mistmaiden</span>
+            {% if plant.common_name and plant.common_name.size > 0 %}
+            Plant Spotlight: <span>{{plant.common_name[0]}}</span>
+            {% endif %}
         </h2>
         <div class="info">
             <div class="scientific_name">
-                <b>Scientific Name:</b> Romanzoffia californica
+                {% if plant.title %}
+                <b>Scientific Name:</b> {{plant.title | capitalize }}
+                {% endif %}
             </div>
             <div class="description">
-                This delicate beauty is one of the first to bloom in the late winter. Dries out in the summer but returns with the rains - often with baby plants close by! Great for a woodland garden.
+                {% if plant.description and plant.description.short %}
+                {{ plant.description.short }}
+                {% endif %}
             </div>
-            <a class="btn--inverse btn" href="https://calscape.org/Romanzoffia-californica-()">View on Calscape</a>
+            {% if plant.references and plant.references.size > 0 and plant.references[0].url and plant.references[0].name  %}
+            <a class="btn--inverse btn" href="{{plant.references[0].url}}">View on {{plant.references[0].name}}</a>
+            {% endif %}
         </div>
     </div>
     <div class="clear"></div>
 </div>
+    {% endif %}
+{% endfor %}
+
 
 {% include feature_row %}
 
