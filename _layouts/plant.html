@@ -1,0 +1,46 @@
+---     
+layout: single
+classes: plant-page wide
+--- 
+{% if page.icon and page.icon.small and page.icon.small.url %}
+<img class="plant align-left small_icon" src="{{page.icon.small.url}}">
+{% endif %}
+
+<h2>
+    {% if page.name.common and page.name.common.size > 0 %}
+    <span>{{page.name.common[0]}}</span>
+    {% endif %}
+</h2>
+
+<div class="scientific_name">
+    {% if page.name.scientific %}
+    <b>Scientific Name:</b> {{page.name.scientific | capitalize }}
+    {% endif %}
+</div>
+
+{% if page.category %}
+    <br/>
+    <b>Plant Type:</b> {{page.category | capitalize }}
+{% endif %}
+
+<p>
+{% if page.sun_requirements and page.sun_requirements.size > 0 %}
+    <b>Sun Requirements:</b> {{page.sun_requirements | join: ", " }}
+{% endif %}
+{% if page.websites and page.websites.size > 0 %}
+    <br/>
+    <b> Websites: </b>
+    {% for website in page.websites %}
+        <a href="{{website.url}}" target="_blank">{{website.name}}</a>
+        {% if forloop.index < page.websites.size %}, {% endif %}
+    {% endfor %}
+{% endif %}
+</p>
+
+<p>
+{% if page.tags and page.tags.size > 0 %}
+    <b>Tags:</b> {{ page.tags | join: ", " }}
+{% endif %}
+</p>
+
+

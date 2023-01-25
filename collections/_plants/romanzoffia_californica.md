@@ -3,9 +3,11 @@ plant_id: 153
 
 category: perennial herb
 
-common_name:  
-    -   California Mistmaiden
-    -   California Romanzoffia
+name :
+    scientific: romanzoffia californica
+    common: 
+        -   California Mistmaiden
+        -   California Romanzoffia
 
 description: 
     short : "This delicate beauty is one of the first to bloom in the late winter. Dries out in the summer but returns with the rains - often with baby plants close by! Great for a woodland garden."
@@ -46,20 +48,19 @@ size:
         min: 0.33
         max: 1.3
 
-references:
-    - url : "https://calscape.org/Romanzoffia-californica-()"
-      name: "Calscape"
-      type: "website"
-    - url : "https://www.calflora.org/app/taxon?crn=7157"
-      name: "Calflora"
-      type: "website"
-
 sun_requirements: 
-    - part_shade
+    - "Part Shade"
 
 tags:  
-    -   humboldt_native
-    -   early_bloomer
+    -   humboldtNative
+    -   earlyBloomer
+    -   lowGrowing
+    -   woodland
+    -   riparian
 
-title: romanzoffia californica
+websites:
+    - url : "https://calscape.org/Romanzoffia-californica-()"
+      name: "Calscape"
+    - url : "https://www.calflora.org/app/taxon?crn=7157"
+      name: "Calflora"
 ---

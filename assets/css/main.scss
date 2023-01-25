@@ -40,6 +40,10 @@ search: false
     }
 }
 
+img.plant.small_icon {
+    border-radius: 100px; 
+}
+
 .plant_spotlight {
     background-color: #f8e2dd; 
     background-image: url('/assets/images/icons/watercolor-flower2.png'); 
@@ -50,15 +54,18 @@ search: false
         font-weight: 400;
     }
 
-    img.plant {
-        border-radius: 100px; 
-        border: 2px solid white
-    }
-
     img.spotlight {
         float: left; 
         height: 35px; 
         margin-right: 20px;
+    }
+
+    img.plant.small_icon {
+        border: 2px solid white;
+    }
+
+    a.btn {
+        margin-right: 10px;
     }
 }
 

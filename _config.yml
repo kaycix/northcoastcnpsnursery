@@ -13,8 +13,14 @@ search                   : true
 collections_dir          : collections
 collections:        
         plants:
-        output: true
-        permalink: /:collection/:path
+            output: true
+            permalink: /:collection/:name
+defaults:
+ - scope:
+     type: "plants"
+   values:
+     layout: plant
+     title: ""
 footer:
   links:
     - label: "Facebook"

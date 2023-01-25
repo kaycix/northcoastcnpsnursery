@@ -17,7 +17,6 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #intro: 
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
 #
-# add comment to kick off another build
 
 
 feature_row:
@@ -46,22 +45,22 @@ feature_row:
 ---
 <!-- TODO Make this into a template -->
 {% for plant in site.plants %}
-   {% if plant.plant_id == 153 %} 
+   {% if plant.plant_id == 153 %}
 <div class="feature_blurb plant_spotlight">
     {% if plant.icon and plant.icon.small and plant.icon.small.url %}
-    <img class="plant align-left" src="{{plant.icon.small.url}}">
+    <img class="plant align-left small_icon" src="{{plant.icon.small.url}}">
     {% endif %}
     <div>
         <img class="spotlight" src="/assets/images/icons/spotlight.png" />
         <h2>
-            {% if plant.common_name and plant.common_name.size > 0 %}
-            Plant Spotlight: <span>{{plant.common_name[0]}}</span>
+            {% if plant.name.common and plant.name.common.size > 0 %}
+            Plant Spotlight: <span>{{plant.name.common[0]}}</span>
             {% endif %}
         </h2>
         <div class="info">
             <div class="scientific_name">
-                {% if plant.title %}
-                <b>Scientific Name:</b> {{plant.title | capitalize }}
+                {% if plant.name.scientific %}
+                <b>Scientific Name:</b> {{plant.name.scientific | capitalize }}
                 {% endif %}
             </div>
             <div class="description">
@@ -69,8 +68,11 @@ feature_row:
                 {{ plant.description.short }}
                 {% endif %}
             </div>
-            {% if plant.references and plant.references.size > 0 and plant.references[0].url and plant.references[0].name  %}
-            <a class="btn--inverse btn" href="{{plant.references[0].url}}">View on {{plant.references[0].name}}</a>
+            {% if plant.url %}
+            <a class="btn--info btn" href="{{plant.url}}">View Details</a>
+            {% endif %}
+            {% if plant.websites and plant.websites.size > 0 and plant.websites[0].url and plant.websites[0].name  %}
+            <a class="btn--inverse btn" href="{{plant.websites[0].url}}">View on {{plant.websites[0].name}}</a>
             {% endif %}
         </div>
     </div>
