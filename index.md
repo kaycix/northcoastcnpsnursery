@@ -45,8 +45,8 @@ feature_row:
 ---
 <!-- TODO Make this into a template -->
 {% for plant in site.plants %}
-   {% if plant.plant_id == 153 %}
-<div class="feature_blurb plant_spotlight">
+   {% if plant.plant_id == 195 %}
+<div class="feature_blurb plant_spotlight" style="background-color:#FFF8DC">
     {% if plant.icon and plant.icon.small and plant.icon.small.url %}
     <img class="plant align-left small_icon" src="{{plant.icon.small.url}}">
     {% endif %}
