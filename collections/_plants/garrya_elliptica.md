@@ -10,7 +10,7 @@ name:
         - Silk Tassel 
 
 description: 
-    short : "This beautiful shrub is a treat to come across when the male plants are displaying their long catkins. Both male and female plants are perfect for a hedge or growing against a wall. <br/>Photo by Pete Haggard in the Arcata Community Center native plant garden January 2023."
+    short : "This beautiful shrub is a treat to come across in the winter when the male plants are displaying their long catkins. Both male and female plants are perfect for a hedge or growing against a wall."
 
 bloom_calendar: 
     -   12
@@ -36,7 +36,8 @@ icon:
         source: 
             name: Pete Haggard
             url: ""
-            location: Arcata HealthSport Garden
+            location: Arcata Community Center Garden
+            description: "This photo was taken by Pete Haggard at his Arcata Community Center Garden - January 2023"
      large: 
         url: "/assets/images/plants/garrya_elliptica_lg.jpg"
         source: 
