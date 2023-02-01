@@ -18,6 +18,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
 #
 
+plant_spotlight_id: 195 
 
 feature_row:
   - image_path: /assets/images/starts.jpg
@@ -43,41 +44,9 @@ feature_row:
     btn_label: "Join Our Team"
     btn_class: "btn--info"
 ---
-<!-- TODO Make this into a template -->
 {% for plant in site.plants %}
-   {% if plant.plant_id == 195 %}
-<div class="feature_blurb plant_spotlight" style="background-color:#FFF8DC">
-    {% if plant.icon and plant.icon.small and plant.icon.small.url %}
-    <img class="plant align-left small_icon" src="{{plant.icon.small.url}}">
-    {% endif %}
-    <div>
-        <img class="spotlight" src="/assets/images/icons/spotlight.png" />
-        <h2>
-            {% if plant.name.common and plant.name.common.size > 0 %}
-            Plant Spotlight: <span>{{plant.name.common[0]}}</span>
-            {% endif %}
-        </h2>
-        <div class="info">
-            <div class="scientific_name">
-                {% if plant.name.scientific %}
-                <b>Scientific Name:</b> {{plant.name.scientific | capitalize }}
-                {% endif %}
-            </div>
-            <div class="description">
-                {% if plant.description and plant.description.short %}
-                {{ plant.description.short }}
-                {% endif %}
-            </div>
-            {% if plant.url %}
-            <a class="btn--info btn" href="{{plant.url}}">View Details</a>
-            {% endif %}
-            {% if plant.websites and plant.websites.size > 0 and plant.websites[0].url and plant.websites[0].name  %}
-            <a class="btn--inverse btn" href="{{plant.websites[0].url}}">View on {{plant.websites[0].name}}</a>
-            {% endif %}
-        </div>
-    </div>
-    <div class="clear"></div>
-</div>
+    {% if plant.plant_id == page.plant_spotlight_id %}
+        {% include plant_summary_card.html plant=plant %} 
     {% endif %}
 {% endfor %}
 
