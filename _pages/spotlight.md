@@ -18,8 +18,7 @@ plant_spotlights:
 {% assign plant_id = objs[1] %} 
 {% for plant in site.plants %}
     {% if plant.plant_id == plant_id %}
-{{ month | capitalize }}
-        {% include plant_summary_card.html plant=plant %} 
+        {% include plant_summary_card.html plant=plant title=month %} 
     {% endif %}
 {% endfor %}
 {% endfor %}

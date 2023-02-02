@@ -2,9 +2,11 @@
 Plant Summary Card
 
 @arg plant
+@arg title (optional)
 {% endcomment %}
 
 {% assign plant = include.plant %}
+{% assign title = include.title %}
 
 <div class="feature_blurb plant_spotlight" style="background-color:#FFF8DC">
     {% if plant.icon and plant.icon.small and plant.icon.small.url %}
@@ -14,7 +16,10 @@ Plant Summary Card
         <img class="spotlight" src="/assets/images/icons/spotlight.png" />
         <h2>
             {% if plant.name.common and plant.name.common.size > 0 %}
-            Plant Spotlight: <span>{{plant.name.common[0]}}</span>
+                <a href="/spotlight/" style="color:#000">
+                {{title | capitalize }} Plant Spotlight 
+                </a>:
+                <span>{{plant.name.common[0]}}</span>
             {% endif %}
         </h2>
         <div class="info">
@@ -29,7 +34,7 @@ Plant Summary Card
                 {% endif %}
             </div>
             {% if plant.url %}
-            <a class="btn--info btn" href="{{plant.url}}">View Details</a>
+            <a class="btn--info btn" href="{{plant.url}}">More Details</a>
             {% endif %}
             {% if plant.websites and plant.websites.size > 0 and plant.websites[0].url and plant.websites[0].name  %}
             <a class="btn--inverse btn" href="{{plant.websites[0].url}}">View on {{plant.websites[0].name}}</a>
