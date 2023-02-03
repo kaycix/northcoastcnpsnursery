@@ -17,11 +17,11 @@ bloom_calendar:
     -   1
 
 gardens:
-    - arcata_community_center
-    - arcata_marsh
-    - trinidad_museum
-    - trinidad_museum_coastal
-    - sequoia_park_zoo
+    arcata_community_center: 
+    arcata_marsh: 
+    trinidad_museum: 
+        - coastal
+    sequoia_park_zoo: 
 
 humbolt_native: True
 

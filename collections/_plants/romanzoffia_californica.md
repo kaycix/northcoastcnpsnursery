@@ -18,8 +18,8 @@ bloom_calendar:
     -   5
 
 gardens:
-    -   cnps_demo
-    -   cnps_demo_redwood
+    cnps_demo:
+        - redwood
 
 humbolt_native: True
 
