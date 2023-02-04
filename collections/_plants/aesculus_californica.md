@@ -8,7 +8,7 @@ name:
     common: 
         - California Buckeye
 
-humbolt_native: True
+humboldt_native: True
 
 tags: 
     -   humboldtNative

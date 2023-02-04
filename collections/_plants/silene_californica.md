@@ -6,7 +6,7 @@ category: annual herb
 name: 
     scientific: silene californica
     common: 
-        - Cardinal Catchfl"  
+        - Cardinal Catchfly 
 
 humbolt_native: True
 
