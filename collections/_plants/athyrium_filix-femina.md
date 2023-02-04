@@ -8,7 +8,7 @@ name:
     common: 
         - Lady Fern
 
-humbolt_native: True
+humboldt_native: True
 
 gardens:
     cnps_demo:
