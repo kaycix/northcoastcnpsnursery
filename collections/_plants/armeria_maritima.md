@@ -1,0 +1,64 @@
+---
+plant_id: 7
+
+category: perennial herb
+
+name: 
+    scientific: armeria maritima 
+    common: 
+        - sea thrift  
+
+humboldt_native: True
+
+icon: 
+     small: 
+        url: /assets/images/plants/armeria_maritima_icon.jpg 
+        source: 
+            name: Calscape
+            url: https://calscape.org/photos/374?srchcr=sc622922583ea4e 
+     large: 
+        url: /assets/images/plants/armeria_maritima_icon.jpg 
+        source: 
+            name: Calscape
+            url: https://calscape.org/photos/374?srchcr=sc622922583ea4e
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2022_fall
+    -   cnps_2022_spring
+
+gardens:
+    cnps_demo:
+        - coastal
+
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+
+size:
+    height: 
+        min: 1
+        max: 1
+
+tags:  
+    -   humboldtNative
+    -   groundcover
+    -   border
+    -   droughtTolerant
+    -   container
+    -   beginner
+    -   showy
+    -   butterfly
+    -   coastal
+
+websites:
+    - url: "https://calscape.org/Armeria-maritima-()"
+      name: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=9695"
+      name: "Calflora"
+    - url: "https://practicalplants.org/wiki/armeria_maritima/"
+      title: "Practical Plants"
+    - url: "https://theodorepayne.org/nativeplantdatabase/index.php?title=Armeria_maritima"
+      name: "Theodore Payne Foundation"
+---
+

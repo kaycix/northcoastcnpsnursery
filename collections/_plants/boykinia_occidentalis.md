@@ -28,11 +28,6 @@ size:
 sun_requirements:
   - "Part Shade"
 
-icon_attribution: 
-    name: "Calscape"
-    url: "https://calscape.com/ExtData/allimages/900/Boykinia_occidentalis_900_53.jpg"
-icon: "/assets/images/plants/boykinia_occidentalis_icon.jpg"
-
 icon: 
      small: 
         url: "/assets/images/plants/boykinia_occidentalis_icon.jpg"
