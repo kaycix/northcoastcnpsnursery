@@ -72,5 +72,6 @@ feature_row:
     </div>
 </div>
 
-<h2>Follow Our Nursery </h2>
+<img src="/assets/images/icons/instagram-bw.png" style="display: inline-block;float:left;margin-right:10px"/>
+<h2 style="padding:0;margin:0;line-height:1">Follow Our Nursery </h2>
 <div class="powr-social-feed" id="cb2d6f13_1675967745"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
