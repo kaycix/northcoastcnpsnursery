@@ -8,19 +8,27 @@ title                    : "North Coast CNPS Nursery"
 name                     : "North Coast CNPS Nursery"
 #baseurl                  : /northcoastcnpsnursery
 include                  : ["_pages"]
-#logo                     : "/assets/images/logo/leaf-icon.png"
+logo                     : "/assets/images/logo/logo.jpg"
 search                   : true
 collections_dir          : collections
 collections:        
-        plants:
-            output: true
-            permalink: /:collection/:name
+    plants:
+        output: true
+        permalink: /:collection/:name
+    inventory:
+        output: true
+        permalink: /:collection/:name
 defaults:
  - scope:
      type: "plants"
    values:
      layout: plant
      title: ""
+ - scope:
+     type: "inventory"
+   values:
+     title: ""
+     layout: inventory
 footer:
   links:
     - label: "Facebook"
