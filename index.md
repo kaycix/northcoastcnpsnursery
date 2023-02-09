@@ -71,3 +71,6 @@ feature_row:
         <a class="btn btn--primary" href="mailto:nc.cnps.consult@gmail.com?subject=New Consultation Request!">Request a Free Consultation</a>
     </div>
 </div>
+
+<h2>Follow Our Nursery </h2>
+<div class="powr-social-feed" id="cb2d6f13_1675967745"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
