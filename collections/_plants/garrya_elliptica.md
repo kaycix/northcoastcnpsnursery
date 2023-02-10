@@ -33,16 +33,12 @@ habitats :
 icon: 
      small: 
         url: "/assets/images/plants/garrya_elliptica.jpeg"
-        source: 
-            name: Pete Haggard
-            url: ""
-            location: Arcata Community Center Garden
-            description: "This photo was taken by Pete Haggard at his Arcata Community Center Garden - January 2023"
      large: 
-        url: "/assets/images/plants/garrya_elliptica_lg.jpg"
-        source: 
-            name: Pete Haggard 
-            url: 
+        url: "/assets/images/plants/garrya_elliptica_lg.jpeg"
+     source: 
+        name: Pete Haggard
+        url: ""
+        description: "This photo was taken by Pete Haggard at his Arcata Community Center Garden - January 2023"
 
 inventory: 
     -   cnps_master_inventory

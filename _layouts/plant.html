@@ -2,8 +2,23 @@
 layout: single
 classes: plant-page wide
 --- 
-{% if page.icon and page.icon.small and page.icon.small.url %}
-<img class="plant align-left small_icon" src="{{page.icon.small.url}}">
+
+
+{% if page.icon and page.icon.large and page.icon.large.url %}
+<div class="archive__item-teaser" style="width:300px">
+    <img class="plant align-left large_icon" src="{{page.icon.large.url}}">
+    {% if page.icon.source and page.icon.source.name %}
+    <span class="archive__item-caption">Photo by 
+        {% if page.icon.source and page.icon.source.url %}
+            <a href="{{page.icon.source.url}}">
+        {% endif %}
+        {{page.icon.source.name}}
+        {% if page.icon.source and page.icon.source.url %}
+            </a>
+        {% endif %}
+    .</span>
+    {% endif %}
+</div>
 {% endif %}
 
 <h2>

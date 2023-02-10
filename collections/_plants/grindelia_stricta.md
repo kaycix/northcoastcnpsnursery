@@ -18,15 +18,12 @@ humboldt_native: True
 
 icon: 
      small: 
-        url: /assets/images/plants/grindelia_stricta_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/view.php?pl=1795&img=15520 
+        url: /assets/images/plants/grindelia_stricta.jpg 
      large: 
-        url: /assets/images/plants/grindelia_stricta_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/view.php?pl=1795&img=15520 
+        url: /assets/images/plants/grindelia_stricta_lg.jpg 
+     source: 
+        name: Stan Shebs / Calscape
+        url: https://calscape.org/photos/1795?srchcr=sc63e5d1172068a 
 
 inventory: 
     -   cnps_master_inventory

@@ -6,7 +6,7 @@ category: perennial herb
 name: 
     scientific: cirsium occidentale
     common:  
-        - Cobweb Thistle"    
+        - Cobweb Thistle 
 
 humbolt_native: True
 
