@@ -29,16 +29,13 @@ sun_requirements:
   - "Part Shade"
 
 icon: 
-     small: 
-        url: "/assets/images/plants/boykinia_occidentalis_icon.jpg"
-        source: 
-            name: Calscape
-            url: https://calscape.com/ExtData/allimages/900/Boykinia_occidentalis_900_53.jpg 
-     large: 
-        url: /assets/images/plants/boykinia_occidentalis_icon.jpg
-        source: 
-            name: Calscape
-            url: https://calscape.com/ExtData/allimages/900/Boykinia_occidentalis_900_53.jpg 
+    small: 
+        url: "/assets/images/plants/boykinia_occidentalis.jpg"
+    large: 
+        url: /assets/images/plants/boykinia_occidentalis_lg.jpg
+    source: 
+        name: James Gonsman / Calflora 
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=gp5412 
 
 tags:  
     -   lowGrowing

@@ -28,16 +28,13 @@ gardens:
         - container
 
 icon: 
-     small: 
-        url: "/assets/images/plants/clarkia_amoena_icon.jpg"
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/app/up/entry/107/32198.jpg 
-     large: 
-        url: "/assets/images/plants/clarkia_amoena_icon.jpg"
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/app/up/entry/107/32198.jpg 
+    small: 
+        url: /assets/images/plants/clarkia_amoena.jpg
+    large: 
+        url: /assets/images/plants/clarkia_amoena_lg.jpg
+    source: 
+        name: Barry Breckling / Calflora
+        url: https://www.calflora.org/app/taxon?crn=2160 
 
 tags:  
     -   humboldtNative

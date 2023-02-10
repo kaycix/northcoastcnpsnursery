@@ -15,16 +15,13 @@ gardens:
         - coastal
 
 icon: 
-     small: 
-        url: /assets/images/plants/dudleya_cymosa_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=po130303 
-     large: 
-        url: /assets/images/plants/dudleya_cymosa_icon.jpg
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=po130303 
+    small: 
+        url: /assets/images/plants/dudleya_cymosa.jpg 
+    large: 
+        url: /assets/images/plants/dudleya_cymosa_lg.jpg
+    source: 
+        name: Janith Johnson / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=po130303 
 
 inventory: 
     -   cnps_master_inventory

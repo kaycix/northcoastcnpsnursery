@@ -11,16 +11,13 @@ name:
 humboldt_native: True
 
 icon: 
-     small: 
-        url: /assets/images/plants/armeria_maritima_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/374?srchcr=sc622922583ea4e 
-     large: 
-        url: /assets/images/plants/armeria_maritima_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/374?srchcr=sc622922583ea4e
+    small: 
+        url: /assets/images/plants/armeria_maritima.jpg 
+    large: 
+        url: /assets/images/plants/armeria_maritima_lg.jpg 
+    source: 
+        name: glrbrg / Calscape
+        url: https://calscape.org/photos/374?srchcr=sc63e6a007b3100 
 
 inventory: 
     -   cnps_master_inventory

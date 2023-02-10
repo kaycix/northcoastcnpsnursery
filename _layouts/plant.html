@@ -23,7 +23,7 @@ classes: plant-page wide
 
 <h2>
     {% if page.name.common and page.name.common.size > 0 %}
-    <span>{{page.name.common[0]}}</span>
+    <span>{{page.name.common[0] | capitalize }}</span>
     {% endif %}
 </h2>
 

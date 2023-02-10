@@ -27,16 +27,13 @@ size:
         max: 6.6
 
 icon: 
-     small: 
-        url: /assets/images/plants/delphinium_cardinale_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/view.php?pl=1226&img=12764 
-     large: 
-        url: /assets/images/plants/delphinium_cardinale_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/view.php?pl=1226&img=12764 
+    small: 
+        url: /assets/images/plants/delphinium_cardinale.jpg 
+    large: 
+        url: /assets/images/plants/delphinium_cardinale_lg.jpg 
+    source: 
+        name: Ron Vanderhoff / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=gp17280 
 
 tags:  
     -   container

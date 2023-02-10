@@ -28,16 +28,13 @@ sun_requirements:
   - "Full Sun"
 
 icon: 
-     small: 
-        url: "/assets/images/plants/asclepias_fascicularis_icon.jpg"
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=gp9120 
-     large: 
-        url: "/assets/images/plants/asclepias_fascicularis_icon.jpg"
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=gp9120 
+    small: 
+        url: /assets/images/plants/asclepias_fascicularis.jpg
+    large: 
+        url: /assets/images/plants/asclepias_fascicularis_lg.jpg
+    source: 
+        name: Julie Ann Kierstead
+        url: https://calscape.org/photos/434?srchcr=sc63e6a0afb2c75 
 
 websites:
     - url : "https://calscape.org/loc-California/Asclepias-fascicularis-(Narrow-Leaf-Milkweed)"

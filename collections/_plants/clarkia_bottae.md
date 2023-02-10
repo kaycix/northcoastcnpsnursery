@@ -15,16 +15,13 @@ gardens:
 humbolt_native: True
 
 icon: 
-     small: 
-        url: /assets/images/plants/clarkia_bottae_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=mu16577 
-     large: 
-        url: /assets/images/plants/clarkia_bottae_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=mu16577 
+    small: 
+        url: /assets/images/plants/clarkia_bottae.jpg 
+    large: 
+        url: /assets/images/plants/clarkia_bottae_lg.jpg 
+    source: 
+        name: Toedrifter / Calscape
+        url: https://calscape.org/view.php?pl=1029&img=11808 
 
 size:
     height: 

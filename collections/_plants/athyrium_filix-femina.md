@@ -24,16 +24,13 @@ inventory:
     -   cnps_2022_spring
 
 icon: 
-     small: 
-        url: "/assets/images/plants/athyrium_filix_femina_icon.jpg"
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/469?srchcr=sc61fe1555f070b 
-     large: 
-        url: "/assets/images/plants/athyrium_filix_femina_icon.jpg"
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/469?srchcr=sc61fe1555f070b 
+    small: 
+        url: /assets/images/plants/athyrium_filix_femina.jpg
+    large: 
+        url: /assets/images/plants/athyrium_filix_femina_lg.jpg
+    source: 
+        name: Julie Ann Kierstead / Calscape
+        url: https://calscape.org/photos/469?srchcr=sc63e6aab1cd0be 
 
 sun_requirements:
   - "Part Shade"

@@ -8,7 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/garden/grass.jpg
 ---
-<h3>Email</h3>
+<h3>Email Us</h3>
+
+<img src="/assets/images/icons/email.png" style="margin-right: 5px" />
 <a href = "mailto:northcoastcnps@gmail.com">
 northcoastcnps@gmail.com
 </a>

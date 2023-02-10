@@ -29,16 +29,13 @@ sun_requirements:
   - "Part Shade"
 
 icon: 
-     small: 
-        url: "/assets/images/plants/aesculus_californica_icon.jpg" 
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/82?srchcr=sc6221a32794609 
-     large: 
-        url: "/assets/images/plants/aesculus_californica_icon.jpg" 
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/82?srchcr=sc6221a32794609 
+    small: 
+        url: /assets/images/plants/aesculus_californica.jpg
+    large: 
+        url: /assets/images/plants/aesculus_californica_lg.jpg
+    source:
+        name: Eugene Zelenko / Calscape
+        url: https://calscape.org/photos/82?srchcr=sc63e69fc76bc59 
  
 websites:
     - url : "https://calscape.org/loc-California/Aesculus%20californica(%20)"

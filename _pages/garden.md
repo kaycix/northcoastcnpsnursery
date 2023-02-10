@@ -45,7 +45,42 @@ gallery:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include gallery caption="CK Photography" %}
+
 <img src="/assets/images/garden/map.jpg">
 
-{% include gallery caption="CK Photography" %}
+<!-- filter all plants to find those with cnps_demo in garden -->
+{% assign garden_tag = "cnps_demo" %}
+{% assign garden_sections = "" | split: ',' %}
+
+{% assign garden_plants = site.plants | where_exp:"item",
+    "item.gardens contains garden_tag" %}
+
+{% assign garden_sections = garden_plants | group_by_exp: "item",
+    "item.gardens[garden_tag]" %}
+
+**Notice:** The list of plants below is a work in progress. There are many more plants in our garden that need to be added. Stay tuned! 
+{: .notice}
+
+{% for section in garden_sections %}
+{{ section.name[0] | capitalize }}<br/>
+<hr>
+<ul class="plant_list">
+    {% for plant in section.items %}
+<li>
+{% if plant.icon and plant.icon.small %}
+<img src='{{plant.icon.small.url}}' />
+{% endif %}
+{% if plant.url %}
+<a href="{{plant.url}}">
+{% endif %}
+{{ plant.name.common[0] | capitalize }}
+{% if plant.url %}
+</a>
+{% endif %}
+({{ plant.name.scientific | capitalize }})
+</li>
+    {% endfor %}
+</ul>
+{% endfor %}
 

@@ -12,6 +12,8 @@ humbolt_native: True
 
 icon: 
      small: 
+        url: /assets/images/plants/dudleya_farinosa_sm.jpg
+     med: 
         url: /assets/images/plants/dudleya_farinosa.jpg
      large: 
         url: /assets/images/plants/dudleya_farinosa_lg.jpg 

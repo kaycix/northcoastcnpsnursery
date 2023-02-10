@@ -29,16 +29,13 @@ size:
         max: 10
 
 icon: 
-     small: 
-        url: /assets/images/plants/cirsium_occidentale_icon.jpg
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=mu20659 
-     large: 
-        url: /assets/images/plants/cirsium_occidentale_icon.jpg
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=mu20659 
+    small: 
+        url: /assets/images/plants/cirsium_occidentale.jpg
+    large: 
+        url: /assets/images/plants/cirsium_occidentale_lg.jpg
+    source: 
+        name: Ron Vanderhoff / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mu3029 
 
 websites:
     - url : "https://calscape.org/Cirsium-occidentale-()" 

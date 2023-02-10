@@ -8,6 +8,10 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+ul {
+    list-style-type: none;
+}
+
 #banner {
  background-color: #a27ebf; 
  color: #FFF; 
@@ -79,6 +83,14 @@ img.plant.small_icon {
     a {
         background-color: #000;
         color: #FFF;
+    }
+}
+
+.plant_list {
+    img {
+        height: 50px;
+        width: 50px;
+        border-radius: 25px;
     }
 }
 

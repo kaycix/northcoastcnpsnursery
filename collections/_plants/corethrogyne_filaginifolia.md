@@ -29,16 +29,13 @@ size:
         max: 3.3
 
 icon: 
-     small: 
-        url: /assets/images/plants/corethrogyne_filaginifolia_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=io3495 
-     large: 
-        url: /assets/images/plants/corethrogyne_filaginifolia_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=io3495 
+    small: 
+        url: /assets/images/plants/corethrogyne_filaginifolia.jpg 
+    large: 
+        url: /assets/images/plants/corethrogyne_filaginifolia_lg.jpg 
+    source: 
+        name: Bonnie Nickel / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=io16137 
 
 tags:  
     -   butterfly
