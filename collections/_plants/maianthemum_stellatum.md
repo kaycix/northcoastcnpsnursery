@@ -12,15 +12,12 @@ humboldt_native: True
 
 icon: 
      small: 
-        url: /assets/images/plants/maianthemum_stellatum_icon.jpg
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/2408?srchcr=sc6228dde5186e1
+        url: /assets/images/plants/maianthemum_stellatum.jpg
      large: 
-        url: /assets/images/plants/maianthemum_stellatum_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/2408?srchcr=sc6228dde5186e1
+        url: /assets/images/plants/maianthemum_stellatum_lg.jpg 
+     source: 
+        name: Walter Siegmund / Calscape
+        url: https://calscape.org/photos/2408?srchcr=sc63e5d9bae7ccf 
 
 inventory: 
     -   cnps_master_inventory

@@ -17,15 +17,12 @@ humboldt_native: False
 
 icon: 
      small: 
-        url: /assets/images/plants/muhlenbergia_rigens_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/view.php?pl=2596&img=27308&calphoto=1 
+        url: /assets/images/plants/muhlenbergia_rigens.jpg 
      large: 
-        url: /assets/images/plants/muhlenbergia_rigens_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/view.php?pl=2596&img=27308&calphoto=1 
+        url: /assets/images/plants/muhlenbergia_rigens_lg.jpg 
+     source: 
+        name: Liz Block / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=io4264 
 
 inventory: 
     -   cnps_master_inventory
