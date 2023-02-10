@@ -13,7 +13,7 @@ intro:
     - excerpt: "<p>The demonstration garden was created in 2019 by sustainable landscape designer Christine Kelly, with the help of CNPS and Helping Humboldt volunteers. It also functions as a living seed bank for the nursery.</p>
     <p>
         The garden sits on 0.03 acres (~1,120 square feet), represents 4 distinctive eco-systems, and is home to over 90 species of Humboldt County and California native plants. Diligent plant labeling makes this garden especially useful for aspiring botanists. 
-    </p>" 
+   </p>" 
 
 gallery:
   - url: /assets/images/garden/path_with_columbines2.jpg
@@ -59,7 +59,7 @@ gallery:
 {% assign garden_sections = garden_plants | group_by_exp: "item",
     "item.gardens[garden_tag]" %}
 
-**Notice:** The list of plants below is a work in progress. There are many more plants in our garden that need to be added. Stay tuned! 
+**Notice:** The list of plants below is a work in progress. There are many more plants in our garden that need to be added to this list. Stay tuned! 
 {: .notice}
 
 {% for section in garden_sections %}
