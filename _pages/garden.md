@@ -65,12 +65,15 @@ gallery:
 {% for section in garden_sections %}
 {{ section.name[0] | capitalize }}<br/>
 <hr>
-<ul class="plant_list">
+<table class="plant_list">
     {% for plant in section.items %}
-<li>
+<tr>
+<td>
 {% if plant.icon and plant.icon.small %}
 <img src='{{plant.icon.small.url}}' />
 {% endif %}
+</td>
+<td>
 {% if plant.url %}
 <a href="{{plant.url}}">
 {% endif %}
@@ -79,8 +82,9 @@ gallery:
 </a>
 {% endif %}
 ({{ plant.name.scientific | capitalize }})
-</li>
+</td>
+</tr>
     {% endfor %}
-</ul>
+</table>
 {% endfor %}
 
