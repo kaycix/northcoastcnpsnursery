@@ -28,16 +28,13 @@ size:
         max: 0.5
 
 icon: 
-     small: 
-        url: /assets/images/plants/nemophila_menziesii_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/2619?srchcr=sc62293ef36a25e 
-     large: 
-        url: /assets/images/plants/nemophila_menziesii_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/2619?srchcr=sc62293ef36a25e 
+    small: 
+        url: /assets/images/plants/nemophila_menziesii.jpg 
+    large: 
+        url: /assets/images/plants/nemophila_menziesii_lg.jpg 
+    source: 
+        name: Matt Berger / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mu1390 
 
 tags:  
     -   lowGrowing
