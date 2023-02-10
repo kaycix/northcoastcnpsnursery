@@ -30,16 +30,13 @@ size:
         max: 8
 
 icon: 
-     small: 
-        url: "/assets/images/plants/vaccinium_ovatum_icon.jpg"
-        source:
-            name: Calflora
-            url: https://www.calflora.org/app/up/mg/8/mg2432-0.jpg 
-     large: 
-        url: "/assets/images/plants/vaccinium_ovatum_icon.jpg"
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/app/up/mg/8/mg2432-0.jpg 
+    small: 
+        url: /assets/images/plants/vaccinium_ovatum.jpg
+    large: 
+        url: /assets/images/plants/vaccinium_ovatum_lg.jpg
+    source: 
+        name: Zoya Akulova / Calflora
+        url: https://www.calflora.org/app/taxon?crn=8200 
  
 websites:
     - url : https://calscape.org/Vaccinium-ovatum-() 

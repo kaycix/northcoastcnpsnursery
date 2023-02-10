@@ -26,16 +26,13 @@ bloom_calendar:
     - 7 #july
 
 icon: 
-     small: 
-        url: /assets/images/plants/silene_californica_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=mu2865 
-     large: 
-        url: /assets/images/plants/silene_californica_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=mu2865 
+    small: 
+        url: /assets/images/plants/silene_californica.jpg 
+    large: 
+        url: /assets/images/plants/silene_californica_lg.jpg 
+    source: 
+        name: Brad Kelley / Calflora
+        url: https://www.calflora.org/app/taxon?crn=7590 
 
 websites:
     - url: "https://calscape.org/loc-California/Silene-laciniata-ssp.-californica-(Cardinal-Catchfly)"

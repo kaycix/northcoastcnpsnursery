@@ -21,16 +21,13 @@ inventory:
     -   cnps_2022_spring
 
 icon: 
-     small: 
-        url: /assets/images/plants/viola_adunca_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/3838?srchcr=sc6228ea617c0fe 
-     large: 
-        url: /assets/images/plants/viola_adunca_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/photos/3838?srchcr=sc6228ea617c0fe 
+    small: 
+        url: /assets/images/plants/viola_adunca.jpg 
+    large: 
+        url: /assets/images/plants/viola_adunca_lg.jpg 
+    source: 
+        name: Song Hunter / Calscape
+        url: https://calscape.org/photos/3838?srchcr=sc6228ea617c0fe 
 
 size:
     height: 

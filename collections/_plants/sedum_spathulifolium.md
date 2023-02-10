@@ -21,16 +21,13 @@ inventory:
     -   cnps_2022_spring
 
 icon: 
-     small: 
-        url: /assets/images/plants/sedum_spathulifolium_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=gp4930 
-     large: 
-        url: /assets/images/plants/sedum_spathulifolium_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=gp4930 
+    small: 
+        url: /assets/images/plants/sedum_spathulifolium.jpg 
+    large: 
+        url: /assets/images/plants/sedum_spathulifolium_lg.jpg 
+    source: 
+        name: James Gonsma / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=gp4930 
 
 size:
     height: 
