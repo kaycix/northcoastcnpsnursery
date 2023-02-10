@@ -12,15 +12,12 @@ humbolt_native: True
 
 icon: 
      small: 
-        url: "/assets/images/plants/dudleya_farinosa_icon.jpg" 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=mg124658 
+        url: /assets/images/plants/dudleya_farinosa.jpg
      large: 
-        url: "/assets/images/plants/dudleya_farinosa_icon.jpg" 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=mg124658 
+        url: /assets/images/plants/dudleya_farinosa_lg.jpg 
+     source: 
+        name: Amy Rapport / Calflora
+        url: https://www.calflora.org/app/taxon?crn=2852 
 
 inventory: 
     -   cnps_master_inventory

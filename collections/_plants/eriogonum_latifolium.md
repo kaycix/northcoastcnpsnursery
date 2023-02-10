@@ -32,16 +32,13 @@ size:
         max: 2.3
 
 icon: 
-     small: 
-        url: /assets/images/plants/eriogonum_latifolium_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/302/90899.jpg 
-     large: 
-        url: /assets/images/plants/eriogonum_latifolium_icon.jpg 
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/302/90899.jpg
+    small: 
+        url: /assets/images/plants/eriogonum_latifolium.jpg 
+    large: 
+        url: /assets/images/plants/eriogonum_latifolium_lg.jpg 
+    source: 
+        name: Patrick Furtado / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mg93236 
 
 tags:  
     -   butterfly

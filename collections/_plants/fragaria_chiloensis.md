@@ -24,16 +24,13 @@ gardens:
         - coastal
 
 icon: 
-     small: 
-        url: /assets/images/plants/fragaria_chiloensis_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/view.php?pl=1663&img=14939 
-     large: 
-        url: /assets/images/plants/fragaria_chiloensis_icon.jpg 
-        source: 
-            name: Calscape
-            url: https://calscape.org/view.php?pl=1663&img=14939 
+    small: 
+        url: /assets/images/plants/fragaria_chiloensis.jpg 
+    large: 
+        url: /assets/images/plants/fragaria_chiloensis_lg.jpg 
+    source: 
+        name: Mike / Calscape
+        url: https://calscape.org/photos/1663?srchcr=sc63e691316d0a8 
 
 inventory: 
     -   cnps_master_inventory

@@ -15,16 +15,13 @@ gardens:
         - coastal
 
 icon: 
-     small: 
-        url: /assets/images/plants/polygonum_paronychia_icon.jpg 
-        source: 
-            name: Calscape
-            url: 
-     large: 
-        url: /assets/images/plants/polygonum_paronychia_icon.jpg 
-        source: 
-            name: Calscape
-            url: 
+    small: 
+        url: /assets/images/plants/polygonum_paronychia.jpg 
+    large: 
+        url: /assets/images/plants/polygonum_paronychia_lg.jpg 
+    source: 
+        name: Adam Chasey / Calflora
+        url: https://www.calflora.org/app/taxon?crn=6760
 
 inventory: 
     -   cnps_master_inventory
