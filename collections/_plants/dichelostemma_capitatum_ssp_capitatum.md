@@ -32,8 +32,8 @@ icon:
     large: 
         url: /assets/images/plants/dichelostemma_capitatum_ssp_capitatum_lg.jpg
     source:
-        name: Eugene Zelenko / Calscape
-        url: https://calscape.org/photos/82?srchcr=sc63e69fc76bc59 
+        name: Steve Matson / Calscape
+        url: https://calscape.org/view.php?pl=1272&img=2747 
  
  
 websites:
