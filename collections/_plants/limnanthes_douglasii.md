@@ -28,16 +28,13 @@ size:
         max: 1.6
 
 icon: 
-     small: 
-        url: "/assets/images/plants/limnanthes_douglasii.jpg"
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/303/90955.jpg 
-     large: 
-        url: "/assets/images/plants/limnanthes_douglasii.jpg"
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/303/90955.jpg 
+    small: 
+        url: /assets/images/plants/limnanthes_douglasii.jpg
+    large: 
+        url: /assets/images/plants/limnanthes_douglasii_lg.jpg
+    source: 
+        name: Alaine Arslan / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mu14104 
 
 books:
     - url: ""

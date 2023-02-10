@@ -30,15 +30,12 @@ size:
 
 icon: 
      small: 
-        url: "/assets/images/plants/lupinus_polyphyllus.jpg"
-        source: 
-            name: Calphotos
-            url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0907+1091"
+        url: /assets/images/plants/lupinus_polyphyllus.jpg
      large: 
-        url: "/assets/images/plants/lupinus_polyphyllus.jpg"
-        source: 
-            name: Calphotos
-            url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0907+1091"
+        url: /assets/images/plants/lupinus_polyphyllus_lg.jpg
+     source: 
+        name: Kelsey Byers / Calscape
+        url: https://calscape.org/photos/2352?srchcr=sc63e5d81e04c5f
  
 websites:
     - url : "https://calscape.org/Lupinus-polyphyllus-()"

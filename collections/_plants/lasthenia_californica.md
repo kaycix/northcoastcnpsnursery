@@ -4,9 +4,9 @@ plant_id: 217
 type: annual herb
 
 name: 
-    scientific: lasthenia californica
+    scientific: Lasthenia californica
     common: 
-        - california goldfields 
+        - California Goldfields 
 
 humboldt_native: True
 
@@ -36,16 +36,13 @@ bloom_calendar:
     - 6 #june
 
 icon: 
-     small: 
-        url: /assets/images/plants/lasthenia_californica_icon.jpg 
-        source: 
-            name: Calscape
-            url: 
-     large: 
-        url: /assets/images/plants/lasthenia_californica_icon.jpg 
-        source: 
-            name: Calscape
-            url: 
+    small: 
+        url: /assets/images/plants/lasthenia_californica.jpg 
+    large: 
+       url: /assets/images/plants/lasthenia_californica_lg.jpg
+    source: 
+        name: Dawn Endico / Calscape
+        url: https://calscape.org/photos/2087?srchcr=sc63e5d31ee721b 
 
 websites:
     - url: "https://calscape.org/Lasthenia-californica-(California-Goldfields)"
