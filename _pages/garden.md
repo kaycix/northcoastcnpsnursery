@@ -59,7 +59,7 @@ gallery:
 {% assign garden_sections = garden_plants | group_by_exp: "item",
     "item.gardens[garden_tag]" %}
 
-**Notice:** The list of plants below is a work in progress. There are many more plants in our garden that need to be added to this list. Stay tuned! 
+**Notice:** The list of plants below is a work in progress. More to be added. Stay tuned! 
 {: .notice}
 
 {% for section in garden_sections %}
