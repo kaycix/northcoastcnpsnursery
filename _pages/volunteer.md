@@ -1,13 +1,13 @@
 ---
 permalink: /volunteer/
 layout: splash
-classes: wide
+classes: wide volunteer-page
 title: Volunteer 
-#excerpt: "The one thing we need more than hope is action. Because once we start to act, hope is everywhere - Greta Thunberg"
+excerpt: "The one thing we need more than hope is action. Because once we start to act, hope is everywhere - Greta Thunberg"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/garden/wildflowers.jpg
+  overlay_color: "#16A085"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/icons/watercolor-leaves.png
 
 nursery:
   - image_path: /assets/images/seed-starting.jpg 
@@ -55,7 +55,7 @@ website:
 We would love for you to join us - whether you come often or occasionally, every little bit helps propel us forward in our mission.
 </p>
 <p>
-<a href = "mailto:northcoastcnps@gmail.com">Email us</a> or <a href="/volunteer/form/">fill out this form</a> to let us know you're interested! 
+<a href = "mailto:northcoastcnps@gmail.com">Email us</a> or <a href="/volunteer/form/">fill out this form</a> to let us know you're interested! Already a volunteer? <a href="https://www.idlememe.com/wp-content/uploads/2023/01/you-rock-meme-idlememe-4-300x300.jpg" target="_blank">Click here</a>. 
 </p>
 <p><a href="#faq">Visit our FAQ</a> to learn more.</p>
 

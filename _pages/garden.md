@@ -63,9 +63,12 @@ gallery:
 {: .notice}
 
 {% for section in garden_sections %}
-{{ section.name[0] | capitalize }}<br/>
-<hr>
 <table class="plant_list">
+<tr>
+    <th colspan="2">
+    {{ section.name[0] | capitalize }}<br/>
+    </th>
+</tr>
     {% for plant in section.items %}
 <tr>
 <td>
