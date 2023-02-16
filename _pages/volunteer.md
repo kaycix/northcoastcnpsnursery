@@ -11,7 +11,7 @@ header:
 
 nursery:
   - image_path: /assets/images/seed-starting.jpg 
-    title: "<a href='#nursery'>Nursery Volunteer</a>" 
+    title: "<a id= 'nursery'>Nursery Volunteer</a>" 
     excerpt: "This is our largest team of volunteers and a great place to get started. Nursery volunteers assist in all aspects of growing native plants - from seed collection to nurturing healthy plants. All skill levels welcome!<br/>Beginner gardeners, this is an amazing hands-on learning opportunity. You'll never be mystified by the back of a seed packet again! &#128521;
         <br/>Drop-in hours occur every Wednesday, Friday, and Sunday 10a - 1p."
     #url: "/gardens" 
@@ -19,7 +19,7 @@ nursery:
 
 garden: 
   - image_path: /assets/images/garden/signs.jpg 
-    title: "<a href='#garden'>Demonstration Garden Volunteer</a>" 
+    title: "<a id='garden'>Demonstration Garden Volunteer</a>" 
     excerpt: "Once a month, volunteers gather to work in the demonstration garden. Weeding, planting, mulching and lively chatter ensue.
         <br/>Drop-in hours occur once a month, usually on Sunday mornings."
     #url: "/gardens" 
@@ -27,7 +27,7 @@ garden:
 
 sale:
   - image_path: /assets/images/volunteers/sale-prep.jpg 
-    title: "<a href='#sale'>Plant Sale Volunteer</a>" 
+    title: "<a id='sale'>Plant Sale Volunteer</a>" 
     excerpt: "Help spread the love! Volunteer at our seasonal sales - occuring the first weekend in May and last weekend of September. There are a variety of tasks: cashier, tallying, set up, clean up, hospitality, etc."
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
@@ -35,8 +35,8 @@ sale:
 social:
   - image_path: /assets/images/icons/social.png 
     image_caption: "Image by Pixabay"
-    title: "<a href='#social'>Social Media Contributor</a>" 
-    excerpt: "Create connection by becoming a contributor on our Facebook and Instagram accounts. Ideal candidates would stop by the nursery once or twice a month to be able to share insight into nursery operations.
+    title: "<a id='social'>Social Media Contributor</a>" 
+    excerpt: "Create connection by becoming a contributor on our <a href='' target='_blank'>Facebook</a> and <a href='' target='_blank'>Instagram</a> accounts. Ideal candidates would stop by the nursery once or twice a month to be able to share insight into nursery operations.
     <br/>Skills Required: Basic tech-savvyness and emoji literacy &#128540;"
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
