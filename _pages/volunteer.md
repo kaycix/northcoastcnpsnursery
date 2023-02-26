@@ -36,7 +36,7 @@ social:
   - image_path: /assets/images/icons/social.png 
     image_caption: "Image by Pixabay"
     title: "<a id='social'>Social Media Contributor</a>" 
-    excerpt: "Create connection by becoming a contributor on our <a href='' target='_blank'>Facebook</a> and <a href='' target='_blank'>Instagram</a> accounts. Ideal candidates would stop by the nursery once or twice a month to be able to share insight into nursery operations.
+    excerpt: "Create connection by becoming a contributor on our <a href='https://www.facebook.com/northcoastcnpsnursery' target='_blank'>Facebook</a> and <a href='https://www.instagram.com/northcoastcnpsnursery' target='_blank'>Instagram</a> accounts. Ideal candidates would stop by the nursery once or twice a month to be able to share insight into nursery operations.
     <br/>Skills Required: Basic tech-savvyness and emoji literacy &#128540;"
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
