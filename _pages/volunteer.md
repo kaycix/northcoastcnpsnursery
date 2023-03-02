@@ -135,5 +135,5 @@ Yes! But if your child is under 18, they will need to accompanied by an adult.
 Do I get a discount on plants or merchandise?
 </h5>
 <p>
-Unforunately, not at this time. But volunteers often do get to take home native plant seedlings.
+Unfortunately, not at this time. But volunteers often do get to take home native plant seedlings.
 </p>

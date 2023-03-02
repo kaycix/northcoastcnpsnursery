@@ -18,7 +18,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
 #
 
-plant_spotlight_id: 195 
+plant_spotlight_id: 73 
 
 feature_row:
   - image_path: /assets/images/starts.jpg

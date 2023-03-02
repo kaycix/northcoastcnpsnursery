@@ -1,0 +1,61 @@
+---
+plant_id: 73
+
+category: shrub
+
+name: 
+    scientific: Ribes sanguineum
+    common:  
+        - Red Flowering Currant 
+
+description: 
+    short : "This early-blooming shrub is an important source of nectar for native bees and hummingbirds. Its unique dangling pink flower clusters start appearing early in the season, standing out among other still-dormant plants." 
+
+humbolt_native: True
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2022_spring
+
+gardens:
+    cnps_demo:
+        - redwood
+    suemeg:
+    trinidad_museum:
+        - coastal
+    sequoia_park_zoo:
+
+size:
+    height: 
+        min: 6.5
+        max: 13
+
+sun_requirements:
+  - "Part Shade"
+
+tags:  
+    -   humboldtNative
+    -   earlyBloomer
+    -   lowGrowing
+    -   woodland
+    -   butterfly
+    -   bee
+    -   bird
+    -   hummingbird 
+    -   beginner
+    -   container
+
+icon: 
+     small: 
+        url: /assets/images/plants/ribes_sanguineum.jpg
+     large: 
+        url: /assets/images/plants/ribes_sanguineum_lg.jpg
+     source: 
+        name: John Doyen / Calscape
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mg81294
+
+websites: 
+    - url : "https://calscape.org/Ribes-sanguineum-(Red-Flowering-Currant)"
+      name: "Calscape"
+---
+

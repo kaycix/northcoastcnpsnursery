@@ -7,8 +7,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/garden/grass.jpg
+  # overlay_image: /assets/images/icons/spotlight_background.jpg
 
 plant_spotlights: 
+    march: 73 # red flowering currant
     february: 195 # coast silk tassel
     january: 153 # mistmaiden
 ---
