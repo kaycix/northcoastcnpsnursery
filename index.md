@@ -71,7 +71,8 @@ feature_row:
         <a class="btn btn--primary" href="mailto:nc.cnps.consult@gmail.com?subject=New Consultation Request!">Request a Free Consultation</a>
     </div>
 </div>
-
-<img src="/assets/images/icons/instagram-bw.png" style="display: inline-block;float:left;margin-right:10px"/>
-<h2 style="padding:0;margin:0;line-height:1">Follow Our Nursery </h2>
-<div class="powr-social-feed" id="cb2d6f13_1675967745"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+<div class="instagram" style="text-align:center">
+    <img src="/assets/images/icons/instagram-bw.png" style="margin-bottom: 15px"/>
+    <h2 style="padding:0;margin:0;line-height:1; border-bottom: 0">Follow Our Nursery </h2>
+    <div class="powr-social-feed" id="cb2d6f13_1675967745"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+</div>
