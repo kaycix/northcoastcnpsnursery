@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/acer_macrophyllum.jpg 
+    large: 
+        url: /assets/images/plants/acer_macrophyllum_lg.jpg 
+    source: 
+        name: Julie Ann Kierstead / Calscape
+        url: https://calscape.org/photos/41?srchcr=sc6406af852a8ae
+
 inventory: 
     -   cnps_master_inventory
 
@@ -27,11 +36,6 @@ size:
     height: 
         min: 30
         max: 115
-
-#icon_attribution: 
-#    name: "CalFlora"
-#    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po151147"
-#icon: "/assets/images/plants/acer_macrophyllum_icon.jpg"
 
 websites: 
     - url: "https://calscape.org/Acer-macrophyllum-(Big-Leaf-Maple)"

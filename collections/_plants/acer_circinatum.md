@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/acer_circinatum.jpg 
+    large: 
+        url: /assets/images/plants/acer_circinatum_lg.jpg 
+    source: 
+        name: Julie Ann Kierstead / Calscape
+        url: https://calscape.org/photos/36?srchcr=sc6406ae82a6994 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -26,11 +35,6 @@ size:
     height: 
         min: 15
         max: 30
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/photos/36?srchcr=sc630d6f115425d"
-#icon: "/assets/images/plants/acer_circinatum_icon.jpg"
 
 websites:
     - url : https://calscape.org/Acer-circinatum-()

@@ -10,6 +10,16 @@ name:
 
 humboldt_native: False
 
+icon: 
+    small: 
+        url: /assets/images/plants/allium_dichlamydeum.jpg 
+    large: 
+        url: /assets/images/plants/allium_dichlamydeum_lg.jpg 
+    source: 
+        name: Paul Hankamp / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=gp15806 
+
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -20,7 +30,8 @@ gardens:
 
 tags:  
     -   butterfly
-    -   bee
+    -   bee 
+    -   propagation_seed_no_treatment
 
 sun_requirements:
   - "Full Shade"
@@ -30,15 +41,9 @@ size:
         min: 1
         max: 1
 
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/entry/occdetail.html?seq_num=gp15806" 
-#icon: "/assets/images/plants/allium_dichlamydeum_icon.jpg" 
-
 websites:
     - url : https://calscape.org/Allium-dichlamydeum-()
       name: Calscape
-
-# propagation 
-#        ,propagation_seed_no_treatment
+    - url : https://www.calflora.org/app/taxon?crn=190
+      name: Calflora
 ---

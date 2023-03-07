@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/abies_grandis.jpg 
+    large: 
+        url: /assets/images/plants/abies_grandis_lg.jpg 
+    source: 
+        name: R.A.Chasey / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mg165030 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -27,12 +36,9 @@ size:
 tags:  
     -   humboldtNative
 
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/photos/5?srchcr=sc6221a275d7357" 
-#icon: "/assets/images/plants/abies_grandis_icon.jpg" 
-
 websites: 
     - url: "https://calscape.org/loc-California/Abies%20grandis(%20)"
       name: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=5"
+      name: Calflora
 ---

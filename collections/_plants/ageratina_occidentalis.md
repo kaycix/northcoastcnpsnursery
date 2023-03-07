@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/ageratina_occidentalis.jpg 
+    large: 
+        url: /assets/images/plants/ageratina_occidentalis_lg.jpg 
+    source: 
+        name: Julie Ann Kierstead / Calscape
+        url: https://calscape.org/photos/374?srchcr=sc63e6a007b3100 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -24,11 +33,6 @@ size:
     height: 
         min: 2.3
         max: 2.3
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/app/taxon?crn=119"
-#icon: "/assets/images/plants/ageratina_occidentalis_icon.jpg"
 
 websites:
     - url : https://calscape.org/Ageratina-occidentalis-() 
