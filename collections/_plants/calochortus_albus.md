@@ -14,6 +14,15 @@ gardens:
 
 humboldt_native: False
 
+icon: 
+    small: 
+        url: /assets/images/plants/calochortus_albus.jpg 
+    large: 
+        url: /assets/images/plants/calochortus_albus_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/646?srchcr=sc64079a0c950cc 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_spring
@@ -31,9 +40,6 @@ sun_requirements:
 tags:  
     -   humboldtNative
     -   butterfly
-
-# icon attribution: https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/entry/149/44860.jpg 
-#icon: "/assets/images/plants/calochortus_albus_icon.jpg" 
 
 websites:
     - url: "https://calscape.org/loc-California/Calochortus%20albus%20(White%20Globe%20Lily)"

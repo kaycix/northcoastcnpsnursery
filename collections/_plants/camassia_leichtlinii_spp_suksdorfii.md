@@ -10,6 +10,15 @@ category: "perennial herb"
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/camassia_leichtlinii_spp_suksdorfii.jpg 
+    large: 
+        url: /assets/images/plants/camassia_leichtlinii_spp_suksdorfii_lg.jpg 
+    source: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/720?srchcr=sc64079dc56b29f 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_spring

@@ -10,6 +10,15 @@ category: "perennial herb"
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/calochortus_tolmiei.jpg 
+    large: 
+        url: /assets/images/plants/calochortus_tolmiei_lg.jpg 
+    source: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/685?srchcr=sc64079b4d4dd88 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -25,11 +34,6 @@ size:
     height: 
         min: 1.3
         max: 1.3
-
-#icon_attribution: 
-#    name: "Calscape"
-##    url: "https://calscape.org/photos/685?srchcr=sc630d8397f3a5c"
-#icon:  "/assets/images/plants/calochortus_tolmiei_icon.jpg"
 
 websites:
     - url: "https://calscape.org/Calochortus-tolmiei-()"

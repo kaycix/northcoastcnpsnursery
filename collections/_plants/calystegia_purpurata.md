@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/calystegia_purpurata.jpg 
+    large: 
+        url: /assets/images/plants/calystegia_purpurata_lg.jpg 
+    source: 
+        name: Phyllis Fitzsimons / Calflora 
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=po134079 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -29,11 +38,6 @@ bloom_calendar:
     - 7 #july
     - 8 #august
     - 9 #september
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/entry/occdetail.html?seq_num=oe7206"
-#icon: "/assets/images/plants/calystegia_purpurata_icon.jpg"
 
 tags: 
     - humboldtNative

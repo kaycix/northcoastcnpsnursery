@@ -10,6 +10,15 @@ category: "shrub"
 
 humboldt_native: False
 
+icon: 
+    small: 
+        url: /assets/images/plants/calycanthus_occidentalis.jpg 
+    large: 
+        url: /assets/images/plants/calycanthus_occidentalis_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/699?srchcr=sc64079c03e47bb 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_spring
@@ -25,11 +34,6 @@ sun_requirements:
 
 tags: 
     -   butterfly
-
-#icon_attribution:
-#    name: ""
-#    url: ""
-#icon: "/assets/images/plants/calycanthus_occidentalis_icon.jpg" 
 
 websites:
     - url: "https://calscape.org/loc-California/Calycanthus%20occidentalis(%20)" 

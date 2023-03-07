@@ -14,6 +14,15 @@ gardens:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/calochortus_amabilis.jpg 
+    large: 
+        url: /assets/images/plants/calochortus_amabilis_lg.jpg 
+    source: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/649?srchcr=sc64079a9087a12 
+
 inventory: 
     -   cnps_master_inventory
 
@@ -26,11 +35,6 @@ size:
     height: 
         min: 0.33
         max: 1.6
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/app/up/gp/38/7608.jpg" 
-#icon: "/assets/images/plants/calochortus_amabilis_icon.jpg" 
 
 websites:
     - url: "https://calscape.org/loc-California/Calochortus%20amabilis(%20)"
