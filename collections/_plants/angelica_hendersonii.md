@@ -14,6 +14,15 @@ gardens:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/angelica_hendersonii.jpg 
+    large: 
+        url: /assets/images/plants/angelica_hendersonii_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/239?srchcr=sc6406c2b04e01f 
+
 sun_requirements:
   - "Full Sun"
 
@@ -26,11 +35,6 @@ tags:
     -   humboldtNative
     -   butterfly
     -   coastal
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po90158"
-#icon: "/assets/images/plants/angelica_hendersonii_icon.jpg"
  
 websites:
     - url: https://calscape.org/Angelica-hendersonii-() 

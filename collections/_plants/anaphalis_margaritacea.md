@@ -15,6 +15,15 @@ gardens:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/anaphalis_margaritacea.jpg 
+    large: 
+        url: /assets/images/plants/anaphalis_margaritacea_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/221?srchcr=sc6406bf3ca1cb9 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -33,11 +42,6 @@ bloom_calendar:
     - 6 #june
     - 7 #july
     - 8 #august
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/photos/221?srchcr=sc6229476439f41"
-#icon: "/assets/images/plants/anaphalis_margaritacea_icon.jpg"
 
 websites:
     - url: "https://calscape.org/Anaphalis-margaritacea-()"

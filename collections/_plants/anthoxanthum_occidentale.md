@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/anthoxanthum_occidentale.jpg 
+    large: 
+        url: /assets/images/plants/anthoxanthum_occidentale_lg.jpg 
+    source: 
+        name: Jennifer Wheeler / Calphotos
+        url: https://calscape.org/photos/374?srchcr=sc63e6a007b3100 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -27,13 +36,10 @@ size:
         min: 3.3
         max: 3.3
 
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/photos/1896?srchcr=sc61fe0d9df2095"
-#icon: "/assets/images/plants/anthoxanthum_occidentale_icon.jpg" 
-
 websites:
     - url: "https://calscape.org/loc-California/California%20Vanilla%20Grass%20(Anthoxanthum%20occidentale)"
       name: "Calscape"
+    - url: https://www.calflora.org/app/taxon?crn=4193
+      name: "Calflora"
 ---
 

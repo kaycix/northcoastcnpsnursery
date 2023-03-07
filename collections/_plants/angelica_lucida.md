@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/angelica_lucida.jpg 
+    large: 
+        url: /assets/images/plants/angelica_lucida_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/241?srchcr=sc6406c4a207e3d 
+
 gardens:
     trinidad_museum:
         - coastal
@@ -32,11 +41,6 @@ size:
     height: 
         min: 5
         max: 5
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/entry/occdetail.html?seq_num=mu6848"
-#icon: "/assets/images/plants/angelica_lucida_icon.jpg"
 
 websites:
     - url: https://calscape.org/Angelica-lucida-() 

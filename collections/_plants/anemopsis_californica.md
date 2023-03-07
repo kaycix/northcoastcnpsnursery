@@ -11,6 +11,15 @@ name:
 # Calscape says not native to Humboldt. Barbara saw it here. will probably change it to adhere to calscape later
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/anemopsis_californica.jpg 
+    large: 
+        url: /assets/images/plants/anemopsis_californica_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/234?srchcr=sc6406bfec40f58 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -27,11 +36,6 @@ size:
 
 tags:  
     -   humboldtNative
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/entry/occdetail.html?seq_num=io55654"
-#icon: "/assets/images/plants/anemopsis_californica_icon.jpg"
 
 websites:
     - url: https://calscape.org/Anemopsis-californica-() 
