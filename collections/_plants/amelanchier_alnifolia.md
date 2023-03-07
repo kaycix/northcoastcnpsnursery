@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/amelanchier_alnifolia.jpg 
+    large: 
+        url: /assets/images/plants/amelanchier_alnifolia_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/196?srchcr=sc6406ba4f346be 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -26,11 +35,6 @@ size:
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/view.php?pl=196&img=8250"
-#icon:  "/assets/images/plants/amelanchier_alnifolia_icon.jpg"
 
 websites:
     - url : https://calscape.org/Amelanchier-alnifolia-() 

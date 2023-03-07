@@ -27,10 +27,14 @@ bloom_calendar:
     - 2 #february
     - 3 #march
 
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/view.php?pl=175&img=8162" 
-#icon: "/assets/images/plants/alnus_rubra_icon.jpg" 
+icon: 
+    small: 
+        url: /assets/images/plants/alnus_rubra.jpg 
+    large: 
+        url: /assets/images/plants/alnus_rubra_lg.jpg 
+    source: 
+        name: R.A. Chasey / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mg150917 
 
 tags:  
     -   humboldtNative

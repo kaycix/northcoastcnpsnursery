@@ -10,12 +10,17 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/amelanchier_utahensis.jpg 
+    large: 
+        url: /assets/images/plants/amelanchier_utahensis_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape
+        url: https://calscape.org/photos/199?srchcr=sc6406bb7dbaf8b 
+
 inventory: 
     -   cnps_master_inventory
-
-tags:  
-    -   humboldtNative
-    -   hedge
 
 size:
     height: 
@@ -26,13 +31,12 @@ sun_requirements:
   - "Full Sun"
   - "Part Shade"
 
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/photos/199?srchcr=sc6221a574e9aac" 
-#icon: "/assets/images/plants/amelanchier_utahensis_icon.jpg"
+tags:  
+    -   humboldtNative
+    -   hedge
 
 websites:
-    - url : https://calscape.org/loc-California/Amelanchier%20utahensis%20(Service%20Berry) 
+    - url : https://calscape.org/Amelanchier-utahensis-()
       name: Calscape
 ---
 

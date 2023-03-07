@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/allium_unifolium.jpg 
+    large: 
+        url: /assets/images/plants/allium_unifolium_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/168?srchcr=sc6406b5a4333f4
+
 inventory: 
     -   cnps_master_inventory
 
@@ -21,11 +30,6 @@ size:
     height: 
         min: 1
         max: 2.6
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/app/taxon?crn=240" 
-#icon: "/assets/images/plants/allium_unifolium_icon.jpg" 
 
 gardens: 
     cnps_demo:
