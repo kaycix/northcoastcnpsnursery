@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/aquilegia_formosa.jpg 
+    large: 
+        url: /assets/images/plants/aquilegia_formosa_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/266?srchcr=sc6406c8f5d9901 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -31,11 +40,6 @@ size:
     height: 
         min: 1.5
         max: 3
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.com/ExtData/allimages/900/Aquilegia_formosa_900_65.jpg"
-#icon: "/assets/images/plants/aquilegia_formosa_icon.jpg"
 
 tags:  
     -   humboldtNative

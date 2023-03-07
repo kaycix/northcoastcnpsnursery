@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/asarum_caudatum.jpg 
+    large: 
+        url: /assets/images/plants/asarum_caudatum_lg.jpg 
+    source: 
+        name: Gregory Arena / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mg41504 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -31,7 +40,7 @@ size:
 
 websites:
     - url: "https://calscape.org/loc-California/Asarum%20caudatum(%20)"
-      title: "Calscape"
+      name: "Calscape"
 
 gardens:
     arcata_marsh:

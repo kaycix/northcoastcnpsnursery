@@ -4,11 +4,23 @@ plant_id: 99
 category: perennial herb
 
 name: 
-    common: "Douglas' Sagewort"  
-    scientific: 
-        - Artemisia douglasiana 
+    common: 
+        - Douglas' Sagewort 
+    scientific: Artemisia douglasiana 
+
+gardens:
+    arcata_community_center:
 
 humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/artemisia_douglasiana.jpg 
+    large: 
+        url: /assets/images/plants/artemisia_douglasiana_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/400?srchcr=sc640785b4ce5ce 
 
 inventory: 
     -   cnps_master_inventory
@@ -24,14 +36,6 @@ size:
     height: 
         min: 8
         max: 8 
-
-#icon_attribution: 
-#    name: ""
-#    url: ""
-#icon: "/assets/images/plants/artemisia_douglasiana_icon.jpg"
-
-gardens:
-    arcata_community_center:
 
 tags:  
     -   humboldtNative

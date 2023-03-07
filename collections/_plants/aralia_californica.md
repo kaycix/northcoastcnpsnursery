@@ -15,6 +15,15 @@ gardens:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/aralia_californica.jpg 
+    large: 
+        url: /assets/images/plants/aralia_californica_lg.jpg 
+    source: 
+        name: Julie Ann Kierstead / Calflora
+        url: https://calscape.org/photos/374?srchcr=sc63e6a007b3100 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -37,10 +46,8 @@ size:
 websites:
     - url: "https://calscape.org/loc-California/Aralia%20californica%20(Elk's%20Clover)"
       name: "Calscape"
-    - url: "https://www.calflora.org/app/taxon?crn=61"
+    - url: "https://www.calflora.org/app/taxon?crn=504"
       name: "Calflora"
-    - url: "https://www.rxlist.com/yarrow/supplements.htm"
-      name: "RxList"
 
 tags:  
     -   humboldtNative

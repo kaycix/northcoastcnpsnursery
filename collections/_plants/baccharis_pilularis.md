@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/baccharis_pilularis.jpg 
+    large: 
+        url: /assets/images/plants/baccharis_pilularis_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/504?srchcr=sc640789dfc22de 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -36,11 +45,6 @@ size:
     height: 
         min: 1.5
         max: 10
-
-#icon_attribution: 
-#    name : "Calflora"
-#    url: "https://www.calflora.org/app/up/entry/333/100076.jpg" 
-##icon: "/assets/images/plants/baccharis_pilularis_icon.jpg"
 
 websites:
     - url: https://calscape.org/Baccharis-pilularis-(Coyote-Bush) 

@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/arbutus_menziesii.jpg 
+    large: 
+        url: /assets/images/plants/arbutus_menziesii_lg.jpg 
+    source: 
+        name: Julie Ann Kierstead / Calscape
+        url: https://calscape.org/photos/285?srchcr=sc64078284765a2 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -24,11 +33,6 @@ size:
 
 tags:  
     -   humboldtNative
-
-#icon_attribution: 
-#    name: "Calscape"    
-#    url: "https://calscape.org/photos/285?srchcr=sc6221a670283c3" 
-#icon: "/assets/images/plants/arbutus_menziesii_icon.jpg" 
 
 websites:
     - url: https://calscape.org/loc-California/Arbutus%20menziesii(%20) 

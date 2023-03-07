@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/artemisia_pycnocephala.jpg 
+    large: 
+        url: /assets/images/plants/artemisia_pycnocephala_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/409?srchcr=sc640786bac9211 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -25,11 +34,6 @@ size:
 
 tags:  
     -   humboldtNative
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/photos/409?srchcr=sc623e0ad17feab"
-#icon: "/assets/images/plants/artemisia_pycnocephala_icon.jpg"
 
 websites:
     - url: "https://calscape.org/Artemisia-pycnocephala-(Dune-Sagewort)"

@@ -10,6 +10,15 @@ category: perennial herb
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/asclepias_speciosa.jpg 
+    large: 
+        url: /assets/images/plants/asclepias_speciosa_lg.jpg 
+    source: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/439?srchcr=sc6407888c82619 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -28,11 +37,6 @@ size:
     height: 
         min: 4
         max: 6
-
-#icon_attribution: 
-#    name: " Calscape"
-#    url: "https://calscape.org/photos/439?srchcr=sc622b8b0224b7f"
-#icon: "/assets/images/plants/asclepias_speciosa_icon.jpg"
  
 websites:
     - url: "https://calscape.org/Asclepias-speciosa-()"

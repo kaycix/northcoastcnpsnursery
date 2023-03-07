@@ -17,6 +17,15 @@ gardens:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/arctostaphylos_uva_ursi.jpg 
+    large: 
+        url: /assets/images/plants/arctostaphylos_uva_ursi_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape
+        url: https://calscape.org/photos/347?srchcr=sc640783c0bfe69
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
