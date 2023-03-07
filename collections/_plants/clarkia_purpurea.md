@@ -14,6 +14,15 @@ gardens:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/clarkia_purpurea.jpg 
+    large: 
+        url: /assets/images/plants/clarkia_purpurea_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape 
+        url: 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_spring

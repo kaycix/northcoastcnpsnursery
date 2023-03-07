@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/clematis_ligusticifolia.jpg 
+    large: 
+        url: /assets/images/plants/clematis_ligusticifolia_lg.jpg 
+    source: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/1058?srchcr=sc6407a68c9ac0b 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall

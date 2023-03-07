@@ -15,6 +15,15 @@ gardens:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/clinopodium_douglasii.jpg 
+    large: 
+        url: /assets/images/plants/clinopodium_douglasii_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/view.php?pl=3399&img=6144 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -38,11 +47,6 @@ size:
     height: 
         min: 0.25
         max: 0.75
-
-#icon_attribution: 
-#    name: ""
-#    url: ""
-#icon: "/assets/images/plants/clinopodium_douglasii_icon.jpg"
  
 websites:
     - url: https://calscape.org/Clinopodium-douglasii-() 

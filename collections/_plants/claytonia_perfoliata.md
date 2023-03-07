@@ -10,6 +10,15 @@ category: annual herb
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/claytonia_perfoliata.jpg 
+    large: 
+        url: /assets/images/plants/claytonia_perfoliata_lg.jpg 
+    source: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/1053?srchcr=sc6407a53b218b3 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -22,11 +31,6 @@ size:
     height: 
         min: 1
         max: 1.3
-
-#icon_attribution: 
-#    name: ""
-#    url: "https://www.calflora.org/app/up/mg/197/mg59105-0.jpg" 
-#icon:  "/assets/images/plants/claytonia_perfoliata_icon.jpg"
 
 websites:
     - url: "https://calscape.org/loc-California/Claytonia-perfoliata-(Miner's-Lettuce)"

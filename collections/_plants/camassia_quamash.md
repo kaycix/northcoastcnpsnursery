@@ -16,6 +16,15 @@ gardens:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/camassia_quamash.jpg 
+    large: 
+        url: /assets/images/plants/camassia_quamash_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/721?srchcr=sc6407a045085e1 
+
 inventory: 
     -   cnps_master_inventory
 
@@ -30,11 +39,6 @@ size:
     height: 
         min: 1.2
         max: 2.3
-
-#icon_attribution: 
-#    name: "Calphotos"
-#    url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0810+0644" 
-#icon: "/assets/images/plants/camassia_quamash_icon.jpg" 
 
 websites:
     - url: https://calscape.org/loc-California/Camassia%20quamash(%20) 

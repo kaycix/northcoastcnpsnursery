@@ -3,12 +3,22 @@ plant_id: 110
 
 name: 
     common: 
+        - "Candy Flower"  
         - "Indian Lettuce"  
     scientific: "Claytonia sibirica"  
 
 category: "perennial herb"
 
 humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/claytonia_sibirica.jpg 
+    large: 
+        url: /assets/images/plants/claytonia_sibirica_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/1056?srchcr=sc6407a5cc4ee17 
 
 inventory: 
     -   cnps_master_inventory
@@ -29,11 +39,6 @@ size:
     height: 
         min: 2
         max: 2
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.com/ExtData/allimages/Photos/Claytonia_sibirica_image56.jpg" 
-#icon:  "/assets/images/plants/asarum_caudatum_icon.jpg"
 
 websites:
     - url: "https://calscape.org/Claytonia-sibirica-(Indian-Lettuce,Candy-Flower)"
