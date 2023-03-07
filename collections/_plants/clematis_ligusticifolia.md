@@ -37,11 +37,6 @@ sun_requirements:
   - "Full Shade"
   - "Part Shade"
 
-#icon_attribution: 
-#    name: "Calphotos"
-#    url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0109+0860"
-#icon:  "/assets/images/plants/clematis_ligusticifolia_icon.jpg"
-
 websites:
     - url: "https://calscape.org/loc-California/Clematis%20ligusticifolia(%20)"
       name: "Calscape"

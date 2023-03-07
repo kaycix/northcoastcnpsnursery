@@ -20,8 +20,8 @@ icon:
     large: 
         url: /assets/images/plants/clarkia_purpurea_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/1040?srchcr=sc6407a94fe6dbb
 
 inventory: 
     -   cnps_master_inventory
@@ -39,11 +39,6 @@ size:
     height: 
         min: 3.3
         max: 3.3
-
-#icon)attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/photos/1040?srchcr=sc61fdf53c8c2bd"
-#icon:  "/assets/images/plants/clarkia_purpurea_icon.jpg"
 
 websites:
     - url: "https://calscape.org/Clarkia-purpurea-(Purple-Clarkia)"

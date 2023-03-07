@@ -10,6 +10,15 @@ type: "perennial herb"
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/cynoglossum_grande.jpg 
+    large: 
+        url: /assets/images/plants/cynoglossum_grande_lg.jpg 
+    source: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/1186?srchcr=sc6407a81d45e85
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_spring
@@ -26,11 +35,6 @@ sun_requirements:
 tags:
     - humboldtNative
     - butterfly
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po82281"
-#icon: "/assets/images/plants/cynoglossum_grande_icon.jpg"
 
 websites:
     - url: https://calscape.org/Cynoglossum-grande-(Western-Houndstongue)
