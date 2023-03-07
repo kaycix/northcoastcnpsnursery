@@ -10,6 +10,15 @@ category: "tree"
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/calocedrus_decurrens.jpg 
+    large: 
+        url: /assets/images/plants/calocedrus_decurrens_lg.jpg 
+    source: 
+        name: Julie Ann Kierstead / Calscape 
+        url: https://calscape.org/photos/645?srchcr=sc640798d84c5e3 
+
 inventory: 
     -   cnps_master_inventory
 
@@ -21,11 +30,6 @@ size:
     height: 
         min: 12
         max: 196.9
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/photos/5?srchcr=sc6221a275d7357" 
-#icon: "/assets/images/plants/calocedrus_decurrens_icon.jpg"
  
 tags:  
     -   humboldtNative

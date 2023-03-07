@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/blechnum_spicant.jpg 
+    large: 
+        url: /assets/images/plants/blechnum_spicant_lg.jpg 
+    source: 
+        name: James Gonsman / Calflora 
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=gp5497 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -32,14 +41,10 @@ size:
 tags:  
     -   humboldtNative
 
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.com/ExtData/allimages/900/Blechnum_spicant_900_56.jpg"
-#icon: "/assets/images/plants/blechnum_spicant_icon.jpg"
-
-
 websites:
     - url: "https://calscape.org/Blechnum-spicant-()"
       name: "Calscape"
+    - url: https://www.calflora.org/app/taxon?crn=1091
+      name: "Calflora"
 ---
 

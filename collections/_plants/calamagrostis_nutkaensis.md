@@ -8,7 +8,23 @@ name:
         - "Pacific Reedgrass"  
     scientific: "Calamagrostis nutkaensis" 
 
+gardens:
+    cnps_demo:
+        - redwood
+    trinidad_museum:
+        - meadow
+    arcata_community_center:
+
 humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/calamagrostis_nutkaensis.jpg 
+    large: 
+        url: /assets/images/plants/calamagrostis_nutkaensis_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/627?srchcr=sc640797dd4d708 
 
 inventory: 
     -   cnps_master_inventory
@@ -23,18 +39,6 @@ size:
     height: 
         min: 3.3
         max: 3.3
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/photos/627?srchcr=sc6222a465ca456"
-#icon:  "/assets/images/plants/calamagrostis_nutkaensis_icon.jpg"
-
-gardens:
-    cnps_demo:
-        - redwood
-    trinidad_museum:
-        - meadow
-    arcata_community_center:
 
 tags:  
     -   humboldtNative

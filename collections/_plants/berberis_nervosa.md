@@ -10,6 +10,15 @@ name:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/berberis_nervosa.jpg 
+    large: 
+        url: /assets/images/plants/berberis_nervosa_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape
+        url: https://calscape.org/photos/535?srchcr=sc64078c130ac63 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_spring
@@ -29,12 +38,6 @@ size:
     height: 
         min: 1
         max: 7
-
-#icon_attribution: 
-#    name : "Calscape"
-#    url: "https://calscape.org/photos/535?srchcr=sc62826bd1ba8ac"
-#icon: "/assets/images/plants/berberis_nervosa_icon.jpg" 
- 
 
 websites:
     - url: https://calscape.org/Berberis-nervosa-()

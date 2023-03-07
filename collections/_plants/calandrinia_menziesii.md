@@ -10,6 +10,15 @@ name:
         - "Red Maids"  
     scientific: "Calandrinia menziesii"   
 
+icon: 
+    small: 
+        url: /assets/images/plants/calandrinia_menziesii.jpg 
+    large: 
+        url: /assets/images/plants/calandrinia_menziesii_lg.jpg 
+    source: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/633?srchcr=sc6407983b40a4a 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_spring
@@ -21,11 +30,6 @@ size:
     height: 
         min: 1.3
         max: 1.3
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/entry/occdetail.html?seq_num=gp4903"
-#icon: "/assets/images/plants/calandrinia_menziesii_icon.jpg"
 
 websites:
     - url: https://calscape.org/Calandrinia-menziesii-() 

@@ -10,6 +10,15 @@ name:
 
 humboldt_native: False
 
+icon: 
+    small: 
+        url: /assets/images/plants/bloomeria_crocea.jpg 
+    large: 
+        url: /assets/images/plants/bloomeria_crocea_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/549?srchcr=sc6407965e3f8d0 
+
 inventory: 
     -   cnps_master_inventory
 

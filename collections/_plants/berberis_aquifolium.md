@@ -5,10 +5,19 @@ category: "shrub"
 
 name: 
     common: 
-        - Oregon Grape 
+        - Tall Oregon Grape 
     scientific: "Berberis aquifolium"   
 
 humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/berberis_aquifolium.jpg 
+    large: 
+        url: /assets/images/plants/berberis_aquifolium_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape
+        url: https://calscape.org/photos/528?srchcr=sc64078b54e36b1
 
 gardens:
     arcata_community_center:
@@ -29,11 +38,6 @@ sun_requirements:
   - "Full Sun"
   - "Full Shade"
   - "Part Shade"
-
-#icon_attribution: 
-#    name : "Calscape"
-#    url: "https://calscape.org/photos/528?srchcr=sc622242a2bd29f" 
-#icon: "/assets/images/plants/berberis_aquifolium_icon.jpg"
 
 tags:  
     -   humboldtNative
