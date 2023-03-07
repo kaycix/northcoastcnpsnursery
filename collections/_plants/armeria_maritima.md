@@ -58,4 +58,3 @@ websites:
     - url: "https://theodorepayne.org/nativeplantdatabase/index.php?title=Armeria_maritima"
       name: "Theodore Payne Foundation"
 ---
-
