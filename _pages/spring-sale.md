@@ -1,0 +1,83 @@
+---
+permalink: /sale/
+layout: splash
+classes: wide spring-sale
+title: Spring Native Plant Sale 
+excerpt: "Freshwater Farms Reserve<br/>5158 Mrytle Ave, Eureka, CA"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/backgrounds/lupine.jpg
+
+feature_row:
+  - image_path: /assets/images/backgrounds/bad-parking.jpg
+    alt: "Parking"
+    title: "Parking"
+    excerpt: "Please park at Freshwater Farms Reserve and follow the signs to the nursery. Sign Up Genius is required for Saturday shopping to avoid crazy parking situations."
+    #url: "/test"
+    #btn_label: "Parking Information"
+    #btn_class: "btn--info"
+  - image_path: /assets/images/plants.jpg
+    alt: "Volunteer"
+    title: "Volunteer"
+    excerpt: "Our sale is a fully volunteer-run event. We could use your help putting it on! Email us for more information."
+    #url: "/volunteer"
+    #btn_label: "Join Our Team"
+    #btn_class: "btn--info"
+  - image_path: /assets/images/starts.jpg
+    alt: "Inventory"
+    title: "Participating Nurseries & Vendors"
+    excerpt: "Proudly partnering with Samara Restoration, Lost Foods, Bob Vogt, Beresford Bulbs"
+    #url: "/category/cnps-2022-fall"
+    #url: "/category/cnps-master-inventory"
+    #btn_label: "More Information"
+    #btn_class: "btn--primary"
+---
+<div class="hours">
+    <h4>Saturday May 6, Open 9:00 am - 5:00 pm.*</h4>
+    <h4>Sunday May 7, Open 9:00am - 4:00 pm.</h4>
+</div>
+<p style="text-align:center">
+* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius. (Link coming soon.)
+</p>
+<div class="browse-block">
+    <div class="heading">
+        <h1>Browse our Inventory:</h1>
+        <a class="btn btn--primary">View All Plants</a>
+    </div>
+    <div class="content">
+        <div class="inventory_type box">
+            Browse Plants by Type
+            <ul>
+                <li>Shrubs & Trees</li>
+                <li>Ferns</li>
+                <li>Grasses</li>
+                <li>Annuals</li>
+                <li>Perennials</li>
+                <li>Vines</li>
+            </ul>
+        </div>
+        <div class="inventory_category box">
+            Browse Plants by Category
+            <ul>
+                <li>Hedges</li>
+                <li>Groundcovers</li>
+                <li>Beginner-Friendly</li>
+                <li>Wildlife-Friendly</li>
+                <li>Habitat</li>
+                <li>Edible</li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+{% include feature_row %}
+
+<div class="thanks-block">
+    <h1>Thank You</h1>
+    <p>Thank you to everyone who supports us in so many ways</p>
+    <p>Thank you to Chris Beresford who runs the nursery and ran the plant sale for so many years. Thank you to all the volunteers who dedicate so much time to nurturing these plants and putting on the sale. 
+    </p>
+    <p>We also appreciate the nurseries that we partner with.</p>
+    <p>Thank you those of you who shop our sales</p>
+</div>
