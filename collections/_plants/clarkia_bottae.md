@@ -15,7 +15,6 @@ gardens:
 humbolt_native: True
 
 inventory: 
-    -   cnps_2023_spring
     -   cnps_master_inventory
 
 icon: 

@@ -38,11 +38,6 @@ size:
         min: 6.6
         max: 10
 
-#icon_attribution: 
-#    name: "Calphotos"
-#    url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1006+1153"
-#icon: "/assets/images/plants/aralia_californica_icon.jpg"
-
 websites:
     - url: "https://calscape.org/loc-California/Aralia%20californica%20(Elk's%20Clover)"
       name: "Calscape"
