@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/plants.jpg
     alt: "Volunteer"
     title: "Volunteer"
-    excerpt: "Our sale is a fully volunteer-run event. We could use your help putting it on! Email us for more information."
+    excerpt: "Our sale is a fully volunteer-run event. We sure could use your help putting it on! Email us for all the details."
     #url: "/volunteer"
     #btn_label: "Join Our Team"
     #btn_class: "btn--info"
@@ -37,7 +37,7 @@ feature_row:
     <h4>Saturday May 6, Open 9:00 am - 5:00 pm.*</h4>
     <h4>Sunday May 7, Open 9:00am - 4:00 pm.</h4>
 </div>
-<p style="text-align:center">
+<p style="text-align:center; font-size: 0.8em">
 * Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius. (Link coming soon.)
 </p>
 <div class="browse-block">
@@ -79,7 +79,7 @@ feature_row:
     <p>Thank you to nursery managers Chris and Barbara who have dedicated countless hours to running an entire native plant nursery. We couldn't imagine anyone else doing what you're doing. You're amazing!</p>
     <p>Thank you to all our nursery volunteers. Whether you have volunteered for one hour or many more, we appreciate you! This has been a particularly long winter but seeing everyone show up, ready to work in the cold mornings warms our hearts.
     </p>
-    <p>We appreciate the nurseries and vendors that we partner with and the community of sharing and support you offer us. We are so proud to be working alongside you and we look forward to many more years of collaboration.</p>
-    <p>Last but not least, thank you those of you who shop our sales!! You truly inspire us. From those of you rewilding acres of yards, to those of you tending small native plants on your balcony. We see you, we appreciate you, and we are so proud to be eco-warriors alongside you.</p>
-    <p>Thank you for helping to make this planet a better place.</p>
+    <p>We appreciate the nurseries and vendors that we partner with and the community of sharing and support you offer us. We feel so lucky to be working alongside you!</p>
+    <p>Huge thank you to those of you who shop our sales! You truly inspire us. From those of you rewilding acres of yards, to those of you tending small native plants on your balcony. We see you, we appreciate you, and we are so proud to be eco-warriors with you.</p>
+    <p>You all make this planet a better place &#129303;</p>
 </div>
