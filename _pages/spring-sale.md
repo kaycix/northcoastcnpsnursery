@@ -75,9 +75,11 @@ feature_row:
 
 <div class="thanks-block">
     <h1>Thank You</h1>
-    <p>Thank you to everyone who supports us in so many ways</p>
-    <p>Thank you to Chris Beresford who runs the nursery and ran the plant sale for so many years. Thank you to all the volunteers who dedicate so much time to nurturing these plants and putting on the sale. 
+    <p>Thank you to everyone who supports us in some way.</p>
+    <p>Thank you to nursery managers Chris and Barbara who have dedicated countless hours to running an entire native plant nursery. We couldn't imagine anyone else doing what you're doing. You're amazing!</p>
+    <p>Thank you to all our nursery volunteers. Whether you have volunteered for one hour or many more, we appreciate you! This has been a particularly long winter but seeing everyone show up, ready to work in the cold mornings warms our hearts.
     </p>
-    <p>We also appreciate the nurseries that we partner with.</p>
-    <p>Thank you those of you who shop our sales</p>
+    <p>We appreciate the nurseries and vendors that we partner with and the community of sharing and support you offer us. We are so proud to be working alongside you and we look forward to many more years of collaboration.</p>
+    <p>Last but not least, thank you those of you who shop our sales!! You truly inspire us. From those of you rewilding acres of yards, to those of you tending small native plants on your balcony. We see you, we appreciate you, and we are so proud to be eco-warriors alongside you.</p>
+    <p>Thank you for helping to make this planet a better place.</p>
 </div>
