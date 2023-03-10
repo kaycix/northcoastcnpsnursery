@@ -13,6 +13,10 @@ habitats :
 
 humbolt_native: True
 
+inventory: 
+    -   cnps_2023_spring
+    -   cnps_master_inventory
+
 plant_size:
   - height: 
     - 1.5

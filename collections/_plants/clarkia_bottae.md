@@ -14,6 +14,10 @@ gardens:
 
 humbolt_native: True
 
+inventory: 
+    -   cnps_2023_spring
+    -   cnps_master_inventory
+
 icon: 
     small: 
         url: /assets/images/plants/clarkia_bottae.jpg 

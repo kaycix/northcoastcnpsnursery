@@ -43,18 +43,19 @@ feature_row:
 <div class="browse-block">
     <div class="heading">
         <h1>Browse our Inventory:</h1>
-        <a class="btn btn--primary">View All Plants</a>
+        <a class="btn btn--primary" href="/sale/all/">View All Plants</a>
     </div>
     <div class="content">
         <div class="inventory_type box">
             Browse Plants by Type
             <ul>
-                <li>Shrubs & Trees</li>
+                <li>Shrubs</li>
+                <li>Perennials</li>
+                <li>Annuals</li>
+                <li>Vines</li>
+                <li>Trees</li>
                 <li>Ferns</li>
                 <li>Grasses</li>
-                <li>Annuals</li>
-                <li>Perennials</li>
-                <li>Vines</li>
             </ul>
         </div>
         <div class="inventory_category box">
