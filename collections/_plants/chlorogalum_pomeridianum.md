@@ -8,6 +8,16 @@ name:
         - "Soap Plant" 
     scientific: "Chlorogalum pomeridianum"  
 
+icon: 
+    small: 
+        url: /assets/images/plants/chlorogalum_pomeridianum.jpg 
+    large: 
+        url: /assets/images/plants/chlorogalum_pomeridianum_lg.jpg 
+    source: 
+        name: Mary Conway / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=io11426 
+
+
 inventory: 
     -   cnps_2023_spring
     -   cnps_master_inventory
@@ -29,11 +39,6 @@ size:
     height: 
         min: 3
         max: 3
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po86072"
-#icon: "/assets/images/plants/chlorogalum_pomeridianum_icon.jpg"
  
 websites:
     - url: "https://calscape.org/Chlorogalum-pomeridianum-()"
