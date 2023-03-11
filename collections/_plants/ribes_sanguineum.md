@@ -51,8 +51,8 @@ icon:
      large: 
         url: /assets/images/plants/ribes_sanguineum_lg.jpg
      source: 
-        name: John Doyen / Calscape
-        url: https://www.calflora.org/entry/occdetail.html?seq_num=mg81294
+        name: Barbara
+        url: 
 
 websites: 
     - url : "https://calscape.org/Ribes-sanguineum-(Red-Flowering-Currant)"
