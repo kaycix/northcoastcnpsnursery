@@ -99,6 +99,10 @@ img.plant.small_icon {
     letter-spacing: 4px;
 }
 
+.spring-sale h1#page-title a {
+    text-decoration: none;
+}
+
 .spring-sale .hours h4 {
     font-weight: 400;
     letter-spacing: 2px;
@@ -131,6 +135,11 @@ img.plant.small_icon {
         background-color: #000;
         color: #FFF;
     }
+}
+
+.spring-sale .thanks-block {
+    background-image: url('/assets/images/backgrounds/paper.jpg');
+    padding: 2em;
 }
 
 .plant_list {

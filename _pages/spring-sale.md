@@ -1,9 +1,16 @@
 ---
 permalink: /sale/
 layout: splash
+# tried to inherit from sale layout which inherited from splash layout but splash layout was called first? resulting in blanks where sale defined variables
+
+banner:
+    excerpt: Spring sale pages are currently under development. Please do not share publicly.
+
 classes: wide spring-sale
-title: Spring Native Plant Sale 
+
+title: <a href="/sale/">Spring Native Plant Sale</a> 
 excerpt: "Freshwater Farms Reserve<br/>5158 Mrytle Ave, Eureka, CA"
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
