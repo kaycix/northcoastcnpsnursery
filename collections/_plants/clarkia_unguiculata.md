@@ -1,5 +1,5 @@
 ---
-plant_id: 300 
+plant_id: 304 
 
 category: "annual herb"
 
@@ -25,7 +25,7 @@ inventory:
 
 sun_requirements:
   - "Full Sun"
-  - "Park Shade"
+  - "Part Shade"
 
 size:
     height: 
