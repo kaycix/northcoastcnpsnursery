@@ -46,10 +46,3 @@ websites:
     - url: "https://calscape.org/Clarkia-rhomboidea-()"
       name: "Calscape"
 ---
-
-
-
-
-
-
-

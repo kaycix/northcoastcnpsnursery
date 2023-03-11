@@ -1,0 +1,19 @@
+{% assign plants = include.plants %}
+
+<table>
+{% for plant in plants %}
+<tr>
+<td>
+{% if plant.icon and plant.icon.small %}
+<img src='{{plant.icon.small.url}}' />
+{% endif %}
+</td>
+<td>
+<b>{{ plant.name.common[0] | capitalize }}</b>
+<br/>
+({{ plant.name.scientific | capitalize }})
+</td>
+</tr>
+{% endfor %}
+</table>
+

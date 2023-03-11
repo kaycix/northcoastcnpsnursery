@@ -18,19 +18,6 @@ header:
     <h4>All Plants ({{inventory_plants.size}})</h4>
 </div>
 
-<table>
-{% for plant in inventory_plants %}
-<tr>
-<td>
-{% if plant.icon and plant.icon.small %}
-<img src='{{plant.icon.small.url}}' />
-{% endif %}
-</td>
-<td>
-<b>{{ plant.name.common[0] | capitalize }}</b>
-<br/>
-({{ plant.name.scientific | capitalize }})
-</td>
-</tr>
-{% endfor %}
-</table>
+{% include plant_list.html 
+    plants = inventory_plants
+%}

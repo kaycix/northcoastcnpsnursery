@@ -50,8 +50,8 @@ feature_row:
             Browse Plants by Type
             <ul>
                 <li>Shrubs</li>
-                <li>Perennials</li>
-                <li>Annuals</li>
+                <li><a href="/sale/perennials/">Perennials</a></li>
+                <li><a href="/sale/annuals/">Annuals</a></li>
                 <li>Vines</li>
                 <li>Trees</li>
                 <li>Ferns</li>

@@ -13,10 +13,18 @@ gardens:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/cornus_sericea.jpg 
+    large: 
+        url: /assets/images/plants/cornus_sericea_lg.jpg 
+    source: 
+        name: Julie Ann Kierstead / Calscape
+        url: https://calscape.org/photos/1113?srchcr=sc640be95ad61ba 
+
 inventory: 
     -   cnps_master_inventory
-    -   cnps_2022_fall
-    -   cnps_2022_spring
+    -   cnps_2023_spring
 
 tags:  
     -   humboldtNative
@@ -32,11 +40,6 @@ size:
     height: 
         min: 4
         max: 13.1
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/view.php?pl=1113&img=12257"
-#icon: "/assets/images/plants/cornus_sericea_icon.jpg"
 
 websites:
     - url: https://calscape.org/Cornus-sericea-(Creek-Dogwood) 
