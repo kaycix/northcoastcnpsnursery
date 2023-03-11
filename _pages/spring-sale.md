@@ -47,19 +47,19 @@ feature_row:
     </div>
     <div class="content">
         <div class="inventory_type box">
-            Browse Plants by Type
+            Browse by Type
             <ul>
-                <li>Shrubs</li>
+                <li><a href="/sale/shrubs/">Shrubs</a></li>
                 <li><a href="/sale/perennials/">Perennials</a></li>
                 <li><a href="/sale/annuals/">Annuals</a></li>
-                <li>Vines</li>
-                <li>Trees</li>
-                <li>Ferns</li>
-                <li>Grasses</li>
+                <li><a href="/sale/vines/">Vines</a></li>
+                <li><a href="/sale/trees/">Trees</a></li>
+                <li><a href="/sale/ferns/">Ferns</a></li>
+                <li><a href="/sale/grasses/">Grasses</a></li>
             </ul>
         </div>
         <div class="inventory_category box">
-            Browse Plants by Category
+            Browse by Category
             <ul>
                 <li>Hedges</li>
                 <li>Groundcovers</li>

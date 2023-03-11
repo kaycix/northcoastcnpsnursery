@@ -21,8 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
-    -   cnps_2022_fall
-    -   robert_vogt_spring2022_inventory
+    -   cnps_2023_spring
 
 sun_requirements:
   - "Full Shade"
