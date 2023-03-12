@@ -94,8 +94,9 @@ feature_row:
 </div>
 {% include feature_row %}
 
-<div class="thanks-block" style="display:none">
+<div class="thanks-block">
     <h1>Thank You</h1>
+    <div style="display:none">
     <p>We want to send huge thank yous to everyone who supports us in some way.</p>
     <p>Thank you to those of you who shop our sales. From those of you rewilding entire yards, to those of you tending small native plants on your balcony, we appreciate you eco-warriors! We all do what we can and every little bit helps.</p>
     <p>We appreciate the nurseries and vendors that we partner with and the community of sharing and support you offer us. We feel so lucky to be working alongside you.</p>
@@ -103,4 +104,5 @@ feature_row:
     <p>Thank you to all our nursery volunteers. Whether you have volunteered for one hour or many more, we appreciate you! This has been a particularly long winter but seeing everyone show up, ready to work in the cold mornings warms our hearts: 
     Alice, Andrea, Anita, Barbara, Bobby, Brian, Callie, Carol, Charlie, Chris, Christine, Dino, Emily, Hannah, Kate, Kellie, Kevin, Jessi, Jessica, June, Matt, Marcia, Rebecca, Sam, Sharon, Steph, Steve, Trey, Victoria
     </p>
+    </div>
 </div>
