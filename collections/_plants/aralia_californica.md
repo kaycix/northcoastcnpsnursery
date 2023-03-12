@@ -22,12 +22,12 @@ icon:
         url: /assets/images/plants/aralia_californica_lg.jpg 
     source: 
         name: Julie Ann Kierstead / Calflora
-        url: https://calscape.org/photos/374?srchcr=sc63e6a007b3100 
+        url: https://calscape.org/photos/284?srchcr=sc640d2716bd88f 
 
 inventory: 
+    -   cnps_2023_spring
     -   cnps_master_inventory
     -   cnps_2022_fall
-    -   cnps_2022_spring
 
 sun_requirements:
   - "Full Shade"
@@ -39,7 +39,7 @@ size:
         max: 10
 
 websites:
-    - url: "https://calscape.org/loc-California/Aralia%20californica%20(Elk's%20Clover)"
+    - url: https://calscape.org/Aralia-californica-() 
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=504"
       name: "Calflora"
@@ -48,6 +48,7 @@ tags:
     -   humboldtNative
     -   butterfly
     -   bee
+    -   moisture
     -   woodland
     -   propagation_seed_no_treatment
 ---

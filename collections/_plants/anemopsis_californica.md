@@ -21,9 +21,9 @@ icon:
         url: https://calscape.org/photos/234?srchcr=sc6406bfec40f58 
 
 inventory: 
+    -   cnps_2023_spring
     -   cnps_master_inventory
     -   cnps_2022_fall
-    -   cnps_2022_spring
 
 sun_requirements:
   - "Full Sun"
@@ -36,6 +36,7 @@ size:
 
 tags:  
     -   humboldtNative
+    -   moisture
 
 websites:
     - url: https://calscape.org/Anemopsis-californica-() 
