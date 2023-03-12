@@ -24,9 +24,9 @@ gardens:
         - coastal
 
 inventory: 
+    -   cnps_2023_spring
     -   cnps_master_inventory
     -   cnps_2022_fall
-    -   cnps_2022_spring
 
 tags:  
     -   humboldtNative

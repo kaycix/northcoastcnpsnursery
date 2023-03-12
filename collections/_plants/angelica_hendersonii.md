@@ -23,6 +23,10 @@ icon:
         name: John Doyen / Calscape
         url: https://calscape.org/photos/239?srchcr=sc6406c2b04e01f 
 
+inventory: 
+    -   cnps_2023_spring
+    -   cnps_master_inventory
+
 sun_requirements:
   - "Full Sun"
 
