@@ -4,14 +4,24 @@
 {% for plant in plants %}
 <tr>
 <td>
+<div class="plant_icon">
 {% if plant.icon and plant.icon.small %}
 <img src='{{plant.icon.small.url}}' style="height:100px; width: 100px; border-radius: 50px" />
 {% endif %}
+</div>
 </td>
 <td>
 <b>{{ plant.name.common[0] | capitalize }}</b>
 <br/>
+{% if plant.websites and plant.websites.size > 0 %}
+    <a href="{{plant.websites[0].url}}" target="_blank">
+{% endif %}
+
 ({{ plant.name.scientific | capitalize }})
+
+{% if plant.websites and plant.websites.size > 0 %}
+    </a>
+{% endif %}
 </td>
 </tr>
 {% endfor %}
