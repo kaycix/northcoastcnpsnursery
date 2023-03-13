@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/lupinus_albifrons_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/2308?srchcr=sc640e7f31b8701
 
 inventory: 
     -   cnps_master_inventory

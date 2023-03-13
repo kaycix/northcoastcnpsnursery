@@ -20,8 +20,8 @@ icon:
     large: 
         url: /assets/images/plants/monardella_odoratissima_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/70459?srchcr=sc640e8040ccba4
 
 inventory: 
     -   cnps_master_inventory

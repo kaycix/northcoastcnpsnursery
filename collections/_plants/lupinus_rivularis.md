@@ -23,8 +23,8 @@ icon:
     large: 
         url: /assets/images/plants/lupinus_rivularis_lg.jpg 
     source: 
-        name: R.A.Chasey / Calflora
-        url: https://www.calflora.org/entry/occdetail.html?seq_num=mg165030 
+        name: Steve Matson / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mu9347 
 
 inventory: 
     -   cnps_master_inventory
@@ -46,4 +46,6 @@ tags:
 websites:
     - url : "https://calscape.org/Lupinus-rivularis-()"
       name: Calscape
+    - url : https://www.calflora.org/entry/occdetail.html?seq_num=mu9347
+      name: Calflora
 ---
