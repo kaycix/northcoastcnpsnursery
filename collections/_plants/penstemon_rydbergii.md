@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/penstemon_rydbergii_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/2802?srchcr=sc640e91f51df9a
 
 inventory: 
     -   cnps_master_inventory

@@ -4,7 +4,7 @@ plant_id: 45
 name: 
     common: 
         - "Iris Pacific Coast Hybrid"  
-    scientific: "" 
+    scientific: "Iris 'Pacific Coast Hybrid'" 
 
 category: "perennial herb"
 
@@ -12,12 +12,12 @@ humboldt_native: False
 
 icon: 
     small: 
-        url: 
+        url:  /assets/images/plants/iris_pacific_coast_hybrid.jpg  
     large: 
-        url: 
+        url:  /assets/images/plants/iris_pacific_coast_hybrid_lg.jpg  
     source: 
-        name: 
-        url: 
+        name: Cathrin Callas / Calscape 
+        url: https://calscape.org/photos/71183?srchcr=sc640e8fff11d97
 
 inventory: 
     -   cnps_master_inventory
@@ -36,6 +36,8 @@ tags:
     -   cultivar
 
 websites:
+    - url: "https://calscape.org/loc-California/Pacific%20Coast%20Hybrid%20Iris%20(Iris%20%27Pacific%20Coast%20Hybrid%27)"
+      name: Calscape
 ---
 
 

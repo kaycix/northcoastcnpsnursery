@@ -16,12 +16,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/penstemon_humuilis.jpg 
+        url: /assets/images/plants/penstemon_humilis.jpg 
     large: 
-        url: /assets/images/plants/penstemon_humuilis_lg.jpg 
+        url: /assets/images/plants/penstemon_humilis_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/2776?srchcr=sc640e914c26b22
 
 inventory: 
     -   cnps_master_inventory

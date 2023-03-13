@@ -20,8 +20,8 @@ icon:
     large: 
         url: /assets/images/plants/penstemon_deustus_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/2756?srchcr=sc640e90ebdc37e 
 
 inventory: 
     -   cnps_master_inventory

@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/iris_longipetala_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/1977?srchcr=sc640e8dff3007b
 
 inventory: 
     -   cnps_master_inventory
