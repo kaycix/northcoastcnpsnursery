@@ -1,0 +1,53 @@
+---
+plant_id: 178 
+
+name: 
+    common: 
+        - "Large Leaved Avens"  
+    scientific: "Geum macrophyllum"  
+
+category: "perennial herb"
+
+humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/geum_macrophyllum.jpg 
+    large: 
+        url: /assets/images/plants/geum_macrophyllum_lg.jpg 
+    source: 
+        name: 
+        url: 
+
+inventory: 
+    -   cnps_2023_spring
+    -   cnps_master_inventory
+
+sun_requirements:
+  - "Shade"
+  - "Part Shade"
+
+size:
+    height: 
+        min: 0.7 
+        max: 2
+
+tags: 
+    - humboldtNative
+    - butterfly
+    - groundcover
+    - woodland
+    - riparian
+    - meadow
+
+websites: 
+    - url: "https://calscape.org/Geum-macrophyllum-()"
+      name: Calscape
+---
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+---
+plant_id: 41
+
+name: 
+    common: 
+        - "Yellowleaf Iris"   
+    scientific: "Iris chrysophylla"  
+
+category: "perennial herb"
+
+gardens: 
+    cnps_demo:
+        - redwood
+
+icon: 
+    small: 
+        url: /assets/images/plants/iris_chrysophylla.jpg 
+    large: 
+        url: /assets/images/plants/iris_chrysophylla_lg.jpg 
+    source: 
+        name: 
+        url: 
+
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2023_spring
+
+sun_requirements:
+  - "Part Shade"
+
+size:
+    height: 
+        min: 0.1
+        max: 0.7
+
+tags:  
+    -   humboldtNative
+
+websites: 
+    - url: https://calscape.org/loc-California/Iris%20chrysophylla(%20) 
+      name: "Calscape"
+---
+
