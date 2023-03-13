@@ -40,6 +40,7 @@ size:
 
 tags: 
     - humboldtNative
+    - beginner
     - butterfly
     - bee
 

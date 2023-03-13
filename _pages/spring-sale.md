@@ -81,7 +81,11 @@ feature_row:
         <div class="inventory_category box">
             Browse by Category (Coming Soon..)
             <ul>
-                <li>Beginner Favorites</li>
+                <li>
+                    <a href="/sale/beginner/">
+                    Beginner Favorites
+                    </a>
+                </li>
                 <li>Hedges</li>
                 <li>Groundcovers</li>
                 <li>Wildlife-Friendly</li>

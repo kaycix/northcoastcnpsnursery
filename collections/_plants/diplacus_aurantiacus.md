@@ -45,7 +45,6 @@ tags:
     -   butterfly
     -   bee
     -   hummingbird
-    -   beginner
     -   hedge
  
 websites: 

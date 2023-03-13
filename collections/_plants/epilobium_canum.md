@@ -42,6 +42,7 @@ websites:
 
 tags:  
     -   humboldtNative
+    -   beginner
     -   coastal
     -   woodland
     -   chaparral

@@ -2,7 +2,8 @@
 plant_id: 29
 
 name: 
-    common:  "Seaside Woolly Sunflower"   
+    common:  
+        - "Seaside Woolly Sunflower"   
     scientific:  "Eriophyllum staechadifolium"  
 
 type: "shrub"
