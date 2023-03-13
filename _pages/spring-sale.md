@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/plants.jpg
     alt: "Volunteer"
     title: "Volunteer"
-    excerpt: "Our sale is a fully volunteer-run event and we would love for you to help out."
+    excerpt: "Our sale is a fully volunteer-run event. Please contact us if you are interested in helping out."
     url: "/volunteer/#sale"
     btn_label: "More Information"
     btn_class: "btn--primary"
