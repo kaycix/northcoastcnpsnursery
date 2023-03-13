@@ -79,18 +79,38 @@ feature_row:
             </ul>
         </div>
         <div class="inventory_category box">
-            Browse by Category (Coming Soon..)
+            Browse by Category
             <ul>
                 <li>
                     <a href="/sale/beginner/">
                     Beginner Favorites
                     </a>
                 </li>
-                <li>Hedges</li>
-                <li>Groundcovers</li>
-                <li>Wildlife-Friendly</li>
-                <li>Drought-Tolerant</li>
-                <li>Moisture-Loving</li>
+                <li>
+                    <a href="/sale/hedge/">
+                    Hedges
+                    </a>
+                </li>
+                <li>
+                    <a href="/sale/groundcover/">
+                    Groundcovers
+                    </a>
+                </li>
+                <li>
+                    <a href="/sale/butterfly/">
+                    Butterfly Garden
+                    </a>
+                </li>
+                <li>
+                    <a href="/sale/drought/">
+                    Drought-Tolerant
+                    </a>
+                </li>
+                <li>
+                    <a href="/sale/moisture">
+                    Moisture-Loving
+                    </a>
+                </li>
             </ul>
         </div>
         <div class="clear"></div>

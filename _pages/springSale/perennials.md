@@ -1,6 +1,10 @@
 ---
 permalink: /sale/perennials/
 
+banner:
+    excerpt: Spring sale pages are under construction and shared to a limited audience. Please don't share publicly. 
+
+
 layout: splash
 classes: wide spring-sale
 title: Spring Native Plant Sale 
