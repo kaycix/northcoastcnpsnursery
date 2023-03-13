@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2023_spring
 
 tags:  
     -   humboldtNative
