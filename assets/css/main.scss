@@ -112,7 +112,7 @@ img.plant.small_icon {
 }
 
 .spring-sale .browse-block {
-    background-color: #f0e130;
+    background-color: #EEE25F;
     background-image: url('/assets/images/backgrounds/flowers-yellow.jpg');
     ;
     background-repeat: no-repeat; 
@@ -138,7 +138,7 @@ img.plant.small_icon {
 }
 
 .spring-sale .thanks-block {
-    background-image: url('/assets/images/backgrounds/paper.jpg');
+    background-color: #FDF5E6;
     padding: 2em;
 }
 
@@ -207,6 +207,10 @@ img.plant.small_icon {
     left: auto;
     bottom: auto;
     width: auto;
+}
+
+.spring-sale #banner {
+    background-color: #DC143C; 
 }
 
 @media (min-width: 37.5em) { 
