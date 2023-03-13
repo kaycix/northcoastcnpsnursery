@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/geum_macrophyllum_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/1755?srchcr=sc640e7d181cc74
 
 inventory: 
     -   cnps_2023_spring

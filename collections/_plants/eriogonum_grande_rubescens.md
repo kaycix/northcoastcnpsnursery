@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/eriogonum_grande_rubescens_lg.jpg 
     source: 
-        name:
-        url: 
+        name: Steve Matson
+        url: https://calscape.org/photos/1511?srchcr=sc640e7b006bc72 
 
 inventory: 
     -   cnps_master_inventory

@@ -20,8 +20,8 @@ icon:
     large: 
         url: /assets/images/plants/fragaria_vesca_lg.jpg 
     source: 
-        name: 
-        url: 
+        name:  James Gonsman / Calflora 
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=gp6440 
 
 inventory: 
     -   cnps_master_inventory
