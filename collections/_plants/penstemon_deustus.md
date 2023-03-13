@@ -1,0 +1,50 @@
+---
+plant_id: 63
+
+name: 
+    common:  
+        - Scabland Penstemon 
+    scientific: Penstemon deustus 
+
+category: perennial herb
+
+gardens:
+    cnps_demo:
+        - container
+
+humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/penstemon_deustus.jpg 
+    large: 
+        url: /assets/images/plants/penstemon_deustus_lg.jpg 
+    source: 
+        name: 
+        url: 
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2023_spring
+
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+
+size:
+    height: 
+        min: 1.1
+        max: 1.1
+
+tags: 
+    - humboldtNative
+    - butterfly
+    - bee
+    - bird
+    - hummingbird
+    - container
+
+websites: 
+    - url: "https://calscape.org/loc-California/Penstemon%20deustus(%20)"
+      name: Calscape
+---

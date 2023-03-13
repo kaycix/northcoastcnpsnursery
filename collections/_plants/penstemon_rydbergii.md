@@ -1,0 +1,52 @@
+---
+plant_id: 280
+
+name: 
+    common: 
+        - "Rydberg's Penstemon"    
+    scientific: "Penstemon rydbergii"  
+
+category: "perennial herb"
+
+humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/penstemon_rydbergii.jpg 
+    large: 
+        url: /assets/images/plants/penstemon_rydbergii_lg.jpg 
+    source: 
+        name: 
+        url: 
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2023_spring
+
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+
+size:
+    height: 
+        min: 1
+        max: 3
+
+bloom_calendar: 
+    - 7 #july
+    - 8 #august
+
+tags: 
+    - humboldtNative
+    - bee
+    - butterfly
+    - hummingbird
+    - riparian
+    - meadow
+    - woodland
+    - chaparral
+
+websites: 
+    - url: "https://calscape.org/Penstemon-rydbergii-()"
+      name: Calscape
+---
