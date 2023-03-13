@@ -4,7 +4,7 @@ layout: splash
 # tried to inherit from sale layout which inherited from splash layout but splash layout was called first? resulting in blanks where sale defined variables
 
 banner:
-    excerpt: Spring sale pages are currently under development. Please do not share publicly.
+    excerpt: Spring sale pages are under construction and shared to a limited audience. Please don't share publicly. 
 
 classes: wide spring-sale
 
@@ -79,14 +79,14 @@ feature_row:
             </ul>
         </div>
         <div class="inventory_category box">
-            Browse by Category
+            Browse by Category (Coming Soon..)
             <ul>
+                <li>Beginner Favorites</li>
                 <li>Hedges</li>
                 <li>Groundcovers</li>
-                <li>Beginner-Friendly</li>
                 <li>Wildlife-Friendly</li>
-                <li>Habitat</li>
-                <li>Edible</li>
+                <li>Drought-Tolerant</li>
+                <li>Moisture-Loving</li>
             </ul>
         </div>
         <div class="clear"></div>

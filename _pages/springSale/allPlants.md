@@ -2,7 +2,7 @@
 permalink: /sale/all/
 
 banner:
-    excerpt: Spring sale pages are currently under development. Please do not share publicly. 
+    excerpt: Spring sale pages are under construction and shared to a limited audience. Please don't share publicly. 
 
 
 layout: splash
@@ -21,6 +21,9 @@ header:
 <div class="subheading">
     <h4>All Plants ({{inventory_plants.size}})</h4>
 </div>
+
+**Notice:** Our inventory list is still being finalized. Check back for updates! 
+{: .notice}
 
 <div style="margin-bottom: 20px;">
     Browse:
