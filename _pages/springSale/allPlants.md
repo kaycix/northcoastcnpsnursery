@@ -2,7 +2,7 @@
 permalink: /sale/all/
 
 banner:
-    excerpt: Spring sale pages are currently under development. Please do not share publicly.
+    excerpt: Spring sale pages are currently under development. Please do not share publicly. 
 
 
 layout: splash
@@ -18,8 +18,20 @@ header:
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="hours">
+<div class="subheading">
     <h4>All Plants ({{inventory_plants.size}})</h4>
+</div>
+
+<div style="margin-bottom: 20px;">
+    Browse:
+    <a href="/sale/shrubs/">Shrubs</a> | 
+    <a href="/sale/trees/">Trees</a> |
+    <a href="/sale/perennials/">Perennials</a> |
+    <a href="/sale/annuals/">Annuals</a> | 
+    <a href="/sale/ferns/">Ferns</a> | 
+    <a href="/sale/grasses/">Grasses</a> | 
+    <a href="/sale/succulents/">Succulents</a> |
+    <a href="/sale/vines/">Vines</a>
 </div>
 
 {% include plant_list.html 
