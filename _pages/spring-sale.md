@@ -20,21 +20,21 @@ feature_row:
   - image_path: /assets/images/backgrounds/bad-parking.jpg
     alt: "Parking"
     title: "Parking"
-    excerpt: "Please park at Freshwater Farms Reserve and follow the signs to the nursery. Sign Up Genius is required for Saturday shopping to avoid crazy parking situations."
+    excerpt: "Please park at Freshwater Farms Reserve and follow the signs to the nursery. Sign Up Genius is required for Saturday shopping due to parking lot limitations."
     #url: "/test"
     #btn_label: "Parking Information"
     #btn_class: "btn--info"
   - image_path: /assets/images/plants.jpg
     alt: "Volunteer"
     title: "Volunteer"
-    excerpt: "Our sale is a fully volunteer-run event. We sure could use your help putting it on! Email us for all the details."
+    excerpt: "Our sale is a fully volunteer-run event and we would love for you to help out. See our <a href='/volunteer/#sale'>Volunteer page</a> for more information."
     #url: "/volunteer"
     #btn_label: "Join Our Team"
     #btn_class: "btn--info"
   - image_path: /assets/images/starts.jpg
     alt: "Inventory"
     title: "Participating Nurseries & Vendors"
-    excerpt: "Proudly partnering with Samara Restoration, Lost Foods, Bob Vogt, Beresford Bulbs"
+    excerpt: "Proudly partnering with Samara Restoration, Mattole Restoration Council, Lost Foods, Bob Vogt, Beresford's Bulbs and Brant's Plants."
     #url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
     #btn_label: "More Information"
@@ -94,7 +94,7 @@ feature_row:
 </div>
 {% include feature_row %}
 
-<div class="thanks-block">
+<div class="thanks-block" style="display:none">
     <h1>Thank You</h1>
     <div style="display:none">
     <p>We want to send huge thank yous to everyone who supports us in some way.</p>
