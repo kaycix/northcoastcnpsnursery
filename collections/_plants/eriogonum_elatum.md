@@ -3,7 +3,7 @@ plant_id: 172
 
 name: 
     common: 
-        "Tall Buckwheat"  
+         - "Tall Buckwheat"  
     scientific: "Eriogonum Elatum"     
 
 category: "perennial herb"
