@@ -5,9 +5,9 @@ classes: wide volunteer-page
 title: Volunteer 
 excerpt: "The one thing we need more than hope is action. Because once we start to act, hope is everywhere - Greta Thunberg"
 header:
-  overlay_color: "#16A085"
-  overlay_filter: "0.25"
-  overlay_image: /assets/images/icons/watercolor-leaves.png
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/backgrounds/yarrow-bird.jpg
 
 nursery:
   - image_path: /assets/images/seed-starting.jpg 
