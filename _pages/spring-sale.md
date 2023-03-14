@@ -41,7 +41,7 @@ feature_row:
 ---
 <div class="hours">
     <h4>Saturday May 6, Open 9:00 am - 5:00 pm.*</h4>
-    <h4>Sunday May 7, Open 9:00am - 4:00 pm.</h4>
+    <h4>Sunday May 7, Open 9:00am - 3:00 pm.</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
 * Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius - available April 8.
