@@ -21,7 +21,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 plant_spotlight_id: 73 
 
 feature_row:
-  - image_path: /assets/images/starts.jpg
+  - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
     excerpt: "<img src='/assets/images/icons/stop-sign-small.png' style='float:left; margin-right: 5px;' />Hang tight! Plant sales are on hold as we gear up for our Spring sale, May 6th  & May 7th, 2023.<br/><br/>Pricing (unless otherwise marked): <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
@@ -29,14 +29,14 @@ feature_row:
     #url: "/category/cnps-master-inventory"
     #btn_label: "More Information"
     #btn_class: "btn--primary"
-  - image_path: /assets/images/garden.jpg
+  - image_path: /assets/images/garden/garden-feature.jpg
     alt: "Demonstration Garden"
     title: "Demonstration Garden"
     excerpt: "The demonstration garden occupies a corner of the nursery and is a valuable example of what homeowners can accomplish on a small suburban lot."
     url: "/garden"
     btn_label: "Explore the Garden"
     btn_class: "btn--info"
-  - image_path: /assets/images/plants.jpg
+  - image_path: /assets/images/volunteers/seed-starting-feature.jpg
     alt: "Volunteer"
     title: "Volunteer"
     excerpt: "Join us as we continue to help restore local ecosystems by providing affordable native plants for the home gardener."
