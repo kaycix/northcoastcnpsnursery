@@ -36,10 +36,10 @@ feature_row:
     url: "/garden"
     btn_label: "Explore the Garden"
     btn_class: "btn--info"
-  - image_path: /assets/images/volunteers/seed-starting-feature.jpg
+  - image_path: /assets/images/volunteers/hands-feature.jpg
     alt: "Volunteer"
     title: "Volunteer"
-    excerpt: "Join us as we continue to help restore local ecosystems by providing affordable native plants for the home gardener."
+    excerpt: "Volunteer at the nursery and make a difference! Learn all about identifying and growing native plants while helping us in our mission of providing affordable native plants for the home gardener."
     url: "/volunteer"
     btn_label: "Join Our Team"
     btn_class: "btn--info"
