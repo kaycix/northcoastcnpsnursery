@@ -40,7 +40,7 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday May 6, Open 9:00 am - 5:00 pm.*</h4>
+    <h4>Saturday May 6, Sign Up to Shop!*</h4>
     <h4>Sunday May 7, Open 9:00am - 3:00 pm.</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
