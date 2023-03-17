@@ -2,39 +2,42 @@
 plant_id: 38
 
 name: 
-    common: "grindelia stricta"  
+    common: 
+        - Gumweed
     scientific: "Grindelia stricta v. platyphylla"   
 
-type: "perennial herb"
+category: "perennial herb"
 
-native_to: "Humboldt"
+humboldt_native: True
 
-categories: [humboldt_county_native
-        
-        #inventory 
-        ,inventory_cnps_2022_05
-        ,cnps_master_inventory
-        ,cnps_2022_fall
-        ,cnps_2022_winter
-        ,cnps_2022_spring
-        ,butterfly
-      ]
+icon: 
+     small: 
+        url: /assets/images/plants/grindelia_stricta_var_platyphylla.jpg 
+     large: 
+        url: /assets/images/plants/grindelia_stricta_var_platyphylla_lg.jpg 
+     source: 
+        name: 
+        url: 
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2023_spring
 
 sun_requirements:
   - "Part Shade"
   - "Full Sun"
-# min then max in feet
-plant_size:
-  - height: 
-    - 1
-    - 1.6
 
-icon_attribution:
-    name: "Calflora"
-    url: "https://www.calflora.org/cgi-bin/viewphoto.cgi?arg=/app/up/io/134/io40460-2.jpg" 
-icon: "/assets/images/plants/grindelia_stricta_var_platyphylla_icon.jpg" 
+size:
+    height: 
+        min: 1
+        max: 1.6
 
-calscape_link: "https://calscape.org/loc-California/Grindelia%20stricta%20platyphylla(%20)"
+tags:
+    - humboldtNative
+    - butterfly
 
+websites: 
+    - url: "https://calscape.org/loc-California/Grindelia%20stricta%20platyphylla(%20)"
+      name: Calscape
 ---
 

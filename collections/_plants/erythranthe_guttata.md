@@ -5,6 +5,7 @@ name:
     common: 
         - "Seep Monkeyflower"  
     scientific:  "Erythranthe guttata"  
+    # dentata? 
 
 category: "perennial herb"
 

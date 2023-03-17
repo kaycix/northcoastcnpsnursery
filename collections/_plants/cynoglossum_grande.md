@@ -6,7 +6,7 @@ name:
         - "Western Houndstongue"  
     scientific: "Cynoglossum grande"   
 
-type: "perennial herb"
+category: "perennial herb"
 
 humboldt_native: True
 

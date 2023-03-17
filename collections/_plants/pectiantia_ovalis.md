@@ -1,7 +1,7 @@
 ---
 plant_id: 62
 
-type: perennial herb
+category: perennial herb
 
 name: 
     scientific: Pectiantia ovalis

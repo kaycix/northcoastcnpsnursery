@@ -6,7 +6,9 @@ name:
         - "Seaside Woolly Sunflower"   
     scientific:  "Eriophyllum staechadifolium"  
 
-type: "shrub"
+category: perennial herb
+# calscape lists as both PH and shrub
+# category: "shrub"
 
 humboldt_native: True
 

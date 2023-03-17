@@ -1,7 +1,8 @@
 ---
 plant_id: 238 
 
-category: annual herb
+category: perennial herb
+#category: annual herb
 
 name: 
     scientific:  phacelia californica 
