@@ -1,7 +1,7 @@
 ---
 plant_id: 217 
 
-type: annual herb
+category: annual herb
 
 name: 
     scientific: Lasthenia californica
@@ -13,7 +13,6 @@ humboldt_native: True
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_spring
-    -   cnps_2022_spring
 
 combinations: 
     - 55 #lupinus_nanus 

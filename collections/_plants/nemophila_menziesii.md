@@ -1,7 +1,7 @@
 ---
 plant_id: 60
 
-type: annual herb
+category: annual herb
 
 name: 
     scientific: Nemophila menziesii

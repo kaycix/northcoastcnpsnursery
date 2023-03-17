@@ -6,7 +6,8 @@ name:
         - "Miner's Lettuce"  
     scientific: "Claytonia perfoliata"   
 
-category: annual herb
+# Calscape lists as annual, Nursery lists as perennial
+category: perennial herb
 
 humboldt_native: True
 

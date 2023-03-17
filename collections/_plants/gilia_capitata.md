@@ -4,6 +4,7 @@ plant_id: 36
 name: 
     common: 
         - "Blue Field Gilia"   
+        - "Globe Gilia"
     scientific: "Gilia capitata" 
 
 category: "annual herb"

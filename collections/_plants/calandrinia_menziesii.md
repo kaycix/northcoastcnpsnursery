@@ -9,6 +9,7 @@ name:
     common: 
         - "Red Maids"  
     scientific: "Calandrinia menziesii"   
+        # - Calandrinia ciliata
 
 icon: 
     small: 
@@ -21,7 +22,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
-    -   cnps_2022_spring
+    -   cnps_2023_spring
 
 sun_requirements:
   - "Full Sun"
