@@ -16,12 +16,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/melica_californica.jg
+        url: /assets/images/plants/melica_californica.jpg
     large: 
         url: /assets/images/plants/melica_californica_lg.jpg
     source: 
-        name: 
-        url: 
+        name: Julie Ann Kierstead  
+        url: https://calscape.org/photos/2472?srchcr=sc6415ecbf5b1de 
 
 inventory: 
     -   cnps_master_inventory
