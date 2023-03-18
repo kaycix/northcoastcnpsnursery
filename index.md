@@ -19,6 +19,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #
 
 plant_spotlight_id: 73 
+plant_spotlight_title: March
 
 feature_row:
   - image_path: /assets/images/sale-feature.jpg
@@ -44,16 +45,16 @@ feature_row:
     btn_label: "Join Our Team"
     btn_class: "btn--info"
 ---
-{% for plant in site.plants %}
-    {% if plant.plant_id == page.plant_spotlight_id %}
-        {% include plant_summary_card.html plant=plant %} 
-    {% endif %}
-{% endfor %}
-
 
 {% include feature_row %}
 
-<div class="feature_blurb consultations">
+{% for plant in site.plants %}
+    {% if plant.plant_id == page.plant_spotlight_id %}
+        {% include plant_summary_card.html title=page.plant_spotlight_title plant=plant %} 
+    {% endif %}
+{% endfor %}
+
+<div class="feature_blurb consultations" style="display:none">
     <h2>
         Native Plant Consultations
     </h2>
