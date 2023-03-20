@@ -13,9 +13,28 @@ layout: default
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
+    
+    <div class="sale" style="display: none; background-repeat: no-repeat; background-color: #141b51; position: relative; background-position: bottom; background-image: url('/assets/images/backgrounds/foliage-test-3.png'); color: #FFF; margin-top: -2em; margin-bottom: 2em; margin-left: auto; margin-right: auto; width: 100%">
+        <!--<img src="/assets/images/pink-butterfly.png" style="height: 50px; position: absolute; left: 0" />-->
+        <img src="/assets/images/backgrounds/test-top-2.png" style="position: absolute; right: 0; width: 70%; max-width: 600px" />
+        <div class="wrapper" style="max-width:1280px; margin-left: 1em; margin-right: 1em; padding: 3em 1em">
+            <div class="header" style="margin-bottom:30px">
+                <div>Shop Our In-Person</div>
+                <h1><a href="/sale/" style="color:#fff;text-decoration: none">Spring Native Plant Sale</a></h1>
+                <h4 style="margin-top: 0; color:#dca1a0">May 6 & 7, 2023</h4>
+                <br/>Join us for a weekend of native plant appreciation. Browse our wide selection of native plants, wander through our demonstration garden, talk to local native plant experts.
+            </div>
+            <div style="float: left">
+                <a class="btn btn--primary" href="/sale/">More Information</a>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+    </div>
+
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
+
 
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
