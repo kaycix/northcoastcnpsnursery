@@ -34,7 +34,7 @@ size:
 
 websites: 
      -  name: "Theodore  Payne Foundation"
-        url: "https://theodorepayne.org/nativeplantdatabase/index.php"
+        url: "https://theodorepayne.org/nativeplantdatabase/index.php?title=Festuca_idahoensis_%27Siskiyou_Blue%27"
 
 tags:
     - humboldtNative

@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/festuca_rubra_lg.jpg 
     source: 
-        name:
-        url:
+        name: Steve Matson / Calscape
+        url: https://calscape.org/photos/1652?srchcr=sc6418b75e5ebb9
 
 inventory: 
     -   cnps_master_inventory

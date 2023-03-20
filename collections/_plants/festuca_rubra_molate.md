@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/festuca_rubra_molate_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Calscape 
+        url: https://calscape.org/photos/71014?srchcr=sc6418b74021d40
 
 inventory: 
     -   cnps_master_inventory
