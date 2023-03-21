@@ -1,0 +1,44 @@
+---
+plant_id: 123
+
+name: 
+    common: 
+        - "Firecracker Brodiaea"    
+    scientific: "Dichelostemma ida-maia" 
+
+category: "perennial herb"
+
+humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/dichelostemma_ida_maia.jpg 
+    large: 
+        url: /assets/images/plants/dichelostemma_ida_maia_lg.jpg 
+    source: 
+        name:
+        url:
+
+inventory: 
+    -   cnps_2023_spring
+    -   cnps_master_inventory
+
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+  - "Full Shade"
+
+tags:
+    - butterfly
+    - humboldtNative
+
+size:
+    height: 
+        min: 1.6
+        max: 1.6
+
+websites: 
+    - url: "https://calscape.org/Dichelostemma-ida-maia-(Firecracker-Brodiaea)"
+      name: Calscape
+---
+
