@@ -22,8 +22,8 @@ icon:
     large: 
         url: /assets/images/plants/phacelia_bolanderi_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/2839?srchcr=sc6419139f0c12c
 
 inventory: 
     -   cnps_master_inventory

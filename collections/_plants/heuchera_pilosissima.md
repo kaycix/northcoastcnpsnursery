@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/heuchera_pilosissima_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Zoya Akulova / Calphotos 
+        url: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0610+1919
 
 inventory: 
     -   cnps_master_inventory
@@ -38,6 +38,8 @@ tags:
 websites: 
     - url: "https://calscape.org/Heuchera-pilosissima-(Seaside-Alumroot)"
       name: Calscape
+    - url: https://calphotos.berkeley.edu/cgi/img_query?seq_num=324560&one=T
+      name: Calphotos
 ---
 
 
