@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/salvia_leucophylla_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/3364?srchcr=sc641908435dac4
 
 inventory: 
     -   cnps_2023_spring

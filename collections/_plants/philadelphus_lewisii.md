@@ -20,8 +20,8 @@ icon:
     large: 
         url: /assets/images/plants/philadelphus_lewisii_lg.jpg
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/2881?srchcr=sc6418b9c50ec21
 
 inventory: 
     -   cnps_master_inventory

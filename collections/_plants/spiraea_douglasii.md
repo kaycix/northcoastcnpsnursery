@@ -1,12 +1,12 @@
 ---
 plant_id: 212 
 
+category: "shrub"
+
 name: 
     common: 
         - "Douglas's Spirea"  
     scientific: "Spiraea Douglasii"  
-
-category: "shrub"
 
 gardens:    
     trinidad_museum:
@@ -19,8 +19,8 @@ icon:
     large: 
         url: /assets/images/plants/spiraea_douglasii_lg.jpg
     source: 
-        name:
-        url: 
+        name: Steve Matson / Calscape
+        url: https://calscape.org/photos/3587?srchcr=sc64190a28e31c7
 
 inventory: 
     -   cnps_2023_spring

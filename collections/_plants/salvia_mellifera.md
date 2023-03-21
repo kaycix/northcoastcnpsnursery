@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/salvia_mellifera_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/3365?srchcr=sc641908c4a3224
 
 inventory: 
     -   cnps_2023_spring

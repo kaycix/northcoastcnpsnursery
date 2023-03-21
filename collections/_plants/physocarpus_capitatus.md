@@ -22,8 +22,8 @@ icon:
     large: 
         url: /assets/images/plants/physocarpus_capitatus_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/2915?srchcr=sc641906ac9d100
 
 inventory: 
     -   cnps_master_inventory

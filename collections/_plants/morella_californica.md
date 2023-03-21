@@ -21,8 +21,8 @@ icon:
     large: 
         url: /assets/images/plants/morella_californica_lg.jpg
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/2586?srchcr=sc6418b912a265f
 
 inventory: 
     -   cnps_master_inventory

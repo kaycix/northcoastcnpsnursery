@@ -24,8 +24,8 @@ icon:
     large: 
         url: /assets/images/plants/polystichum_munitum_lg.jpg 
     source: 
-        name:
-        url:
+        name: Julie Ann Kierstead / Calscape
+        url: https://calscape.org/photos/3032?srchcr=sc64190ad4dac02
 
 inventory: 
     -   cnps_master_inventory
