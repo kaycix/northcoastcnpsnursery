@@ -20,8 +20,8 @@ icon:
         url: https://calscape.org/photos/685?srchcr=sc64079b4d4dd88 
 
 inventory: 
+    -   cnps_2023_fall
     -   cnps_master_inventory
-    -   cnps_2022_fall
         
 tags: 
     - butterfly

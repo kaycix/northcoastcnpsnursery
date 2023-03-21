@@ -23,7 +23,6 @@ icon:
 inventory: 
     -   cnps_2023_spring
     -   cnps_master_inventory
-    -   cnps_2022_fall
 
 gardens: 
     cnps_demo:
