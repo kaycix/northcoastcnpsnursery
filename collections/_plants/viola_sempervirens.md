@@ -23,8 +23,8 @@ icon:
     large: 
         url: /assets/images/plants/viola_sempervirens_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/3857?srchcr=sc64190bbba2736
 
 inventory: 
     -   cnps_master_inventory

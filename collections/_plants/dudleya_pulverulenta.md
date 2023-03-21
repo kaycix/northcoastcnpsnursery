@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/dudleya_pulverulenta_lg.jpg 
     source: 
-        name: 
-        url: 
+        name:  Chris Hendrickson / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=po9847 
 
 inventory: 
     -   cnps_master_inventory
@@ -40,4 +40,6 @@ tags:
 websites: 
     -   url: "https://calscape.org/Dudleya-pulverulenta-(Chalk-Dudleya)"
         name: Calscape
+    -   url: https://www.calflora.org/app/taxon?crn=2859 
+        name: Calflora
 ---

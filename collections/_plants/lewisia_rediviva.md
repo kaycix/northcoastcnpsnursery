@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/lewisia_rediviva_lg.jpg 
     source: 
-        name:
-        url: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/2168?srchcr=sc64190f9e9d0f1
 
 inventory: 
     -   cnps_master_inventory
