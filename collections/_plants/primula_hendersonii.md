@@ -21,8 +21,8 @@ icon:
     large: 
         url: /assets/images/plants/primula_hendersonii_lg.jpg 
     source: 
-        name:
-        url:
+        name: Steve Matson / Calscape
+        url: https://calscape.org/photos/1300?srchcr=sc6419ef14af7c2
 
 inventory: 
     -   cnps_master_inventory

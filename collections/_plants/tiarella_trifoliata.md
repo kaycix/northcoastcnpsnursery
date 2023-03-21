@@ -20,8 +20,8 @@ icon:
     large: 
         url: /assets/images/plants/tiarella_trifoliata_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/3690?srchcr=sc6419f1c08f41b
 
 inventory: 
     -   cnps_master_inventory

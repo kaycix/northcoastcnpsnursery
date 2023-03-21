@@ -23,8 +23,8 @@ icon:
     large: 
         url: /assets/images/plants/prosartes_smithii_lg.jpg 
     source: 
-        name: 
-        url: 
+        name:  Julie Ann Kierstead / Calflora
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mu19412 
 
 inventory: 
     -   cnps_master_inventory
@@ -50,4 +50,6 @@ tags:
 websites: 
     - url: "https://calscape.org/loc-California/Prosartes%20smithii%20(Large%20Flowered%20Fairy%20Bell)"
       name: Calscape
+    - url: https://www.calflora.org/app/taxon?crn=9513
+      name: Calflora
 ---

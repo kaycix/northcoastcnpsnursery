@@ -17,8 +17,8 @@ icon:
     large: 
         url: /assets/images/plants/triteleia-hyacinthina_lg.jpg
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/3758?srchcr=sc6419f34c86668
 
 inventory: 
     -   cnps_master_inventory
