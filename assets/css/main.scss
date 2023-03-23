@@ -175,7 +175,7 @@ img.plant.small_icon {
 
 .spring-sale .browse-block .box {
     background-color: #EEE;
-    padding: 1em 3em;
+    padding: 1em 2em;
     margin-bottom: 1em;
 }
 
@@ -223,10 +223,35 @@ img.plant.small_icon {
         float: left;
         margin-right: 5%;
     }
-    
     .spring-sale .content .box.inventory_category {
         float: right;
     }
+}
+
+.spring-sale .box h4 {
+    margin: 0.5em 0 0.5em;
+}
+
+.spring-sale .box .column {
+    float: left;
+    width: 50%;
+ }
+
+.spring-sale .box .column .row {
+    font-size: 0.9em;
+ }
+    
+.spring-sale .box .column .row:after {
+      content: "";
+      display: table;
+      clear: both;
+ }
+    
+
+@media screen and (max-width: 600px) {
+  .spring-sale .box .column {
+    width: 100%;
+  }
 }
 
 #footer {

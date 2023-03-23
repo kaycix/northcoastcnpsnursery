@@ -60,57 +60,79 @@ feature_row:
     </div>
     <div class="content">
         <div class="inventory_type box">
-            Browse by Type
-            <ul>
-                <li>
+            <h4>
+                Browse by Type
+            </h4>
+            <div class="column">
+                <div class="row">
                     <a href="/sale/shrubs/">Shrubs</a>
-                </li>
-                <li>
+                </div>
+                <div class="row">
                     <a href="/sale/perennials/">Perennials</a>
-                </li>
-                <li>
+                </div>
+                <div class="row">
                     <a href="/sale/annuals/">Annuals</a>
-                </li>
-                <li><a href="/sale/vines/">Vines</a></li>
-                <li><a href="/sale/trees/">Trees</a></li>
-                <li><a href="/sale/ferns/">Ferns</a></li>
-                <li><a href="/sale/grasses/">Grasses</a></li>
-            </ul>
+                </div>
+                <div class="row">
+                    <a href="/sale/vines/">Vines</a> 
+                </div>
+            </div>
+            <div class="column">
+                <div class="row">
+                    <a href="/sale/trees/">Trees</a>
+                </div>
+                <div class="row">
+                    <a href="/sale/ferns/">Ferns</a>
+                </div>
+                <div class="row">
+                    <a href="/sale/grasses/">Grasses</a>
+                </div>
+                <div class="row">
+                    <a href="/sale/succulents/">Succulents</a>
+                </div>
+            </div>
+            <div class="clear"></div>
         </div>
         <div class="inventory_category box">
+            <h4>
             Browse by Category
-            <ul>
-                <li>
+            </h4>
+            <div class="column">
+                <div class="row">
                     <a href="/sale/beginner/">
                     Beginner Favorites
                     </a>
-                </li>
-                <li>
+                </div>
+                <div class="row">
                     <a href="/sale/hedge/">
                     Hedges
                     </a>
-                </li>
-                <li>
+                </div>
+                <div class="row">
                     <a href="/sale/groundcover/">
-                    Groundcovers
+                    Ground Covers
                     </a>
-                </li>
-                <li>
+                </div>
+            </div>
+            <div class="column">
+                <div class="row">
                     <a href="/sale/butterfly/">
                     Butterfly Garden
                     </a>
-                </li>
-                <li>
+                </div>
+                <div class="row">
                     <a href="/sale/drought/">
                     Drought-Tolerant
                     </a>
-                </li>
-                <li>
+                </div>
+                <div class="row">
                     <a href="/sale/moisture">
                     Moisture-Loving
                     </a>
-                </li>
-            </ul>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <a href="" style="font-size: 0.9em">Browse More Categories..</a>
         </div>
         <div class="clear"></div>
     </div>
