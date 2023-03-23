@@ -44,6 +44,65 @@ img.plant.small_icon {
     border-radius: 100px; 
 }
 
+table.plant_list .plant_icon img {
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+}
+
+@media (min-width: 37.5em) { 
+    table.plant_list .plant_icon img {
+        height: 100px;
+        width: 100px;
+        border-radius: 10px;
+    }
+}
+
+.sun_req div {
+    border-radius: 15px;
+    height: 30px;
+    width: 30px;
+}
+
+.sun_req .a {
+  background-color: #FFD700;
+}
+
+.sun_req .ab {
+    background: repeating-linear-gradient(
+      to right,
+      #FFD700,
+      #FFD700 15px,
+      #CCC 15px,
+      #CCC 30px
+    );
+}
+
+.sun_req .bc {
+    background: repeating-linear-gradient(
+      to right,
+      #CCC,
+      #CCC 15px,
+      #888 15px,
+      #888 30px
+    );
+}
+
+.sun_req .abc {
+    background-image: url("./../images/icons/sun_all.png");
+    background-repeat: no-repeat; 
+    height: 30px;
+    width: 30px;
+}
+
+.sun_req .b {
+  background-color: #CCC;
+}
+
+.sun_req .c {
+  background-color: #888;
+}
+
 .plant_spotlight {
     background-color: #f8e2dd; 
     background-image: url('/assets/images/icons/watercolor-flower2.png'); 

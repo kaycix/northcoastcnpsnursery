@@ -1,12 +1,23 @@
 {% assign plants = include.plants %}
 
-<table>
+<table class="plant_list">
+<tr>
+<td>
+</td>
+<td>
+<b>Common Name</b><br/>
+(Scientific Name)
+</td>
+<td>
+Sun Reqs.
+</td>
+</tr>
 {% for plant in plants %}
 <tr>
 <td>
 <div class="plant_icon">
 {% if plant.icon and plant.icon.small %}
-<img src='{{plant.icon.small.url}}' style="height:100px; width: 100px; border-radius: 50px" />
+<img src='{{plant.icon.small.url}}' />
 {% endif %}
 </div>
 </td>
@@ -22,6 +33,23 @@
 {% if plant.websites and plant.websites.size > 0 %}
     </a>
 {% endif %}
+</td>
+<td class="sun_req">
+
+    {% assign sort_param = "" %}
+
+    {% if plant.sun_requirements contains 'Full Sun' %}
+       {% assign sort_param = sort_param | append: "a" %}
+    {% endif %}
+    {% if plant.sun_requirements contains 'Part Shade' %}
+       {% assign sort_param = sort_param | append: "b" %}
+    {% endif %}
+    {% if plant.sun_requirements contains 'Full Shade' %}
+       {% assign sort_param = sort_param | append: "c" %}
+    {% endif %}
+
+    <div class="{{sort_param}}">
+    </div>
 </td>
 </tr>
 {% endfor %}
