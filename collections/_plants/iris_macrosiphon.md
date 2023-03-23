@@ -39,6 +39,9 @@ size:
 tags:  
     -   humboldtNative
     -   butterfly
+    -   droughtTolerant
+    -   deerResistant
+    -   propagationSeedNoTreatment
 
 websites: 
     - url: "https://calscape.org/Iris-macrosiphon-(Long-Tubed-Iris)"

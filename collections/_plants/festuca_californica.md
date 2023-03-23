@@ -44,6 +44,11 @@ size:
         min: 1.3
         max: 4
 
+tags:
+    - humboldtNative
+    - butterfly
+    - droughtTolerant
+
 websites: 
     - url : https://calscape.org/Festuca-californica-(California-Fescue)
       name : Calscape

@@ -39,15 +39,9 @@ tags:
     - woodland
     - riparian
     - meadow
+    - propagationSeedNoTreatment
 
 websites: 
     - url: "https://calscape.org/Geum-macrophyllum-()"
       name: Calscape
 ---
-
-
-
-
-
-
-

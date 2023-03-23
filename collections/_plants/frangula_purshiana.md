@@ -41,4 +41,10 @@ websites:
 
 tags:  
     -   humboldtNative
+    -   bird
+    -   bee
+    -   butterfly
+    -   droughtTolerant
+    -   bankStabilization
+    -   deciduous
 ---

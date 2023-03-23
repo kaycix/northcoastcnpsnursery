@@ -35,6 +35,12 @@ size:
 
 tags:  
     -   humboldtNative
+    -   hummingbird
+    -   bird
+    -   butterfly
+    -   droughtTolerant
+    -   propagationSeedNoTreatment
+    -   rockySlopes
 
 #bloom_calendar: 
 #    - 7 #july

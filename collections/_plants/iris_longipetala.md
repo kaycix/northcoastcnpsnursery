@@ -35,6 +35,10 @@ size:
 tags:  
     -   humboldtNative
     -   butterfly
+    -   bog
+    -   pond
+    -   deerResistant
+    -   propagationSeedNoTreatment
 
 websites:
     - url: "https://calscape.org/Iris-longipetala-(Central-Coast-Iris)"

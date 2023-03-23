@@ -40,7 +40,9 @@ tags:
     -   butterfly
     -   bee
     -   moisture
-
+    -   bog
+    -   pond
+    - propagationSeedNoTreatment
 
 websites: 
     - url: "https://calscape.org/Helenium-bigelovii-(Bigelow's-Sneezeweed)"

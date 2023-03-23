@@ -12,7 +12,7 @@ gardens:
     cnps_demo:
         - redwood
 
-humboldt_native: False
+humboldt_native: True
 
 icon: 
     small: 
@@ -41,6 +41,9 @@ websites:
       name: "Calscape"
 
 tags:
+    - humboldtNative
     - butterfly
+    - droughtTolerant
+    - deerResistant
+    - groundcover
 ---
-

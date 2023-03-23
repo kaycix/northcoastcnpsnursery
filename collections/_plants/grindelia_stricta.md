@@ -41,6 +41,7 @@ size:
 tags:  
     -   humboldtNative
     -   groundcover
+    -   deerResistant
     -   butterfly
     -   coastal
 

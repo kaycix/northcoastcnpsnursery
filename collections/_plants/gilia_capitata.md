@@ -33,6 +33,8 @@ tags:
     - humboldtNative
     - butterfly
     - bee
+    - meadow
+    - droughtTolerant
 
 sun_requirements:
   - "Full Sun"

@@ -43,12 +43,13 @@ sun_requirements:
 tags:  
     -   humboldtNative
     -   butterfly
-    -   bee
+    -   bird
     -   droughtTolerant
-    -   groundCover
+    -   groundcover
     -   beginner
     -   coastal
     -   edible
+    -   deerResistant
 
 websites:
     - url: "https://calscape.org/loc-California/Fragaria%20chiloensis%20(Beach%20Strawberry)"

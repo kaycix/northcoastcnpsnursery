@@ -47,6 +47,9 @@ tags:
     -   humboldtNative
     -   butterfly
     -   beginner
+    -   droughtTolerant
+    -   groundcover
+    -   deerResistant
 
 websites: 
     - url: https://calscape.org/Iris-douglasiana-(Douglas-Iris) 

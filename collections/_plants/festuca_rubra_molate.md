@@ -36,6 +36,9 @@ size:
 tags:  
     -   cultivar
     -   butterfly
+    -   groundcover
+    -   deerResistant
+    -   meadow
     
 websites: 
     - url: https://calscape.org/loc-California/Festuca%20rubra%20%27Molate%20Pt.%27(%20) 

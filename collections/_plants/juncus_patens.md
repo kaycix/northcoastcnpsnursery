@@ -36,6 +36,11 @@ tags:
     - humboldtNative
     - butterfly
     - moisture
+    - coastal
+    - bog
+    - pond  
+    - deerResistant
+    - propagationSeedNoTreatment
  
 websites: 
     - url: "https://calscape.org/Juncus-patens-(Common-Rush)"

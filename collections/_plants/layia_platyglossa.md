@@ -39,7 +39,8 @@ tags:
     - butterfly
     - beginner
     - container
-    - habitat_meadow
+    - meadow
+    - droughtTolerant
     - yellow
 ---
 

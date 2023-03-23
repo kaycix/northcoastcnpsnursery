@@ -41,4 +41,6 @@ tags:
     - humboldtNative
     - butterfly
     - bee
+    - meadow
+    - deerResistant
 ---

@@ -36,6 +36,8 @@ size:
 
 tags:  
     -   humboldtNative
+    -   butterfly
+    -   deerResistant
 
 websites: 
     - url: https://calscape.org/loc-California/Iris%20chrysophylla(%20) 

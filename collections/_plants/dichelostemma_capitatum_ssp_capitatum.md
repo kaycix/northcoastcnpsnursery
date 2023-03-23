@@ -42,7 +42,7 @@ tags:
     -   droughtTolerant
     -   butterfly
     -   deerResistant
-    -   groundCover
+    -   groundcover
     -   meadow
     -   chaparral 
  

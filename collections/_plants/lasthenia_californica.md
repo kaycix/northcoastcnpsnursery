@@ -67,5 +67,4 @@ tags:
     -   meadow
     -   chaparral
     -   woodland
-
 ---

@@ -31,6 +31,10 @@ size:
     height: 
         min: 0.7
         max: 2.6
+
+tags:
+    - butterfly
+    - drySlopes
  
 websites: 
     - url: "https://calscape.org/loc-California/Fritillaria%20eastwoodiea(%20)"

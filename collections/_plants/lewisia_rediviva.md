@@ -31,6 +31,11 @@ size:
     height: 
         min: 1 
         max: 1 
+
+tags:
+    - butterfly
+    - droughtTolerant
+    - gravelly
  
 websites: 
     - url: "https://calscape.org/loc-California/lewisia%20rediviva(%20)"

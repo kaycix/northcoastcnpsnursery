@@ -30,6 +30,7 @@ tags:
     - yellow
     - butterfly
     - bee
+    - meadow
     - droughtTolerant
 
 sun_requirements:

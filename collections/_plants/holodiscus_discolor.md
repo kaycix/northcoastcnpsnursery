@@ -27,12 +27,6 @@ icon:
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_spring
-
-tags:  
-    -   humboldtNative
-    -   beginner
-    -   butterfly
-    -   hedge
     
 sun_requirements:
   - "Full Shade"
@@ -42,6 +36,13 @@ size:
     height: 
         min: 3
         max: 16.4
+
+tags:  
+    -   humboldtNative
+    -   beginner
+    -   butterfly
+    -   hedge
+    -   deerResistant
 
 websites: 
     - url: https://calscape.org/Holodiscus-discolor-(Cream-Bush) 

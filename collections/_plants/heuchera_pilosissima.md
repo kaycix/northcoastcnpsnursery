@@ -34,6 +34,11 @@ size:
 
 tags: 
     - humboldtNative
+    - hummingbird
+    - butterfly
+    - groundcover
+    - deerResistant
+    - droughtTolerant
 
 websites: 
     - url: "https://calscape.org/Heuchera-pilosissima-(Seaside-Alumroot)"
@@ -41,7 +46,3 @@ websites:
     - url: https://calphotos.berkeley.edu/cgi/img_query?seq_num=324560&one=T
       name: Calphotos
 ---
-
-
-
-

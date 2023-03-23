@@ -35,6 +35,10 @@ size:
 tags:
     - humboldtNative
     - butterfly
+    - coastal
+    - groundcover
+    - deerResistant
+    - droughtTolerant
 
 websites: 
     - url: "https://calscape.org/loc-California/Grindelia%20stricta%20platyphylla(%20)"

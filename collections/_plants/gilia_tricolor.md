@@ -38,6 +38,8 @@ tags:
     - humboldtNative
     - butterfly
     - bee
+    - droughtTolerant
+    - meadow
  
 websites:
     - url: https://calscape.org/Gilia-tricolor-(Tricolor-Gilia) 

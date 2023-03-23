@@ -42,6 +42,8 @@ tags:
     - bee
     - edible
     - groundcover
+    - deerResistant
+    - woodland
  
 websites: 
     - url: "https://calscape.org/loc-California/Fragaria%20vesca(%20)"

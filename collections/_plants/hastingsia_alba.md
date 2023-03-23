@@ -33,6 +33,7 @@ size:
 
 tags:
     - humboldtNative
+    - moisture
  
 websites: 
     - url: "https://calscape.org/loc-California/Hastingsia%20alba(%20)"

@@ -34,6 +34,7 @@ size:
 tags:  
     -   humboldtNative
     -   cultivar
+    -   groundcover
 
 websites:
     - url: "https://calscape.org/loc-California/Pacific%20Coast%20Hybrid%20Iris%20(Iris%20%27Pacific%20Coast%20Hybrid%27)"

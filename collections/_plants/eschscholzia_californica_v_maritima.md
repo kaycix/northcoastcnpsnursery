@@ -43,6 +43,9 @@ icon_attribution:
 tags:  
     -   humboldtNative
     -   container
+    -   coastal
+    -   deerResistant
+    -   droughtTolerant
 
 websites:
     - url: "https://www.calfloranursery.com/plants/eschscholzia-californica-maritima"

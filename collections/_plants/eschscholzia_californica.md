@@ -48,6 +48,7 @@ tags:
     -   groundcover
     -   border
     -   droughtTolerant
+    -   deerResistant
     -   container
     -   showy
     -   butterfly
@@ -60,5 +61,3 @@ tags:
     -   reseeds_easily 
     -   taproot
 ---
-
-

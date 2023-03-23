@@ -25,13 +25,6 @@ inventory:
     -   cnps_2023_spring
     -   cnps_master_inventory
 
-tags: 
-    - humboldtNative
-    - butterfly
-    - bee
-    - bird
-    - droughtTolerant
-
 sun_requirements:
   - "Full Sun"
 
@@ -39,6 +32,14 @@ size:
     height: 
         min: 0.16
         max: 1
+
+tags: 
+    - humboldtNative
+    - butterfly
+    - bee
+    - bird
+    - droughtTolerant
+    - propagationSeedNoTreatment
 
 websites:
     - url: "https://calscape.org/Eschscholzia-caespitosa-(Tufted-Poppy)"
