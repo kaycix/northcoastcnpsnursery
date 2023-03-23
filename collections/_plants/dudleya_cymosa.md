@@ -12,7 +12,7 @@ gardens:
     cnps_demo
         - coastal
 
-humboldt_native: False
+humboldt_native: True
 
 icon: 
     small: 
@@ -37,7 +37,13 @@ size:
         max: 0.5
 
 tags:
+    - humboldtNative
     - container
+    - hummingbird
+    - bird
+    - butterfly
+    - droughtTolerant
+    - deerResistant
  
 websites: 
     - url: "https://calscape.org/loc-California/Dudleya-cymosa-(Canyon-Dudleya)"

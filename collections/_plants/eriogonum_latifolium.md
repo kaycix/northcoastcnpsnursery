@@ -40,11 +40,16 @@ size:
         max: 2.3
 
 tags:  
+    -   humboldtNative
     -   butterfly
     -   bird
     -   bee
     -   beginner
     -   coastal
+    -   groundcover
+    -   bankStabilization
+    -   deerResistant
+    -   propagationSeedNoTreatment
 
 websites:
     - url: https://calscape.org/loc-California/Eriogonum%20latifolium(%20)

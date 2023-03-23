@@ -41,6 +41,11 @@ tags:
     -   humboldtNative
     -   butterfly
     -   bee
+    -   coastal
+    -   groundcover
+    -   droughtTolerant
+    -   lizardTail
+    -   propagationSeedNoTreatment
 
 websites: 
     - url: "https://calscape.org/loc-California/Eriophyllum%20staechadifolium(%20)

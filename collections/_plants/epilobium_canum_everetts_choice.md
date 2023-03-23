@@ -8,7 +8,7 @@ name:
 
 category: perennial herb
 
-humboldt_native: True
+humboldt_native: False
 
 icon: 
     small: 
@@ -34,7 +34,8 @@ size:
         max: 1.3
 
 tags:
-    - humboldtNatibe
+    - cultivar
+    - groundcover
     - butterfly
     - hummingbird
     - bird

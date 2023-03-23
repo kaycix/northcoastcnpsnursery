@@ -42,6 +42,8 @@ tags:
     - bee
     - woodland
     - chaparral
+    - deerResistant
+    - droughtTolerant
 
 websites: 
     - url: "https://calscape.org/loc-California/Eriogonum%20umbellatum(%20)"

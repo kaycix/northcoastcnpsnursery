@@ -40,11 +40,15 @@ size:
 
 tags: 
     - humboldtNative
+    - container
+    - groundcover
     - beginner
     - showy
     - butterfly
     - bee
     - coastal
+    - droughtTolerant
+    - deerResistant
 
 websites:
     - url: "https://calscape.org/Erigeron-glaucus-(Seaside-Fleabane)"

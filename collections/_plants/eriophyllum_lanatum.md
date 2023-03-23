@@ -42,6 +42,9 @@ tags:
     -   humboldtNative
     -   butterfly
     -   bee
+    -   deerResistant
+    -   droughtTolerant
+    -   propagationSeedNoTreatment
 
 websites:
     - url: "https://calscape.org/Common-woolly-sunflower-(Eriophyllum-lanatum)"

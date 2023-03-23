@@ -37,6 +37,10 @@ size:
 
 tags:  
     -   humboldtNative
+    -   bog
+    -   pond
+    -   moisture
+    -   deerResistant
  
 websites: 
     - url: "https://calscape.org/loc-California/Epipactis%20gigantea%20(Stream%20Orchid)"

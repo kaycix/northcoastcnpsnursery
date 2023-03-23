@@ -12,12 +12,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/dichelostemma_capitatum_ssp_capitatum.jpg 
+        url: /assets/images/plants/erythronium_helenae.jpg 
     large: 
-        url: /assets/images/plants/dichelostemma_capitatum_ssp_capitatum_lg.jpg 
+        url: /assets/images/plants/erythronium_helenae_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/1589?srchcr=sc641ca4fb4f1c8
 
 inventory: 
     -   cnps_2023_spring

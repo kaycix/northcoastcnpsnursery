@@ -37,6 +37,7 @@ tags:
     -   butterfly
     -   bee
     -   woodland
+    -   gravellySites
 
 websites:
     - url: https://calscape.org/Eriogonum-compositum-(Arrowleaf-Buckwheat)

@@ -42,6 +42,7 @@ tags:
     -   butterfly
     -   bird
     -   hummingbird
+    -   deerResistant
     -   droughtTolerant 
 ---
 

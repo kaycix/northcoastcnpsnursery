@@ -8,7 +8,7 @@ name:
 
 category: "perennial herb"
 
-humboldt_native: False
+humboldt_native: True
 
 icon: 
     small: 
@@ -36,6 +36,9 @@ tags :
     - bee
     - chaparral
     - woodland
+    - humboldtNative
+    - sandy
+    - gravelly
 
 websites:
     - url: "https://calscape.org/Eriogonum-elatum-()"

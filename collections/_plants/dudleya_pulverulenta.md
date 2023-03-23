@@ -36,6 +36,9 @@ tags:
     - butterfly
     - bird
     - hummingbird
+    - deerResistant
+    - droughtTolerant
+    - propagationSeedNoTreatment
  
 websites: 
     -   url: "https://calscape.org/Dudleya-pulverulenta-(Chalk-Dudleya)"

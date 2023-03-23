@@ -38,6 +38,9 @@ size:
 
 tags:
     - humboldtNative
+    - moisture
+    - riparian
+    - bog
  
 websites:
     - url: "https://calscape.org/loc-California/Erythronium%20revolutum(%20)"

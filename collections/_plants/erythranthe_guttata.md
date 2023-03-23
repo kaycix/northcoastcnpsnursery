@@ -44,8 +44,10 @@ tags:
     - bee
     - bird
     - hummingbird
+    - pond
     - moisture
     - riparian
+    - propagationSeedNoTreatment
 
 websites:
     - url: "https://calscape.org/loc-California/Erythranthe-guttata-(Seep-Monkey-Flower)"

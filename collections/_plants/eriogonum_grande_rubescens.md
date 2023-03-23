@@ -35,6 +35,8 @@ tags:
     -   butterfly
     -   bird
     -   bee
+    -   droughtTolerant
+    - propagationSeedNoTreatment
 
 websites:
     - url: https://calscape.org/Eriogonum-grande-var.-rubescens-(Red-flowered-Buckwheat) 

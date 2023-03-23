@@ -33,6 +33,10 @@ size:
 
 tags: 
     - container
+    - hummingbird
+    - bird
+    - butterfly
+    - droughtTolerant
 
 websites: 
     - url: "https://calscape.org/Dudleya-lanceolata-(Lanceleaf-Liveforever)"
