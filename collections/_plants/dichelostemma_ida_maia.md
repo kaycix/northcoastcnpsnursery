@@ -29,8 +29,12 @@ sun_requirements:
   - "Full Shade"
 
 tags:
-    - butterfly
     - humboldtNative
+    - butterfly
+    - deciduous
+    - droughtTolerant
+    - unique
+    - meadow
 
 size:
     height: 

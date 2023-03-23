@@ -30,6 +30,12 @@ gardens:
 tags:  
     -   humboldtNative
     -   butterfly
+    -   droughtTolerant
+    -   deerResistant
+    -   woodland
+    -   chaparral
+    -   meadow
+    -   propagationSeedNoTreatment
 
 sun_requirements:
   - "Full Sun"

@@ -37,8 +37,11 @@ size:
 
 tags:  
     -   humboldtNative
+    -   bee
     -   butterfly
+    -   droughtTolerant
     -   coastal
+    -   evergreen
  
 websites:
     - url: https://calscape.org/Angelica-hendersonii-() 

@@ -32,7 +32,10 @@ tags:
     -   bee
     -   bird
     -   hummingbird 
+    -   droughtTolerant
     -   beginner
+    -   deerResistant
+    -   chaparral
 
 sun_requirements:
   - "Full Sun"

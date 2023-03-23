@@ -26,6 +26,7 @@ inventory:
 
 tags:  
     -   humboldtNative
+    -   rockyHabitat
 
 sun_requirements:
   - "Part Shade"

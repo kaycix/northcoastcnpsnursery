@@ -42,11 +42,13 @@ tags:
     -   groundcover
     -   border
     -   droughtTolerant
+    -   deerResistant
     -   container
     -   beginner
     -   showy
     -   butterfly
     -   coastal
+    -   propagationSeedNoTreatment
 
 websites:
     - url: "https://calscape.org/Armeria-maritima-()"

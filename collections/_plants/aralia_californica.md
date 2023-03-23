@@ -50,5 +50,7 @@ tags:
     -   bee
     -   moisture
     -   woodland
-    -   propagation_seed_no_treatment
+    -   deciduous
+    -   deerResistant
+    -   propagationSeedNoTreatment
 ---

@@ -33,9 +33,13 @@ tags:
     -   beginner
     -   butterfly
     -   groundcover
+    -   fragrant
+    -   evergreen
+    -   droughtTolerant
     -   edible
     -   woodland
     -   chaparral
+    -   propagationSeedNoTreatment
 
 # this isn't what Calscape says but Chris says:
 sun_requirements:

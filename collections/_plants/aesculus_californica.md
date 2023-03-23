@@ -8,11 +8,11 @@ name:
     common: 
         - California Buckeye
 
-humboldt_native: True
+gardens:
+    cnps_demo:
+        - grassland
 
-tags: 
-    -   humboldtNative
-    -   butterfly 
+humboldt_native: True
 
 inventory: 
     -   cnps_master_inventory
@@ -35,12 +35,17 @@ icon:
     source:
         name: Eugene Zelenko / Calscape
         url: https://calscape.org/photos/82?srchcr=sc63e69fc76bc59 
+
+tags: 
+    -   humboldtNative
+    -   butterfly 
+    -   hedge
+    -   deerResistant
+    -   bankStabilization
+    -   droughtTolerant
+    -   toxicFruit
  
 websites:
     - url : "https://calscape.org/loc-California/Aesculus%20californica(%20)"
       name: "Calscape"
-
-gardens:
-    cnps_demo:
-        - grassland
 ---

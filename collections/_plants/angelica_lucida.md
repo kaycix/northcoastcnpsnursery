@@ -32,6 +32,7 @@ tags:
     -   humboldtNative
     -   butterfly
     -   coastal
+    -   droughTolerant
 
 sun_requirements:
   - "Full Shade"

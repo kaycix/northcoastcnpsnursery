@@ -26,6 +26,10 @@ inventory:
 tags:  
     -   humboldtNative
     -   butterfly
+    -   swallowtail
+    -   deciduous
+    -   deerResistant
+    -   groundcover
 
 sun_requirements:
   - "Part Shade"

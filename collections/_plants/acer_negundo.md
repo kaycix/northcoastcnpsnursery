@@ -40,6 +40,8 @@ tags:
     -   humboldtNative
     -   butterfly
     -   bird
+    -   deerResistant
+    -   moisture
     -   woodland
     -   meadow
 

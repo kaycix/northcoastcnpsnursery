@@ -8,20 +8,19 @@ name:
     common: 
         - Bleeding Heart 
 
-humboldt_native: True
+gardens:
+    cnps_demo:
+        - redwood
+    arcata_marsh:
+    sequoia_park_zoo:
+    trinidad_museum:
+        - woodland
 
-tags: 
-    -   humboldtNative
-    -   butterfly 
-    -   groundcover
-    -   woodland
-    -   lowGrowing
+humboldt_native: True
 
 inventory: 
     -   cnps_2023_spring
     -   cnps_master_inventory
-    -   cnps_2022_spring
-    -   cnps_2022_fall
 
 sun_requirements:
   - "Full Sun"
@@ -41,18 +40,18 @@ icon:
     source:
         name: Steve Matson / Calscape
         url: https://calscape.org/photos/1267?srchcr=sc63e71caba8c3e 
+
+tags: 
+    -   humboldtNative
+    -   butterfly 
+    -   groundcover
+    -   woodland
+    -   deerResistant
+    -   lowGrowing
  
 websites:
     - url : https://calscape.org/loc-California/Dicentra%20formosa(%20) 
       name: "Calscape"
     - url: https://www.calflora.org/app/taxon?crn=2711
       name : "Calflora"
-
-gardens:
-    cnps_demo:
-        - redwood
-    arcata_marsh:
-    sequoia_park_zoo:
-    trinidad_museum:
-        - woodland
 ---

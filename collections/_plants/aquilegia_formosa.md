@@ -51,6 +51,8 @@ tags:
     -   chaparral
     -   woodland
     -   riparian
+    -   deerResistant
+    -   propagationSeedNoTreatment
 
 websites:
     - url: "https://calscape.org/Aquilegia-formosa-(Western-Columbine)"

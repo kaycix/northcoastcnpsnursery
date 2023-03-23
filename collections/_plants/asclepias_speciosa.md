@@ -31,7 +31,6 @@ gardens:
 
 sun_requirements:
   - "Full Sun"
-  - "Part Shade"
 
 size:
     height: 
@@ -48,8 +47,11 @@ websites:
 
 tags:  
     -   humboldtNative
-    -   beginner
     -   butterfly
     -   bird
+    -   deerResistant
     -   taproot
+    -   meadow
+    -   droughtTolerant
+    -   showy
 ---

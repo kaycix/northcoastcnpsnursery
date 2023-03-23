@@ -50,8 +50,12 @@ websites:
 
 tags:  
     -   humboldtNative
+    -   droughtTolerant
+    -   deerResistant
     -   woodland
+    -   chaparral
     -   meadow
     -   butterfly
     -   propagation_seed_no_treatment
+    -   deciduous
 ---

@@ -54,6 +54,8 @@ tags:
     - bird
     - groundcover
     - beginner
+    - droughtTolerant
+    - deerResistant
     - longBlooming
     - meadow
     - medicinal

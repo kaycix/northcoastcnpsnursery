@@ -34,6 +34,8 @@ size:
 
 tags:  
     -   humboldtNative
+    -   butterfly
+    -   evergreen
 
 websites: 
     - url: "https://calscape.org/loc-California/Abies%20grandis(%20)"

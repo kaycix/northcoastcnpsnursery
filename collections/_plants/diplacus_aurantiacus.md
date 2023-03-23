@@ -3,7 +3,7 @@ plant_id: 194
 
 name: 
     common:  
-        - "Bush Monkeyflower"    
+        - "Orange Bush Monkeyflower"    
     scientific: "Diplacus aurantiacus" 
 
 category: shrub
@@ -46,6 +46,10 @@ tags:
     -   bee
     -   hummingbird
     -   hedge
+    -   droughtTolerant
+    -   deerResistant
+    -   chaparral
+    -   woodland
  
 websites: 
     -   url: "https://calscape.org/Mimulus-aurantiacus-(Bush-Monkey-Flower)"

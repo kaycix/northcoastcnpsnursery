@@ -24,10 +24,6 @@ inventory:
     -   cnps_master_inventory
     -   cnps_2023_spring
 
-tags:  
-    -   humboldtNative
-    -   butterfly
-
 gardens:
     trinidad_museum:
         - woodland
@@ -39,6 +35,13 @@ size:
     height: 
         min: 2
         max: 2
+
+tags:  
+    -   humboldtNative
+    -   butterfly
+    -   moisture
+    -   riparian
+    -   propagationSeedNoTreatment
 
 websites:
     - url: "https://calscape.org/Claytonia-sibirica-(Indian-Lettuce,Candy-Flower)"

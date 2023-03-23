@@ -26,6 +26,10 @@ inventory:
 tags:  
     -   humboldtNative
     -   butterfly
+    -   deciduous
+    -   woodland
+    -   droughtTolerant
+    -   deerResistant
 
 sun_requirements:
   - "Part Shade"

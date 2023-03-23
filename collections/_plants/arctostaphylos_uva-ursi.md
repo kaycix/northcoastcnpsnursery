@@ -30,13 +30,6 @@ inventory:
     -   cnps_master_inventory
     -   cnps_2023_spring
 
-tags:  
-    -   humboldtNative
-    -   bee
-    -   bird
-    -   hummingbird
-    -   groundcover
-
 size:
     height: 
         min: 1.6
@@ -46,10 +39,15 @@ sun_requirements:
   - "Full Sun"
   - "Part Shade"
 
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/view.php?pl=347&img=8974"
-#icon: "/assets/images/plants/arctostaphylos_uva_ursi_icon.jpg"
+tags:  
+    -   humboldtNative
+    -   bee
+    -   bird
+    -   hummingbird
+    -   groundcover
+    -   coastal
+    -   droughtTolerant
+    -   deerResistant
 
 websites:
     - url: "https://calscape.org/Arctostaphylos-uva-ursi-(Southern-Kinnikinnick)?srchcr=sc5f503bb4523a4"

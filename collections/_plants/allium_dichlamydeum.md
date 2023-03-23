@@ -32,9 +32,11 @@ tags:
     -   butterfly
     -   bee 
     -   propagation_seed_no_treatment
+    -   dryClaySoil
+    -   seaCliffs
 
 sun_requirements:
-  - "Full Shade"
+  - "Full Sun"
 
 size:
     height: 

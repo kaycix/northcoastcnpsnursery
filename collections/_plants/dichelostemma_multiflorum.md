@@ -34,6 +34,10 @@ size:
 
 tags: 
     - humboldtNative
+    - deciduous
+    - butterfly
+    - meadow
+    - droughtTolerant
 
 websites:
     - url: "https://calscape.org/loc-California/Dichelostemma%20multiflorum(%20)"

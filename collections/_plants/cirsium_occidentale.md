@@ -3,16 +3,16 @@ plant_id: 165
 
 category: perennial herb
 
+gardens:
+    cnps_demo:
+        - grassland
+
 name: 
     scientific: cirsium occidentale
     common:  
         - Cobweb Thistle 
 
 humbolt_native: True
-
-tags: 
-    -   humboldtNative
-    -   butterfly 
 
 inventory: 
     -   cnps_master_inventory
@@ -40,7 +40,8 @@ websites:
     - url : "https://calscape.org/Cirsium-occidentale-()" 
       name: "Calscape"
 
-gardens:
-    cnps_demo:
-        - grassland
+tags: 
+    -   humboldtNative
+    -   butterfly 
+    -   deerResistant
 ---

@@ -41,6 +41,9 @@ tags:
     -   bird
     -   bee 
     -   droughtTolerant
+    -   deerResistant
+    -   groundcover
+    -   slopes
     -   beginner
     -   coastal
     -   chapparal

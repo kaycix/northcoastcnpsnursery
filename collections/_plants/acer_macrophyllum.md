@@ -27,11 +27,13 @@ tags:
     -   humboldtNative
     -   bird
     -   butterfly
+    -   deciduous
+    -   moisture
+    -   deerResistant
 
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
-# min then max in feet
 
 size:
     height: 

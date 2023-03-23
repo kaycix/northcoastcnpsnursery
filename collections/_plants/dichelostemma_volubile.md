@@ -35,6 +35,9 @@ size:
     height: 
         min: 2.3
         max: 2.3
+
+tags: 
+    - butterfly
  
 websites:
     - url: https://calscape.org/loc-California/Dichelostemma%20volubile(%20)

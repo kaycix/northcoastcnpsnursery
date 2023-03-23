@@ -37,6 +37,11 @@ size:
 tags:  
     -   humboldtNative
     -   moisture
+    -   bog
+    -   pond
+    -   groundcover
+    -   deerResistant
+    -   propagationSeedNoTreatment
 
 websites:
     - url: https://calscape.org/Anemopsis-californica-() 

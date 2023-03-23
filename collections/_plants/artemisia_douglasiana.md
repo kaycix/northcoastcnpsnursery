@@ -25,7 +25,6 @@ icon:
 inventory: 
     -   cnps_2023_spring
     -   cnps_master_inventory
-    -   cnps_2022_fall
 
 sun_requirements:
   - "Full Sun"
@@ -41,6 +40,7 @@ tags:
     -   humboldtNative
     -   butterfly
     -   bird
+    -   deerResistant
     -   groundcover
     -   riparian
     -   chaparral
@@ -52,9 +52,3 @@ websites:
     - url: "https://calscape.org/loc-California/Artemisia%20douglasiana(%20)" 
       name: "Calscape"
 ---
-
-
-
-
-
-

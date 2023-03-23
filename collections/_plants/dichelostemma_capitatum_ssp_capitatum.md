@@ -8,15 +8,15 @@ name:
     common:  
         - Blue Dicks 
 
+gardens:
+    cnps_demo:
+        - riparian
+
 humboldt_native: True
 
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_spring
-
-tags: 
-    -   humboldtNative
-    -   lowGrowing
 
 sun_requirements:
   - "Full Sun"
@@ -35,13 +35,18 @@ icon:
     source:
         name: Steve Matson / Calscape
         url: https://calscape.org/view.php?pl=1272&img=2747 
- 
+
+tags: 
+    -   humboldtNative
+    -   lowGrowing
+    -   droughtTolerant
+    -   butterfly
+    -   deerResistant
+    -   groundCover
+    -   meadow
+    -   chaparral 
  
 websites:
     - url : https://calscape.org/Dichelostemma-capitatum-() 
       name: Calscape
-
-gardens:
-    cnps_demo:
-        - riparian
 ---

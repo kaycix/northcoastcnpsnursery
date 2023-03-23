@@ -26,7 +26,9 @@ inventory:
 
 tags:  
     -   humboldtNative
+    -   bird
     -   butterfly
+    -   germinatesEasily
 
 sun_requirements:
   - "Full Sun"
