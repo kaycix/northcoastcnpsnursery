@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/triteleia_hendersonii_lg.jpg 
     source: 
-        name:
-        url:
+        name: Dianne Fristrom / Calphotos
+        url: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0900+0081
 
 inventory: 
     -   cnps_2023_spring

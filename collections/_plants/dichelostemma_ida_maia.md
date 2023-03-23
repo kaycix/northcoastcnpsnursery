@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/dichelostemma_ida_maia_lg.jpg 
     source: 
-        name:
-        url:
+        name: Steve Maton / Calscape
+        url: https://calscape.org/photos/1274?srchcr=sc641b3c240338b
 
 inventory: 
     -   cnps_2023_spring

@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/hastingsia_alba_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/1813?srchcr=sc641b3e4e2ac1f
 
 inventory: 
     -   cnps_2023_spring

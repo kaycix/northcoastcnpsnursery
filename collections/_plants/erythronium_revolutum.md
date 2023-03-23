@@ -20,8 +20,8 @@ icon:
     large: 
         url: /assets/images/plants/erythronium_revolutum_lg.jpg
     source: 
-        name:
-        url:
+        name:  Steve Matson / Calscape
+        url: https://calscape.org/photos/1598?srchcr=sc641b4f4c8f536
 
 inventory: 
     -   cnps_2023_spring

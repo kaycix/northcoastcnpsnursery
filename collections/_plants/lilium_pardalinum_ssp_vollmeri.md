@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/lilium_pardalinum_ssp_vollmeri_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/2196?srchcr=sc641b4ffe70ac6
 
 inventory: 
     -   cnps_2023_spring

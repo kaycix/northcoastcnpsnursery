@@ -20,8 +20,8 @@ icon:
     large: 
         url: /assets/images/plants/lilium_columbianum_lg.jpg 
     source: 
-        name:
-        url:
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/2185?srchcr=sc641b3ae96dd2c
 
 inventory: 
     -   cnps_2023_spring

@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/dudleya_abramsii_ssp_murina_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Terrence Gosliner / Calflora
+        url: https://www.calflora.org/app/taxon?crn=2831 
 
 inventory: 
     -   cnps_master_inventory

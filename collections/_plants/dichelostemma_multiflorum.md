@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/dichelostemma_multiflorum_lg.png
     source: 
-        name:
-        url:
+        name: Julie Ann Kierstead / Calscape
+        url: https://calscape.org/photos/1275?srchcr=sc641b3c682154f
 
 inventory: 
     -   cnps_2023_spring

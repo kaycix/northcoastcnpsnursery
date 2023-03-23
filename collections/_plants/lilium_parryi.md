@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/lilium_parryi_lg.jpg
     source: 
-        name: 
-        url: 
+        name: Keir Morse / Calphotos 
+        url: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0715+1866
 
 inventory: 
     -   cnps_2023_spring
