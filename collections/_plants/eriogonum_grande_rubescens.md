@@ -6,7 +6,7 @@ name:
         - "Red-flowered Buckwheat"  
     scientific:  "Eriogonum grande rubescens"   
 
-type: "perennial herb"
+category: "perennial herb"
 
 humboldt_native: False
 
