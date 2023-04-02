@@ -132,7 +132,7 @@ feature_row:
                 </div>
             </div>
             <div class="clear"></div>
-            <a href="" style="font-size: 0.9em">Browse More Categories..</a>
+            <a href="" style="font-size: 0.9em; display:none;">Browse More Categories..</a>
         </div>
         <div class="clear"></div>
     </div>

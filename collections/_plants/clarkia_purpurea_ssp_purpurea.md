@@ -13,8 +13,18 @@ gardens:
 
 humboldt_native: False
 
+icon: 
+    small: 
+        url: /assets/images/plants/clarkia_purpurea_ssp_purpurea.jpg
+    large: 
+        url: /assets/images/plants/clarkia_purpurea_ssp_purpurea_lg.jpg
+    source:
+        name: John Doyen / Calscape
+        url: https://calscape.org/photos/1041?srchcr=sc6428eaefa9301 
+
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2023_spring
 
 sun_requirements:
   - "Full Sun"
@@ -23,12 +33,6 @@ size:
     height: 
         min: 3.3
         max: 3.3
-
-#icon_attribution: 
-#    name: "Calflora"
-#    url: "https://www.calflora.org/entry/occdetail.html?seq_num=po90161"
-#icon: "/assets/images/plants/clarkia_purpurea_ssp_purpurea_icon.jpg" 
-
 
 websites:
     - url: "https://calscape.org/Clarkia-purpurea-ssp.-purpurea-(Winecup-Clarkia)"

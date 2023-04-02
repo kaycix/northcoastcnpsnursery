@@ -11,13 +11,13 @@ category: "perennial herb"
 humboldt_native: False
 
 icon: 
-    small: 
-        url: /assets/images/plants/lilium_pardalinum_giganteum.jpg
-    large: 
-        url: /assets/images/plants/lilium_pardalinum_giganteum_lg.jpg
-    source: 
-        name: 
-        url: 
+#    small: 
+#        url: # /assets/images/plants/lilium_pardalinum_giganteum.jpg
+#    large: 
+#        url: #/assets/images/plants/lilium_pardalinum_giganteum_lg.jpg
+#    source: 
+#        name: 
+#        url: 
 
 inventory: 
     -   cnps_2023_spring

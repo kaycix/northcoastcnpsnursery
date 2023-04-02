@@ -29,6 +29,7 @@ gardens:
         - redwood
 
 tags:  
+    -   bulb
     -   butterfly
     -   bee 
     -   propagation_seed_no_treatment
