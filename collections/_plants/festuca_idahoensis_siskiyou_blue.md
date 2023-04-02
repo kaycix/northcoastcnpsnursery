@@ -29,8 +29,8 @@ sun_requirements:
 
 size:
     height: 
-        - 1
-        - 1.5 
+        min: 1
+        max: 1.5 
 
 websites: 
      -  name: "Theodore  Payne Foundation"

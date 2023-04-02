@@ -4,9 +4,9 @@ plant_id: AB
 category: annual herb
 
 name: 
-    scientific: TBD
+    scientific: "Clarkia amoena, Clarkia purpurea ssp. purpurea, Collinsia heterophylla, Layia platyglossa, Lupinus nanus, Nemophila maculata, Nemophila menziesii"
     common:
-        - Annual Bowls (TBD)
+        - Annual Bowls
 
 inventory: 
     -   cnps_2023_spring

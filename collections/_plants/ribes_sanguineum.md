@@ -36,7 +36,6 @@ sun_requirements:
 tags:  
     -   humboldtNative
     -   earlyBloomer
-    -   lowGrowing
     -   woodland
     -   butterfly
     -   bee

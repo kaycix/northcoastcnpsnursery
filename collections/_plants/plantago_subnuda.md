@@ -20,8 +20,8 @@ icon:
     large: 
         url: /assets/images/plants/plantago_subnuda_lg.jpg
     source: 
-        name: 
-        url: 
+        name: Julie Ann Kierstead / Calflora 
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mu25416
 
 inventory: 
     -   cnps_2023_spring

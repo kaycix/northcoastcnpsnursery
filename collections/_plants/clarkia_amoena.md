@@ -17,10 +17,10 @@ inventory:
     -   cnps_2023_spring
     -   cnps_master_inventory
 
-plant_size:
-  - height: 
-    - 1.5
-    - 3.3
+size:
+    height: 
+        min: 1.5
+        max: 3.3
 
 sun_requirements:
   - "Full Sun"

@@ -30,7 +30,7 @@ sun_requirements:
   - "Full Sun"
 
 size:
-  - height: 
+    height: 
         min: 3.3
         max: 3.3
 

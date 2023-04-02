@@ -27,10 +27,10 @@ inventory:
 sun_requirements:
   - "Part Shade"
 
-plant_size:
+size:
     height: 
-        size: 13
-        size: 24
+        min: 13
+        max: 24
 
 # height at: http://sfplantfinder.org/index.html?choice=SF%20Natives
 
