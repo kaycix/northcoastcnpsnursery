@@ -37,6 +37,8 @@ tags:
     -   butterfly
     -   bee
     -   bird
+    -   deerResistant
+    -   droughtTolerant
  
 websites:
     - url:  "https://calscape.org/Lupinus-albifrons-()"

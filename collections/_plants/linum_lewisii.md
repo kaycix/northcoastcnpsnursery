@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/linum_lewisii_lg.jpg
     source: 
-        name: 
-        url: 
+        name: Steve Matson / Calscape 
+        url: https://calscape.org/photos/2228?srchcr=sc642a2d0bca0bf
 
 inventory: 
     -   cnps_master_inventory
@@ -37,12 +37,6 @@ bloom_calendar:
     - 6 #june
     - 7 #july
     - 8 #aug
-
-icon_attribution: 
-    name: "Calscape"
-    url: "https://calscape.org/view.php?pl=2228&img=17633"
-icon: "/assets/images/plants/linum_lewisii_icon.jpg" 
-
 
 tags:
     - humboldtNative
