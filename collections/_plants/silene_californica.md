@@ -10,6 +10,19 @@ name:
 
 humbolt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/silene_californica.jpg 
+    large: 
+        url: /assets/images/plants/silene_californica_lg.jpg 
+    source: 
+        name: Brad Kelley / Calflora
+        url: https://www.calflora.org/app/taxon?crn=7590 
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2023_spring
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
@@ -25,15 +38,6 @@ bloom_calendar:
     - 6 #june
     - 7 #july
 
-icon: 
-    small: 
-        url: /assets/images/plants/silene_californica.jpg 
-    large: 
-        url: /assets/images/plants/silene_californica_lg.jpg 
-    source: 
-        name: Brad Kelley / Calflora
-        url: https://www.calflora.org/app/taxon?crn=7590 
-
 websites:
     - url: "https://calscape.org/loc-California/Silene-laciniata-ssp.-californica-(Cardinal-Catchfly)"
       name: "Calscape"
@@ -44,14 +48,9 @@ gardens:
     cnps_demo:
         - redwood
 
-inventory: 
-    -   cnps_master_inventory
-    -   cnps_2022_fall
-    -   cnps_2022_spring
-
 tags:  
     -   humboldtNative
-    -   droughTolerant
+    -   droughtTolerant
     -   butterfly
     -   lowGrowing
     -   woodland

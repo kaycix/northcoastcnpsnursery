@@ -15,9 +15,9 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/potentilla_anserina_ssp_pacific.jpg 
+        url: /assets/images/plants/potentilla_anserina_ssp_pacifica.jpg 
     large: 
-        url: /assets/images/plants/potentilla_anserina_ssp_pacific_lg.jpg 
+        url: /assets/images/plants/potentilla_anserina_ssp_pacifica_lg.jpg 
     source: 
         name: 
         url: 
