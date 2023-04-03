@@ -21,8 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
-    -   cnps_2022_fall
-    -   cnps_2022_spring
+    -   cnps_2023_spring
 
 tags:  
     -   humboldtNative
@@ -30,7 +29,12 @@ tags:
     -   butterfly
     -   bee
     -   bird
+    -   bankStabilization
+    -   deerResistant
+    -   groundcover
 #   -   quail
+    -   chaparral
+    -   droughtTolerant
 
 sun_requirements:
   - "Full Sun"

@@ -1,7 +1,7 @@
 ---
 plant_id: 195 
 
-type: shrub
+category: shrub
 
 name: 
     scientific: garrya elliptica 
@@ -25,11 +25,6 @@ gardens:
 
 humbolt_native: True
 
-native_to: "Humboldt"
-
-habitats : 
-    -   coastal
-
 icon: 
      small: 
         url: "/assets/images/plants/garrya_elliptica.jpeg"
@@ -42,7 +37,12 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
-    -   cnps_2022_spring
+    -   cnps_2023_spring
+
+native_to: "Humboldt"
+
+habitats : 
+    -   coastal
 
 sun_requirements:
   - "Full Sun"
