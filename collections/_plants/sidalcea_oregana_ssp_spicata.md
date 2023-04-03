@@ -32,7 +32,7 @@ size:
         max: 5
 
 tags:
-    - humboldtNAtive
+    - humboldtNative
     - bird
     - butterfly
     - riparian
@@ -40,7 +40,5 @@ tags:
 
 websites: 
     - url: "https://calscape.org/Sidalcea-oregana-ssp.-spicata-(Spicate-Checker-Mallow)"
-    name: Calscape
+      name: Calscape
 ---
-
-

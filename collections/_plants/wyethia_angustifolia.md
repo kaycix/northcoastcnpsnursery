@@ -1,0 +1,48 @@
+---
+plant_id: 257 
+
+name: 
+    common: 
+        - "Narrow Leaf Mule Ears" 
+    scientific: "Wyethia angustifolia"   
+
+category: "perennial herb"
+
+humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/wyethia_angustifolia.jpg 
+    large: 
+        url: /assets/images/plants/wyethia_angustifolia_lg.jpg 
+    source: 
+        name:  
+        url: 
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2023_spring
+
+sun_requirements:
+  - "Full Sun"
+
+size:
+    height: 
+        min: 3
+        max: 3 
+
+tags:
+    - humboldtNative
+    - butterfly
+ 
+websites:
+    - url: "https://calscape.org/Wyethia-angustifolia-(Narrow-Leaf-Mule-Ears)"
+      name: Calscape
+---
+
+
+
+
+
+
+

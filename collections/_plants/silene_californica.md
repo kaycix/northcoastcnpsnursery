@@ -1,7 +1,8 @@
 ---
 plant_id: 244 
 
-category: annual herb
+# also listed as an annual in calscape
+category: perennial herb
 
 name: 
     scientific: silene californica

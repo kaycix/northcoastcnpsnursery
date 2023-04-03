@@ -61,10 +61,3 @@ websites:
     - url: "https://calscape.org/Sidalcea-malviflora-()" 
       name: "Calscape"
 ---
-
-
-
-
-
-
-

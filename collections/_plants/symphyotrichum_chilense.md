@@ -1,0 +1,51 @@
+---
+plant_id: 89
+
+name: 
+    common: 
+        - "California Aster" 
+    scientific:  "Symphyotrichum Chilense"  
+
+category: "perennial herb"
+
+gardens: 
+    arcata_community_center:
+
+humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/symphyotrichum_chilense.jpg
+    large: 
+        url: /assets/images/plants/symphyotrichum_chilense_lg.jpg
+    source: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/445?srchcr=sc642a5225542e6
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2023_spring
+
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+
+size:
+    height: 
+        min: 1.3
+        max: 3.3
+
+tags:
+    - humboldtNative
+    - butterfly
+    - bee
+    - bird
+    - beginner
+    - deerResistant
+    - droughtTolerant
+
+websites: 
+    - url: "https://calscape.org/Symphyotrichum-chilense-(California-Aster)"
+      name: Calscape
+---
+
