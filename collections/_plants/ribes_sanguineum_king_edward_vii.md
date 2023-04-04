@@ -12,11 +12,11 @@ humboldt_native: False
 
 icon: 
      small: 
-        url: /assets/images/plants/ribes_sanguineum.jpg
+      #  url: /assets/images/icons/empty-plant.jpg
      large: 
-        url: /assets/images/plants/ribes_sanguineum_lg.jpg
+      #  url: /assets/images/icons/empty-plant_lg.jpg
      source: 
-        name: Barbara
+        name: 
         url: 
 
 inventory: 

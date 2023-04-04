@@ -136,15 +136,16 @@ feature_row:
 </div>
 {% include feature_row %}
 
-<div class="thanks-block" style="display:none">
+<div class="thanks-block" style="background-image:url('/assets/images/backgrounds/flower-medley.png'); background-color: #333; color: #FFF; background-repeat:no-repeat; padding-top: 120px; background-position: top">
     <h1>Thank You</h1>
-    <div style="display:none">
-    <p>We want to send huge thank yous to everyone who supports us in some way.</p>
-    <p>Thank you to those of you who shop our sales. From those of you rewilding entire yards, to those of you tending small native plants on your balcony, we appreciate you eco-warriors! We all do what we can and every little bit helps.</p>
-    <p>We appreciate the nurseries and vendors that we partner with and the community of sharing and support you offer us. We feel so lucky to be working alongside you.</p>
+    <div>
+    <p>Thank you to everyone who shops our sales. From those of you rewilding entire yards to those of you tending a few native plants on your balcony, we are so proud to be eco-warriors alongside you. Your stories never fail to inspire us.</p>
+    <p>We appreciate the nurseries and vendors that we partner with and the community of sharing and support you offer us. We feel so lucky to be working with such passionate people.</p>
     <p>Thank you to nursery managers Chris and Barbara for your tireless efforts and countless hours of hard work. We couldn't ask for more dedicated leaders.</p>
-    <p>Thank you to all our nursery volunteers. Whether you have volunteered for one hour or many more, we appreciate you! This has been a particularly long winter but seeing everyone show up, ready to work in the cold mornings warms our hearts: 
-    Alice, Andrea, Anita, Barbara, Bobby, Brian, Callie, Carol, Charlie, Chris, Christine, Dino, Emily, Hannah, Kate, Kellie, Kevin, Jessi, Jessica, June, Matt, Marcia, Rebecca, Sam, Sharon, Steph, Steve, Trey, Victoria
+    <p>Lastly, huge thank yous to all our nursery and garden volunteers. Whether you have volunteered for one hour or many more, we appreciate you! This has been a particularly long winter but seeing everyone show up, ready to work in the cold mornings warms our hearts. 
+    </p>
+    <p>
+    Thank you for being with us on this journey to spread native plants and protect biodiversity!
     </p>
     </div>
 </div>
