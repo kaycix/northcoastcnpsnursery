@@ -12,12 +12,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/
+        url: /assets/images/plants/heracleum_maximum.jpg
     large: 
-        url: /assets/images/plants/
+        url: /assets/images/plants/heracleum_maximum_lg.jpg
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/1857?srchcr=sc642c742a35c6c
 
 inventory: 
     -   cnps_master_inventory

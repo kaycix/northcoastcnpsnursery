@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/pseudotsuga_menziesii_lg.jpg 
     source: 
-        name:
-        url:
+        name: Julie Ann Kierstead / Calscape
+        url: https://calscape.org/photos/3107?srchcr=sc642c77bda3faf
 
 inventory: 
     -   cnps_master_inventory

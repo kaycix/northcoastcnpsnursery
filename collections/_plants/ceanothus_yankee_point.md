@@ -32,7 +32,7 @@ tags:
 #icon: ""
 
 websites:
-    - url: "https://calscape.org/loc-California/Ceanothus%20thyrsiflorus%20var.%20griseus%20‘Yankee%20Point’(%20)"
+    - url: "https://calscape.org/loc-California/Yankee%20Point%20Carmel%20Ceanothus%20(Ceanothus%20thyrsiflorus%20var.%20griseus%20%27Yankee%20Point%27)?newsearch=1"
       name: "Calscape"
 ---
 

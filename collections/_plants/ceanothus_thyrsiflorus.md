@@ -17,6 +17,15 @@ gardens:
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/ceanothus_thyrsiflorus.jpg 
+    large: 
+        url: /assets/images/plants/ceanothus_thyrsiflorus_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape
+        url: https://calscape.org/photos/912?srchcr=sc642c7050ef4ac 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_spring
@@ -29,11 +38,6 @@ size:
     height: 
         min: 2
         max: 30
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.com/ExtData/allimages/900/Ceanothus_thyrsiflorus_900_64.jpg"
-#icon: "/assets/images/plants/ceanothus_thyrsiflorus_icon.jpg"
 
 tags: 
     - humboldtNative

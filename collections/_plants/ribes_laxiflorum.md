@@ -12,12 +12,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/
+        url: /assets/images/plants/ribes_laxiflorum.jpg
     large: 
-        url: /assets/images/plants/
+        url: /assets/images/plants/ribes_laxiflorum_lg.jpg
     source: 
-        name:
-        url:
+        name: Tristan K Cole / Calflora 
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=io10003
 
 inventory: 
     -   cnps_master_inventory

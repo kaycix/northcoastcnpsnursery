@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/ribes_aureum_var_gracillimum_lg.jpg
     source: 
-        name: 
-        url: 
+        name: Calscape 
+        url: https://calscape.org/photos/3212?srchcr=sc642c78f530e8d
 
 inventory: 
     -   cnps_master_inventory

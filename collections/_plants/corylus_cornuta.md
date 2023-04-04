@@ -10,6 +10,15 @@ category: "shrub"
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/corylus_cornuta.jpg 
+    large: 
+        url: /assets/images/plants/corylus_cornuta_lg.jpg 
+    source: 
+        name: Steve Matson / Calscape
+        url: https://calscape.org/photos/1123?srchcr=sc642c715404933 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_spring

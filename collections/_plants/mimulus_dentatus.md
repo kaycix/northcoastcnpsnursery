@@ -13,12 +13,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/
+        url: /assets/images/plants/mimulus_dentatus.jpg
     large: 
-        url: /assets/images/plants/
+        url: /assets/images/plants/mimulus_dentatus_lg.jpg
     source: 
-        name: 
-        url: 
+        name: Gerald and Buff Corsi © California Academy of Sciences / Calphotos 
+        url: https://www.calflora.org/app/taxon?crn=5506 
 
 inventory: 
     -   cnps_master_inventory

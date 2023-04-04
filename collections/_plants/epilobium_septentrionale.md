@@ -12,14 +12,14 @@ gardens:
 
 humboldt_native: True
 
-#icon: 
-#    small: 
-#        url: /assets/images/plants/epilobium_septentrionale.jpg 
-#    large: 
-#        url: /assets/images/plants/epilobium_septentrionale_lg.jpg 
-#    source: 
-#        name: ""
-#        url: ""
+icon: 
+    small: 
+        url: /assets/images/plants/epilobium_septentrionale.jpg 
+    large: 
+        url: /assets/images/plants/epilobium_septentrionale_lg.jpg 
+    source: 
+        name: "Robert Potts © California Academy of Sciences / Calphotos"
+        url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=9189+3301+3541+0129"
 
 inventory: 
     -   cnps_2023_spring

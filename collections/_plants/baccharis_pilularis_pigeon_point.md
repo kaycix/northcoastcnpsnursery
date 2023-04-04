@@ -44,7 +44,7 @@ gardens:
 size:
     height: 
         min: 1
-        max: 5
+        max: 2
 
 websites:
     - url: 

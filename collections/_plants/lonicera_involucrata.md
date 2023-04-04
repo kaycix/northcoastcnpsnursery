@@ -18,12 +18,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/lonicera_involucrat.jpg     
+        url: /assets/images/plants/lonicera_involucrata.jpg     
     large: 
-        url: /assets/images/plants/lonicera_involucrat_lg.jpg 
+        url: /assets/images/plants/lonicera_involucrata_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/2276?srchcr=sc642c7522d26ac
 
 inventory: 
     -   cnps_master_inventory

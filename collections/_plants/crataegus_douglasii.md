@@ -10,6 +10,15 @@ category: "shrub"
 
 humboldt_native: True
 
+icon: 
+    small: 
+        url: /assets/images/plants/crataegus_douglasii.jpg 
+    large: 
+        url: /assets/images/plants/crataegus_douglasii_lg.jpg 
+    source: 
+        name: John Malpas / Calscape
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mg18678
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_spring
@@ -22,11 +31,6 @@ size:
     height: 
         min: 15
         max: 15
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.org/view.php?pl=1140&img=12381"
-#icon: "/assets/images/plants/crataegus_douglasii_icon.jpg"
 
 tags:  
     -   humboldtNative

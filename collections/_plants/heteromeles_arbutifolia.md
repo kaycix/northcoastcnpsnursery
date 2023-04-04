@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/heteromeles_arbutifolia_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Calscape 
+        url: https://calscape.org/photos/1865?srchcr=sc642c74b6bd1aa
 
 inventory: 
     -   cnps_master_inventory
