@@ -17,12 +17,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/
+        url: /assets/images/plants/scrophularia_californica.jpg
     large: 
-        url: /assets/images/plants/
+        url: /assets/images/plants/scrophularia_californica_lg.jpg
     source: 
-        name: 
-        url: 
+        name: John Doyen / Calscape 
+        url: https://calscape.org/photos/3438?srchcr=sc642c7ba3b2362
 
 inventory: 
     -   cnps_master_inventory

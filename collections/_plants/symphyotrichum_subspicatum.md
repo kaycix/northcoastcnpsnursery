@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/symphyotrichum_subspicatum_lg.jpg 
     source: 
-        name:  
-        url: 
+        name: Al Keuter / CalPhotos 
+        url: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0613+0392
 
 inventory: 
     -   cnps_master_inventory

@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/rubus_leucodermis_lg.jpg
     source: 
-        name: 
-        url: 
+        name: Julie Ann Kierstead / Calscape
+        url: https://calscape.org/photos/3281?srchcr=sc642c7a929682e 
 
 inventory: 
     -   cnps_master_inventory

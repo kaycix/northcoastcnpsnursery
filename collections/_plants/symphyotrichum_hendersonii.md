@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/symphyotrichum_hendersonii_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Dana York / Calflora 
+        url: https://www.calflora.org/entry/occdetail.html?seq_num=mu26500
 
 inventory: 
     -   cnps_master_inventory
