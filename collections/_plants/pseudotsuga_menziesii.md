@@ -1,0 +1,42 @@
+---
+plant_id: 255 
+
+category: tree
+
+name: 
+    common: 
+        - "Douglas Fir" 
+    scientific: "Pseudotsuga menziesii"  
+
+humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/pseudotsuga_menziesii.jpg
+    large: 
+        url: /assets/images/plants/pseudotsuga_menziesii_lg.jpg 
+    source: 
+        name:
+        url:
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2023_spring
+
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+
+size:
+    height: 
+        min: 40 
+        max: 246
+
+tags:
+    - humboldtNative
+    - butterfly
+ 
+websites: 
+    - url: "https://calscape.org/Pseudotsuga-menziesii-(Douglas-Fir)"
+      name: Calscape
+---

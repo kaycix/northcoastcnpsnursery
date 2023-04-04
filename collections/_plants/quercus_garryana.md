@@ -41,10 +41,3 @@ websites:
     - url: https://calscape.org/Quercus-garryana-() 
       name: "Calscape"
 ---
-
-
-
-
-
-
-

@@ -1,0 +1,48 @@
+---
+plant_id: 77
+
+name: 
+    common: 
+        - "Salmon Berry"   
+    scientific: "Rubus Spectabilis" 
+
+category: "shrub"
+
+gardens:
+    trinidad_museum:
+        - coastal
+
+humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/rubus_spectabilis.jpg
+    large: 
+        url: /assets/images/plants/rubus_spectabilis_lg.jpg
+    source: 
+        name: 
+        url: 
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2023_spring
+
+sun_requirements:
+  - "Full Shade"
+
+size:
+    height: 
+        min: 3.3
+        max: 13.1
+
+tags:
+    - humboldtNative
+    - butterfly
+    - bird
+    - edible
+ 
+websites: 
+    - url: "https://calscape.org/Rubus-spectabilis-(Salmon-Berry)"
+      name: Calscape
+---
+

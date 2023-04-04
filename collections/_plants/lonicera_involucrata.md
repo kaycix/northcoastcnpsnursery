@@ -1,15 +1,15 @@
 ---
-plant_id: 66
+plant_id: 53
 
 name: 
     common: 
-        - "Pacific Ninebark"    
-    scientific:  "Physocarpus capitatus"   
-
+        - "Twinberry"  
+    scientific: "Lonicera Involucrata" 
+ 
 category: "shrub"
 
 gardens: 
-    arcata_marsh:
+    suemeg:
     trinidad_museum:
         - coastal
     sequoia_park_zoo:
@@ -18,9 +18,9 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/physocarpus_capitatus.jpg
+        url: /assets/images/plants/lonicera_involucrat.jpg     
     large: 
-        url: /assets/images/plants/physocarpus_capitatus_lg.jpg
+        url: /assets/images/plants/lonicera_involucrat_lg.jpg 
     source: 
         name: 
         url: 
@@ -29,21 +29,23 @@ inventory:
     -   cnps_master_inventory
     -   cnps_2023_spring
 
+size:
+    height: 
+        min: 1.6
+        max: 16.4
+
 sun_requirements:
   - "Full Sun"
   - "Part Shade"
 
-size:
-    height: 
-        min: 3.3
-        max: 8.2
-
-tags: 
+tags:
     - humboldtNative
     - butterfly
-
+    - bird
+    - hummingbird
+ 
 websites: 
-    - url: "https://calscape.org/loc-California/Physocarpus%20capitatus(%20)"
+    - url: "https://calscape.org/loc-California/Lonicera%20involucrata(%20)"
       name: Calscape
 ---
 

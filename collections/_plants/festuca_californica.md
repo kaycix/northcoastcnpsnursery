@@ -27,7 +27,6 @@ inventory:
     -   cnps_master_inventory
     -   cnps_2023_spring
 
-
 categories: [
         humboldt_county_native
         #wildlife

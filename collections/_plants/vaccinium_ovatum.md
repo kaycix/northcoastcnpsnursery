@@ -16,7 +16,6 @@ tags:
     -   butterfly 
 
 inventory: 
-    -   cnps_2023_spring
     -   cnps_master_inventory
 
 sun_requirements:

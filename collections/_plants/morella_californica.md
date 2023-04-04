@@ -26,7 +26,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
-    -   cnps_2023_spring
+    #-   cnps_2023_spring ONLY 5, DO NOT LIST
 
 sun_requirements:
   - "Full Sun"
