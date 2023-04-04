@@ -3,9 +3,6 @@ permalink: /sale/
 layout: splash
 # tried to inherit from sale layout which inherited from splash layout but splash layout was called first? resulting in blanks where sale defined variables
 
-banner:
-    excerpt: Spring sale pages are under construction and shared to a limited audience. Please don't share publicly. 
-
 classes: wide spring-sale
 
 title: <a href="/sale/">Spring Native Plant Sale</a> 
