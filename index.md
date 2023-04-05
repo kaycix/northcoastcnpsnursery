@@ -19,7 +19,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #
 
 plant_spotlight_id: 73 
-plant_spotlight_title: March
+plant_spotlight_title: 
 
 feature_row:
   - image_path: /assets/images/sale-feature.jpg
