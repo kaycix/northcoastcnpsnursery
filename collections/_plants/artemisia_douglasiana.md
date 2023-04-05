@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/artemisia_douglasiana_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen
         url: https://calscape.org/photos/400?srchcr=sc640785b4ce5ce 
 
 inventory: 

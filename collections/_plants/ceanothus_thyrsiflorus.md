@@ -23,7 +23,7 @@ icon:
     large: 
         url: /assets/images/plants/ceanothus_thyrsiflorus_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/912?srchcr=sc642c7050ef4ac 
 
 inventory: 

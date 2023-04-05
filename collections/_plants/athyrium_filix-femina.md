@@ -28,7 +28,7 @@ icon:
     large: 
         url: /assets/images/plants/athyrium_filix_femina_lg.jpg
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/469?srchcr=sc63e6aab1cd0be 
 
 sun_requirements:

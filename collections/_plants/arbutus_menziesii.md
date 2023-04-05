@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/arbutus_menziesii_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/285?srchcr=sc64078284765a2 
 
 inventory: 

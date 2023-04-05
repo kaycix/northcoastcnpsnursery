@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/acer_negundo_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/42?srchcr=sc6406b208e3ace 
 
 inventory: 

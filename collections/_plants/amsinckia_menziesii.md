@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/amsinckia_menziesii_lg.jpg 
     source: 
-        name: Ron Vanderhoff / Calflora
+        name: Ron Vanderhoff 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mu13475 
 
 inventory: 

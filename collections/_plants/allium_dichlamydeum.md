@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/allium_dichlamydeum_lg.jpg 
     source: 
-        name: Paul Hankamp / Calflora
+        name: Paul Hankamp 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=gp15806 
 
 

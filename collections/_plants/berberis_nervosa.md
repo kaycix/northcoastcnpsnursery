@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/berberis_nervosa_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/535?srchcr=sc64078c130ac63 
 
 inventory: 

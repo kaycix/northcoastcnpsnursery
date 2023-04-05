@@ -17,7 +17,7 @@ icon:
     large: 
         url: /assets/images/plants/calandrinia_menziesii_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/633?srchcr=sc6407983b40a4a 
 
 inventory: 

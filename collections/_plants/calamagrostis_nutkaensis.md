@@ -23,7 +23,7 @@ icon:
     large: 
         url: /assets/images/plants/calamagrostis_nutkaensis_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/627?srchcr=sc640797dd4d708 
 
 inventory: 

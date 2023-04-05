@@ -37,7 +37,7 @@ icon:
     large: 
         url: /assets/images/plants/clarkia_amoena_lg.jpg
     source: 
-        name: Barry Breckling / Calflora
+        name: Barry Breckling 
         url: https://www.calflora.org/app/taxon?crn=2160 
 
 tags:  

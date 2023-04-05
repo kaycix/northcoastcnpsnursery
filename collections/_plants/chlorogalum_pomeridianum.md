@@ -14,7 +14,7 @@ icon:
     large: 
         url: /assets/images/plants/chlorogalum_pomeridianum_lg.jpg 
     source: 
-        name: Mary Conway / Calflora
+        name: Mary Conway 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=io11426 
 
 

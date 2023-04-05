@@ -33,7 +33,7 @@ icon:
     large: 
         url: /assets/images/plants/alnus_rubra_lg.jpg 
     source: 
-        name: R.A. Chasey / Calflora
+        name: R.A. Chasey 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mg150917 
 
 tags:  

@@ -23,7 +23,7 @@ icon:
     large: 
         url: /assets/images/plants/arctostaphylos_uva_ursi_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/347?srchcr=sc640783c0bfe69
 
 inventory: 

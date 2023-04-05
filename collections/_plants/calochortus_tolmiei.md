@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/calochortus_tolmiei_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/685?srchcr=sc64079b4d4dd88 
 
 inventory: 

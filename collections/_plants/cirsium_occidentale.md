@@ -33,7 +33,7 @@ icon:
     large: 
         url: /assets/images/plants/cirsium_occidentale_lg.jpg
     source: 
-        name: Ron Vanderhoff / Calflora
+        name: Ron Vanderhoff 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mu3029 
 
 websites:

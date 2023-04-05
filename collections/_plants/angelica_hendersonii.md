@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/angelica_hendersonii_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/239?srchcr=sc6406c2b04e01f 
 
 inventory: 

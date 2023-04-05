@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/clarkia_unguiculata_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1046?srchcr=sc640b5f870acfb 
 
 inventory: 

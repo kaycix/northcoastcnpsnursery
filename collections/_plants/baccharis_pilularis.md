@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/baccharis_pilularis_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/504?srchcr=sc640789dfc22de 
 
 inventory: 

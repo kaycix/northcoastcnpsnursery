@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/blechnum_spicant_lg.jpg 
     source: 
-        name: James Gonsman / Calflora 
+        name: James Gonsman 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=gp5497 
 
 inventory: 

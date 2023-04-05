@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/berberis_aquifolium_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/528?srchcr=sc64078b54e36b1
 
 gardens:

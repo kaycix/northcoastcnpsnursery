@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/aristolochia_californica_lg.jpg 
     source: 
-        name: glrbrg / Calscape
+        name: glrbrg 
         url: https://calscape.org/photos/374?srchcr=sc63e6a007b3100 
 
 inventory: 

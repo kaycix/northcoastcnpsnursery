@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/aralia_californica_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calflora
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/284?srchcr=sc640d2716bd88f 
 
 inventory: 

@@ -33,7 +33,7 @@ icon:
     large: 
         url: /assets/images/plants/aesculus_californica_lg.jpg
     source:
-        name: Eugene Zelenko / Calscape
+        name: Eugene Zelenko
         url: https://calscape.org/photos/82?srchcr=sc63e69fc76bc59 
 
 tags: 

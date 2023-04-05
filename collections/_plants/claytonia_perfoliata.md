@@ -17,7 +17,7 @@ icon:
     large: 
         url: /assets/images/plants/claytonia_perfoliata_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1053?srchcr=sc6407a53b218b3 
 
 inventory: 

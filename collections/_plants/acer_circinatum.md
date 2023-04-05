@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/acer_circinatum_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/36?srchcr=sc6406ae82a6994 
 
 inventory: 

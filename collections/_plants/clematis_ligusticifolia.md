@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/clematis_ligusticifolia_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1058?srchcr=sc6407a68c9ac0b 
 
 inventory: 

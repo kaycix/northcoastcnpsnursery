@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/aquilegia_formosa_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/266?srchcr=sc6406c8f5d9901 
 
 inventory: 

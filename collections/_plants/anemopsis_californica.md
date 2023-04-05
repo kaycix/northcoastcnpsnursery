@@ -17,7 +17,7 @@ icon:
     large: 
         url: /assets/images/plants/anemopsis_californica_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/234?srchcr=sc6406bfec40f58 
 
 inventory: 

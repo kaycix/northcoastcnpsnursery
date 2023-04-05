@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/asclepias_speciosa_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/439?srchcr=sc6407888c82619 
 
 inventory: 

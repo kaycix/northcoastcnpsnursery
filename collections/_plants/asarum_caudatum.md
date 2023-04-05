@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/asarum_caudatum_lg.jpg 
     source: 
-        name: Gregory Arena / Calflora
+        name: Gregory Arena 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mg41504 
 
 inventory: 

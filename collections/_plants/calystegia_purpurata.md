@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/calystegia_purpurata_lg.jpg 
     source: 
-        name: Phyllis Fitzsimons / Calflora 
+        name: Phyllis Fitzsimons 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=po134079 
 
 inventory: 

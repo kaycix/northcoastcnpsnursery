@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/anaphalis_margaritacea_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/221?srchcr=sc6406bf3ca1cb9 
 
 inventory: 

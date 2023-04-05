@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/achillea_millefolium_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen
         url: https://calscape.org/photos/47?srchcr=sc640d5ab828116 
 
 bloom_calendar: 

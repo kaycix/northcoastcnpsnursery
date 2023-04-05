@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/clarkia_purpurea_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1040?srchcr=sc6407a94fe6dbb
 
 inventory: 
