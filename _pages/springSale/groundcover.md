@@ -23,6 +23,9 @@ header:
 
 <div class="subheading">
     <h4><a href="/sale/all/">All Plants</a> >  Groundcovers ({{inventory_plants.size}})</h4>
+    <p class="notice">
+        Look past the traditional grass lawn (although we've got some great native grasses too) if you're looking for native groundcovers - we've got a great list of options for you! 
+    </p>
 </div>
 
 {% include plant_list.html 
