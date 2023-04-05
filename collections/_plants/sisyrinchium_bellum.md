@@ -15,7 +15,7 @@ gardens:
     trinidad_museum:
         - meadow
 
-humboldtNative: true
+humboldt_native: True
 
 icon: 
     small: 
