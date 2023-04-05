@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/linnaea_borealis_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/2224?srchcr=sc641912119c907
 
 inventory: 

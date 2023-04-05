@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/primula_pauciflora_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1302?srchcr=sc642a33eac9815
 
 inventory: 

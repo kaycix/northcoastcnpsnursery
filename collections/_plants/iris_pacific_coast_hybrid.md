@@ -16,7 +16,7 @@ icon:
     large: 
         url:  /assets/images/plants/iris_pacific_coast_hybrid_lg.jpg  
     source: 
-        name: Cathrin Callas / Calscape 
+        name: Cathrin Callas 
         url: https://calscape.org/photos/71183?srchcr=sc640e8fff11d97
 
 inventory: 

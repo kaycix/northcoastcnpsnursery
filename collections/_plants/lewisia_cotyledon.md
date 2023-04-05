@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/lewisia_cotyledon_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/2159?srchcr=sc642b263d2a32d 
 
 inventory: 

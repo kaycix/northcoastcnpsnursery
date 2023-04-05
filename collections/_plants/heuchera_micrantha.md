@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/heuchera_micrantha_lg.jpg
     source: 
-        name: Julie Ann Kierstead / Calscape 
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/1883?srchcr=sc6428fac416c1c
 
 

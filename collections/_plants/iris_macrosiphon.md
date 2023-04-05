@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/iris_macrosiphon_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/1978?srchcr=sc640e8e5766374
 
 inventory: 

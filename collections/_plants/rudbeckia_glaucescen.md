@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/rudbeckia_glaucescens_lg.jpg 
     source: 
-        name: R.A. Chasey / Calflora 
+        name: R.A. Chasey
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mg120166
 
 inventory: 

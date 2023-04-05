@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/ribes_laxiflorum_lg.jpg
     source: 
-        name: Tristan K Cole / Calflora 
+        name: Tristan K Cole 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=io10003
 
 inventory: 

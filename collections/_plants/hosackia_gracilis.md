@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/hosackia_gracilis_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/2288?srchcr=sc640e8cac0d569
 
 inventory: 

@@ -22,7 +22,7 @@ icon:
     large: 
         url: /assets/images/plants/lonicera_involucrata_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/2276?srchcr=sc642c7522d26ac
 
 inventory: 

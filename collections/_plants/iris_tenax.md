@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/iris_tenax_lg.jpg 
     source: 
-        name: Jerry Murray / Calflora 
+        name: Jerry Murray 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mu23052
 
 inventory: 

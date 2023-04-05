@@ -41,7 +41,7 @@ icon:
     large: 
        url: /assets/images/plants/lasthenia_californica_lg.jpg
     source: 
-        name: Dawn Endico / Calscape
+        name: Dawn Endico 
         url: https://calscape.org/photos/2087?srchcr=sc63e5d31ee721b 
 
 websites:

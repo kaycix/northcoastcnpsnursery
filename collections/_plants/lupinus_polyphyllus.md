@@ -34,7 +34,7 @@ icon:
      large: 
         url: /assets/images/plants/lupinus_polyphyllus_lg.jpg
      source: 
-        name: Kelsey Byers / Calscape
+        name: Kelsey Byers 
         url: https://calscape.org/photos/2352?srchcr=sc63e5d81e04c5f
 
 tags: 

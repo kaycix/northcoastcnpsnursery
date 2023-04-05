@@ -16,7 +16,7 @@ icon:
      large: 
         url: /assets/images/plants/grindelia_stricta_var_platyphylla_lg.jpg 
      source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1797?srchcr=sc641910b88b04b
 
 inventory: 

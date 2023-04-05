@@ -24,7 +24,7 @@ icon:
     large: 
         url: /assets/images/plants/maianthemum_dilatatum_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/2405?srchcr=sc6416177a614e5 
 
 inventory: 

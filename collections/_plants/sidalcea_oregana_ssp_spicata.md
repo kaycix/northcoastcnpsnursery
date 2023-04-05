@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/sidalcea_oregana_ssp_spicata_lg.jpg
     source: 
-        name: Cynthia Griffin / Calflora 
+        name: Cynthia Griffin 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=po193422
 
 inventory: 

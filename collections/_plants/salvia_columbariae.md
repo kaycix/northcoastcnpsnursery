@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/salvia_columbariae_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/3359?srchcr=sc640bce9474f81 
 
 inventory: 

@@ -23,7 +23,7 @@ icon:
     large: 
         url: /assets/images/plants/lupinus_rivularis_lg.jpg 
     source: 
-        name: Steve Matson / Calflora
+        name: Steve Matson 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mu9347 
 
 inventory: 

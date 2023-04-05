@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/quercus_garryana_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape 
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/3144?srchcr=sc640bff9324b9e 
 
 inventory: 

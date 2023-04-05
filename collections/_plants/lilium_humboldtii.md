@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/lilium_humboldtii_lg.jpg
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/2186?srchcr=sc641b4f5fc304a
 
 inventory: 

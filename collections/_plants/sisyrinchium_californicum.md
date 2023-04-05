@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/sisyrinchium_californicum_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/3523?srchcr=sc642a4c06397a1 
 
 inventory: 

@@ -46,7 +46,7 @@ icon:
     large: 
         url: /assets/images/plants/keckiella_cordifolia_lg.jpg
     source:
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/2062?srchcr=sc63e7178154e45 
  
 websites: 

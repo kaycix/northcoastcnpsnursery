@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/holodiscus_discolor_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/1905?srchcr=sc640ca0889adce 
 
 inventory: 

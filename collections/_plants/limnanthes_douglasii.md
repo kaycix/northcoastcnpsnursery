@@ -34,7 +34,7 @@ icon:
     large: 
         url: /assets/images/plants/limnanthes_douglasii_lg.jpg
     source: 
-        name: Alaine Arslan / Calflora
+        name: Alaine Arslan 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mu14104 
 
 books:

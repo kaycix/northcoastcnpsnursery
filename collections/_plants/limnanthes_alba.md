@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/limnanthes_alba_lg.jpg
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/2204?srchcr=sc6428ed26eefe0
 
 inventory: 

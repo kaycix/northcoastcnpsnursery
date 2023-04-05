@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/quercus_kelloggii_lg.jpg
     source: 
-        name: Julie Ann Kierstead / Calscape 
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/3149?srchcr=sc642c788a36907 
 
 inventory: 

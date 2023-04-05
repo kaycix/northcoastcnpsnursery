@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/sphaeralcea_ambigua_v_ambigua_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/3576?srchcr=sc6419f0dd7bd36
 
 inventory: 

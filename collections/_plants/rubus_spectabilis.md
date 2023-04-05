@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/rubus_spectabilis_lg.jpg
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/3287?srchcr=sc642c7b2817b2e
 
 inventory: 

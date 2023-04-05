@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/linum_lewisii_lg.jpg
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/2228?srchcr=sc642a2d0bca0bf
 
 inventory: 

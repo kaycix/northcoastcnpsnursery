@@ -18,7 +18,7 @@ icon:
     large: 
         url: /assets/images/plants/iris_chrysophylla_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape 
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/1967?srchcr=sc640e8d236642d
 
 

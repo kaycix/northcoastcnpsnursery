@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/rosa_californica_lg.jpg
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/3256?srchcr=sc623dff1b45c8e
 
 inventory: 

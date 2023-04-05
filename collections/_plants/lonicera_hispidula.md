@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/lonicera_hispidula_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/2274?srchcr=sc640bfc7e7d71d 
 
 inventory: 

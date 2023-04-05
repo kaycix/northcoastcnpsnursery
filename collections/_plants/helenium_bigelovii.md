@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/helenium_bigelovii_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/1824?srchcr=sc640d4137a3cf5 
 
 inventory: 

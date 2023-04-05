@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/lupinus_nanus_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/2347?srchcr=sc640ba9e82524a 
 
 inventory: 

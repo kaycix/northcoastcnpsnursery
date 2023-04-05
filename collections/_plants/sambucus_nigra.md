@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/sambucus_nigra_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/3376?srchcr=sc641909a917718
 
 inventory: 

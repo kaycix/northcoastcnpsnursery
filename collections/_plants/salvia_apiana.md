@@ -18,7 +18,7 @@ icon:
     large: 
         url: /assets/images/plants/salvia_apiana_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/3353?srchcr=sc64190721de317
 
 inventory: 

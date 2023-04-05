@@ -18,7 +18,7 @@ icon:
     large: 
         url: /assets/images/plants/hemizonia_congesta_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1842?srchcr=sc640b69b3ad108 
 
 inventory: 

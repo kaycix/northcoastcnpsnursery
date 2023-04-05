@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/scrophularia_californica_lg.jpg
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/3438?srchcr=sc642c7ba3b2362
 
 inventory: 

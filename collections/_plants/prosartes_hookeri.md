@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/prosartes_hookeri_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/3060?srchcr=sc6419f01ce6e60
 
 inventory: 

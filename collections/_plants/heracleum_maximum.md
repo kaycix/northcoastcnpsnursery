@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/heracleum_maximum_lg.jpg
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1857?srchcr=sc642c742a35c6c
 
 inventory: 

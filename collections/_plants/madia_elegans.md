@@ -31,7 +31,7 @@ icon:
     large: 
         url: /assets/images/plants/madia_elegans_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/2399?srchcr=sc640bc8b53d90a 
 
 inventory: 
