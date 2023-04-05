@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/diplacus_mimulus_puniceus_lg.jpg 
     source: 
-        name: Wynn Anderson / CalPhotos
+        name: Wynn Anderson 
         url: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0211+2655 
 
 inventory: 

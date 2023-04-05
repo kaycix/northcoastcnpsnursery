@@ -24,7 +24,7 @@ icon:
     large: 
         url: /assets/images/plants/diplacus_aurantiacus_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/2512?srchcr=sc640c03f60dd70 
 
 inventory: 

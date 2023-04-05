@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/festuca_californica_lg.jpg 
     source: 
-        name: Stickpen / Calscape
+        name: Stickpen 
         url: https://calscape.org/photos/1643?srchcr=sc640fa0941fac3 
 
 inventory: 

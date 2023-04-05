@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/umbellularia_californica_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape 
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/3781?srchcr=sc640c010454473 
 
 inventory: 

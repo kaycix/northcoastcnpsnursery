@@ -36,7 +36,7 @@ icon:
     large: 
         url: /assets/images/plants/eschscholzia_californica_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calflora
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/374?srchcr=sc63e6a007b3100 
  
 websites:

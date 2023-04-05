@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/eriogonum_umbellatum_lg.jpg
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/1544?srchcr=sc64190d8e1aa79
 
 inventory: 

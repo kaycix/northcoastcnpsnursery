@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/symphoricarpos_albus_lg.jpg
     source: 
-        name:  Suzanne L. Weakley / Calflora 
+        name:  Suzanne L. Weakley 
         url: https://www.calflora.org/app/taxon?crn=10399
 
 inventory: 

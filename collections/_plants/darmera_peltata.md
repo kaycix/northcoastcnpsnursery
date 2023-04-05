@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/darmera_peltata_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/1206?srchcr=sc640d35b235e7a 
 
 inventory: 

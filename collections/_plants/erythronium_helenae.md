@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/erythronium_helenae_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/1589?srchcr=sc641ca4fb4f1c8
 
 inventory: 

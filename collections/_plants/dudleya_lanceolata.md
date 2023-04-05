@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/dudleya_lanceolata_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1336?srchcr=sc64190e3409562
 
 inventory: 

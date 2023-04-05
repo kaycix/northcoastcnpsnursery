@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/eriophyllum_staechadifolium_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/1564?srchcr=sc640e7be8c27c4 
 
 inventory: 

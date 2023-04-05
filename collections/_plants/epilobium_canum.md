@@ -18,7 +18,7 @@ icon:
     large: 
         url: /assets/images/plants/epilobium_canum_lg.jpg 
     source: 
-        name: Steve Matson / Calflora
+        name: Steve Matson 
         url: https://calscape.org/photos/1413?srchcr=sc640e02d562ab8 
 
 inventory: 

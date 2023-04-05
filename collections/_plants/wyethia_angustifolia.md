@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/wyethia_angustifolia_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/3879?srchcr=sc642c7e93b5998 
 
 inventory: 

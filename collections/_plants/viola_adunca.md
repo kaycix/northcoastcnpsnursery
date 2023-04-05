@@ -25,7 +25,7 @@ icon:
     large: 
         url: /assets/images/plants/viola_adunca_lg.jpg 
     source: 
-        name: Song Hunter / Calscape
+        name: Song Hunter 
         url: https://calscape.org/photos/3838?srchcr=sc6228ea617c0fe 
 
 size:

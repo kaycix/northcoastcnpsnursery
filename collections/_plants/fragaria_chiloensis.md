@@ -29,7 +29,7 @@ icon:
     large: 
         url: /assets/images/plants/fragaria_chiloensis_lg.jpg 
     source: 
-        name: Mike / Calscape
+        name: Mike 
         url: https://calscape.org/photos/1663?srchcr=sc63e691316d0a8 
 
 inventory: 

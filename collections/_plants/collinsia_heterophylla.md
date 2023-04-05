@@ -35,7 +35,7 @@ icon:
     large: 
         url: /assets/images/plants/collinsia_heterophylla_lg.jpg
     source:
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/1074?srchcr=sc63e719fa293b2 
  
 tags: 

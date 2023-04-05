@@ -33,7 +33,7 @@ icon:
     large: 
         url: /assets/images/plants/dichelostemma_capitatum_ssp_capitatum_lg.jpg
     source:
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/view.php?pl=1272&img=2747 
 
 tags: 

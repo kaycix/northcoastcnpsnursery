@@ -37,7 +37,7 @@ icon:
     large: 
         url: /assets/images/plants/erythranthe_cardinalis_lg.jpg
     source:
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/2518?srchcr=sc63e6ce7fe9818 
  
 websites: 

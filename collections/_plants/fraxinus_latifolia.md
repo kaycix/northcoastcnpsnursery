@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/fraxinus_latifolia_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape 
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/1683?srchcr=sc642c73badff6f 
 
 inventory: 

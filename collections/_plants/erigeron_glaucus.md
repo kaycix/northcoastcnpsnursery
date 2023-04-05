@@ -22,7 +22,7 @@ icon:
     large: 
         url: /assets/images/plants/erigeron_glaucus_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/1476?srchcr=sc640e06297bed6 
 
 inventory: 

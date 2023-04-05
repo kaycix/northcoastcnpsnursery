@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/spiraea_douglasii_lg.jpg
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/3587?srchcr=sc64190a28e31c7
 
 inventory: 

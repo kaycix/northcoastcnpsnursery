@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/eriogonum_latifolium_lg.jpg 
     source: 
-        name: Patrick Furtado / Calflora
+        name: Patrick Furtado 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mg93236 
 
 inventory: 

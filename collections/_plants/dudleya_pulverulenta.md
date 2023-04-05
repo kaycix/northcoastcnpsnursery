@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/dudleya_pulverulenta_lg.jpg 
     source: 
-        name:  Chris Hendrickson / Calflora
+        name:  Chris Hendrickson 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=po9847 
 
 inventory: 

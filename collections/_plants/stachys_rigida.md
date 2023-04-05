@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/stachys_rigida_lg.jpg 
     source: 
-        name:  John Doyen / Calscape
+        name:  John Doyen 
         url: https://calscape.org/photos/70578?srchcr=sc642a4ff6017b6
 
 inventory: 

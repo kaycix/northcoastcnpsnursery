@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/fritillaria_affinis_lg.jpg
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1693?srchcr=sc6428f00254287
 
 inventory: 

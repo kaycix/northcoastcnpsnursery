@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/eriogonum_compositum_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/1493?srchcr=sc640e08eaea875
 
 inventory: 

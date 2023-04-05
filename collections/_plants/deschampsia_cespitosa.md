@@ -22,7 +22,7 @@ icon:
     large: 
         url: /assets/images/plants/deschampsia_cespitosa_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/1257?srchcr=sc6428feca55d48
 
 inventory: 

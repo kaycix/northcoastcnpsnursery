@@ -23,7 +23,7 @@ icon:
     large: 
         url: /assets/images/plants/tolmiea_diplomenziesii_lg.jpg
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/69973?srchcr=sc6419f239dc965
 
 inventory: 

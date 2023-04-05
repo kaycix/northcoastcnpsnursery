@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/epilobium_canum_everetts_choice_lg.jpg 
     source: 
-        name: Jeffrey Blake/ Calscape
+        name: Jeffrey Blake
         url: https://calscape.org/view.php?pl=70916&img=31585 
 
 

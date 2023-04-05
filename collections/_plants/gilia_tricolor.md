@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/gilia_tricolor_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1764?srchcr=sc640b6854d18bc 
 
 inventory: 

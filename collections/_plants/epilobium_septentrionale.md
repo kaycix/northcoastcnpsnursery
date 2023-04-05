@@ -18,7 +18,7 @@ icon:
     large: 
         url: /assets/images/plants/epilobium_septentrionale_lg.jpg 
     source: 
-        name: "Robert Potts © California Academy of Sciences / Calphotos"
+        name: "Robert Potts, California Academy of Sciences"
         url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=9189+3301+3541+0129"
 
 inventory: 

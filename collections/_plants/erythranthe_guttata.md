@@ -22,7 +22,7 @@ icon:
     large: 
         url: /assets/images/plants/erythranthe_guttata_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/2524?srchcr=sc64190cdb63f56
 
 inventory: 

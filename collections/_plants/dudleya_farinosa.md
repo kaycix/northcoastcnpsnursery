@@ -18,7 +18,7 @@ icon:
      large: 
         url: /assets/images/plants/dudleya_farinosa_lg.jpg 
      source: 
-        name: Amy Rapport / Calflora
+        name: Amy Rapport 
         url: https://www.calflora.org/app/taxon?crn=2852 
 
 inventory: 

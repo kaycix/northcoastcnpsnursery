@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/crataegus_douglasii_lg.jpg 
     source: 
-        name: John Malpas / Calscape
+        name: John Malpas 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mg18678
 
 inventory: 

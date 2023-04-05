@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/eriogonum_elatum_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1499?srchcr=sc640e7a92c96f9 
 
 inventory: 

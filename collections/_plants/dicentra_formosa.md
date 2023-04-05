@@ -38,7 +38,7 @@ icon:
     large: 
         url: /assets/images/plants/dicentra_formosa_lg.jpg
     source:
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/1267?srchcr=sc63e71caba8c3e 
 
 tags: 

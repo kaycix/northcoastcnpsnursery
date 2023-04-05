@@ -17,7 +17,7 @@ icon:
     large: 
         url: /assets/images/plants/claytonia_sibirica_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/1056?srchcr=sc6407a5cc4ee17 
 
 inventory: 

@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/symphyotrichum_foliaceum_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/448?srchcr=sc642a534985caf
 
 inventory: 

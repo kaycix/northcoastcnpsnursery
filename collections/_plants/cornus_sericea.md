@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/cornus_sericea_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/1113?srchcr=sc640be95ad61ba 
 
 inventory: 

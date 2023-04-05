@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/epipactis_gigantea_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/1424?srchcr=sc641f40cbf3078
 
 inventory: 

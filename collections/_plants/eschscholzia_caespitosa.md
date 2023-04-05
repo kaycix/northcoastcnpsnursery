@@ -18,7 +18,7 @@ icon:
     large: 
         url: /assets/images/plants/eschscholzia_caespitosa_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1601?srchcr=sc640b651574a83 
 
 inventory: 

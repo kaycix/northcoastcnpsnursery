@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/fritillaria_eastwoodiae_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/1699?srchcr=sc641b3d824e7e4
 
 inventory: 

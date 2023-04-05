@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/gilia_capitata_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1759?srchcr=sc640b6734ca2b9
 
 inventory: 

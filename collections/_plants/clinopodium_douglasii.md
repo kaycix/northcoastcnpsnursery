@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/clinopodium_douglasii_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/view.php?pl=3399&img=6144 
 
 inventory: 

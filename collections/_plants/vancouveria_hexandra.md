@@ -24,7 +24,7 @@ icon:
     large: 
         url: /assets/images/plants/vancouveria_hexandra_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/3800?srchcr=sc64190c569da08
 
 inventory: 

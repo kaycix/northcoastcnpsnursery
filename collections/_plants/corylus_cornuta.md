@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/corylus_cornuta_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/1123?srchcr=sc642c715404933 
 
 inventory: 

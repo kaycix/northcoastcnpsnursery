@@ -33,7 +33,7 @@ icon:
     large: 
         url: /assets/images/plants/corethrogyne_filaginifolia_lg.jpg 
     source: 
-        name: Bonnie Nickel / Calflora
+        name: Bonnie Nickel 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=io16137 
 
 tags:  

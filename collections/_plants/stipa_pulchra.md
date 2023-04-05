@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/stipa_pulchra_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/2610?srchcr=sc6418b81c5557e
 
 inventory: 

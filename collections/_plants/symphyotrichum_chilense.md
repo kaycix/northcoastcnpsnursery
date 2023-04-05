@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/symphyotrichum_chilense_lg.jpg
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/445?srchcr=sc642a5225542e6
 
 inventory: 

@@ -23,7 +23,7 @@ icon:
     large: 
         url: /assets/images/plants/tellima_grandiflora_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/3661?srchcr=sc6419f150d00ff
 
 inventory: 

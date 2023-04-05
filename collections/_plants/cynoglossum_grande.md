@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/cynoglossum_grande_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/1186?srchcr=sc6407a81d45e85
 
 inventory: 

@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/eriogonum_arborescens_lg.jpg
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/1488?srchcr=sc6429044496c00 
 
 inventory: 

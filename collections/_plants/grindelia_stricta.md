@@ -22,7 +22,7 @@ icon:
      large: 
         url: /assets/images/plants/grindelia_stricta_lg.jpg 
      source: 
-        name: Stan Shebs / Calscape
+        name: Stan Shebs 
         url: https://calscape.org/photos/1795?srchcr=sc63e5d1172068a 
 
 inventory: 

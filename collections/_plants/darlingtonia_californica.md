@@ -33,7 +33,7 @@ icon:
     large: 
         url: /assets/images/plants/darlingtonia_californica_lg.jpg
     source:
-        name: Kathleen Catton / Calflora
+        name: Kathleen Catton
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mu12737 
  
 websites:

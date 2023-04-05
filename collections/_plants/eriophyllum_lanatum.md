@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/eriophyllum_lanatum_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/1558?srchcr=sc640e7b6fc461c 
 
 inventory: 
