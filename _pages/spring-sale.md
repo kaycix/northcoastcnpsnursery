@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/starts.jpg
     alt: "Inventory"
     title: "Participating Nurseries & Vendors"
-    excerpt: "Proudly partnering with Samara Restoration, Mattole Restoration Council, Lost Foods, Bob Vogt, Beresford's Bulbs and Brant's Plants."
+    excerpt: "Proudly partnering with Samara Restoration, Mattole Restoration Council, Lost Foods, Bob Vogt Trees, Beresford's Bulbs and Brant's Plants."
     #url: ""
     #btn_label: "More Information"
     #btn_class: "btn--primary"
@@ -136,16 +136,16 @@ feature_row:
 </div>
 {% include feature_row %}
 
-<div class="thanks-block" style="background-image:url('/assets/images/backgrounds/flower-medley.png'); background-color: #333; color: #FFF; background-repeat:no-repeat; padding-top: 120px; background-position: top">
+<div class="thanks-block">
     <h1>Thank You</h1>
     <div>
-    <p>Thank you to everyone who shops our sales. From those of you rewilding entire yards to those of you tending a few native plants on your balcony, we are so proud to be eco-warriors alongside you. Your stories never fail to inspire us.</p>
-    <p>We appreciate the nurseries and vendors that we partner with and the community of sharing and support you offer us. We feel so lucky to be working with such passionate people.</p>
-    <p>Thank you to nursery managers Chris and Barbara for your tireless efforts and countless hours of hard work. We couldn't ask for more dedicated leaders.</p>
-    <p>Lastly, huge thank yous to all our nursery and garden volunteers. Whether you have volunteered for one hour or many more, we appreciate you! This has been a particularly long winter but seeing everyone show up, ready to work in the cold mornings warms our hearts. 
-    </p>
     <p>
     Thank you for being with us on this journey to spread native plants and protect biodiversity!
+    </p>
+    <p>Thank you to everyone who shops our sales - from those of you rewilding entire yards to those of you tending a few native plants on your balcony. Your stories continue to motivate and inspire us.</p>
+    <p>We appreciate the nurseries and vendors that we partner with and the community of sharing and support you offer us. We feel so lucky to be working alongside such passionate people.</p>
+    <p>Thank you to nursery managers Chris and Barbara for your tireless efforts and countless hours of hard work. We couldn't ask for more dedicated leaders.</p>
+    <p>Lastly, huge thank yous to all our nursery and garden volunteers. Whether you have volunteered for one hour or many more, we appreciate you! This has been a particularly long winter but seeing everyone show up, ready to work in the cold mornings warms our hearts. 
     </p>
     </div>
 </div>

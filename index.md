@@ -2,8 +2,8 @@
 title: "Welcome to our native plant nursery."
 layout: splash
 
-banner:
-    excerpt: <b>Save the Date!</b> Our Native Plant Sale returns this Spring May 6 - May 7, 2023. 
+
+sale_banner: true
 
 header:
   overlay_color: "#000"

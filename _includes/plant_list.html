@@ -6,7 +6,7 @@
 </td>
 <td>
 <b>Common Name</b><br/>
-(Scientific Name)
+<i>Scientific Name</i>
 </td>
 <td>
 Sun Reqs.
@@ -31,7 +31,7 @@ Height
     <a href="{{plant.websites[0].url}}" target="_blank">
 {% endif %}
 
-({{ plant.name.scientific | capitalize }})
+<i>{{ plant.name.scientific | capitalize }}</i>
 
 {% if plant.websites and plant.websites.size > 0 %}
     </a>

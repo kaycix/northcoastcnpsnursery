@@ -15,6 +15,39 @@ search: false
  padding: 0.5em 0.5em; 
 }
 
+.sale_banner {
+    background-repeat: no-repeat;
+    background-color: #141b51; 
+    background-image: url('/assets/images/backgrounds/foliage-test-3.png'); 
+    background-position: bottom; 
+    color: #FFF; 
+    margin-top: -2em; 
+    margin-bottom: 2em; 
+    margin-left: auto; 
+    margin-right: auto; 
+    position: relative; 
+    width: 100%;
+
+    .wrapper {
+        max-width: 1280px;
+        padding: 3em 1em;
+    }
+
+    .header {
+        margin-bottom: 30px;
+    }
+
+    .header h1 a {
+        color: #FFF;
+        text-decoration: none;
+    }
+
+    .header h4 {
+        margin-top: 0;
+        color: #dca1a0;
+    }
+}
+
 .feature_blurb {
     margin-bottom: 2em;
     border-radius: 15px;
@@ -320,6 +353,15 @@ table.plant_list .plant_icon {
   .spring-sale .box .column {
     width: 100%;
   }
+}
+
+.thanks-block {
+    background-image:url('/assets/images/backgrounds/flower-medley.png'); 
+    background-color: #333; 
+    background-position: top;
+    background-repeat:no-repeat; 
+    color: #FFF; 
+    padding-top: 120px; 
 }
 
 #footer {
