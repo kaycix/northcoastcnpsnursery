@@ -14,6 +14,9 @@ Sun Reqs.
 <td>
 Height
 </td>
+<td>
+Humboldt Native
+</td>
 </tr>
 {% for plant in plants %}
 <tr>
@@ -24,7 +27,7 @@ Height
 {% endif %}
 </div>
 </td>
-<td>
+<td style="min-width:200px">
 <b>{{ plant.name.common[0] | capitalize }}</b>
 <br/>
 {% if plant.websites and plant.websites.size > 0 %}
@@ -37,7 +40,7 @@ Height
     </a>
 {% endif %}
 </td>
-<td class="sun_req">
+<td class="sun_req" style="text-align: center; min-width:100px">
 
     {% assign sort_param = "" %}
 
@@ -54,7 +57,7 @@ Height
     <div class="{{sort_param}}">
     </div>
 </td>
-<td>
+<td style="min-width:100px">
     {% if plant.size and plant.size.height and plant.size.height.min && plant.size.height.max %}
         {% if plant.size.height.min == plant.size.height.max %}
             {{ plant.size.height.min }} ft
@@ -62,6 +65,11 @@ Height
             {{ plant.size.height.min }} - {{ plant.size.height.max }} ft
         {% endif %}
     {% endif %}
+</td>
+<td style="text-align: center; min-width: 100px">
+{% if plant.humboldt_native %}
+    &#x2713;
+{% endif %}
 </td>
 </tr>
 {% endfor %}
