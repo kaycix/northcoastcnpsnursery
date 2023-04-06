@@ -24,7 +24,7 @@ header:
 <div class="subheading">
     <h4><a href="/sale/all/">All Plants</a> >  Hedge Plants ({{inventory_plants.size}})</h4>
     <p class="notice">
-    A native hedge is the perfect blend of beauty and functionality. Make sure you also check out our list of <a href="/sale/trees">Trees</a>. Make sure to click into the Calscape link if you want to look for evergreen varities.
+    A native hedge is the perfect blend of beauty and functionality. Make sure you also check out our list of <a href="/sale/trees">Trees</a>. Click into the Calscape link if you would like to prioritize evergreen varities.
     </p>
 </div>
 
