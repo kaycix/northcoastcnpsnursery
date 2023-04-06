@@ -23,6 +23,9 @@ header:
 
 <div class="subheading">
     <h4><a href="/sale/all/">All Plants</a> >  Drought Tolerant ({{inventory_plants.size}})</h4>
+    <p class="notice">
+    This list of drought-tolerant plants has been seeded from Calscape data on low-moisture plants.    
+    </p>
 </div>
 
 {% include plant_list.html 

@@ -24,7 +24,7 @@ header:
 <div class="subheading">
     <h4><a href="/sale/all/">All Plants</a> >  Beginner Favorites ({{inventory_plants.size}})</h4>
     <p class="notice">
-    Starting out with natives can be an exciting but daunting process. Here are a few of our favorites to help get you started. Our best advice is to get to know your site (sun exposure, existing plants, etc) and don't be afraid to experiment and embrace the learning curve that comes with trying new things.
+    Starting out with natives can be an exciting but daunting process. Here are a few of our favorites to help get you started. Our best advice is to get to know your site (sun exposure, existing plants, etc) and don't be afraid to experiment and embrace the learning curve!
     </p>
 </div>
 

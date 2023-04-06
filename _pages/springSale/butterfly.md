@@ -23,6 +23,9 @@ header:
 
 <div class="subheading">
     <h4><a href="/sale/all/">All Plants</a> >  Butterfly Garden ({{inventory_plants.size}})</h4>
+    <p class="notice">
+    Is there anything more rewarding than a native plant garden humming with insect activity? Click into the Calscape link to learn about which butterfly species are attracted to each plant. 
+    </p>
 </div>
 
 {% include plant_list.html 
