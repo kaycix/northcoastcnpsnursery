@@ -41,5 +41,7 @@ tags:
     - butterfly
     - meadow
     - droughtTolerant
+    - deerResistant
+    - groundcover
 ---
 

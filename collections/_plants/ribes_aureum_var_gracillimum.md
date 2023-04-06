@@ -37,7 +37,7 @@ tags:
     - bee
     - bird
     - hummingbird
-    - groundcovers
+    - groundcover
     - deerResistant
  
 websites: 

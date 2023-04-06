@@ -47,6 +47,8 @@ tags:
     - humboldtNative
     - butterfly
     - droughtTolerant
+    - deerResistant
+    - groundcover
 
 websites: 
     - url : https://calscape.org/Festuca-californica-(California-Fescue)

@@ -35,6 +35,11 @@ tags:
     - butterfly
     - bee
     - bird
+    - groundcover
+    - deerResistant
+    - hedge
+    - droughtTolerant 
+    - bankStabilization
 
 websites: 
     - url: "https://calscape.org/Salvia-mellifera-(Black-Sage)"

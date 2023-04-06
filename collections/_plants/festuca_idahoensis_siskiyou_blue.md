@@ -41,11 +41,5 @@ tags:
     - cultivar
     - beginner
     - container
+    - droughtTolerant
 ---
-
-
-
-
-
-
-

@@ -44,6 +44,7 @@ tags:
     -   deerResistant
     -   butterfly
     -   coastal
+    -   moisture
 
 websites:
     - url : "https://calscape.org/loc-California/Grindelia%20stricta(%20)"

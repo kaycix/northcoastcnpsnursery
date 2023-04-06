@@ -44,6 +44,8 @@ tags:
     - beginner
     - container
     - lowGrowing
+    - droughtTolerant 
+    - deerResistant
  
 websites: 
     - url: "https://calscape.org/Sedum-spathulifolium-()"

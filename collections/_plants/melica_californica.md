@@ -35,12 +35,14 @@ size:
     height: 
         min: 1 
         max: 4.3
- 
-websites: 
-    - url: "https://calscape.org/loc-California/Melica%20californica%20(California%20Melicgrass)"
-      name: Calscape
 
 tags:
     - humboldtNative
     - butterfly
+    - droughtTolerant
+    - deerResistant
+ 
+websites: 
+    - url: "https://calscape.org/loc-California/Melica%20californica%20(California%20Melicgrass)"
+      name: Calscape
 ---

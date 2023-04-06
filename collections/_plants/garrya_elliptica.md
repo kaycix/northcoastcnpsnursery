@@ -62,6 +62,8 @@ tags:
     -   hedge
     -   evergreen
     -   showy
+    -   droughtTolerant
+    -   deerResistant
 
 websites:
     - url : "https://calscape.org/Garrya-elliptica-(Wavyleaf-Silktassel)"

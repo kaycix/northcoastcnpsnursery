@@ -38,6 +38,8 @@ tags:
     - humboldtNative
     - butterfly
     - droughtTolerant
+    - deerResistant
+    - groundcover
 
 websites: 
      - url: https://calscape.org/loc-California/Festuca%20idahoensis(%20)

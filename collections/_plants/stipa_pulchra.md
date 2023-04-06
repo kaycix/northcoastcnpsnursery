@@ -37,10 +37,11 @@ size:
 tags:   
     - humboldtNative
     - butterfly
+    - droughtTolerant
+    - groundcover
+    - deerResistant
 
 websites:
     - url: "https://calscape.org/loc-California/Purple%20Needlegrass%20(Stipa%20pulchra)"
       name: Calscape
 ---
-
-

@@ -38,6 +38,9 @@ tags:
     - bee
     - bird
     - edible
+    - droughtTolerant
+    - hedge
+    - deerResistant
 
 websites: 
     - url: "https://calscape.org/Sambucus-nigra-()"

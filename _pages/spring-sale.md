@@ -110,6 +110,11 @@ feature_row:
                     Ground Covers
                     </a>
                 </div>
+                <div class="row">
+                    <a href="/sale/deerresistant/">
+                    Deer Resistant
+                    </a>
+                </div>
             </div>
             <div class="column">
                 <div class="row">

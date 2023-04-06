@@ -47,6 +47,8 @@ tags:
      - woodland
      - riparian
      - chapparal
+    - deerResistant
+    - droughtTolerant 
 
 websites:
     - url: "https://calscape.org/loc-California/Scrophularia%20californica%20(Bee%20Plant)"

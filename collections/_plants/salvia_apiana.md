@@ -40,6 +40,11 @@ tags:
     - bee
     - bird
     - hummingbird
+    - groundcover
+    - deerResistant
+    - hedge
+    - droughtTolerant 
+    - bankStabilization
  
 websites: 
     - url: "https://calscape.org/Salvia-apiana-(White-Sage)"

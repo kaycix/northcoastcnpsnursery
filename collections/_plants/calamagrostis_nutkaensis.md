@@ -43,6 +43,7 @@ tags:
     -   humboldtNative
     -   butterfly
     -   wetland
+    -   deerResistant
 
 websites:
     - url: "https://calscape.org/loc-California/Calamagrostis%20nutkaensis(%20)"

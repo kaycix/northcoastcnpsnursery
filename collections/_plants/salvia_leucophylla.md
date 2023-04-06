@@ -35,7 +35,12 @@ tags:
     - bird
     - bee
     - butterfly
-
+    - groundcover
+    - deerResistant
+    - hedge
+    - droughtTolerant 
+    - bankStabilization
+    
 websites: 
     - url: https://calscape.org/loc-California/Salvia%20leucophylla(%20)
       name: Calscape

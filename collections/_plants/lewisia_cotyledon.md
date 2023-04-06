@@ -35,18 +35,10 @@ size:
 tags:
     - butterfly
     - droughtTolerant
-    - groundcovers
+    - groundcover
     - deerResistant
  
 websites: 
     - url: https://calscape.org/Lewisia-cotyledon-(Cliff-Maids) 
       name: Calscape
 ---
-
-
-
-
-
-
-
-

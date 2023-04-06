@@ -30,6 +30,10 @@ inventory:
 
 tags: 
     -   butterfly 
+    -   droughtTolerant
+    -   bankStabilization
+    -   deerResistant
+    -   groundcover
 
 sun_requirements:
   - "Full Sun"

@@ -47,6 +47,7 @@ size:
 tags:
     - humboldtNative
     - groundcover
+    - deerResistant
     - butterfly
     - bird
      - beginner
