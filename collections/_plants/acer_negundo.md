@@ -12,7 +12,7 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/acer_negundo.jpg 
+        url: /assets/images/plants/acer_negundo_sm.jpg 
     large: 
         url: /assets/images/plants/acer_negundo_lg.jpg 
     source: 

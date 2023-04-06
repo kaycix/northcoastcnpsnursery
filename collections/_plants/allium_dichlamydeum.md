@@ -12,7 +12,7 @@ humboldt_native: False
 
 icon: 
     small: 
-        url: /assets/images/plants/allium_dichlamydeum.jpg 
+        url: /assets/images/plants/allium_dichlamydeum_sm.jpg 
     large: 
         url: /assets/images/plants/allium_dichlamydeum_lg.jpg 
     source: 

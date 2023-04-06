@@ -12,7 +12,7 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/acer_macrophyllum.jpg 
+        url: /assets/images/plants/acer_macrophyllum_sm.jpg 
     large: 
         url: /assets/images/plants/acer_macrophyllum_lg.jpg 
     source: 

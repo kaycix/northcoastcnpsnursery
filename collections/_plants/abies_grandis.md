@@ -12,7 +12,7 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/abies_grandis.jpg 
+        url: /assets/images/plants/abies_grandis_sm.jpg 
     large: 
         url: /assets/images/plants/abies_grandis_lg.jpg 
     source: 

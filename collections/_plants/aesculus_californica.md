@@ -29,7 +29,7 @@ sun_requirements:
 
 icon: 
     small: 
-        url: /assets/images/plants/aesculus_californica.jpg
+        url: /assets/images/plants/aesculus_californica_sm.jpg
     large: 
         url: /assets/images/plants/aesculus_californica_lg.jpg
     source:

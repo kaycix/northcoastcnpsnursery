@@ -12,7 +12,7 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/achillea_millefolium.jpg 
+        url: /assets/images/plants/achillea_millefolium_sm.jpg 
     large: 
         url: /assets/images/plants/achillea_millefolium_lg.jpg 
     source: 
