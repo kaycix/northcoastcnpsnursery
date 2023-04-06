@@ -43,6 +43,8 @@ size:
 tags:  
     -   humboldtNative
     -   woodland
+    -   moisture
+    -   deerResistant
 
 websites:
     - url : "https://calscape.org/Athyrium-filix-femina-()"

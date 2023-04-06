@@ -47,10 +47,3 @@ websites:
     - url: https://calscape.org/Anemopsis-californica-() 
       name: "Calscape"
 ---
-
-
-
-
-
-
-

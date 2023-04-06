@@ -47,6 +47,6 @@ size:
         max: 2
 
 websites:
-    - url: 
+    - url: https://calscape.org/Baccharis-pilularis-ssp.-pilularis-%27Pigeon-Point%27-(Pigeon-Point-Coyote-Brush)?srchcr=sc5e39ba57165f9 
       name: "Calscape"
 ---

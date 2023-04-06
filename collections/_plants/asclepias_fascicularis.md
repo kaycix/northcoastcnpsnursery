@@ -14,10 +14,6 @@ inventory:
     -   cnps_master_inventory
     -   cnps_2023_spring
 
-tags:  
-    -   humboldtNative
-    -   butterfly 
-
 size:
     height: 
         min: 1.7
@@ -34,6 +30,12 @@ icon:
     source: 
         name: Julie Ann Kierstead
         url: https://calscape.org/photos/434?srchcr=sc63e6a0afb2c75 
+
+tags:  
+    -   humboldtNative
+    -   butterfly 
+    -   bird
+    -   deerResistant
 
 websites:
     - url : "https://calscape.org/loc-California/Asclepias-fascicularis-(Narrow-Leaf-Milkweed)"

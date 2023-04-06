@@ -46,6 +46,8 @@ tags:
     -   bee
     -   bird
     -   spikey
+    -   droughtTolerant
+    -   bankStabilization
 
 websites:
     - url: https://calscape.org/Berberis-aquifolium-(Oregon-Grape) 

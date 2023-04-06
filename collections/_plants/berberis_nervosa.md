@@ -30,6 +30,7 @@ tags:
     -   bee
     -   bird
     -   spikey
+    -   bankStabilization
 
 sun_requirements:
   - "Part Shade"

@@ -39,6 +39,8 @@ size:
 
 tags:  
     -   humboldtNative
+    -   deerResistant
+    -   moisture
 
 websites:
     - url: "https://calscape.org/Blechnum-spicant-()"

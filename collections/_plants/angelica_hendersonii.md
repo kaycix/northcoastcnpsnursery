@@ -49,10 +49,3 @@ websites:
     - url: https://www.calflora.org/app/taxon?crn=367 
       name: "Calflora"
 ---
-
-
-
-
-
-
-

@@ -38,6 +38,7 @@ websites:
 
 tags:  
     -   humboldtNative
+    -   droughtTolerant
 ---
 
 

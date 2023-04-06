@@ -33,13 +33,14 @@ size:
 
 tags:  
     -   humboldtNative
+    -   droughtTolerant
+    -   hedge
+    -   bird
+    -   butterfly   
+    -   deerResistant
+    -   bankStabilization
 
 websites:
     - url: https://calscape.org/loc-California/Arbutus%20menziesii(%20) 
       name: "Calscape"
 ---
-
-
-
-
-

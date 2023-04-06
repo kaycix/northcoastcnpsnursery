@@ -58,4 +58,3 @@ websites:
     - url: "https://calscape.org/Aquilegia-formosa-(Western-Columbine)"
       name: "Calscape"
 ---
-

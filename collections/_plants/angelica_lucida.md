@@ -33,6 +33,8 @@ tags:
     -   butterfly
     -   coastal
     -   droughTolerant
+    -   beach
+    -   bluff
 
 sun_requirements:
   - "Full Shade"
