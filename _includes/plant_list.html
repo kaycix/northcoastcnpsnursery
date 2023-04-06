@@ -21,13 +21,23 @@ Humboldt Native
 {% for plant in plants %}
 <tr>
 <td>
-<div class="plant_icon">
+<div class="plant_icon" style="position: relative">
 {% if plant.icon and plant.icon.small %}
-<img src='{{plant.icon.small.url}}' />
+    <img src='{{plant.icon.small.url}}' />
+
+    {% if plant.icon and plant.icon.source and plant.icon.source.name %}
+        {% if plant.icon.source.url %}
+        <figcaption style="position: absolute; bottom: 0; left: 5px; margin-bottom: 0">
+        <span style="font-size:0.8em; color: #FFF">
+           © {{plant.icon.source.name }}
+        </span>
+        </figcaption>
+        {% endif %}
+    {% endif %}
 {% endif %}
 </div>
 </td>
-<td style="min-width:200px">
+<td style="min-width:200px; max-width: 600px;">
 <b>{{ plant.name.common[0] | capitalize }}</b>
 <br/>
 {% if plant.websites and plant.websites.size > 0 %}
@@ -39,6 +49,7 @@ Humboldt Native
 {% if plant.websites and plant.websites.size > 0 %}
     </a>
 {% endif %}
+
 </td>
 <td class="sun_req" style="text-align: center; min-width:100px">
 
