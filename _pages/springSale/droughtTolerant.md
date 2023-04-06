@@ -24,7 +24,7 @@ header:
 <div class="subheading">
     <h4><a href="/sale/all/">All Plants</a> >  Drought Tolerant ({{inventory_plants.size}})</h4>
     <p class="notice">
-    This list of drought-tolerant plants has been seeded from Calscape data on low-moisture plants.    
+    This list of drought-tolerant plants has been seeded from Calscape data on low-moisture plants. However, to clarify: drought tolerance is a term that applies to established plants. All new plantings should be watered during their first growing season.  
     </p>
 </div>
 
