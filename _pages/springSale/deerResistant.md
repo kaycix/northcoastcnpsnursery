@@ -24,7 +24,7 @@ header:
 <div class="subheading">
     <h4><a href="/sale/all/">All Plants</a> >  Deer Resistant ({{inventory_plants.size}})</h4>
     <p class="notice">
-    There are few gardening heartaches quite like waking up to find that hungry deer have visited your garden! These are some plants that Calscape has tagged as being deer resistant. We have to add that an extremely hungry deer and baby deer will try anything. However, this is a great list to browse if you've had a history with deer problems. 
+    There are few gardening heartaches quite like waking up to find that hungry deer have visited your garden! These are some plants that Calscape has tagged as being deer resistant. We have to add that an extremely hungry deer and young deer will try anything. However, this is a great list to browse if you've had a history with deer problems. 
     </p>
 </div>
 
