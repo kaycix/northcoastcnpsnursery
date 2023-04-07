@@ -8,7 +8,7 @@ name:
     common: 
         - bluff lettuce    
 
-humbolt_native: True
+humboldt_native: True
 
 icon: 
      small: 

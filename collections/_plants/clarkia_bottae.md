@@ -12,7 +12,7 @@ gardens:
     cnps_demo:
         - grassland
 
-humbolt_native: True
+humboldt_native: True
 
 inventory: 
     -   cnps_master_inventory

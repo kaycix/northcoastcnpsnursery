@@ -21,7 +21,7 @@ gardens:
     cnps_demo:
         - redwood
 
-humbolt_native: True
+humboldt_native: True
 
 habitats : 
     -   woodland

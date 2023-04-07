@@ -11,7 +11,7 @@ name:
 description: 
     short : "This early-blooming shrub is an important source of nectar for native bees and hummingbirds. Its unique dangling pink flower clusters start appearing early in the season, standing out among other still-dormant plants." 
 
-humbolt_native: True
+humboldt_native: True
 
 inventory: 
     -   cnps_master_inventory

@@ -11,7 +11,7 @@ name:
 habitats : 
     -   coastal
 
-humbolt_native: True
+humboldt_native: True
 
 inventory: 
     -   cnps_2023_spring

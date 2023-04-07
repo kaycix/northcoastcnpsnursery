@@ -8,7 +8,7 @@ name:
         - White Meadow Foam 
     scientific: "Limnanthes alba"  
 
-humbolt_native: False
+humboldt_native: False
 
 icon: 
     small: 

@@ -12,7 +12,7 @@ name:
     common:  
         - Cobweb Thistle 
 
-humbolt_native: True
+humboldt_native: True
 
 inventory: 
     -   cnps_master_inventory

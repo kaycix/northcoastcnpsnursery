@@ -8,7 +8,7 @@ name:
     common: 
         - Common Meadow Foam
 
-humbolt_native: True
+humboldt_native: True
 
 gardens: 
     cnps_demo:

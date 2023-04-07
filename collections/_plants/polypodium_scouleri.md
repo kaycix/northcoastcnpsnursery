@@ -11,7 +11,7 @@ category : "fern"
 gardens: 
     arcata_community_center: 
 
-humbolt_native: True
+humboldt_native: True
 
 icon: 
     small: 
@@ -42,5 +42,10 @@ tags:
     -   moisture
     -   groundcover
     -   deerResistant
+
+
+websites:
+    - url : https://calscape.org/Polypodium-scouleri-(Leathery-Polypody) 
+      name: "Calscape"
 ---
 
