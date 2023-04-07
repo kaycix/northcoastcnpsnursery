@@ -8,7 +8,7 @@ name:
 
 category: "shrub"
 
-humboldt_native: False
+humboldt_native: True
 
 icon: 
     small: 
