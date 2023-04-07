@@ -17,10 +17,6 @@ header:
 <div class="subheading">
     <h4>All Plants ({{inventory_plants.size}})</h4>
 </div>
-
-**Notice:** Our inventory list is still being finalized. Check back for updates! 
-{: .notice}
-
 <div style="margin-bottom: 20px;">
     Browse:
     <a href="/sale/shrubs/">Shrubs</a> | 
@@ -32,6 +28,7 @@ header:
     <a href="/sale/succulents/">Succulents</a> |
     <a href="/sale/vines/">Vines</a>
 </div>
+<br/>
 
 {% include plant_list.html 
     plants = inventory_plants
