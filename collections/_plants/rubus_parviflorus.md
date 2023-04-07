@@ -18,12 +18,16 @@ gardens:
 
 icon: 
     small: 
-        url: /assets/images/plants/rubus_parviflorus.jpg
+        url: /assets/images/plants/rubus_parviflorus_sm.jpg
     large: 
         url: /assets/images/plants/rubus_parviflorus_lg.jpg
     source: 
-        name: 
-        url: 
+        name: John Doyen 
+        url: https://calscape.org/photos/3285?srchcr=sc642f957427172
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2023_spring
 
 sun_requirements:
   - "Part Shade"
