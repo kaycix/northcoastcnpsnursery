@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/nemophila_maculata_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/66760?srchcr=sc6407a48bb5edc 
 
 inventory: 

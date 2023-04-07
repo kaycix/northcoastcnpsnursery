@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/lupinus_bicolor_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/2323?srchcr=sc640baa109fe04 
 
 inventory: 

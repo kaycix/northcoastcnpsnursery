@@ -17,7 +17,7 @@ icon:
     large: 
         url: /assets/images/plants/mimulus_aurantiacus_var_pubescens_lg.jpg 
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/2526?srchcr=sc640c07a7960fc 
 
 inventory: 

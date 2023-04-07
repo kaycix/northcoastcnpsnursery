@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/platystemon_californicus_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/2982?srchcr=sc640bcdd2266c9 
 
 inventory: 

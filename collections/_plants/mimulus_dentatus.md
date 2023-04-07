@@ -17,7 +17,7 @@ icon:
     large: 
         url: /assets/images/plants/mimulus_dentatus_lg.jpg
     source: 
-        name: Gerald and Buff Corsi © California Academy of Sciences / Calphotos 
+        name: Gerald and Buff Corsi © California Academy of Sciences 
         url: https://www.calflora.org/app/taxon?crn=5506 
 
 inventory: 

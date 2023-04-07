@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/olsynium_douglasii_lg.jpg
     source: 
-        name: Mary Ann Machi / Calflora
+        name: Mary Ann Machi 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=po228094
 
 inventory: 

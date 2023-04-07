@@ -33,7 +33,7 @@ icon:
     large: 
         url: /assets/images/plants/nemophila_menziesii_lg.jpg 
     source: 
-        name: Matt Berger / Calflora
+        name: Matt Berger 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mu1390 
 
 tags:  

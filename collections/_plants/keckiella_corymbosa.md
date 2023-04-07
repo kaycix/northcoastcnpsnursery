@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/keckiella_corymbosa_lg.jpg 
     source: 
-        name: Steve Matson / Calscape
+        name: Steve Matson 
         url: https://calscape.org/photos/1675?srchcr=sc640c0ae716d94 
 
 inventory: 

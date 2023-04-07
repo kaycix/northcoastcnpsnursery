@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/petasites_frigidus_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/2831?srchcr=sc640d42b727581 
 
 inventory: 

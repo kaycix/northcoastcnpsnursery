@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/oxalis_oregana_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/2695?srchcr=sc6419131b5fa99
 
 inventory: 

@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/maianthemum_racemosum_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape 
+        name: Julie Ann Kierstead
         url: https://calscape.org/photos/2406?srchcr=sc641912960178a 
 
 inventory: 

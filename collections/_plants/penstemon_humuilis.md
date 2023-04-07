@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/penstemon_humilis_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/2776?srchcr=sc640e914c26b22
 
 inventory: 

@@ -30,14 +30,11 @@ habitats :
 icon: 
      small: 
         url: "/assets/images/plants/romanzoffia_californica.jpg"
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=mg81294
      large: 
         url: "/assets/images/plants/romanzoffia_californica.jpg"
-        source: 
-            name: Calflora
-            url: https://www.calflora.org/entry/occdetail.html?seq_num=mg81294
+    source: 
+        name: Kellie 
+        url: 
 
 inventory: 
     -   cnps_master_inventory

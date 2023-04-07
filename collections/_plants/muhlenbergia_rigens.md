@@ -21,7 +21,7 @@ icon:
      large: 
         url: /assets/images/plants/muhlenbergia_rigens_lg.jpg 
      source: 
-        name: Liz Block / Calflora
+        name: Liz Block 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=io4264 
 
 inventory: 
