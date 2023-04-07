@@ -1,5 +1,5 @@
 ---
-permalink: /sale/perennials/
+permalink: /sale/perennials/shade/
 
 layout: splash
 classes: wide spring-sale
@@ -16,18 +16,24 @@ header:
 {% assign inventory_tag = "cnps_2023_spring" %}
 {% assign perennial_plants = site.plants | where_exp:"item",
     "item.category == 'perennial herb'" %}
+
 {% assign inventory_plants = perennial_plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
+{% assign shade_plants = inventory_plants | where_exp:"item",
+    "item.sun_requirements contains 'Full Shade'" %}
+
 <div class="hours">
-    <h4><a href="/sale/all/">All Plants</a> >  Perennials ({{inventory_plants.size}})</h4>
+    <h4><a href="/sale/all/">All Plants</a> >  <a href="/sale/perennials/">Perennials</a> > Shade ({{shade_plants.size}}) </h4>
 </div>
 <div style="margin-bottom: 20px;">
     Browse by:
-    <a href="/sale/perennials/sun/">Sun</a> | 
-    <a href="/sale/perennials/shade/">Shade</a> 
+    <a href="/sale/perennials/sun/">Sun</a> |
+    Shade 
 </div>
 
 {% include plant_list.html 
-    plants = inventory_plants
+    plants = shade_plants
 %}
+
+
