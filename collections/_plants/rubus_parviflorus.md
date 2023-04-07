@@ -32,16 +32,17 @@ inventory:
 sun_requirements:
   - "Part Shade"
 
-plant_size:
-  - height: 
-    - 4
-    - 8.2
+size:
+    height: 
+        min: 4
+        max: 8.2
 
 tags:
     - humboldtNative
     - beginner
     - butterfly
     - bird
+    - hedge
 
 websites: 
     - url: "https://calscape.org/Rubus-parviflorus-(Western-Thimbleberry)"
