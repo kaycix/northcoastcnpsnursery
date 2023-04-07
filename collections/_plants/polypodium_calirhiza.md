@@ -33,7 +33,7 @@ icon:
     large: 
         url: /assets/images/plants/polypodium_calirhiza_lg.jpg
     source:
-        name: Julie Ann Kierstead / Calscape
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/3027?srchcr=sc63e6ccdf7ac67 
  
 websites:

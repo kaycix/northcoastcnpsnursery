@@ -19,7 +19,7 @@ icon:
     large: 
         url: /assets/images/plants/polypodium_scouleri_lg.jpg
     source: 
-        name: John Doyen / Calscape
+        name: John Doyen 
         url: https://calscape.org/photos/3029?srchcr=sc6428f14931120
 
 

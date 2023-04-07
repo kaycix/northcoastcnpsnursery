@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/polygonum_paronychia_lg.jpg 
     source: 
-        name: Adam Chasey / Calflora
+        name: Adam Chasey 
         url: https://www.calflora.org/app/taxon?crn=6760
 
 inventory: 

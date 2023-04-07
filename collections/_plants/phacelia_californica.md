@@ -24,7 +24,7 @@ icon:
     large: 
         url: /assets/images/plants/phacelia_californica_lg.jpg 
     source: 
-        name: James Gonsman / Calflora
+        name: James Gonsman 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=gp6416 
 
 inventory: 
