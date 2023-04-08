@@ -6,7 +6,8 @@ name:
         - "Douglas Aster"    
     scientific: "Symphyotrichum subspicatum"  
 
-category: "annual herb"
+# Chris says that it behaves like a perennial here
+category: "perennial herb"
 
 humboldt_native: True
 
