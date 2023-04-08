@@ -41,7 +41,7 @@ feature_row:
     <h4>Sunday May 7, Open 10:00am - 3:00 pm.</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
-* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius - available April 8.
+* Saturday shoppers will need to sign up via Sign Up Genius. <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-spring1" target="_blank">Click here to sign up now</a>!
 </p>
 
 {% assign inventory_tag = "cnps_2023_spring" %}
