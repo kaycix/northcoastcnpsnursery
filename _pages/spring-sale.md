@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/backgrounds/bad-parking.jpg
     alt: "Parking"
     title: "Parking"
-    excerpt: "Parking is available at Freshwater Farms Reserve. Saturday visitors please RSVP to help us regulate parking."
+    excerpt: "Parking is available at Freshwater Farms Reserve. Accessible parking is located directly in front of the barn and available on a first-come, first-served basis"
     url: "https://goo.gl/maps/Qg5BhABbH88Jaser9"
     btn_label: "View Map"
     btn_class: "btn--primary"
@@ -140,6 +140,35 @@ feature_row:
     </div>
 </div>
 {% include feature_row %}
+<div class="faq-block">
+    <h2>Frequently Asked Questions</h2>
+    <div>
+        <b>What payment methods are accepted?</b>
+        <p>
+            Cash and check are always 👍. However, we do also take credit - thank you!
+        </p>
+    </div>
+    <div>
+        <b>I'm having trouble signing up using Sign Up Genius.</b>
+        <p>
+        Send us an email with your name and preferred time slot. We will sign you up and send you an email confirmation.
+        </p>
+    </div>
+    <div>
+        <b>I might want to shop for longer than 30-minutes. Should I reserve multiple time slots?</b>
+        <p>
+        Nope! Just sign up for one time slot and extend your stay past it as needed.  
+        </p>
+    </div>
+    <div>
+        <b>Do I have to sign up to shop?</b>
+        <p>
+            Sign ups are only required on Saturday. You are free to wander in whenever and however on Sunday. However, if you're on the fence about signing up, this list might help. We recommend signing up on Saturday if:
+            <br/><input type="checkbox" /> You plan on showing up with a list! Some species are especially popular and we do run out.
+            <br/><input type="checkbox" /> You want to go but the extra motivation of signing up will help. (We've all been there 😉) 
+        </p>
+    </div>
+</div>
 
 <div class="thanks-block">
     <h1>Thank You</h1>
