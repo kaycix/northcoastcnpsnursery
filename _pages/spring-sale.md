@@ -157,13 +157,13 @@ feature_row:
     <div>
         <b>I might want to shop for longer than 30-minutes. Should I reserve multiple time slots?</b>
         <p>
-        Nope! Just sign up for one time slot and extend your stay past it as needed.  
+        No need to! Just sign up for one time slot and extend your visit as needed.  
         </p>
     </div>
     <div>
         <b>Do I have to sign up to shop?</b>
         <p>
-            Sign ups are only required on Saturday. You are free to wander in whenever and however on Sunday. However, if you're on the fence about signing up, this list might help. We recommend signing up on Saturday if:
+            Sign ups are only required on Saturday. You are free to wander in whenever and however on Sunday. However, if you're on the fence about signing up, we recommend signing up on Saturday if:
             <br/><input type="checkbox" /> You plan on showing up with a list! Some species are especially popular and we do run out.
             <br/><input type="checkbox" /> You want to go but the extra motivation of signing up will help. (We've all been there 😉) 
         </p>
