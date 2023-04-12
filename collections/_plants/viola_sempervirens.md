@@ -19,12 +19,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/viola_sempervirens.jpg 
+        url: /assets/images/plants/viola_sempervirens_sm.jpg 
     large: 
         url: /assets/images/plants/viola_sempervirens_lg.jpg 
     source: 
-        name: Steve Matson 
-        url: https://calscape.org/photos/3857?srchcr=sc64190bbba2736
+        name: Jessi Von Floto 
+        url: 
 
 inventory: 
     -   cnps_master_inventory
