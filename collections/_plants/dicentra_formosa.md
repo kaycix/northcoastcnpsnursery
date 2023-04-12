@@ -38,8 +38,8 @@ icon:
     large: 
         url: /assets/images/plants/dicentra_formosa_lg.jpg
     source:
-        name: Steve Matson 
-        url: https://calscape.org/photos/1267?srchcr=sc63e71caba8c3e 
+        name: Jessi Von Floto
+        url: 
 
 tags: 
     -   humboldtNative
