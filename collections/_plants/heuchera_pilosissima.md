@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/heuchera_pilosissima_lg.jpg 
     source: 
-        name: Zoya Akulova 
-        url: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0610+1919
+        name: Jessi Von Floto 
+        url: 
 
 inventory: 
     -   cnps_master_inventory

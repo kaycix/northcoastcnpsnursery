@@ -12,12 +12,12 @@ humboldt_native: False
 
 icon: 
     small: 
-        url: /assets/images/plants/limnanthes_alba.jpg
+        url: /assets/images/plants/limnanthes_alba_sm.jpg
     large: 
         url: /assets/images/plants/limnanthes_alba_lg.jpg
     source: 
-        name: John Doyen 
-        url: https://calscape.org/photos/2204?srchcr=sc6428ed26eefe0
+        name: Jessi Von Floto 
+        url:
 
 inventory: 
     -   cnps_2023_spring

@@ -21,7 +21,7 @@ icon:
     large: 
         url: /assets/images/plants/sedum_spathulifolium_lg.jpg 
     source: 
-        name: James Gonsman 
+        name: Jessi Von Floto 
         url: https://www.calflora.org/entry/occdetail.html?seq_num=gp4930
 
 inventory: 
