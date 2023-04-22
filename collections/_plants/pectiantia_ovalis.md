@@ -27,9 +27,9 @@ size:
 
 icon: 
     small: 
-        url: /assets/images/plants/aesculus_californica.jpg
+        url: /assets/images/plants/pectiantia_ovalis_sm.jpg
     large: 
-        url: /assets/images/plants/aesculus_californica_lg.jpg
+        url: /assets/images/plants/pectiantia_ovalis_lg.jpg
     source:
         name: Zoya Akulova 
         url: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0511+2303 
