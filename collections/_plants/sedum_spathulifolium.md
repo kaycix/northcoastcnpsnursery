@@ -21,8 +21,8 @@ icon:
     large: 
         url: /assets/images/plants/sedum_spathulifolium_lg.jpg 
     source: 
-        name: Jessi Von Floto 
-        url: https://www.calflora.org/entry/occdetail.html?seq_num=gp4930
+        name: John Doyen
+        url: https://calscape.org/photos/3464?srchcr=sc6444718255f89 
 
 inventory: 
     -   cnps_master_inventory
