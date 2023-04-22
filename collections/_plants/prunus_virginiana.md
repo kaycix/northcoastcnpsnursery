@@ -17,7 +17,7 @@ icon:
     large: 
         url: /assets/images/plants/prunus_virginiana_lg.jpg 
     source: 
-        name: Julie Ann Kierstead / Calscape 
+        name: Julie Ann Kierstead 
         url: https://calscape.org/photos/3093?srchcr=sc642c77526d3a0 
 
 inventory: 
