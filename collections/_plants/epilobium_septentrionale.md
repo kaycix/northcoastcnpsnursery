@@ -22,7 +22,6 @@ icon:
         url: "https://calphotos.berkeley.edu/cgi/img_query?enlarge=9189+3301+3541+0129"
 
 inventory: 
-    -   cnps_2023_spring
     -   cnps_master_inventory
 
 sun_requirements:
