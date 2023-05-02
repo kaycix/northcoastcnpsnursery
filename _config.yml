@@ -29,6 +29,17 @@ defaults:
    values:
      title: ""
      layout: inventory
+  # _posts
+ - scope:
+     path: ""
+     type: posts
+   values:
+     layout: single
+     author_profile: false
+     read_time: false
+     comments: # true
+     share: true
+     related: true
 footer:
   links:
     - label: "Facebook"
