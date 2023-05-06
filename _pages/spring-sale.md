@@ -37,11 +37,11 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday May 6, <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-spring1" target="_blank">Sign Up to Shop</a>!*</h4>
-    <h4>Sunday May 7, Open 10:00am - 3:00 pm.</h4>
+    <h4>Saturday May 6, <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-spring1" target="_blank">Sign Up to Shop</a>!</h4>
+    <h4>Sunday May 7, Open 10:00am - 3:00 pm*</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
-* Saturday shoppers please RSVP via Sign Up Genius - 30 spots per 30 min time slot. 
+* Sunday shoppers stop by whenever. No signups necessary! 
 </p>
 
 {% assign inventory_tag = "cnps_2023_spring" %}
