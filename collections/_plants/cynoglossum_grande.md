@@ -8,6 +8,9 @@ name:
 
 category: "perennial herb"
 
+description: 
+    short : "This shade-loving perennial has dainty blue flowers and tongue-shaped leaves - hence the name. It's a beautiful and unique addition to a woodland garden." 
+
 humboldt_native: True
 
 icon: 
@@ -35,6 +38,10 @@ sun_requirements:
 tags:
     - humboldtNative
     - butterfly
+    - deerResistant
+    - woodland
+    - chaparral
+    - earlyBloomer
 
 websites:
     - url: https://calscape.org/Cynoglossum-grande-(Western-Houndstongue)

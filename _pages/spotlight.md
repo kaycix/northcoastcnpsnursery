@@ -10,6 +10,7 @@ header:
   # overlay_image: /assets/images/icons/spotlight_background.jpg
 
 plant_spotlights: 
+    april: 224 # western houndstongue 
     march: 73 # red flowering currant
     february: 195 # coast silk tassel
     january: 153 # mistmaiden

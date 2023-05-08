@@ -13,24 +13,6 @@ layout: default
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
-   
-    {% if page.sale_banner %} 
-    <div class="sale_banner">
-        <img src="/assets/images/backgrounds/flowers-top-edge.png" style="position: absolute; right: 0; width: 70%; max-width: 600px" />
-        <div class="wrapper"> 
-            <div class="header"> 
-                <div>Shop Our In-Person</div>
-                <h1><a href="/sale/">Spring Native Plant Sale</a></h1>
-                <h4>May 6 & 7, 2023</h4>
-                <br/>Join us for a weekend of native plant appreciation. Browse our wide selection of native plants, explore our demonstration garden, talk to local native plant experts.
-            </div>
-            <div style="float: left">
-                <a class="btn btn--primary" href="/sale/">More Information</a>
-            </div>
-            <div style="clear:both"></div>
-        </div>
-    </div>
-    {% endif %}
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}

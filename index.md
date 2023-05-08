@@ -2,8 +2,8 @@
 title: "Welcome to our native plant nursery."
 layout: splash
 
-
-sale_banner: true
+banner:
+    excerpt: Thank you to everyone who came out to support us at our Spring Sale. We are so grateful to be a part of this community! 
 
 header:
   overlay_color: "#000"
@@ -18,14 +18,14 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
 #
 
-plant_spotlight_id: 73 
+plant_spotlight_id: 224 
 plant_spotlight_title: 
 
 feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "<img src='/assets/images/icons/stop-sign-small.png' style='float:left; margin-right: 5px;' />Hang tight! Plant sales are on hold as we gear up for our Spring sale, May 6th  & May 7th, 2023.<br/><br/>Pricing (unless otherwise marked): <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
+    excerpt: "We will be resuming our plant sales during our <a href='/contact'>Open Hours</a> starting on Wednesday May 17, 2023. Stay tuned for an updated inventory list.<br/><br/>Pricing (unless otherwise marked): <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
     #btn_label: "More Information"
@@ -45,7 +45,6 @@ feature_row:
     btn_label: "Join Our Team"
     btn_class: "btn--info"
 ---
-
 {% include feature_row %}
 
 {% for plant in site.plants %}
