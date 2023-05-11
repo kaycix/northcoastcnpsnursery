@@ -1,11 +1,22 @@
 ---
 title:  "Native Lawn with Yarrow"
 header:
-categories: 
+categories:
+    - inspiration 
 tags:
+    - yarrow
+    - lawn replacement
+    - practical natives
+
+gallery:
+    - url: /assets/images/blog/yarrow_lawn.jpg
+      image_path: /assets/images/blog/yarrow_lawn.jpg
+      title: "Native lawn spotted in Arcata"
+    - url: /assets/images/blog/yarrow_pots.jpg
+      image_path: /assets/images/blog/yarrow_pots.jpg
+      title: "Yarrow in 1-gallon pots at the Nursery"
 ---
-<img src="/assets/images/blog/yarrow_lawn.jpg" width="400" />
-<img src="/assets/images/blog/yarrow_pots.jpg" width="400" />
+{% include gallery %}
 
 <p>
 Look! A native yarrow mix lawn.

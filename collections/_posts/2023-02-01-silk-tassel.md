@@ -1,7 +1,8 @@
 ---
-title:  "February Plant of the Month"
+title:  "Plant of the Month: Coast Silk Tassel"
 header:
-categories: 
+categories:
+    - plants 
 tags:
 ---
 <img src="/assets/images/plants/garrya_elliptica_lg.jpeg" width="400" />

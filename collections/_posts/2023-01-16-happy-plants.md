@@ -1,8 +1,10 @@
 ---
 title:  "Happy Little Plants Basking in the Sunshine!"
 header:
-categories: 
+categories:
+    - plants 
 tags:
+    - nursery
 ---
 
 1. Riverbank Lupine (Lupinus rivularis)

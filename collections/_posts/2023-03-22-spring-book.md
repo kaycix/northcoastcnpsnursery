@@ -1,12 +1,23 @@
 ---
-title:  "Spring Book Recommendation"
+title:  "California Native Gardening - a month by month guide"
 header:
-categories: 
+categories:
+    - book 
 tags:
+    - spring
+    - book recommendation
+
+gallery:
+    - url: /assets/images/blog/books/general.jpg
+      image_path: /assets/images/blog/books/general.jpg
+    - url: /assets/images/blog/books/ca_native_gardening_title.jpg
+      image_path: /assets/images/blog/books/ca_native_gardening_title.jpg
+    - url: /assets/images/blog/books/ca_native_gardening_sneak_peek.jpg
+      image_path: /assets/images/blog/books/ca_native_gardening_sneak_peek.jpg
+
 ---
-<img src="/assets/images/blog/books/general.jpg" width="400" />
-<img src="/assets/images/blog/books/ca_native_gardening_title.jpg" width="400" />
-<img src="/assets/images/blog/books/ca_native_gardening_sneak_peek.jpg" width="400" />
+
+{% include gallery %}
 
 <p>
 We've got the perfect book recommendation to help you Spring into action! (see what we did there? 😉)
@@ -14,8 +25,14 @@ We've got the perfect book recommendation to help you Spring into action! (see w
 </p>
 <p>
 Multiple copies available at Humboldt County and Cal Poly Humboldt libraries. 
-Humboldt County:
-https://libcat.co.humboldt.ca.us/record=b1281188~S13
-Cal Poly Humboldt:
-https://csu-humboldt.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01CALS_HUL:01CALS_HUL&search_scope=MyInst_and_CI&tab=Everything&docid=alma991072203774902901
+<br/>Humboldt County:
+<br/>
+    <a href="https://libcat.co.humboldt.ca.us/record=b1281188~S13">
+    https://libcat.co.humboldt.ca.us/record=b1281188~S13
+    </a>
+<br/>Cal Poly Humboldt:
+<br/>
+    <a href="https://csu-humboldt.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01CALS_HUL:01CALS_HUL&search_scope=MyInst_and_CI&tab=Everything&docid=alma991072203774902901">
+    https://csu-humboldt.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01CALS_HUL:01CALS_HUL&search_scope=MyInst_and_CI&tab=Everything&docid=alma991072203774902901
+    </a>
 </p>
