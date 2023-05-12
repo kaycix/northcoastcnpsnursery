@@ -16,11 +16,13 @@ gallery:
       image_path: /assets/images/blog/books/ca_native_gardening_sneak_peek.jpg
 
 ---
+<p>
+We've got the perfect book recommendation to help you Spring into action! (see what we did there? 😉)
+</p>
 
 {% include gallery %}
 
 <p>
-We've got the perfect book recommendation to help you Spring into action! (see what we did there? 😉)
 "California native gardening : a month-by-month guide" helps you plan seasonal maintenance in your native garden. We've even included a sneak peek of March To Do list. 
 </p>
 <p>

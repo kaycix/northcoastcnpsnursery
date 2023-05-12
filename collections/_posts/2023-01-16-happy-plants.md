@@ -1,12 +1,15 @@
 ---
-title:  "Happy Little Plants Basking in the Sunshine!"
+title:  "January Sneak Peek"
 header:
 categories:
-    - plants 
-tags:
     - nursery
+tags:
+    - winter
+    - sneak peek
 ---
-
+<p>
+Happy Little Plants Basking in the Sunshine!
+</p>
 1. Riverbank Lupine (Lupinus rivularis)
 2. California Mistmaiden (Romanzoffia californica)
 3. Yarrow (Achillea millefolium)

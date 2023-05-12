@@ -16,17 +16,13 @@ gallery:
       image_path: /assets/images/blog/yarrow_pots.jpg
       title: "Yarrow in 1-gallon pots at the Nursery"
 ---
-{% include gallery %}
-
-<p>
-Look! A native yarrow mix lawn.
-</p>
-<p>
-It’s not quite what you thought a native lawn replacement would look like, right?
-</p>
 <p>
 This sweet little native lawn was spotted at a private residence in Arcata.
+It’s not quite what you thought a native lawn replacement would look like, right?
 </p>
+
+{% include gallery layout="half" %}
+
 <p>
 It’s perfect for those who want to hold onto their lawn but also want to live by their values of being in balance with nature. Wouldn’t you love to see lawns, public areas, and golf courses do the same?
 </p>

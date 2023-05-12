@@ -4,6 +4,8 @@ header:
 categories:
     - plants 
 tags:
+    - plant of the month
+    - silk tassel
 ---
 <img src="/assets/images/plants/garrya_elliptica_lg.jpeg" width="400" />
 <p>

@@ -16,12 +16,11 @@ gallery:
       image_path: /assets/images/blog/science/checkerbloom_cold.jpg
       title: "Seedlings left outside in the cold"
 ---
-
-{% include gallery %}
-
 <p>
 We're having a little fun with science today. These are 2 batches of Checkerbloom seedlings pulled out of the demonstration garden on our last Garden Work Day.
 </p>
+
+{% include gallery layout="half" %}
 <p>
 They were identical at the start - but one batch stayed outside and the other sat indoors on a window sill. Check out the 3-4X growth difference we captured in just 3.5 weeks! 😮 
 </p>
