@@ -1,6 +1,7 @@
 # This will require each of these plugins automatically.
 plugins:
   - jekyll-include-cache
+  - jekyll-paginate-v2
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
@@ -10,6 +11,16 @@ name                     : "North Coast CNPS Nursery"
 include                  : ["_pages"]
 logo                     : "/assets/images/logo/logo.jpg"
 search                   : true
+
+paginate                 : 5 # amount of posts
+paginate_path            : "/recent/page:num/"
+# pagination:
+#  enabled: true
+#  limit: 1
+#  per_page: 3
+#  sort_field: 'date'
+#  sort_reverse: true
+
 collections_dir          : collections
 collections:        
     plants:

@@ -259,6 +259,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-include-cache
+  jekyll-paginate
   webrick
 
 BUNDLED WITH
