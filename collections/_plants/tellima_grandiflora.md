@@ -2,11 +2,19 @@
 plant_id: 154 
 
 name: 
-    common: 
-        - "Bigflower Tellima"  
+    common:
+        - Fringe Cups 
+#        - "Bigflower Tellima" 
     scientific: "tellima grandiflora" 
  
 category: "perennial herb"
+
+companions: 
+    - 71
+
+description:
+    short: ""
+    location: "Thrives in the cool moist soil of a woodland garden. Small flowers extend on tall, slender stems. Will grow in full to partial shade."
 
 gardens:
     arcata_community_center:
@@ -38,8 +46,20 @@ size:
     height: 
         min: 1.3 
         max: 3
+
+tags:
+    - humboldtNative
+    - woodland
+    - groundcover
+    - deerResistant
  
 websites: 
-    - url: "https://calscape.org/loc-California/Tellima%20grandiflora(%20)"
-      name: Calscape
+    - url: https://calscape.org/Tellima-grandiflora-(Bigflower-Tellima) 
+      name: Calscape.org/tellima-grandiflora-(bigflower-tellima)
+    - url: www.calflora.org/app/taxon?crn=7931
+      name: Calflora.org/app/taxon?crn=7931
+    - url: https://courses.washington.edu/esrm412/protocols/2008/TEGR2.pdf
+      name: Plant Propagation Protocol - University of Washington
+    - url: https://www.gardenershq.com/Tellima-Fringe-cups.php
+      name: Gardeners Hq - How to Grow Tellima Plants
 ---

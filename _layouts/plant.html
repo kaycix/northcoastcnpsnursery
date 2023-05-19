@@ -21,41 +21,90 @@ classes: plant-page wide
 </div>
 {% endif %}
 
-<h2>
+<h1 style="transform:uppercase; margin-top: 1em; margin-bottom: 0em">
     {% if page.name.common and page.name.common.size > 0 %}
     <span>{{page.name.common[0] | capitalize }}</span>
     {% endif %}
-</h2>
+</h1>
 
 <div class="scientific_name">
     {% if page.name.scientific %}
-    <b>Scientific Name:</b> {{page.name.scientific | capitalize }}
+    <i>{{page.name.scientific | capitalize }}</i>
     {% endif %}
 </div>
 
+<br/>
+
+<table>
 {% if page.category %}
-    <br/>
-    <b>Plant Type:</b> {{page.category | capitalize }}
+<tr>
+    <td>
+        <img src="/assets/images/icons/seedling-sm.png" />
+    </td>
+    <td><b>Type: </b> {{page.category | capitalize }}</td>
+</tr>
 {% endif %}
 
-<p>
-{% if page.sun_requirements and page.sun_requirements.size > 0 %}
-    <b>Sun Requirements:</b> {{page.sun_requirements | join: ", " }}
+{% if page.sun_requirements.size > 0 or page.description.location %}
+<tr>
+    <td>
+        <img src="/assets/images/icons/sun-sm.png" />
+    </td>
+    <td>
+        <b>Location:</b>
+        {% if page.description.location %}
+            {{page.description.location}}
+        {% elsif page.sun_requirements %}
+            {{page.sun_requirements | join: ", " }}
+        {% endif %}
+    </td>
+</tr>
 {% endif %}
+
 {% if page.websites and page.websites.size > 0 %}
-    <br/>
-    <b> Websites: </b>
+<tr>
+    <td>
+        <img src="/assets/images/icons/link-sm.png" />
+    </td>
+    <td>
+        <b>Websites:</b> For more details, visit <br/>
     {% for website in page.websites %}
         <a href="{{website.url}}" target="_blank">{{website.name}}</a>
-        {% if forloop.index < page.websites.size %}, {% endif %}
+        {% if forloop.index < page.websites.size %}<br/>{% endif %}
     {% endfor %}
+    </td>
+</tr>
 {% endif %}
-</p>
+
+{% if page.companions and page.companions.size > 0 %}
+<tr>
+    <td>
+    </td>
+    <td>
+        <b>Companion Plants:</b>
+        {% assign companion_plants = site.plants | where_exp: "item",
+                "page.companions contains item.plant_id" %}
+        {% for companion in companion_plants %}
+            <a href="{{companion.url}}">{{ companion.name.common[0] }}</a>
+        {% endfor %}
+    </td>
+</tr>
+{% endif %}
+
+{% if page.tags and page.tags.size > 0 %}
+<tr>
+    <td>
+        <img src="/assets/images/icons/tag-sm.png" />
+    </td>
+    <td>
+        <b>Tags:</b> {{ page.tags | join: ", " }}
+    </td>
+</tr>
+{% endif %}
+
+</table>
 
 <p>
-{% if page.tags and page.tags.size > 0 %}
-    <b>Tags:</b> {{ page.tags | join: ", " }}
-{% endif %}
 </p>
 
 
