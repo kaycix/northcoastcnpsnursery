@@ -8,6 +8,13 @@ name:
 
 category: "shrub"
 
+companions: 
+    - 6 # ca pipvine 
+
+description: 
+    short: ""
+    location: "Beautiful deciduous shrub with maple-like leaves and clusters of small white flowers."
+
 gardens: 
     arcata_marsh:
     trinidad_museum:
@@ -39,11 +46,19 @@ size:
         max: 8.2
 
 tags: 
-    - humboldtNative
+    - humboldtNative  
+    - deerResistant 
+    - riparian
     - butterfly
+    - slopes
+    - hedge
 
 websites: 
-    - url: "https://calscape.org/loc-California/Physocarpus%20capitatus(%20)"
-      name: Calscape
+    - url: https://calscape.org/Physocarpus-capitatus-(Pacific-Ninebark)
+      name: Calscape.org/Physocarpus-capitatus-(Pacific-Ninebark)
+    - url: https://www.calflora.org/app/taxon?crn=6490
+      name: Calflora.org/app/taxon?crn=6490
+    - url: https://nativeplantspnw.com/pacific-ninebark-physocarpus-capitatus/
+      name: Pacific Ninebark - See Propagation
 ---
 

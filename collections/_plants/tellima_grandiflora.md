@@ -10,7 +10,7 @@ name:
 category: "perennial herb"
 
 companions: 
-    - 71
+    - 71 # sword fern
 
 description:
     short: ""

@@ -8,6 +8,14 @@ name:
         - "Wild Ginger"  
     scientific: "Asarum caudatum" 
 
+description:
+    short: ""
+    location: "Forms a lush, dark green groundcover for shady sites. Has heart-shaped leaves and a distinctive red-brown flower, often hidden beneath the leaves."
+    uses: "The root is edible" # https://en.wikipedia.org/wiki/Asarum_caudatum
+
+companions: 
+    - 183 # wild ginger
+
 humboldt_native: True
 
 icon: 
@@ -38,8 +46,8 @@ size:
 #icon:  "/assets/images/plants/asarum_caudatum_icon.jpg"
 
 websites:
-    - url: "https://calscape.org/loc-California/Asarum%20caudatum(%20)"
-      name: "Calscape"
+    - url: https://calscape.org/Asarum-caudatum-() 
+      name: "Calscape.org/Asarum-caudatum-()"
 
 gardens:
     arcata_marsh:

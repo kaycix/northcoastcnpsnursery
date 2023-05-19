@@ -3,10 +3,17 @@ plant_id: 71
 
 category: "fern"
 
+description: 
+    short: ""
+    location: "Most commonly seen fern in our redwood forests. Looks great in hedges or as a larger groundcover plant. Calscape says full to partial shade. However, we find that it can also do well in sunnier spots."
+
 name: 
     common: 
         - "Sword Fern" 
     scientific: "Polystichum munitum"  
+
+companions: 
+    - 109 # wild ginger
 
 gardens: 
     cnps_demo:
@@ -24,8 +31,8 @@ icon:
     large: 
         url: /assets/images/plants/polystichum_munitum_lg.jpg 
     source: 
-        name: Julie Ann Kierstead
-        url: https://calscape.org/photos/3032?srchcr=sc64190ad4dac02
+        name: Jessi
+        url: 
 
 inventory: 
     -   cnps_master_inventory
@@ -42,6 +49,7 @@ size:
 
 tags:
     - humboldtNative
+    - hedge
     - deerResistant
     - groundcover
     - beginner
@@ -49,5 +57,7 @@ tags:
 
 websites:
     - url: "https://calscape.org/Polystichum-munitum-()"
-      name: "Calscape"
+      name: "Calscape.org/Polystichum-munitum-()"
+    - url: "https://www.weekand.com/home-garden/article/sword-fern-rhizomes-propagation-18040566.php"
+      name: Sword Ferns Rhizome Propagation
 ---
