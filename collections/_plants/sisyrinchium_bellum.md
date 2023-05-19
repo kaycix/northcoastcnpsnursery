@@ -48,7 +48,7 @@ tags:
     - droughtTolerant
 
 websites: 
-    - url: "https://calscape.org/loc-California/Sisyrinchium%20bellum(%20)"
+    - url: https://calscape.org/Sisyrinchium-bellum-(Blue-Eyed-Grass) 
       name: Calscape
 ---
 

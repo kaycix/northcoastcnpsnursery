@@ -52,8 +52,8 @@ tags:
 
 websites:
     - url: "https://calscape.org/Erigeron-glaucus-(Seaside-Fleabane)"
-      title: "Calscape"
+      name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=3140" 
-      title: "Calflora"
+      name: "Calflora"
 ---
 

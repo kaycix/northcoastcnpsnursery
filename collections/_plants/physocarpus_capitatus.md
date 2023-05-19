@@ -13,7 +13,7 @@ companions:
 
 description: 
     short: ""
-    location: "Beautiful deciduous shrub with maple-like leaves and clusters of small white flowers."
+    location: "Beautiful deciduous shrub with maple-like leaves and clusters of small white flowers. Requires a site with adequate moisutre."
 
 gardens: 
     arcata_marsh:

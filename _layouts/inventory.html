@@ -1,0 +1,18 @@
+---     
+layout: single
+classes: inventory-page wide
+
+# expects inventory_id to be set in collections/_inventory/inventory_id.md
+# ideally we would pull this from the url but not sure how to
+---
+
+{% assign inventory_tag = page.inventory_id %}
+{% assign inventory_plants = site.plants | where_exp:"item",
+    "item.inventory contains inventory_tag" %}
+    
+<h4>All Plants ({{inventory_plants.size}})</h4>
+
+{% include plant_list.html 
+    plants = inventory_plants
+%}
+

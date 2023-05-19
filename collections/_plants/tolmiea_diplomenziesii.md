@@ -29,6 +29,7 @@ icon:
 inventory: 
     -   cnps_2023_spring
     -   cnps_master_inventory
+    -   cnps_2023_05
 
 # very little info on this plant, not sure on sun requirements
 sun_requirements:
