@@ -13,7 +13,7 @@ companions:
     - 71 # sword fern
 
 description:
-    short: "This common plant can be found bordering many of our hiking trails through redwood forest. In May, they begin sending up delicate reddish flowers on tall, slender stems. We find them happily in yards often among the company of ferns or in the cooler soil along the north side of a house."
+    short: "This common plant can be found bordering many of our hiking trails through redwood forest. In May, they begin sending up delicate reddish flowers on tall, slender stems. We find them in yards happily in the company of ferns or in the cooler soil along the north side of a house. They make an attractive border in a woodland garden."
     location: "Thrives in the cool moist soil of a woodland garden. Small flowers extend on tall, slender stems. Will grow in full to partial shade."
 
 gardens:
