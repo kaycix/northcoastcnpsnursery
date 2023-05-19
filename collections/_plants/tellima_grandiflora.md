@@ -13,7 +13,7 @@ companions:
     - 71 # sword fern
 
 description:
-    short: "Thrives in the cool moist soil of a woodland garden. Small flowers extend on tall, slender stems. Will grow in full to partial shade."
+    short: "This common plant can be found bordering many of our hiking trails through redwood forest. Starting in May, you can often admire their delicate flowers extending upwards on slender stems. We find them happily in yards often among ferns or in the cooler soil along the north side of a house."
     location: "Thrives in the cool moist soil of a woodland garden. Small flowers extend on tall, slender stems. Will grow in full to partial shade."
 
 gardens:
