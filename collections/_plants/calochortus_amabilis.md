@@ -8,6 +8,9 @@ name:
         - "Golden Globelily"  
     scientific: "Calochortus amabilis"  
 
+companions: 
+    - 304 # clarkia unguiculata 
+
 gardens:
     cnps_demo:
         - redwood
@@ -37,6 +40,6 @@ size:
         max: 1.6
 
 websites:
-    - url: "https://calscape.org/loc-California/Calochortus%20amabilis(%20)"
+    - url: https://calscape.org/Calochortus-amabilis-() 
       name: "Calscape"
 ---

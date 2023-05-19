@@ -40,13 +40,16 @@ tags:
     -   beginner
     -   drought_tolerant
     -   groundcover
+    -   longBlooming
     -   showy
     -   butterfly
     -   coastal
 
 websites:
-    - url: "https://calscape.org/loc-California/Camissoniopsis%20cheiranthifolia%20(Beach%20Primrose)"
-      name: "Calscape"
+    - url: https://calscape.org/Camissoniopsis-cheiranthifolia-() 
+      name: "Calscape - Beach Primrose / Camissoniopsis cheiranthifolia"
+    - url: https://www.calflora.org/app/taxon?crn=11447
+      name: "Calflora - Camissoniopsis cheiranthifolia"
 ---
 
 

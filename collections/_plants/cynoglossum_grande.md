@@ -8,6 +8,10 @@ name:
 
 category: "perennial herb"
 
+companions: 
+    - 164 # soap plant 
+    - 118 # golden globelily
+
 description: 
     short : "This shade-loving perennial has dainty blue flowers and tongue-shaped leaves - hence the name. It's a beautiful and unique addition to a woodland garden." 
 
@@ -42,10 +46,15 @@ tags:
     - woodland
     - chaparral
     - earlyBloomer
+    - propagationSeedNoTreatment
 
 websites:
     - url: https://calscape.org/Cynoglossum-grande-(Western-Houndstongue)
-      name: "Calscape"
+      name: "Calscape - Western Houndstongue/Cynoglossum grande"
+    - url: https://www.calflora.org/app/taxon?crn=2573
+      name: Calflora - Cynoglossum grande 
+    - url: https://www.lindavistanatives.com/product/cynoglossum-grande
+      name: Linda Vista Native Plants
 ---
 
 
