@@ -33,9 +33,6 @@ Plant Summary Card
                 {{ plant.description.short }}
                 {% endif %}
             </div>
-            {% if plant.websites and plant.websites.size > 0 and plant.websites[0].url and plant.websites[0].name  %}
-            <a class="btn--inverse btn" href="{{plant.websites[0].url}}">View on {{plant.websites[0].name}}</a>
-            {% endif %}
             {% if plant.url %}
             <a class="btn--info btn" href="{{plant.url}}">More Details</a>
             {% endif %}

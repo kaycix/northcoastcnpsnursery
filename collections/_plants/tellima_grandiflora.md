@@ -13,7 +13,7 @@ companions:
     - 71 # sword fern
 
 description:
-    short: ""
+    short: "Thrives in the cool moist soil of a woodland garden. Small flowers extend on tall, slender stems. Will grow in full to partial shade."
     location: "Thrives in the cool moist soil of a woodland garden. Small flowers extend on tall, slender stems. Will grow in full to partial shade."
 
 gardens:

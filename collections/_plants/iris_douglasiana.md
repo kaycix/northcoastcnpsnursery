@@ -12,7 +12,6 @@ gardens:
     arcata_community_center:
     arcata_marsh:
     cnps_demo:
-        - grassland
         - redwood
     sequoia_park_zoo:
     trinidad_museum:

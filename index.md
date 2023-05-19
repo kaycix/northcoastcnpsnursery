@@ -2,9 +2,6 @@
 title: "Welcome to our native plant nursery."
 layout: splash
 
-banner:
-    excerpt: Thank you to everyone who came out to support us at our Spring Sale. We are so grateful to be a part of this community! 
-
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -18,18 +15,18 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
 #
 
-plant_spotlight_id: 224 
-plant_spotlight_title: 
+plant_spotlight_id: 154 
+plant_spotlight_title: May 
 
 feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "We will be resuming our plant sales during our <a href='/contact'>Open Hours</a> starting on Wednesday May 17, 2023. Stay tuned for an updated inventory list.<br/><br/>Pricing (unless otherwise marked): <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
+    excerpt: "Plant Sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Stay tuned for an updated inventory list, coming June 1, 2023.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #url: "/category/cnps-2022-fall"
     #url: "/category/cnps-master-inventory"
-    #btn_label: "More Information"
-    #btn_class: "btn--primary"
+    btn_label: "View Inventory"
+    btn_class: "btn--primary disabled"
   - image_path: /assets/images/garden/garden-feature.jpg
     alt: "Demonstration Garden"
     title: "Demonstration Garden"

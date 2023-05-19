@@ -59,6 +59,6 @@ tags:
     -   grassland
     -   chaparral
     -   woodland
-    -   reseeds_easily 
+    -   selfseeds_easily 
     -   taproot
 ---
