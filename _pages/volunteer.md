@@ -55,7 +55,7 @@ website:
 We would love for you to join us - whether you come often or occasionally, every little bit helps propel us forward in our mission.
 </p>
 <p>
-<a href = "mailto:northcoastcnps@gmail.com">Email us</a> or <a href="/volunteer/form/">fill out this form</a> to let us know you're interested! Already a volunteer? <a href="/assets/images/icons/you-rock-meme.jpg" target="_blank">Click here</a>. 
+<a href = "mailto:northcoastcnps@gmail.com">Email us</a> <!--or <a href="/volunteer/form/">fill out this form</a>--> to let us know you're interested! Already a volunteer? <a href="/assets/images/icons/you-rock-meme.jpg" target="_blank">Click here</a>. 
 </p>
 <p><a href="#faq">Visit our FAQ</a> to learn more.</p>
 
@@ -78,9 +78,11 @@ We would love for you to join us - whether you come often or occasionally, every
 We are open consistently on Wednesday, Friday and Sunday from 10a - 1p and sometimes at other times for special events. Please check our <a href="https://www.facebook.com/northcoastcnpsnursery">Facebook page</a> for any updates.
 </p>
 
+<!--
 <h5>Do I need to sign up to volunteer for nursery or garden days?</h5>
 <p> Please RSVP via email if it's your first time. Afterwards you can drop in whenever!
 </p>
+-->
 
 <h5>
 Drop-in volunteer hours are 10a - 1p. Does this mean I have to stay the whole time?
