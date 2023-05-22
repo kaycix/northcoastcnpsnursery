@@ -13,4 +13,6 @@ GitHub Pages is a static site hosting service that serves a website directly fro
 Jekyll powers GitHub pages. 
 Minimal Mistakes is the theme we're using to style this website. 
 
-
+Notes:
+Useful sed command for finding and replacing all 
+sed -i -e 's#cnps_2023_05#HOLD#g' *

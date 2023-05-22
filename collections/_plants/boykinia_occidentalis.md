@@ -12,6 +12,7 @@ humboldt_native: True
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2023_05 # only 5
 
 gardens:
     arcata_marsh:

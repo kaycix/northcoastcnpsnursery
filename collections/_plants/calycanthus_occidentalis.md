@@ -22,6 +22,7 @@ icon:
 inventory: 
     -   cnps_master_inventory
     -   cnps_2022_spring
+    -   cnps_2023_05 
 
 size:
     height: 

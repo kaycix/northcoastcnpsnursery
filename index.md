@@ -22,11 +22,10 @@ feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "Plant Sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Stay tuned for an updated inventory list, coming June 1, 2023.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
-    #url: "/category/cnps-2022-fall"
-    #url: "/category/cnps-master-inventory"
+    excerpt: "Plant Sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
+    url: "/inventory/cnps-2023-05"
     btn_label: "View Inventory"
-    btn_class: "btn--primary disabled"
+    btn_class: "btn--info"
   - image_path: /assets/images/garden/garden-feature.jpg
     alt: "Demonstration Garden"
     title: "Demonstration Garden"
