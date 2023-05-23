@@ -16,7 +16,7 @@ icon:
     large: 
         url: /assets/images/plants/calycanthus_occidentalis_lg.jpg 
     source: 
-        name: Steve Matson / Calscape 
+        name: Steve Matson 
         url: https://calscape.org/photos/699?srchcr=sc64079c03e47bb 
 
 inventory: 

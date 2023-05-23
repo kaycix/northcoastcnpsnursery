@@ -20,7 +20,7 @@ icon:
     large: 
         url: /assets/images/plants/camissoniopsis_cheiranthifolia_lg.jpg 
     source: 
-        name: John Doyen / Calscape 
+        name: John Doyen 
         url: https://calscape.org/photos/730?srchcr=sc64079f277e086 
 
 inventory: 
