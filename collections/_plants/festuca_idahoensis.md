@@ -19,8 +19,8 @@ icon:
     large: 
         url: /assets/images/plants/festuca_idahoensis_lg.jpg 
     source: 
-        name: Steve Matson 
-        url: https://calscape.org/photos/1647?srchcr=sc640fa1f175aec
+        name: North Coast CNPS Nursery
+        url: 
 
 inventory: 
     -   cnps_master_inventory

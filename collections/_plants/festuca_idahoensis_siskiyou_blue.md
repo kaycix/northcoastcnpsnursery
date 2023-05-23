@@ -1,5 +1,5 @@
 ---
-plant_id: 221 
+plant_id.: 221 
 
 name: 
     common: 
@@ -12,11 +12,11 @@ humboldt_native: False
 
 icon: 
     small: 
-        url: /assets/images/plants/festuca_idahoensis_siskiyou_blue.jpg 
+        url: /assets/images/plants/festuca_idahoensis_siskiyou_blue_sm.jpg 
     large: 
         url: /assets/images/plants/festuca_idahoensis_siskiyou_blue_lg.jpg 
     source: 
-        name:
+        name: North Coast CNPS Nusery
         url: 
 
 inventory: 
