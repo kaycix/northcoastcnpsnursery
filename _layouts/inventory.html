@@ -9,10 +9,80 @@ classes: inventory-page wide
 {% assign inventory_tag = page.inventory_id %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
+
+{% assign plant_groups = inventory_plants | group_by : "category" %}
+
+<h4 id="top">Filter by:</h4> 
+{% for group in plant_groups %}
+   {% if group.name == 'tree' %}
+        <a href="#trees">
+        Trees
+    {% elsif group.name == 'annual herb' %}
+        <a href="#annuals">
+        Annuals 
+    {% elsif group.name == 'perennial herb' %}
+        <a href="#perennials">
+        Perennials
+    {% elsif group.name == 'vine' %}
+        <a href="#vines">
+        Vines
+    {% elsif group.name == 'shrub' %}
+        <a href="#shrubs">
+        Shrubs 
+    {% elsif group.name == 'fern' %}
+        <a href="#ferns">
+        Ferns 
+    {% elsif group.name == 'grass' %}
+        <a href="#grasses">
+        Grasses 
+    {% elsif group.name == 'succulent' %}
+        <a href="#succulents">
+        Succulents
+    {% endif %}
+    ({{group.items.size}}) 
+    </a> |
+{% endfor %}
     
 <h4>All Plants ({{inventory_plants.size}})</h4>
 
 {% include plant_list.html 
     plants = inventory_plants
 %}
+
+{% for group in plant_groups %}
+   {% if group.name == 'tree' %}
+       <h4 id="trees" style="float:left">
+        Trees
+    {% elsif group.name == 'annual herb' %}
+        <h4 id="annuals" style="float:left">
+        Annuals 
+    {% elsif group.name == 'perennial herb' %}
+        <h4 id="perennials" style="float:left">
+        Perennials
+    {% elsif group.name == 'vine' %}
+        <h4 id="vines" style="float:left">
+        Vines
+    {% elsif group.name == 'shrub' %}
+        <h4 id="shrubs" style="float:left"">
+        Shrubs 
+    {% elsif group.name == 'fern' %}
+        <h4 id="ferns" style="float:left">
+        Ferns 
+    {% elsif group.name == 'grass' %}
+        <h4 id="grasses" style="float:left">
+        Grasses 
+    {% elsif group.name == 'succulent' %}
+        <h4 id="succulents" style="float:left">
+        Succulents
+    {% endif %}
+    ({{group.items.size}}) 
+    </a> 
+    </h4>
+    <a href="#top" style="float: left; font-size: 0.8em; margin: 2.8em 0 0 .1em">Back To Top</a>
+    <div class="clear"></div>
+    {% include plant_list.html 
+        plants = group.items
+    %}
+{% endfor %}
+
 
