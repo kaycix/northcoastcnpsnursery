@@ -10,6 +10,7 @@ header:
   # overlay_image: /assets/images/icons/spotlight_background.jpg
 
 plant_spotlights: 
+    june: 163 # beach evening primrose 
     may: 154 # fringe cups 
     april: 224 # western houndstongue 
     march: 73 # red flowering currant

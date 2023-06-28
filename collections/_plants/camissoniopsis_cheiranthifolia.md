@@ -8,6 +8,10 @@ name:
 
 category: "perennial herb"
 
+description:
+    short: "This beautiful native plant can be found adding bursts of sunshine to our coastal dunes in the spring and summer. Forms a wonderful low, dense mat with the brightest yellow flowers and cutest fuzzy gray-green leaves. Also a host plant to several moth and butterfly species. What's not to love?" 
+
+
 gardens:
     cnps_demo:
         - grassland

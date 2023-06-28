@@ -8,6 +8,10 @@ name:
  
 category: "shrub"
 
+description: 
+    short: "Such a unique and beautiful shrub - aptly named for its paired flowers and resulting berries. Yes, the berries are toxic but they don't present a danger to children because they taste truly terrible (don't ask us how we know this). We find ours to be quite the hummingbird magnet."
+    location: "Loves moist soil and full to partial shade."
+
 gardens: 
     suemeg:
     trinidad_museum:
@@ -44,6 +48,8 @@ tags:
     - butterfly
     - bird
     - hummingbird
+    - hedge
+    - deerResistant
  
 websites: 
     - url: "https://calscape.org/loc-California/Lonicera%20involucrata(%20)"

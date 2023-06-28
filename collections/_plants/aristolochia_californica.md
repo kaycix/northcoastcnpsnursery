@@ -8,6 +8,12 @@ name:
 
 category: vine
 
+companions: 
+    - 113 # heuchera micrantha
+    - 154 # tellima grandiflora
+    - 177 # fragaria vesca 
+    - 305 # california laurel tree
+
 humboldt_native: True
 
 icon: 
@@ -41,7 +47,7 @@ size:
         max: 20
 
 websites:
-    - url: "https://calscape.org/loc-California/Aristolochia%20californica(%20)"
+    - url: https://calscape.org/Aristolochia-californica-(Dutchmans-Pipe) 
       name: "Calscape"
 ---
 
