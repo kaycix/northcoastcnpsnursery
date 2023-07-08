@@ -24,6 +24,7 @@ inventory:
     -   cnps_master_inventory
     -   cnps_2022_fall
     -   cnps_2023_05 
+    -   cnps_2023_07 
 
 gardens:
     cnps_demo:

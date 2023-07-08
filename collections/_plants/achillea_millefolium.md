@@ -29,6 +29,7 @@ bloom_calendar:
 inventory: 
     -   cnps_2023_spring
     -   cnps_master_inventory
+    -   cnps_2023_07 
 
 gardens:  
     -   arcata_community_center:

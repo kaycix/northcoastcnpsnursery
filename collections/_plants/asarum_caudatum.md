@@ -30,7 +30,7 @@ icon:
 inventory: 
     -   cnps_2023_spring
     -   cnps_master_inventory
-    -   HOLD
+    -   cnps_2023_07 
 
 sun_requirements:
   - "Part Shade"

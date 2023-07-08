@@ -26,8 +26,9 @@ icon:
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_spring
+    -   cnps_2023_07 
 
-sun_requirements:
+sun_requirement7:
   - "Full Sun"
   - "Part Shade"
 

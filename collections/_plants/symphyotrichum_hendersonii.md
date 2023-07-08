@@ -1,12 +1,12 @@
 ---
 plant_id: 248 
 
+category: "annual herb"
+
 name: 
     common:  
         - "Henderson's Aster"    
     scientific:  "Symphyotrichum Hendersonii"   
-
-type: "annual herb"
 
 humboldt_native: True
 
@@ -22,6 +22,7 @@ icon:
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_spring
+    -   cnps_2023_07 
 
 sun_requirements:
   - "Full Sun"

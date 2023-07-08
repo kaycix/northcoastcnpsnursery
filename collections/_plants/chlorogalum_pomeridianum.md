@@ -19,6 +19,7 @@ icon:
 
 
 inventory: 
+    -   cnps_2023_07 
     -   cnps_2023_spring
     -   cnps_master_inventory
     -   cnps_2022_fall
@@ -50,10 +51,3 @@ websites:
     - url: "https://calscape.org/Chlorogalum-pomeridianum-()"
       title: "Calscape"
 ---
-
-
-
-
-
-
-

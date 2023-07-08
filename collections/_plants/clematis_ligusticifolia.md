@@ -26,6 +26,7 @@ inventory:
 tags:  
     -   humboldtNative
     -   butterfly
+    -   cnps_2023_07 
 
 size:
     height: 
