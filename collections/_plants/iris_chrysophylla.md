@@ -28,7 +28,7 @@ inventory:
     -   cnps_2023_05 
     -   cnps_2023_07 
 
-sun_requirement7:
+sun_requirements:
   - "Part Shade"
 
 size:
