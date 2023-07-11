@@ -11,8 +11,10 @@ classes: inventory-page wide
     "item.inventory contains inventory_tag" %}
 
 {% assign plant_groups = inventory_plants | group_by : "category" %}
+    
+<h4>All Plants ({{inventory_plants.size}})</h4>
 
-<h4 id="top">Filter by:</h4> 
+Browse: 
 {% for group in plant_groups %}
    {% if group.name == 'tree' %}
         <a href="#trees">
@@ -40,10 +42,9 @@ classes: inventory-page wide
         Succulents
     {% endif %}
     ({{group.items.size}}) 
-    </a> |
+    </a> 
+    {% if forloop.index < plant_groups.size %}&nbsp;|&nbsp;{% endif %}
 {% endfor %}
-    
-<h4>All Plants ({{inventory_plants.size}})</h4>
 
 {% include plant_list.html 
     plants = inventory_plants
