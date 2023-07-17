@@ -3,6 +3,12 @@ plant_id: 147
 
 category: perennial herb
 
+description:
+    short: "This intensely purple plant adds a beautiful burst of midsummer color.
+Plant in groups for a dramatic display. Also, if you're feeing adventurous - the corm/bulb is edible.<br/>
+
+According to Calscape, this plant is used by the White Lined Sphinx moth - a large moth that has the ability to hover in mid-air beating its wings rapidly, earning it the name of hummingbird moth. " 
+
 name: 
     scientific: "Triteleia laxa" 
     common: 

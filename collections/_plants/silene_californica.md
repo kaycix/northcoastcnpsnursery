@@ -17,7 +17,7 @@ icon:
     large: 
         url: /assets/images/plants/silene_californica_lg.jpg 
     source: 
-        name: Brad Kelley / Calflora
+        name: Brad Kelley 
         url: https://www.calflora.org/app/taxon?crn=7590 
 
 inventory: 
