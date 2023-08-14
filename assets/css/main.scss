@@ -9,7 +9,7 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 #banner {
- background-color: #35A81E; 
+ background-color: #fb5607; 
  color: #FFF; 
  font-size: 0.9em;
  padding: 0.5em 0.5em; 
@@ -272,7 +272,8 @@ table.plant_list .plant_icon {
     margin-bottom: 3rem;
 }
 
-.spring-sale .browse-block .box {
+.spring-sale .browse-block .box,
+.inventory-page .browse-block .box {
     background-color: #EEE;
     padding: 1em 2em;
     margin-bottom: 1em;
@@ -314,41 +315,48 @@ table.plant_list .plant_icon {
 }
 
 @media (min-width: 37.5em) { 
-    .spring-sale .content .box {
+    .spring-sale .content .box,
+    .inventory-page .content .box {
         width: 45%;
     }
 
-    .spring-sale .content .box.inventory_type {
+    .spring-sale .content .box.inventory_type,
+    .inventory-page .content .box.inventory_type {
         float: left;
         margin-right: 5%;
     }
-    .spring-sale .content .box.inventory_category {
+    .spring-sale .content .box.inventory_category,
+    .inventory-page .content .box.inventory_category {
         float: right;
     }
 }
 
-.spring-sale .box h4 {
+.spring-sale .box h4,
+.inventory-page .box h4 {
     margin: 0.5em 0 0.5em;
 }
 
-.spring-sale .box .column {
+.spring-sale .box .column,
+.inventory-page .box .column {
     float: left;
     width: 50%;
  }
 
-.spring-sale .box .column .row {
+.spring-sale .box .column .row,
+.inventory-page .box .column .row {
     font-size: 0.9em;
  }
     
-.spring-sale .box .column .row:after {
+.spring-sale .box .column .row:after,
+.inventory-page .box .column .row:after {
       content: "";
       display: table;
       clear: both;
  }
-    
 
 @media screen and (max-width: 600px) {
-  .spring-sale .box .column {
+  .spring-sale .box .column,
+  .inventory-page .box .column {
     width: 100%;
   }
 }
