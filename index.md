@@ -13,7 +13,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 
 
 banner: 
-    excerpt: "<b>Save the Date!</b> Our Fall Native Plant Sale will be on September 23rd and 24th, 2023. Stay tuned for Sign Up information."
+    excerpt: "<b>Save the Date!</b> Our Fall Native Plant Sale will be on September 23rd and 24th, 2023. Sign Ups start September 1st."
 
 #intro: 
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
