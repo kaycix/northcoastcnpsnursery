@@ -17,34 +17,36 @@ search: false
 
 .sale_banner {
     background-repeat: no-repeat;
-    background-color: #141b51; 
-    background-image: url('/assets/images/backgrounds/foliage-test-3.png'); 
+    background-color: #FDF2E4; 
+    background-image: linear-gradient(to right top, #f8c483, #faad6c, #fca56a, #fe9d69, #ff9469, #ff9b76, #ffa282, #ffaa8e, #ffb19a);
+    /* background-image: url('/assets/images/backgrounds/foliage-test-3.png');  */
     background-position: bottom; 
-    color: #FFF; 
+    color: #000; 
     margin-top: -2em; 
     margin-bottom: 2em; 
     margin-left: auto; 
-    margin-right: auto; 
+    margin-right: auto;
     position: relative; 
     width: 100%;
 
     .wrapper {
         max-width: 1280px;
-        padding: 3em 1em;
+        padding: 1em;
     }
 
     .header {
-        margin-bottom: 30px;
+        border: 1px solid white;
+        padding: 2em;
     }
 
     .header h1 a {
-        color: #FFF;
+        color: #000;
         text-decoration: none;
     }
 
     .header h4 {
         margin-top: 0;
-        color: #dca1a0;
+        color: #000;
     }
 }
 
