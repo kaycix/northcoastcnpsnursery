@@ -49,11 +49,11 @@ feature_row:
 </p>
 -->
 
-{% assign inventory_tag = "cnps_2023_spring" %}
+{% assign inventory_tag = "cnps_2023_fall" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block" style="display:none">
+<div class="browse-block">
     <div class="heading">
         <h1>Browse our Inventory:</h1>
         <a class="btn btn--primary" href="/sale/all/">View All Plants&nbsp; 
