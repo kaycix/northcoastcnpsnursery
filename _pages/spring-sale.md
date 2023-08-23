@@ -5,13 +5,13 @@ layout: splash
 
 classes: wide spring-sale
 
-title: <a href="/sale/">Spring Native Plant Sale</a> 
+title: <a href="/sale/">Fall Native Plant Sale</a> 
 excerpt: "Freshwater Farms Reserve<br/>5158 Mrytle Ave, Eureka, CA"
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/backgrounds/lupine.jpg
+  overlay_image: /assets/images/backgrounds/waxy_coneflower2.jpeg
 
 feature_row:
   - image_path: /assets/images/backgrounds/bad-parking.jpg
@@ -31,24 +31,29 @@ feature_row:
   - image_path: /assets/images/starts.jpg
     alt: "Inventory"
     title: "Participating Nurseries & Vendors"
-    excerpt: "Proudly partnering with Samara Restoration, Mattole Restoration Council, Lost Foods, Bob Vogt Trees, Beresford's Bulbs and Brant's Plants."
+    excerpt: "Proudly partnering with Samara Restoration, Lost Foods, Bob Vogt Trees, Beresford's Bulbs and Brant's Plants."
     #url: ""
     #btn_label: "More Information"
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday May 6, <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-spring1" target="_blank">Sign Up to Shop</a>!</h4>
-    <h4>Sunday May 7, Open 10:00am - 3:00 pm*</h4>
+    <h4>Saturday September 23, Sign Up to Shop*</h4><!-- <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-spring1" target="_blank">Sign Up to Shop</a>!</h4> -->
+    <h4>Sunday September 24, Open 10:00am - 3:00 pm</h4>
 </div>
+<p style="text-align:center; font-size: 0.8em">
+* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius - available September 1. 
+</p>
+<!--
 <p style="text-align:center; font-size: 0.8em">
 * Sunday shoppers stop by whenever. No signups necessary! 
 </p>
+-->
 
 {% assign inventory_tag = "cnps_2023_spring" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block">
+<div class="browse-block" style="display:none">
     <div class="heading">
         <h1>Browse our Inventory:</h1>
         <a class="btn btn--primary" href="/sale/all/">View All Plants&nbsp; 
@@ -140,7 +145,7 @@ feature_row:
     </div>
 </div>
 {% include feature_row %}
-<div class="faq-block">
+<div class="faq-block" style="display:none">
     <h2>Frequently Asked Questions</h2>
     <div>
         <b>What payment methods are accepted?</b>
@@ -164,13 +169,13 @@ feature_row:
         <b>Do I have to sign up to shop?</b>
         <p>
             Sign ups are only required on Saturday. You are free to wander in whenever and however on Sunday. However, if you're on the fence about signing up, we recommend signing up on Saturday if:
-            <br/><input type="checkbox" /> You plan on showing up with a list! Some species are especially popular and we do run out.
-            <br/><input type="checkbox" /> You want to go but the extra motivation of signing up will help. (We've all been there 😉) 
+            <br/>&#9702; You plan on showing up with a list! Some species are especially popular and we do run out.
+            <br/>&#9702; You want to go but the extra motivation of signing up will help. (We've all been there 😉) 
         </p>
     </div>
 </div>
 
-<div class="thanks-block">
+<div class="thanks-block" style="display:none">
     <h1>Thank You</h1>
     <div>
     <p>
@@ -183,3 +188,4 @@ feature_row:
     </p>
     </div>
 </div>
+
