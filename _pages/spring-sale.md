@@ -53,7 +53,7 @@ feature_row:
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block">
+<div class="browse-block" style="display:none">
     <div class="heading">
         <h1>Browse our Inventory:</h1>
         <a class="btn btn--primary" href="/sale/all/">View All Plants&nbsp; 
