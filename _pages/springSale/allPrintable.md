@@ -1,7 +1,7 @@
 ---
 permalink: /sale/all/print
 ---
-{% assign inventory_tag = "cnps_2023_spring" %}
+{% assign inventory_tag = "cnps_2023_fall" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
