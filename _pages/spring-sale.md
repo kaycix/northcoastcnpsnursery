@@ -53,7 +53,7 @@ feature_row:
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block" style="display:none">
+<div class="browse-block" style="display:none"> 
     <div class="heading">
         <h1>Browse our Inventory:</h1>
         <a class="btn btn--primary" href="/sale/all/">View All Plants&nbsp; 
@@ -145,18 +145,12 @@ feature_row:
     </div>
 </div>
 {% include feature_row %}
-<div class="faq-block" style="display:none">
+<div class="faq-block">
     <h2>Frequently Asked Questions</h2>
     <div>
-        <b>What payment methods are accepted?</b>
+        <b>I'm interested! How do I sign up?</b>
         <p>
-            Cash and check are always 👍. However, we do also take credit - thank you!
-        </p>
-    </div>
-    <div>
-        <b>I'm having trouble signing up using Sign Up Genius.</b>
-        <p>
-        Send us an email with your name and preferred time slot. We will sign you up and send you an email confirmation.
+            Check back here on September 1st! You will be able to sign up for a shopping slot on Saturday. Sunday will be a regular shopping day - no sign ups necessary. 
         </p>
     </div>
     <div>
@@ -166,10 +160,22 @@ feature_row:
         </p>
     </div>
     <div>
-        <b>Do I have to sign up to shop?</b>
+        <b>What payment methods are accepted?</b>
         <p>
-            Sign ups are only required on Saturday. You are free to wander in whenever and however on Sunday. However, if you're on the fence about signing up, we recommend signing up on Saturday if:
-            <br/>&#9702; You plan on showing up with a list! Some species are especially popular and we do run out.
+            Cash and check are always 👍. However, we do also take credit - thank you!
+        </p>
+    </div>
+    <div style="display:none">
+        <b>I'm having trouble signing up using Sign Up Genius.</b>
+        <p>
+        Send us an email with your name and preferred time slot. We will sign you up and send you an email confirmation.
+        </p>
+    </div>
+    <div>
+        <b>Why should I sign up to shop?</b>
+        <p>
+            Sign ups are only required on Saturday.  We recommend doing so if: 
+            <br/>&#9702; You plan on showing up with a list! Some species are popular and we do run out.
             <br/>&#9702; You want to go but the extra motivation of signing up will help. (We've all been there 😉) 
         </p>
     </div>
