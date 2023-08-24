@@ -35,6 +35,7 @@ icon_attribution:
 icon:  ""
 
 inventory: 
+    -   cnps_2023_fall
     -   cnps_2023_07 
 
 calscape_link: "https://calscape.org/loc-California/Epilobium%20septentrionale%20-%20Select%20Matole(%20)Epilobium"

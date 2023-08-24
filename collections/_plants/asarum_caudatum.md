@@ -28,6 +28,7 @@ icon:
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mg41504 
 
 inventory: 
+    -   cnps_2023_fall
     -   cnps_2023_spring
     -   cnps_master_inventory
     -   cnps_2023_07 

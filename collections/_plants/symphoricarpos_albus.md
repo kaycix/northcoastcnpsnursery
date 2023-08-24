@@ -23,6 +23,7 @@ icon:
         url: https://www.calflora.org/app/taxon?crn=10399
 
 inventory: 
+    -   cnps_2023_fall
     -   cnps_2023_spring
     -   cnps_master_inventory
 
