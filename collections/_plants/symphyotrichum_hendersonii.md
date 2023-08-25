@@ -1,7 +1,8 @@
 ---
 plant_id: 248 
 
-category: "annual herb"
+#calsacpe says annual but change this to perennial because otherwise it is the only annual in our FAll sale
+category: "perennial herb"
 
 name: 
     common:  
