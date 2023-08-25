@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/penstemon_roezlii_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: John Doyen 
+        url: https://calscape.org/photos/69020?srchcr=sc64e82fea504ad
 
 inventory: 
     -   cnps_master_inventory
