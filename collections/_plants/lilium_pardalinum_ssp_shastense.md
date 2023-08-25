@@ -28,11 +28,15 @@ tags:
     - bird
     - hummingbird 
     - moisture
-                    
-icon_attribution:  
-    name: ""
-    url: ""
-icon: "/assets/images/plants/lilium_pardalinum_ssp_shastense_icon.jpg"
+
+icon: 
+    small: 
+        url: /assets/images/plants/lilium_pardalinum_ssp_shastense_sm.jpg 
+    large: 
+        url: /assets/images/plants/lilium_pardalinum_ssp_shastense_lg.jpg 
+    source: 
+        name: Julie Ann Kierstead
+        url: https://calscape.org/photos/2195?srchcr=sc64e8e3d1544ca 
 
 websites:
     - url: https://calscape.org/loc-California/Lilium%20pardalinum%20v.%20shastense(%20) 

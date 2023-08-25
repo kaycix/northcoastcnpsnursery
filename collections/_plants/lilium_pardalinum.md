@@ -34,6 +34,16 @@ icon_attribution:
     url: "https://calscape.org/photos/2192?srchcr=sc6227d13f517e9"
 icon: "/assets/images/plants/lilium_pardalinum_icon.jpg"
 
+icon: 
+    small: 
+        url: /assets/images/plants/lilium_pardalinum_sm.jpg 
+    large: 
+        url: /assets/images/plants/lilium_pardalinum_lg.jpg 
+    source: 
+        name: Julie Ann Kierstead
+        url: https://calscape.org/photos/2192?srchcr=sc64e8e22a4f97d 
+
+
 tags: 
     - humboldtNative
     - moisture
