@@ -49,11 +49,13 @@ feature_row:
 ---
 {% include feature_row %}
 
-{% for plant in site.plants %}
-    {% if plant.plant_id == page.plant_spotlight_id %}
-        {% include plant_summary_card.html title=page.plant_spotlight_title plant=plant %} 
-    {% endif %}
-{% endfor %}
+<div style="display:none">
+    {% for plant in site.plants %}
+        {% if plant.plant_id == page.plant_spotlight_id %}
+            {% include plant_summary_card.html title=page.plant_spotlight_title plant=plant %} 
+        {% endif %}
+    {% endfor %}
+</div>
 <div class="feature_blurb consultations" style="display:none">
     <h2>
         Native Plant Consultations
