@@ -53,13 +53,16 @@ feature_row:
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block" style="display:none"> 
+<div class="browse-block">
+    <p class="notice--warning" style="margin-top: 0em !important"><b>Note: </b> We are still actively compiling our inventory.  The list will be final on September 1st.</p>
+    <div class="clear"></div> 
     <div class="heading">
         <h1>Browse our Inventory:</h1>
         <a class="btn btn--primary" href="/sale/all/">View All Plants&nbsp; 
             <span class="count">&nbsp;({{ inventory_plants.size }})</span>
         </a>
     </div>
+    <div class="clear"></div>
     <div class="content">
         <div class="inventory_type box">
             <h4>
@@ -73,10 +76,10 @@ feature_row:
                     <a href="/sale/perennials/">Perennials</a>
                 </div>
                 <div class="row">
-                    <a href="/sale/annuals/">Annuals</a>
+                    <a href="/sale/vines/">Vines</a> 
                 </div>
                 <div class="row">
-                    <a href="/sale/vines/">Vines</a> 
+                    <a href="/sale/succulents/">Succulents</a>
                 </div>
             </div>
             <div class="column">
@@ -88,9 +91,6 @@ feature_row:
                 </div>
                 <div class="row">
                     <a href="/sale/grasses/">Grasses</a>
-                </div>
-                <div class="row">
-                    <a href="/sale/succulents/">Succulents</a>
                 </div>
             </div>
             <div class="clear"></div>
