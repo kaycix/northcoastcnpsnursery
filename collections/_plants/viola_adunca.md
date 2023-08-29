@@ -42,6 +42,7 @@ sun_requirements:
 tags:  
     -   humboldtNative
     -   butterfly
+    -   beginner
 
 websites:
     - url : "https://calscape.org/Viola-adunca-(Dog-Violet)"

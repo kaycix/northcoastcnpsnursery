@@ -37,6 +37,7 @@ size:
 tags:
     - humboldtNative
     - riparian
+    - beginner
 
 websites: 
     - url: "https://calscape.org/Rudbeckia-glaucescens-(Waxy-Cone-flower)"

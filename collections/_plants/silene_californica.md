@@ -58,4 +58,7 @@ tags:
     -   lowGrowing
     -   woodland
     -   chaparral
+    -   beginner
+    -   rockWalls
+    -   hillsides
 ---

@@ -42,6 +42,7 @@ tags:
     - bee
     - bird
     - hummingbird
+    - beginner
 
 websites: 
     - url: "https://calscape.org/loc-California/Penstemon%20humuilis(%20)"
