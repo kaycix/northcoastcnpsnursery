@@ -54,7 +54,7 @@ feature_row:
     "item.inventory contains inventory_tag" %}
 
 <div class="browse-block">
-    <p class="notice--warning" style="margin-top: 0em !important"><b>Note: </b> We are still actively compiling our inventory. All items are subject to change. We will finalize this list before September 1st.</p>
+    <p class="notice--warning" style="margin-top: 0em !important"><b>Note: </b> We are still actively compiling our inventory. All items are subject to change. We will finalize this list on September 1st.</p>
     <div class="clear"></div> 
     <div class="heading">
         <h1>Browse our Inventory:</h1>
