@@ -4,7 +4,7 @@ plant_id: 348
 category: perennial herb
 
 name: 
-    scientific: viola adunca  
+    scientific: viola glabella 
     common:
         - Pioneer violet
 

@@ -43,5 +43,9 @@ tags:
     - butterfly
     - deerResistant
     - meadow
+
+websites: 
+    - url: "https://calscape.org/Potentilla-gracilis-()"
+      name: Calscape
 ---
 
