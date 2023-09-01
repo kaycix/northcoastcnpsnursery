@@ -186,9 +186,9 @@ feature_row:
         </p>
     </div>
     <div>
-        <b>I'm overwhelmed by your plant inventory. What do I do?</b>
+        <b>I'm overwhelmed by your plant inventory.</b>
         <p>
-            We get it, there's a lot to take in. We will have advisors on the day of the sale that you can direct questions to. 
+            We get it, there's a lot to take in! There will be advisors at the sale that will be happy to help answer any questions you have. 
         </p>
     </div>
 </div>
