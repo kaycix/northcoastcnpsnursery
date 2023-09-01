@@ -186,6 +186,12 @@ feature_row:
         </p>
     </div>
     <div>
+        <b>Can I get an idea of pricing?</b>
+        <p>
+            Most plants come in either 4-inch containers or 1-gallon pots. The 4-inch containers are $5 and 1-gallon pots are $10, unless marked otherwise.
+        </p>
+    </div>
+    <div>
         <b>How do I know what plants to get?</b>
         <p>
             Get to know your planting site! Do you have sun or mostly shade? Click through our lists into the Calscape links to find more information on each plant. There will also be advisors at the sale that will be happy to help answer specific questions you have. 
