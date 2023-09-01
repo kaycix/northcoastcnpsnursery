@@ -37,11 +37,11 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday September 23, Sign Up to Shop*</h4><!-- <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-spring1" target="_blank">Sign Up to Shop</a>!</h4> -->
+    <h4>Saturday September 23, <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-fall1#/" target="_blank">Sign Up to Shop</a>!*</h4>
     <h4>Sunday September 24, Open 10:00am - 3:00 pm</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
-* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius - available September 1. 
+* Sign up via Sign Up Genius today! 
 </p>
 <!--
 <p style="text-align:center; font-size: 0.8em">
@@ -148,15 +148,21 @@ feature_row:
 <div class="faq-block">
     <h2>Frequently Asked Questions</h2>
     <div>
-        <b>I'm interested! How do I sign up?</b>
+        <b>Why do I need to sign up to shop on Saturday?</b>
         <p>
-            Check back here on September 1st! You will be able to sign up for a shopping slot on Saturday. Sunday will be a regular shopping day - no sign ups necessary. 
+           Signing up will enable us to space out attendance throughout the day as we do have limited parking. 
+        </p>
+    </div>
+    <div>
+        <b>I'm having trouble signing up with Sign Up Genius.</b>
+        <p>
+          Email us at <a href="mailto:northcoastcnps@gmail.com">northcoastcnps@gmail.com</a> with your preferred available time slots and we'll try to help! 
         </p>
     </div>
     <div>
         <b>I might want to shop for longer than 30-minutes. Should I reserve multiple time slots?</b>
         <p>
-        No need to! Just sign up for one time slot and extend your visit as needed.  
+        No need to. Just sign up for one time slot and extend your visit as needed.  
         </p>
     </div>
     <div>
@@ -177,6 +183,12 @@ feature_row:
             Sign ups are only required on Saturday.  We recommend doing so if: 
             <br/>&#9702; You plan on showing up with a list! Some species are popular and we do run out.
             <br/>&#9702; You want to go but the extra motivation of signing up will help. (We've all been there 😉) 
+        </p>
+    </div>
+    <div>
+        <b>I'm overwhelmed by your plant inventory. What do I do?</b>
+        <p>
+            We get it, there's a lot to take in. We will have advisors on the day of the sale that you can direct questions to. 
         </p>
     </div>
 </div>
