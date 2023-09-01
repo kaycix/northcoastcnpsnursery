@@ -188,7 +188,7 @@ feature_row:
     <div>
         <b>Can I get an idea of pricing?</b>
         <p>
-            Most plants come in either 4-inch containers or 1-gallon pots. The 4-inch containers are $5 and 1-gallon pots are $10, unless marked otherwise.
+            Most plants come in either 4-inch containers or 1-gallon pots. The 4-inch containers are $5 and 1-gallon pots are $10 - $12, unless marked otherwise.
         </p>
     </div>
     <div>
