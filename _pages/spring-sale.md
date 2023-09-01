@@ -193,16 +193,16 @@ feature_row:
     </div>
 </div>
 
-<div class="thanks-block" style="display:none">
+<div class="thanks-block">
     <h1>Thank You</h1>
     <div>
     <p>
-    Thank you for being with us on this journey to spread native plants and protect biodiversity!
+    Thank you for sticking with us on this journey to spread native plants and protect biodiversity!
     </p>
-    <p>Thank you to everyone who shops our sales - from those of you rewilding entire yards to those of you tending a few native plants on your balcony. Your stories continue to motivate and inspire us.</p>
+    <p>Thank you to everyone who shops our sales - from those of you rewilding entire yards to those of you tending a few native plants on your balcony. Your stories fill us with so much hope and inspiration.</p>
     <p>We appreciate the nurseries and vendors that we partner with and the community of sharing and support you offer us. We feel so lucky to be working alongside such passionate people.</p>
-    <p>Thank you to nursery managers Chris and Barbara for your tireless efforts and countless hours of hard work. We couldn't ask for more dedicated leaders.</p>
-    <p>Lastly, huge thank yous to all our nursery and garden volunteers. Whether you have volunteered for one hour or many more, we appreciate you! This has been a particularly long winter but seeing everyone show up, ready to work in the cold mornings warms our hearts. 
+    <p>Thank you to nursery managers Chris and Barbara for your tireless efforts and countless hours of hard work. Not only do we appreciate the 5 billion things you do to make this nursery tick, we appreciate that you are constantly training volunteers and helping to spread native plant knowledge into this community.</p> 
+    <p>Lastly, huge thank yous to all our nursery and garden volunteers. Whether you have volunteered for one hour or many more, we appreciate you! We are well aware that we couldn't do any of this without the generosity of our volunteers who simply (and very importantly!) choose to show up for us.  
     </p>
     </div>
 </div>
