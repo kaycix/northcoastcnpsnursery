@@ -186,9 +186,9 @@ feature_row:
         </p>
     </div>
     <div>
-        <b>I'm overwhelmed by your plant inventory.</b>
+        <b>How do I know what plants to get?</b>
         <p>
-            We get it, there's a lot to take in! There will be advisors at the sale that will be happy to help answer any questions you have. 
+            Get to know your planting site! Do you have sun or mostly shade? Click through our lists into the Calscape links to find more information on each plant. There will also be advisors at the sale that will be happy to help answer specific questions you have. 
         </p>
     </div>
 </div>
