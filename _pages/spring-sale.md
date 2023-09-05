@@ -41,7 +41,7 @@ feature_row:
     <h4>Sunday September 24, Open 10:00am - 3:00 pm</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
-* Sign up via Sign Up Genius today - 30 spots per 30-minute time slot. 
+* Sign up via Sign Up Genius - 30 spots per 30-minute time slot. 
 </p>
 <!--
 <p style="text-align:center; font-size: 0.8em">
@@ -150,7 +150,7 @@ feature_row:
     <div>
         <b>Why do I need to sign up to shop on Saturday?</b>
         <p>
-           Signing up will enable us to space out attendance throughout the day as we do have limited parking. 
+           Signing up will enable us to space out parking arrivals throughout our busiest day as we do have limited parking. 
         </p>
     </div>
     <div>
