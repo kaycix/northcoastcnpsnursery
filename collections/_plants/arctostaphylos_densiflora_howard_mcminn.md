@@ -12,12 +12,12 @@ humboldt_native: False
 
 icon: 
     small: 
-        url: 
+        url: /assets/images/plants/arctostaphylos_densiflora_howard_mcminn_sm.jpg 
     large: 
-        url: 
+        url: /assets/images/plants/arctostaphylos_densiflora_howard_mcminn_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Copyright © 2022 Emily Sluiman
+        url: https://calscape.org/photos/70666?srchcr=sc650b2a08da9a4 
 
 inventory: 
     -   cnps_2023_fall

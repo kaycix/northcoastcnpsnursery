@@ -8,6 +8,17 @@ name:
     common:
         - Blue Elderberry
 
+humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/sambucus_mexicana_sm.jpg 
+    large: 
+        url: /assets/images/plants/sambucus_mexicana_lg.jpg 
+    source: 
+        name: Steve Matson 
+        url: https://calscape.org/photos/3375?srchcr=sc650b2ce26f5b8 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_fall

@@ -8,6 +8,17 @@ name:
     common:
         - Hooker's Evening Primrose
 
+humboldt_native: False
+
+icon: 
+    small: 
+        url: /assets/images/plants/oenothera_elata_ssp_hookeri_sm.jpg 
+    large: 
+        url: /assets/images/plants/oenothera_elata_ssp_hookeri_lg.jpg 
+    source: 
+        name: John Doyen
+        url: https://calscape.org/photos/2653?srchcr=sc650b285a680cd 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_fall

@@ -10,6 +10,15 @@ category: "shrub"
 
 humboldt_native: False
 
+icon: 
+    small: 
+        url: /assets/images/plants/ceanothus_dark_star_sm.jpg 
+    large: 
+        url: /assets/images/plants/ceanothus_dark_star_lg.jpg 
+    source: 
+        name: © Theodore Payne Foundation
+        url: https://calscape.org/view.php?pl=70804&img=31297 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_fall
@@ -36,4 +45,3 @@ websites:
     - url: "https://calscape.org/loc-California/Dark%20Star%20Ceanothus%20(Ceanothus%20'Dark%20Star')"
       name: "Calscape"
 ---
-

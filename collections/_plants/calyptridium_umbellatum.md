@@ -8,6 +8,8 @@ name:
     common:
         - Pussy Paws
 
+humboldt_native: True
+
 icon: 
     small: 
         url: /assets/images/plants/calyptridium_umbellatum_sm.jpg 

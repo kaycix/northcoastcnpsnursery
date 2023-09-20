@@ -12,12 +12,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: 
+        url: /assets/images/plants/tsuga_heterophylla_sm.jpg 
     large: 
-        url: 
+        url: /assets/images/plants/tsuga_heterophylla_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: "Copyright © 2013 California Academy of Sciences"
+        url: https://calscape.org/photos/3769?srchcr=sc650b32716b14a 
 
 inventory: 
     -   cnps_2023_fall
@@ -42,6 +42,3 @@ websites:
     - url: "https://calscape.org/Tsuga-heterophylla-(Western-Hemlock)"
       title: "Calscape"
 ---
-
-
-

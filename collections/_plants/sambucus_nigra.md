@@ -16,8 +16,8 @@ icon:
     large: 
         url: /assets/images/plants/sambucus_nigra_lg.jpg 
     source: 
-        name: Steve Matson 
-        url: https://calscape.org/photos/3376?srchcr=sc641909a917718
+        name: © 2010 Louis-M. Landry 
+        url: https://calscape.org/photos/3376?srchcr=sc650b2f56ad972 
 
 inventory: 
     -   cnps_2023_fall

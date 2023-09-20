@@ -10,6 +10,15 @@ category: "shrub"
 
 humboldt_native: False
 
+icon: 
+    small: 
+        url: /assets/images/plants/ceanothus_yankee_point_sm.jpg 
+    large: 
+        url: /assets/images/plants/ceanothus_yankee_point_lg.jpg 
+    source: 
+        name: Cal Flora Nursery 
+        url: https://www.calfloranursery.com/plants/ceanothus-griseus-horizontalis-yankee-point 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_fall

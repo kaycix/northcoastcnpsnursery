@@ -17,12 +17,12 @@ humboldt_native: False
 
 icon: 
     small: 
-        url: #/assets/images/plants/sedum_spathulifolium_cape_blanco.jpg 
+        url: /assets/images/plants/sedum_spathulifolium_cape_blanco.jpg 
     large: 
-        url: #/assets/images/plants/sedum_spathulifolium_cape_blanco_lg.jpg 
+        url: /assets/images/plants/sedum_spathulifolium_cape_blanco_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: © Theodore Payne Foundation 
+        url: https://www.calscape.org/view.php?pl=71461&img=31418 
 
 inventory: 
     -   cnps_master_inventory
@@ -38,10 +38,11 @@ size:
         min: 0.25 
         max: 0.5
 
-tags: 
-    - humboldtNative
+tags:
+    - cultivar 
     - butterfly
     - groundcover
+    - droughtTolerant
  
 websites: 
     - url: https://www.calscape.org/Sedum-spathulifolium-%27Cape-Blanco%27-(Cape-Blanco-Common-Stonecrop) 

@@ -26,19 +26,35 @@ sun_requirements:
 
 size:
   height: 
-        min: 1.3
-        max: 1.3
+        min: 0.5
+        max: 1
 
-icon_attribution: 
-    name: ""
-    url: ""
-icon:  ""
+icon: 
+    small: 
+        url: /assets/images/plants/epilobium_septentrionale_select_mattole_sm.jpg 
+    large: 
+        url: /assets/images/plants/epilobium_septentrionale_select_mattole_lg.jpg 
+    source: 
+        name: Cal Flora Nursery
+        url: https://www.calfloranursery.com/plants/epilobium-select-mattole
+
 
 inventory: 
     -   cnps_2023_fall
     -   cnps_2023_07 
+    -   cnps_master_inventory
 
-calscape_link: "https://calscape.org/loc-California/Epilobium%20septentrionale%20-%20Select%20Matole(%20)Epilobium"
+tags:
+    - cultivar
+    - bird
+    - butterfly
+    - hummingbird
+    - deerResistant
+    - groundcover
+
+websites:
+    - url: "https://calscape.org/Epilobium-septentrionale-%27Select-Mattole%27-(Select-Mattole-Humboldt-County-Fuschsia)"
+      name: "Calscape"
 ---
 
 
