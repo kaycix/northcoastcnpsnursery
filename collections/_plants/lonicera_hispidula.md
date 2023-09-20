@@ -42,9 +42,14 @@ tags:
     -   butterfly
     -   bird
     -   hummingbird
+    -   woodlnad
+    -   riparian
+    -   slopes
 
 websites: 
     - url: https://calscape.org/Lonicera-hispidula-(Hairy-Honeysuckle) 
       name: Calscape
+    - url: https://nativeplantspnw.com/hairy-honeysuckle-lonicera-hispidula/
+      name: "Native Plants PNW"
 ---
 

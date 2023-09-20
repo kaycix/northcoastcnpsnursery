@@ -46,6 +46,7 @@ tags:
     -   bird
     -   hummingbird
     -   container
+    -   rockySlopes
 
 gardens:
     cnps_demo:

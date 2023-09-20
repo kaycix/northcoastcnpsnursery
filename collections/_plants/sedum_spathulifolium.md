@@ -48,8 +48,11 @@ tags:
     - lowGrowing
     - droughtTolerant 
     - deerResistant
+    - slopes
  
 websites: 
     - url: "https://calscape.org/Sedum-spathulifolium-()"
       name: Calscape
+    - url: "https://www.calflora.org/app/taxon?crn=7459"
+      name: Calflora
 ---

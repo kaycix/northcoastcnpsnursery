@@ -39,6 +39,8 @@ tags:
     -   deciduous
     -   deerResistant
     -   groundcover
+    -   woodland
+    -   riparian
 
 sun_requirements:
   - "Part Shade"
@@ -51,5 +53,7 @@ size:
 websites:
     - url: https://calscape.org/Aristolochia-californica-(Dutchmans-Pipe) 
       name: "Calscape"
+    - url: https://www.calfloranursery.com/plants/aristolochia-californica
+      name: "Calflora Nursery"
 ---
 

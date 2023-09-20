@@ -21,13 +21,13 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
-    -   cnps_2023_fall
     -   cnps_2023_spring
 
 tags:  
     -   humboldtNative
     -   butterfly
     -   cnps_2023_07 
+    -   riparian
 
 size:
     height: 
@@ -41,4 +41,6 @@ sun_requirements:
 websites:
     - url: "https://calscape.org/loc-California/Clematis%20ligusticifolia(%20)"
       name: "Calscape"
+    - url: https://www.calfloranursery.com/plants/clematis-ligustifolia
+      name: "Calflora Nursery"
 ---

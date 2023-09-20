@@ -17,6 +17,7 @@ tags:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2023_fall
 
 sun_requirements:
   - "Full Sun"
