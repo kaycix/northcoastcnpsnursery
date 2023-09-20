@@ -8,6 +8,17 @@ name:
     common:
         - Coulter's Matilija Poppy
 
+humboldt_native: False
+
+icon: 
+    small: 
+        url: /assets/images/plants/romneya_coulteri_sm.jpg 
+    large: 
+        url: /assets/images/plants/romneya_coulteri_lg.jpg 
+    source: 
+        name: 
+        url: https://calscape.org/photos/3253?srchcr=sc650b24aeb3835 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_fall
@@ -23,6 +34,7 @@ sun_requirements:
 tags:  
     -   droughtTolerant
     -   butterfly
+    -   deerResistant
 
 websites:
     - url : https://calscape.org/Romneya-coulteri-(Coulter's-Matilija-Poppy) 

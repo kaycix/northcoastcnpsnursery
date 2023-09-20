@@ -22,7 +22,7 @@ icon:
     large: 
         url: /assets/images/plants/potentilla_gracilis_lg.jpg 
     source: 
-        name: Jogn Doyen 
+        name: John Doyen 
         url: https://calscape.org/photos/3054?srchcr=sc64e96b794d242
 
 inventory: 

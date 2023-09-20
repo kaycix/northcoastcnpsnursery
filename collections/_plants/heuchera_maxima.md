@@ -26,9 +26,9 @@ size:
 
 icon: 
     small: 
-        url: /assets/images/plants/achillea_millefolium_sm.jpg 
+        url: /assets/images/plants/heuchera_maxima_sm.jpg 
     large: 
-        url: /assets/images/plants/achillea_millefolium_lg.jpg 
+        url: /assets/images/plants/heuchera_maxima_lg.jpg 
     source: 
         name: Steve Matson
         url: https://calscape.org/photos/1882?srchcr=sc64e82f03e1ee0 

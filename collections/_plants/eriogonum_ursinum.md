@@ -8,6 +8,14 @@ name:
     common:
         - Bear Valley Buckwheat
 
+icon: 
+    small: 
+        url: /assets/images/plants/eriogonum_ursinum_sm.jpg 
+    large: 
+        url: /assets/images/plants/eriogonum_ursinum_lg.jpg 
+    source: 
+        name: John Doyen
+        url: https://calscape.org/photos/1550?srchcr=sc650b219cc210e 
 
 inventory: 
     -   cnps_master_inventory
@@ -34,4 +42,3 @@ websites:
     - url : https://calscape.org/Eriogonum-ursinum-(Bear-Valley-Buckwheat) 
       name: "Calscape"
 ---
-

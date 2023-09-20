@@ -8,6 +8,17 @@ name:
     common:
         - Coyote Mint 
 
+humboldt_native: True
+
+icon: 
+    small: 
+        url: /assets/images/plants/monardella_villosa_sm.jpg 
+    large: 
+        url: /assets/images/plants/monardella_villosa_lg.jpg 
+    source: 
+        name: John Doyen
+        url: https://calscape.org/photos/2581?srchcr=sc650b236fef294 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_fall
@@ -23,16 +34,14 @@ sun_requirements:
 
 tags:  
     -   humboldtNative
+    -   deerResistant
     -   droughtTolerant
     -   butterfly
     -   bee
     -   hummingbird
     -   bird
 
-
 websites:
     - url : https://calscape.org/Monardella-villosa-() 
       name: "Calscape"
 ---
-
-
