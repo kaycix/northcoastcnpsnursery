@@ -15,7 +15,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #banner: 
 #    excerpt: "<b>Save the Date!</b> Our Fall Native Plant Sale returns on September 23rd and 24th, 2023. Sign Ups start September 1st."
 
-sale_banner: true
+sale_banner: false
 
 #intro: 
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
@@ -28,8 +28,7 @@ feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "Plant sales during our <a href='/contact'>Volunteer Open Hours</a> are on hold. Our <a href='/sale/'>upcoming Fall Sale</a> will take place on September 23 & 24, 2023.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00<br/> Cash or check is appreciated."
-    #excerpt: "Plant sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
+    excerpt: "Plant sales during our <a href='/contact'>Volunteer Open Hours</a> are currently on hold. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     # url: "/inventory/cnps-2023-07"
     # btn_label: "View Inventory"
     # btn_class: "btn--info"
