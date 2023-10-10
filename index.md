@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "Plant sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Fall Pricing:<br/>5-gallon shrubs (25% off): now $45<br/>1-gallon trees & shrubs (25% off): now $9<br/>2-gallon CNPS shrubs (40% off): now $9<br/>1-gallon perennials (20% off): now $8<br/>Select perennials & grasses (40% off): now $6<br/>4-inch pot perennials (20% off): now $4<br>3-inch tall pots (20% off): now $4"
+    excerpt: "Plant sales have resumed during our regular <a href='/contact'>Volunteer Open Hours</a>. We will also be open Saturday 10/14 from 10a - 3p! Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Fall Pricing:<br/>5-gallon shrubs (25% off): now $45<br/>1-gallon trees & shrubs (25% off): now $9<br/>2-gallon CNPS shrubs (40% off): now $9<br/>1-gallon perennials (20% off): now $8<br/>Select perennials & grasses (40% off): now $6<br/>4-inch pot perennials (20% off): now $4<br>3-inch tall pots (20% off): now $4"
     #excerpt: "Plant sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     url: "/inventory/cnps-2023-10"
     btn_label: "View Inventory"
