@@ -12,10 +12,10 @@ header:
 excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms Reserve in Eureka, CA. We grow over 100 species of Pacific Northwest and California native plants. Our nursery has been supplying this region with beautiful native plants since 2015."
 
 
-banner: 
-    excerpt: "<b>Saturday Plant Sales!</b> In addition to our regular Volunteer Hours, we will be open all Saturdays in October 10a - 3p."
-
-sale_banner: false
+#banner: 
+#    excerpt: "<b>Saturday Plant Sales!</b> In addition to our regular Volunteer Hours, we will be open all Saturdays in October 10a - 3p."
+#
+#sale_banner: false
 
 #intro: 
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "Plant sales have resumed during our regular <a href='/contact'>Volunteer Open Hours</a>. We will also be open Saturdays 10/14, 10/21, 10/28 from 10a - 3p! Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Fall Pricing:<br/>5-gallon shrubs (25% off): now $45<br/>1-gallon trees & shrubs (25% off): now $9<br/>2-gallon CNPS shrubs (40% off): now $9<br/>1-gallon perennials (20% off): now $8<br/>Select perennials & grasses (40% off): now $6<br/>4-inch pot perennials (20% off): now $4<br>3-inch tall pots (20% off): now $4"
+    excerpt: "Plant sales have resumed during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Fall Pricing:<br/>5-gallon shrubs (25% off): now $45<br/>1-gallon trees & shrubs (25% off): now $9<br/>2-gallon CNPS shrubs (40% off): now $9<br/>1-gallon perennials (20% off): now $8<br/>Select perennials & grasses (40% off): now $6<br/>4-inch pot perennials (20% off): now $4<br>3-inch tall pots (20% off): now $4"
     #excerpt: "Plant sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     url: "/inventory/cnps-2023-10"
     btn_label: "View Inventory"
