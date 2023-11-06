@@ -20,7 +20,6 @@ icon:
         url: https://theodorepayne.org/nativeplantdatabase/index.php?title=Arctostaphylos_%27Sunset%27 
 
 inventory: 
-    -   cnps_2023_10
     -   cnps_master_inventory
     -   cnps_2023_fall
     -   cnps_2022_fall
