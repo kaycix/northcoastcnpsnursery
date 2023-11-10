@@ -27,7 +27,7 @@ garden:
 
 cleaning: 
   - image_path: /assets/images/volunteers/pots.jpg 
-    title: "<a id='garden'>Pot Cleaning Volunteer</a>" 
+    title: "<a id='pot'>Pot Cleaning Volunteer</a>" 
     excerpt: "Recycling nursery pots is a great way to support the nursery from home! This task helps us greatly reduce the amount of new plastic we use.
         <br/>Pots need to have dirt removed and then sanitized in a bleach solution. Let us know if you're interested and we will walk you through the process."
     #url: "/gardens" 
