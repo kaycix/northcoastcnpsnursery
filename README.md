@@ -14,5 +14,7 @@ Jekyll powers GitHub pages.
 Minimal Mistakes is the theme we're using to style this website. 
 
 Notes:
+bundle exec jekyll serve --host 10.0.1.18
+
 Useful sed command for finding and replacing all 
 sed -i -e 's#cnps_2023_05#HOLD#g' *

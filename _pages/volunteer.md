@@ -25,6 +25,15 @@ garden:
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
 
+cleaning: 
+  - image_path: /assets/images/volunteers/pots.jpg 
+    title: "<a id='garden'>Pot Cleaning Volunteer</a>" 
+    excerpt: "Recycling nursery pots is a great way to support the nursery from home! This also helps us greatly reduce the amount of new plastic we use.
+        <br/>Pots need to have dirt removed and then sanitized in a bleach solution. Let us know if you're interested and we will walk you through the process."
+    #url: "/gardens" 
+    #btn_label: "READ MORE &#8594;"
+
+
 sale:
   - image_path: /assets/images/volunteers/sale-prep.jpg 
     title: "<a id='sale'>Plant Sale Volunteer</a>" 
@@ -64,6 +73,8 @@ We would love for you to join us - whether you come often or occasionally, every
 {% include feature_row id="nursery" type="left"%}
 
 {% include feature_row id="garden" type="left"%}
+
+{% include feature_row id="cleaning" type="left"%}
 
 {% include feature_row id="sale" type="left"%}
 
