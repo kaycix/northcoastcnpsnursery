@@ -13,7 +13,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 
 
 banner: 
-    excerpt: "November Inventory has been updated. Scroll down to see updated plant list and pricing." 
+    excerpt: "The nursery will be closed on Friday, November 24th. We will be open again for regular Volunteer Hours on Sunday, November 26th." 
 
 #sale_banner: false
 
