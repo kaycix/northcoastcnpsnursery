@@ -28,7 +28,7 @@ garden:
 cleaning: 
   - image_path: /assets/images/volunteers/pots.jpg 
     title: "<a id='pot'>Pot Cleaning Volunteer</a>"
-    excerpt: "Recycling nursery pots is one of the many ways you can support the nursery. Reusing pots means we don’t have to buy as many new plastic pots, which reduces our costs and helps the environment. Win-win! For more information, email us at <a href = 'mailto:northcoastcnps@gmail.com'>northcoastcnps@gmail.com.</a>" 
+    excerpt: "Recycling nursery pots is one of the many ways you can support the nursery. Reusing pots means we don’t have to buy as many new plastic pots, which reduces our costs and helps the environment. Win-win! For more information, consult our <a href='/assets/files/recycling-pots-how-to.pdf'>'How To' document</a> or email us at <a href = 'mailto:northcoastcnps@gmail.com'>northcoastcnps@gmail.com.</a>" 
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
 
