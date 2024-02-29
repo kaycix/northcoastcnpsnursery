@@ -12,10 +12,10 @@ header:
 excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms Reserve in Eureka, CA. We grow over 100 species of Pacific Northwest and California native plants. Our nursery has been supplying this region with beautiful native plants since 2015."
 
 
-#banner: 
-#    excerpt: "The nursery will be closed on Friday, November 24th. We will be open again for regular Volunteer Hours on Sunday, November 26th." 
+banner: 
+    excerpt: "Our Spring Sale will take place on May 4 & 5, 2024! Plants from Samara Restoration will be available then - thank you for your patience!"
 
-#sale_banner: false
+sale_banner: false
 
 #intro: 
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
