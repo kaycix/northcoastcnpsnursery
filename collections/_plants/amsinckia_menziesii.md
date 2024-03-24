@@ -20,6 +20,7 @@ icon:
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mu13475 
 
 inventory: 
+    -   cnps_2024_spring
     -   cnps_2023_spring
     -   cnps_2023_05 
     -   cnps_master_inventory
