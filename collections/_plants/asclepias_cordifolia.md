@@ -13,6 +13,7 @@ tags:
     -   lowGrowing
 
 inventory: 
+    -   cnps_2024_spring
     -   cnps_master_inventory
 
 sun_requirements:

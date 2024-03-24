@@ -17,6 +17,7 @@ tags:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_spring
     -   cnps_2023_fall
 
 sun_requirements:

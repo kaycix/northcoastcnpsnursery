@@ -15,6 +15,7 @@ name:
 humboldt_native: True
 
 inventory: 
+    -   cnps_2024_spring
     -   cnps_master_inventory
     -   cnps_2023_spring
     -   cnps_2023_07 
