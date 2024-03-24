@@ -5,13 +5,13 @@ layout: splash
 
 classes: wide spring-sale
 
-title: <a href="/sale/">Fall Native Plant Sale</a> 
+title: <a href="/sale/">Spring Native Plant Sale</a> 
 excerpt: "Freshwater Farms Reserve<br/>5158 Mrytle Ave, Eureka, CA"
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/backgrounds/waxy_coneflower2.jpeg
+  overlay_image: /assets/images/backgrounds/lupine.jpg
 
 feature_row:
   - image_path: /assets/images/backgrounds/bad-parking.jpg
@@ -37,23 +37,27 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday September 23, <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-fall1#/" target="_blank">Sign Up to Shop</a>!*</h4>
-    <h4>Sunday September 24, Open 10:00am - 3:00 pm</h4>
+    <h4>Saturday May 4, Open 9:00 am - 5:00 pm.*</h4> 
+    <!-- <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-fall1#/" target="_blank">Sign Up to Shop</a>!*</h4> --> 
+    <h4>Sunday May 5, Open 10:00am - 3:00 pm</h4>
 </div>
+<p style="text-align:center; font-size: 0.8em">
+* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius - available April 1.
+</p>
+<!--
 <p style="text-align:center; font-size: 0.8em">
 * Sign up via Sign Up Genius - 30 spots per 30-minute time slot. 
 </p>
-<!--
 <p style="text-align:center; font-size: 0.8em">
 * Sunday shoppers stop by whenever. No signups necessary! 
 </p>
 -->
 
-{% assign inventory_tag = "cnps_2023_fall" %}
+{% assign inventory_tag = "cnps_2024_spring" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block">  
+<div class="browse-block" style="display:none">  
     <p class="notice--warning" style="display: none; margin-top: 0em !important"><b>Note: </b> We are still actively compiling our inventory. All items are subject to change. We will finalize this list on September 1st.</p>
     <div class="clear"></div> 
     <div class="heading">
@@ -120,16 +124,23 @@ feature_row:
                     Deer Resistant
                     </a>
                 </div>
-            </div>
-            <div class="column">
-                <div class="row">
-                    <a href="/sale/butterfly/">
-                    Butterfly Garden
-                    </a>
-                </div>
                 <div class="row">
                     <a href="/sale/drought/">
                     Drought-Tolerant
+                    </a>
+                </div>
+            </div>
+            <div class="column">
+                <div class="row">
+                    <!-- Habitat: --> 
+                    <a href="/sale/coastal/">Coastal</a>,
+                    <!-- <a href="/sale/meadow/">Meadow</a>,
+                    <a href="/sale/woodland/">Woodland</a>
+                    ,<a href="/sale/riparian/">Riparian</a> --> 
+                </div>
+                <div class="row">
+                    <a href="/sale/butterfly/">
+                    Butterfly Garden
                     </a>
                 </div>
                 <div class="row">
@@ -199,7 +210,7 @@ feature_row:
     </div>
 </div>
 
-<div class="thanks-block">
+<div class="thanks-block" style="display:none">
     <h1>Thank You</h1>
     <div>
     <p>
