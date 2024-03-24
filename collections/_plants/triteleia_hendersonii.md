@@ -20,6 +20,7 @@ icon:
         url: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0900+0081
 
 inventory: 
+    -   cnps_2024_spring
     -   cnps_2023_spring
     -   cnps_master_inventory
 

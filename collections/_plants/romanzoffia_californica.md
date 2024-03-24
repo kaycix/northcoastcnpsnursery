@@ -35,7 +35,7 @@ icon:
 inventory: 
     -   cnps_master_inventory
     -   cnps_2023_spring
-    -   HOLD
+    -   cnps_2024_spring
 
 size:
     height: 

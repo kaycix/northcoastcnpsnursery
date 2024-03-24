@@ -13,6 +13,7 @@ humboldt_native: True
 gardens:
 
 inventory: 
+    -   cnps_2024_spring
     -   cnps_master_inventory
     -   cnps_2023_fall
 
