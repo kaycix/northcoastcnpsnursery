@@ -1,5 +1,5 @@
 ---
-permalink: /sale/grasses/
+permalink: /sale/coastal/
 
 layout: splash
 classes: wide spring-sale
@@ -15,17 +15,25 @@ header:
 
 <!-- Jekyll 3.9 doesnt support and/or in where_exp so we have to do this the messy way -->
 
+{% assign tag = "coastal" %}
 {% assign inventory_tag = "cnps_2024_spring" %}
-{% assign grass_plants = site.plants | where_exp:"item",
-    "item.category == 'grass'" %}
-{% assign inventory_plants = grass_plants | where_exp:"item",
+
+{% assign plants = site.plants | where_exp:"item",
+    "item.tags contains tag" %}
+{% assign inventory_plants = plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="hours">
-    <h4><a href="/sale/all/">All Plants</a> >  Grasses ({{inventory_plants.size}})</h4>
+<div class="subheading">
+    <h4><a href="/sale/all/">All Plants</a> >  Coastal ({{inventory_plants.size}})</h4>
+    <p class="notice">
+        If you're looking to plant in groups of like plants, these are plants that would grow well together in a Coastal community. Data seeded from Calscape and Calflora.
+    </p>
 </div>
 
 {% include plant_list.html 
     plants = inventory_plants
 %}
+
+
+
 
