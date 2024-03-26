@@ -14,7 +14,7 @@ header:
 
 <!-- Jekyll 3.9 doesnt support and/or in where_exp so we have to do this the messy way -->
 
-{% assign inventory_tag = "cnps_2024_fall" %}
+{% assign inventory_tag = "cnps_2024_spring" %}
 {% assign fern_plants = site.plants | where_exp:"item",
     "item.category == 'fern'" %}
 {% assign inventory_plants = fern_plants | where_exp:"item",

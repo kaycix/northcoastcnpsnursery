@@ -58,7 +58,7 @@ feature_row:
     "item.inventory contains inventory_tag" %}
 
 <div class="browse-block"> 
-    <p class="notice--warning" style="margin-top: 0em !important"><b>Note: </b> We are still actively compiling our inventory. All items are subject to change. We will finalize this list on April 1st.</p>
+    <p class="notice--warning" style="margin-top: 0em !important"><b>Note: </b> We are still actively compiling our inventory. All items are subject to change. We will finalize this list on May 1st.</p>
     <div class="clear"></div> 
     <div class="heading">
         <h1>Browse our Inventory:</h1>
@@ -135,11 +135,11 @@ feature_row:
             </div>
             <div class="column">
                 <div class="row">
-                    <!-- Habitat: --> 
-                    <a href="/sale/coastal/">Coastal</a>
-                    <!-- <a href="/sale/meadow/">Meadow</a>,
-                    <a href="/sale/woodland/">Woodland</a>
-                    ,<a href="/sale/riparian/">Riparian</a> --> 
+                    Habitat:
+                    <a href="/sale/coastal/">Coastal</a>,
+                    <a href="/sale/meadow/">Meadow</a>,
+                    <a href="/sale/woodland/">Woodland</a>,
+                    <a href="/sale/riparian/">Riparian</a>
                 </div>
                 <div class="row">
                     <a href="/sale/butterfly/">
