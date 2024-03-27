@@ -37,7 +37,7 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday May 4, Open 9:00 am - 5:00 pm.*</h4> 
+    <h4>Saturday May 4, Sign Up to Shop*</h4> 
     <!-- <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-fall1#/" target="_blank">Sign Up to Shop</a>!*</h4> --> 
     <h4>Sunday May 5, Open 10:00am - 3:00 pm</h4>
 </div>
@@ -58,7 +58,7 @@ feature_row:
     "item.inventory contains inventory_tag" %}
 
 <div class="browse-block"> 
-    <p class="notice--warning" style="margin-top: 0em !important"><b>Note: </b> We are still actively compiling our inventory. All items are subject to change. We will finalize this list on May 1st.</p>
+    <p class="notice--warning" style="margin-top: 0em !important"><b>Note: </b> We are still actively compiling our inventory. All items are subject to change. We will finalize this list on April 1st.</p>
     <div class="clear"></div> 
     <div class="heading">
         <h1>Browse our Inventory:</h1>
