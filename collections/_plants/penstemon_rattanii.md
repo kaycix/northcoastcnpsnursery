@@ -1,0 +1,46 @@
+---
+plant_id: 359 
+
+name: 
+    common: 
+        - "Rattan's Beardtongue"
+    scientific: "Penstemon rattanii" 
+
+category: "perennial herb"
+
+humboldt_native: True
+
+icon: 
+    small: 
+        #url: /assets/images/plants/penstemon_anguineus_sm.jpg 
+    large: 
+        #url: /assets/images/plants/penstemon_anguineus_lg.jpg 
+    source: 
+        #name: 
+        #url: 
+
+inventory: 
+    -   cnps_master_inventory
+    -   cnps_2024_spring
+
+sun_requirements:
+  - "Full Sun"
+  - "Part Shade"
+
+size:
+    height: 
+        min: 0.8 
+        max: 3.9
+
+tags: 
+    - humboldtNative
+    - butterfly
+    - hummingbird
+    - bee
+
+websites:
+    - url: "https://calscape.org/Penstemon-anguineus-()"
+      title: "Calscape"
+    - url: "https://www.calflora.org/app/taxon?crn=6137"
+      title: "Calflora"
+---
