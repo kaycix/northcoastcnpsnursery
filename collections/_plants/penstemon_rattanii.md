@@ -12,12 +12,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        #url: /assets/images/plants/penstemon_anguineus_sm.jpg 
+        url: /assets/images/plants/penstemon_rattanii_sm.jpg 
     large: 
-        #url: /assets/images/plants/penstemon_anguineus_lg.jpg 
+        url: /assets/images/plants/penstemon_rattanii_lg.jpg 
     source: 
-        #name: 
-        #url: 
+        name: Chris Brant
+        url: https://www.instagram.com/explore/tags/penstemonrattanii/
 
 inventory: 
     -   cnps_master_inventory
