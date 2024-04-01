@@ -37,12 +37,12 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday May 4, Sign Up to Shop*</h4> 
-    <!-- <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-fall1#/" target="_blank">Sign Up to Shop</a>!*</h4> --> 
+    <h4>Saturday May 4, 
+    <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-48779927-spring#/" target="_blank">Sign Up to Shop</a>!*</h4> 
     <h4>Sunday May 5, Open 10:00am - 3:00 pm</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
-* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius - available April 1.
+* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius.
 </p>
 <!--
 <p style="text-align:center; font-size: 0.8em">
