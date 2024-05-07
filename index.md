@@ -12,10 +12,10 @@ header:
 excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms Reserve in Eureka, CA. We grow over 100 species of Pacific Northwest and California native plants. Our nursery has been supplying this region with beautiful native plants since 2015."
 
 
-#banner: 
-#    excerpt: "Our Spring Sale will take place on May 4 & 5, 2024! Plants from Samara Restoration will be available then - thank you for your patience!"
+banner: 
+    excerpt: "Thank you to everyone who attended our Spring Sale! Plant sales have resumed during Volunteer Hours."
 
-sale_banner: true
+sale_banner: false
 
 #intro: 
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "Plant sales are on hold as we gear up for our Spring Sale, May 4 & May 5. The nursery and demonstration garden are still open during <a href='/contact'>Volunteer Hours</a> for viewing."
+    excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check only, please."
     #excerpt: "Plant sales have resumed during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
     #excerpt: "Plant sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #url: "/inventory/cnps-2023-10"
