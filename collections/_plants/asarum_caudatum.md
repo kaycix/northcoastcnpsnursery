@@ -50,7 +50,7 @@ size:
 #icon:  "/assets/images/plants/asarum_caudatum_icon.jpg"
 
 websites:
-    - url: https://calscape.org/Asarum-caudatum-() 
+    - url: "https://calscape.org/Asarum-caudatum-(Wild-Ginger)" 
       name: "Calscape.org/Asarum-caudatum-()"
 
 gardens:

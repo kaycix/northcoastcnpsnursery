@@ -45,6 +45,6 @@ size:
         max: 3.3
  
 websites:
-    - url: "https://calscape.org/Clarkia-rhomboidea-()"
+    - url: "https://calscape.org/Clarkia-rhomboidea-(Diamond-Clarkia)"
       name: "Calscape"
 ---

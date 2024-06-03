@@ -51,7 +51,7 @@ tags:
     -   deerResistant
 
 websites:
-    - url: "https://calscape.org/loc-California/Calamagrostis%20nutkaensis(%20)"
+    - url: "https://calscape.org/Calamagrostis-nutkaensis-(Pacific-Reedgrass)"
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=1242"
       name: "Calflora"

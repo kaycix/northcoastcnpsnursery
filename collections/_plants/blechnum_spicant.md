@@ -48,7 +48,7 @@ tags:
     -   moisture
 
 websites:
-    - url: "https://calscape.org/Blechnum-spicant-()"
+    - url: "https://calscape.org/Blechnum-spicant-(Deer-Fern)"
       name: "Calscape"
     - url: https://www.calflora.org/app/taxon?crn=1091
       name: "Calflora"

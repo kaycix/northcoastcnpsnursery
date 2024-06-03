@@ -39,7 +39,7 @@ tags:
     -   butterfly
 
 websites:
-    - url: "https://calscape.org/loc-California/Calycanthus%20occidentalis(%20)" 
+    - url: "https://calscape.org/Calycanthus-occidentalis-(Spice-Bush)"
       name: "Calscape"
 ---
 

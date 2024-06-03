@@ -44,6 +44,6 @@ size:
 #icon: "/assets/images/plants/ceanothus_dark_star_icon.jpg" 
 
 websites:
-    - url: "https://calscape.org/loc-California/Dark%20Star%20Ceanothus%20(Ceanothus%20'Dark%20Star')"
+    - url: "https://calscape.org/Ceanothus-'Dark-Star'-(Dark-Star-Ceanothus)"
       name: "Calscape"
 ---

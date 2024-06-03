@@ -58,7 +58,7 @@ size:
         max: 0.75
  
 websites:
-    - url: https://calscape.org/Clinopodium-douglasii-() 
+    - url: "https://calscape.org/Clinopodium-douglasii-(Yerba-Buena)" 
       name: "Calscape"
     - url: https://www.calflora.org/app/taxon?crn=2244 
       name: "Calflora"

@@ -40,7 +40,7 @@ icon:
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mu3029 
 
 websites:
-    - url : "https://calscape.org/Cirsium-occidentale-()" 
+    - url : "https://calscape.org/Cirsium-occidentale-(Cobweb-Thistle)"
       name: "Calscape"
 
 tags: 

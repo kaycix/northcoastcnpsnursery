@@ -47,7 +47,7 @@ tags:
      # damp shade garden
 
 websites:
-    - url: "https://calscape.org/Boykinia-occidentalis-()" 
+    - url: "https://calscape.org/Boykinia-occidentalis-(Brook-Foam)"
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=1135"
       name: "Calflora"

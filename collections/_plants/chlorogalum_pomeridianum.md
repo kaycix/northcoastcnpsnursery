@@ -50,6 +50,6 @@ size:
         max: 3
  
 websites:
-    - url: "https://calscape.org/Chlorogalum-pomeridianum-()"
+    - url: "https://calscape.org/Chlorogalum-pomeridianum-(Soap-Plant)"
       title: "Calscape"
 ---
