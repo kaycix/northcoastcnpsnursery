@@ -24,6 +24,7 @@ gardens:
         - coastal
 
 inventory: 
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_10
     -   cnps_2023_fall
@@ -51,6 +52,6 @@ size:
         max: 5
 
 websites:
-    - url: https://calscape.org/Angelica-lucida-() 
+    - url: "https://calscape.org/Angelica-lucida-(Sea-Watch)" 
       name: "Calscape"
 ---

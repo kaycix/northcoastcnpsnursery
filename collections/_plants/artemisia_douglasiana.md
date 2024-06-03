@@ -23,6 +23,7 @@ icon:
         url: https://calscape.org/photos/400?srchcr=sc640785b4ce5ce 
 
 inventory: 
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_10
     -   cnps_2023_fall
@@ -52,6 +53,6 @@ tags:
     -   medicinal
 
 websites:
-    - url: "https://calscape.org/loc-California/Artemisia%20douglasiana(%20)" 
+    - url: "https://calscape.org/Artemisia-douglasiana-(Mugwort)"
       name: "Calscape"
 ---

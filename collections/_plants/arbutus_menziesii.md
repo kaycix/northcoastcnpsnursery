@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_fall
     -   cnps_2023_spring
@@ -43,6 +44,6 @@ tags:
     -   bankStabilization
 
 websites:
-    - url: https://calscape.org/loc-California/Arbutus%20menziesii(%20) 
+    - url: "https://calscape.org/Arbutus-menziesii-(Pacific-Madrone)" 
       name: "Calscape"
 ---

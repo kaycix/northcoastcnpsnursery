@@ -30,6 +30,7 @@ inventory:
     -   cnps_2024_spring
     -   cnps_2023_fall
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2023_07 
 
 size:
@@ -52,6 +53,6 @@ tags:
     -   deerResistant
 
 websites:
-    - url: "https://calscape.org/Arctostaphylos-uva-ursi-(Southern-Kinnikinnick)?srchcr=sc5f503bb4523a4"
+    - url: "https://calscape.org/Arctostaphylos-uva-ursi-(Kinnikinnick)"
       name: "Calscape"
 ---

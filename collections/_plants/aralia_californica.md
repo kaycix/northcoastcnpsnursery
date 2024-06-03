@@ -25,6 +25,7 @@ icon:
         url: https://calscape.org/photos/284?srchcr=sc640d2716bd88f 
 
 inventory: 
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_10
     -   cnps_2023_fall
@@ -41,7 +42,7 @@ size:
         max: 10
 
 websites:
-    - url: https://calscape.org/Aralia-californica-() 
+    - url: "https://calscape.org/Aralia-californica-(Elk's-Clover)" 
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=504"
       name: "Calflora"

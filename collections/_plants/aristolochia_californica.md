@@ -29,6 +29,7 @@ inventory:
     -   cnps_2024_spring
     -   cnps_2023_10
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2023_fall
     -   cnps_2023_spring
     -   cnps_2023_05 
@@ -53,7 +54,7 @@ size:
         max: 20
 
 websites:
-    - url: https://calscape.org/Aristolochia-californica-(Dutchmans-Pipe) 
+    - url: "https://calscape.org/Aristolochia-californica-(Dutchmans-Pipe)" 
       name: "Calscape"
     - url: https://www.calfloranursery.com/plants/aristolochia-californica
       name: "Calflora Nursery"

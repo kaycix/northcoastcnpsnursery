@@ -25,6 +25,7 @@ icon:
         url: https://larnerseeds.com/products/eschscholzia-californica-var-maritima-coastal-poppy 
 
 inventory: 
+    -   cnps_2024_summer
     -   cnps_master_inventory
     -   cnps_2023_spring
     -   cnps_2024_spring

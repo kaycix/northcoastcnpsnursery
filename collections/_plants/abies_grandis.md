@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2023_10
     -   cnps_2023_fall
     -   cnps_2024_spring
@@ -43,7 +44,7 @@ tags:
     -   evergreen
 
 websites: 
-    - url: "https://calscape.org/loc-California/Abies%20grandis(%20)"
+    - url: "https://calscape.org/Abies-grandis-(Grand-Fir)"
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=5"
       name: Calflora

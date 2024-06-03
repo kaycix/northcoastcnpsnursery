@@ -43,6 +43,7 @@ inventory:
     -   cnps_2023_fall
     -   cnps_2023_07 
     -   cnps_master_inventory
+    -   cnps_2024_summer
 
 tags:
     - cultivar

@@ -16,6 +16,7 @@ humboldt_native: True
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_fall
     -   cnps_2023_spring
@@ -48,6 +49,6 @@ tags:
     -   toxicFruit
  
 websites:
-    - url : "https://calscape.org/loc-California/Aesculus%20californica(%20)"
+    - url : "https://calscape.org/Aesculus-californica-(California-Buckeye)"
       name: "Calscape"
 ---

@@ -26,6 +26,7 @@ icon:
 
 inventory: 
     -   cnps_2024_spring
+    -   cnps_2024_summer
     -   cnps_2023_10
     -   cnps_2023_fall
     -   cnps_2023_spring
@@ -47,7 +48,7 @@ bloom_calendar:
     - 8 #august
 
 websites:
-    - url: "https://calscape.org/Anaphalis-margaritacea-()"
+    - url: "https://calscape.org/Anaphalis-margaritacea-(Pearly-Everlasting)"
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=341"
       name: "Calflora"
