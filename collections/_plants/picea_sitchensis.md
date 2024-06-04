@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_spring
 
@@ -39,6 +40,6 @@ tags:
     - moisture
 
 websites: 
-    - url: "https://calscape.org/Picea-sitchensis-()"
+    - url: "https://calscape.org/Picea-sitchensis-(Sitka-Spruce)"
       name: Calscape
 ---

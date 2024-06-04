@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2023_spring
     -   cnps_2023_05 
 
@@ -39,6 +40,6 @@ tags:
     - deerResistant
  
 websites: 
-    - url: "https://calscape.org/loc-California/Monardella%20villosa%20%27Russian%20River%27%20(Russian%20River%20Coyote%20Mint)?newsearch=1" 
+    - url: "https://calscape.org/Monardella-villosa-(Coyote-Mint)"
       name: Calscape
 ---
