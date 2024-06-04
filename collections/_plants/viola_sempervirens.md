@@ -44,7 +44,7 @@ size:
         max: 0.5 
  
 websites: 
-    - url: "https://calscape.org/loc-California/Viola%20sempervirens(%20)"
+    - url: "https://calscape.org/Viola-sempervirens-(Redwood-Violet)"
       name: Calscape
 
 tags:

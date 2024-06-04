@@ -40,7 +40,7 @@ icon:
         url: https://www.calflora.org/app/taxon?crn=8200 
  
 websites:
-    - url : https://calscape.org/Vaccinium-ovatum-() 
+    - url : "https://calscape.org/Vaccinium-ovatum-(Evergreen-Huckleberry)"
       name: "Calscape"
 
 gardens:

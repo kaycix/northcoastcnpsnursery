@@ -49,6 +49,6 @@ tags:
     - groundcover
 
 websites: 
-    - url: "https://calscape.org/loc-California/Vancouveria%20hexandra(%20)"
+    - url: "https://calscape.org/Vancouveria-hexandra-(Northern-Vancouveria)"
       name: Calscape
 ---
