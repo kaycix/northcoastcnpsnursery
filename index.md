@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check only, please."
+    excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check only, please. <br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #excerpt: "Plant sales have resumed during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
     #excerpt: "Plant sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     url: "/inventory/cnps-2024-summer"
