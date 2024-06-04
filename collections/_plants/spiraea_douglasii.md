@@ -45,6 +45,6 @@ tags:
     - butterfly
  
 websites: 
-    - url: "https://calscape.org/Spiraea-douglasii-()"
+    - url: "https://calscape.org/Spiraea-douglasii-(Douglas's-Spirea)"
       name: Calscape
 ---

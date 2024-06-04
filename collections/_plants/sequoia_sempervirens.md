@@ -42,7 +42,7 @@ tags:
     - deerResistant
 
 websites:
-    - url: "https://calscape.org/Sequoia-sempervirens-()"
+    - url: "https://calscape.org/Sequoia-sempervirens-(Coast-Redwood)"
       title: "Calscape"
 ---
 

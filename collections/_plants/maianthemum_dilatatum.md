@@ -47,6 +47,6 @@ tags:
     - garden
 
 websites: 
-    - url: "https://calscape.org/Maianthemum-dilatatum-()"
+    - url: "https://calscape.org/Maianthemum-dilatatum-(False-Lily-Of-The-Vally)"
       name: Calscape
 ---

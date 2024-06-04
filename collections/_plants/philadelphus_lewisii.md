@@ -48,6 +48,6 @@ tags:
     - woodland
 
 websites:
-    - url: "https://calscape.org/Philadelphus-lewisii-()"
+    - url: "https://calscape.org/Philadelphus-lewisii-(Mock-Orange)"
       name: "Calscape"
 ---

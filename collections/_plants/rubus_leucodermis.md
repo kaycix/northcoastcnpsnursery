@@ -38,6 +38,6 @@ tags:
     - bird
  
 websites: 
-    - url: "https://calscape.org/Rubus-leucodermis-()"
+    - url: "https://calscape.org/Rubus-leucodermis-(Western-Raspberry)"
       name: Calscape
 ---

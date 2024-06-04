@@ -47,7 +47,7 @@ tags:
     - meadow
 
 websites: 
-    - url: "https://calscape.org/Potentilla-gracilis-()"
+    - url: "https://calscape.org/Potentilla-gracilis-(Slender-Cinquefoil)"
       name: Calscape
 ---
 

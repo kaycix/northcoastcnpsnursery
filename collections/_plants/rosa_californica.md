@@ -45,6 +45,6 @@ tags:
     - bird
  
 websites: 
-    - url: "https://calscape.org/photos/3256?srchcr=sc623dff1b45c8e"
+    - url: "https://calscape.org/Rosa-californica-(California-Wildrose)"
       name: Calscape
 ---

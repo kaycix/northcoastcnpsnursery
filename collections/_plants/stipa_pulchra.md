@@ -48,6 +48,6 @@ tags:
     - deerResistant
 
 websites:
-    - url: "https://calscape.org/loc-California/Purple%20Needlegrass%20(Stipa%20pulchra)"
+    - url: "https://calscape.org/Stipa-pulchra-(Purple-Needlegrass)"
       name: Calscape
 ---

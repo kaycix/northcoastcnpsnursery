@@ -49,7 +49,7 @@ tags:
     - woodland
 
 websites: 
-    - url: "https://calscape.org/loc-California/Prosartes%20smithii%20(Large%20Flowered%20Fairy%20Bell)"
+    - url: "https://calscape.org/Prosartes-smithii-(Large-Flowered-Fairy-Bell)-2"
       name: Calscape
     - url: https://www.calflora.org/app/taxon?crn=9513
       name: Calflora

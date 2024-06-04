@@ -48,7 +48,7 @@ tags:
     - bee
 
 websites:
-    - url : "https://calscape.org/Lupinus-rivularis-()"
+    - url : "https://calscape.org/Lupinus-rivularis-(Riverbank-Lupine)"
       name: Calscape
     - url : https://www.calflora.org/entry/occdetail.html?seq_num=mu9347
       name: Calflora

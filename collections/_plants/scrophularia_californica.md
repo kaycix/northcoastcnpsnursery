@@ -55,7 +55,7 @@ tags:
     - droughtTolerant 
 
 websites:
-    - url: "https://calscape.org/loc-California/Scrophularia%20californica%20(Bee%20Plant)"
+    - url: "https://calscape.org/Scrophularia-californica-(Bee-Plant)"
       name: "Calscape"
     - url : "https://www.calflora.org/app/taxon?crn=7422"
       name: "Calflora"

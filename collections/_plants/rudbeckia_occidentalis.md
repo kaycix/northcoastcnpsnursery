@@ -39,7 +39,7 @@ bloom_calendar:
     - 8 #august
 
 websites: 
-    - url: "https://calscape.org/Rudbeckia-occidentalis-()"
+    - url: "https://calscape.org/Rudbeckia-occidentalis-(Western-Cone-Flower)"
       name: Calscape
 ---
 

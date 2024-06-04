@@ -49,6 +49,6 @@ tags:
     - chaparral
 
 websites: 
-    - url: "https://calscape.org/Penstemon-rydbergii-()"
+    - url: "https://calscape.org/Penstemon-rydbergii-(Rydberg's-Penstemon)"
       name: Calscape
 ---

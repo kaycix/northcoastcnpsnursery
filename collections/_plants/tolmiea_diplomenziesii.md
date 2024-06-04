@@ -49,6 +49,6 @@ tags:
     - beginner
 
 websites: 
-    - url: "https://calscape.org/loc-California/Tolmiea%20diplomenziesii(%20)"  
+    - url: "https://calscape.org/Tolmiea-menziesii-(Piggyback-Plant)"
       name: Calscape
 ---

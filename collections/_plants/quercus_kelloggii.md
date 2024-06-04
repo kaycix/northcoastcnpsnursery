@@ -43,6 +43,6 @@ tags:
     - droughtTolerant
  
 websites: 
-    - url: "https://calscape.org/Quercus-garryana-()"
+    - url: "https://calscape.org/Quercus-kelloggii-(Black-Oak)"
       name: Calscape
 ---

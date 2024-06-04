@@ -60,7 +60,7 @@ tags:
     - woodland
 
 websites:
-    - url: "https://calscape.org/Polystichum-munitum-()"
+    - url: "https://calscape.org/Polystichum-munitum-(Western-Sword-Fern)"
       name: "Calscape.org/Polystichum-munitum-()"
     - url: "https://www.weekand.com/home-garden/article/sword-fern-rhizomes-propagation-18040566.php"
       name: Sword Ferns Rhizome Propagation

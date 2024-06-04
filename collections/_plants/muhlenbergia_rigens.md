@@ -50,7 +50,7 @@ size:
         max: 5
  
 websites:
-    - url : "https://calscape.org/loc-California/Muhlenbergia%20rigens(%20)"
+    - url : "https://calscape.org/Muhlenbergia-rigens-(Deergrass)"
       name: "Calscape"
 
 ---

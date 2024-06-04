@@ -49,7 +49,7 @@ tags:
     - deerResistant
 
 websites: 
-    - url: "https://calscape.org/loc-California/Sisyrinchium%20californicum(%20)"
+    - url: "https://calscape.org/Sisyrinchium-californicum-(Yellow-Eyed-Grass)"
       name: Calscape
 ---
 

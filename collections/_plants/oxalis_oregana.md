@@ -46,6 +46,6 @@ tags:
     - groundcover 
  
 websites: 
-    - url: "https://calscape.org/loc-California/Oxalis%20oregana(%20)"
+    - url: "https://calscape.org/Oxalis-oregana-(Redwood-Sorrel)"
       name: "Calscape"
 ---

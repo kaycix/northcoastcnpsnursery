@@ -37,6 +37,6 @@ tags:
     - humboldtNative
  
 websites: 
-    - url: "https://calscape.org/Prosartes-hookeri-()"
+    - url: "https://calscape.org/Prosartes-hookeri-(Hooker's-Fairy-Bell)-2"
       name: Calscape
 ---

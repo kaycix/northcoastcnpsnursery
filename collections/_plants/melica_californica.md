@@ -48,6 +48,6 @@ tags:
     - deerResistant
  
 websites: 
-    - url: "https://calscape.org/loc-California/Melica%20californica%20(California%20Melicgrass)"
+    - url: "https://calscape.org/Melica-californica-(California-Melicgrass)"
       name: Calscape
 ---

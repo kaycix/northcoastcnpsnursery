@@ -48,6 +48,6 @@ tags:
     - groundcover
  
 websites: 
-    - url: "https://calscape.org/Solidago-spathulata-()"
+    - url: "https://calscape.org/Solidago-spathulata-(Coast-Goldenrod)"
       name: Calscape
 ---

@@ -46,6 +46,6 @@ tags:
     - bee
 
 websites: 
-    - url: "https://calscape.org/Symphyotrichum-foliaceum-()"
+    - url: "https://calscape.org/Symphyotrichum-foliaceum-(Leafy-Aster)"
       name: Calscape
 ---

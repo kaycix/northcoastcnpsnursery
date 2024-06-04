@@ -40,7 +40,7 @@ tags:
     - bee
 
 websites:
-    - url: "https://calscape.org/Penstemon-anguineus-()"
+    - url: "https://calscape.org/Penstemon-rattanii-(Rattan's-Beardtongue)"
       title: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=6137"
       title: "Calflora"

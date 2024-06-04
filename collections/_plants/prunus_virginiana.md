@@ -44,6 +44,6 @@ tags:
     - bird
  
 websites: 
-    - url: "https://calscape.org/Prunus-virginiana-()"
+    - url: "https://calscape.org/Prunus-virginiana-(Chokecherry)"
       name: Calscape
 ---

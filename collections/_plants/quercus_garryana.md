@@ -43,6 +43,6 @@ tags:
     -   butterfly
 
 websites: 
-    - url: https://calscape.org/Quercus-garryana-() 
+    - url: "https://calscape.org/Quercus-garryana-(Garry's-Oak)" 
       name: "Calscape"
 ---

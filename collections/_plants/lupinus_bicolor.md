@@ -41,7 +41,7 @@ tags:
     - bee
  
 websites:
-    - url: https://calscape.org/Lupinus-bicolor-() 
+    - url: "https://calscape.org/Lupinus-bicolor-(Miniature-Lupine)" 
       name: "Calscape"
 ---
 

@@ -41,7 +41,7 @@ icon:
         url: https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+0511+2303 
  
 websites:
-    - url : https://calscape.org/loc-California/Coastal%20Miterwort%20(Pectiantia%20ovalis)
+    - url : "https://calscape.org/Pectiantia-ovalis-(Coastal-Miterwort)" 
       name: Calscape
 
 gardens:

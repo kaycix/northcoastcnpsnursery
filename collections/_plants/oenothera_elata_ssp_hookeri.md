@@ -41,7 +41,7 @@ tags:
     -   butterfly
 
 websites:
-    - url : https://calscape.org/Oenothera-elata-ssp.-hookeri-() 
+    - url : "https://calscape.org/Oenothera-elata-ssp.-hookeri-(Hooker's-Evening-Primrose)" 
       name: "Calscape"
 ---
 

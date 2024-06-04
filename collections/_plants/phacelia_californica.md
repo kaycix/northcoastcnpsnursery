@@ -59,6 +59,6 @@ tags:
     -   moisture
  
 websites:
-    - url: "https://calscape.org/Phacelia-californica-()"
+    - url: "https://calscape.org/Phacelia-californica-(Rock-Phacelia)"
       name: "Calscape"
 ---

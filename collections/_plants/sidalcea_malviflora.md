@@ -64,6 +64,6 @@ tags:
      - woodland
 
 websites:
-    - url: "https://calscape.org/Sidalcea-malviflora-()" 
+    - url: "https://calscape.org/Sidalcea-malviflora-(Checker-Bloom)"
       name: "Calscape"
 ---

@@ -48,6 +48,6 @@ tags:
     - hedge
 
 websites: 
-    - url: "https://calscape.org/Rubus-parviflorus-(Western-Thimbleberry)"
+    - url: "https://calscape.org/Rubus-parviflorus-(Thimbleberry)"
       name: Calscape
 ---

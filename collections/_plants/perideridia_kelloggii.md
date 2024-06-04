@@ -38,6 +38,6 @@ tags:
     - droughtTolerant
  
 websites: 
-    - url: "https://calscape.org/Perideridia-kelloggii-()"
+    - url: "https://calscape.org/Perideridia-kelloggii-(Kellogg's-Yampah)"
       title: Calscape
 ---

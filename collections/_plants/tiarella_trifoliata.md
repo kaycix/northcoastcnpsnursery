@@ -46,6 +46,6 @@ tags:
     - humboldtNative
  
 websites: 
-    - url: "https://calscape.org/loc-California/Sugar%20Scoop%20(Tiarella%20trifoliata)"
+    - url: "https://calscape.org/Tiarella-trifoliata-(Sugar-Scoop)"
       name: Calscape
 ---
