@@ -49,6 +49,6 @@ tags:
     - propagationSeedNoTreatment
 
 websites: 
-    - url: "https://calscape.org/Geum-macrophyllum-()"
+    - url: "https://calscape.org/Geum-macrophyllum-(Large-Leaved-Avens)"
       name: Calscape
 ---

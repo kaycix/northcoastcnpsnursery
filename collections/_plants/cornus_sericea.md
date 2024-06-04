@@ -46,6 +46,6 @@ size:
         max: 13.1
 
 websites:
-    - url: https://calscape.org/Cornus-sericea-(Creek-Dogwood) 
+    - url: "https://calscape.org/Cornus-sericea-(Red-Osier-Dogwood)" 
       name: "Calscape"
 ---

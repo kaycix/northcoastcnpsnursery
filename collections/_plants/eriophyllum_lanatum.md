@@ -50,6 +50,6 @@ tags:
     -   propagationSeedNoTreatment
 
 websites:
-    - url: "https://calscape.org/Common-woolly-sunflower-(Eriophyllum-lanatum)"
+    - url: "https://calscape.org/Eriophyllum-lanatum-(Common-Woolly-Sunflower)"
       name: "Calscape"
 ---

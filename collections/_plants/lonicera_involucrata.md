@@ -57,7 +57,7 @@ tags:
     - deerResistant
  
 websites: 
-    - url: "https://calscape.org/loc-California/Lonicera%20involucrata(%20)"
+    - url: "https://calscape.org/Lonicera-involucrata-(Black-Twinberry)"
       name: Calscape
 ---
 

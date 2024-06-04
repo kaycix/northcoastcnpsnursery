@@ -47,6 +47,6 @@ tags :
     - gravelly
 
 websites:
-    - url: "https://calscape.org/Eriogonum-elatum-()"
+    - url: "https://calscape.org/Eriogonum-elatum-(Tall-Buckwheat)"
       name: Calscape
 ---

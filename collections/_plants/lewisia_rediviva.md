@@ -41,13 +41,6 @@ tags:
     - gravelly
  
 websites: 
-    - url: "https://calscape.org/loc-California/lewisia%20rediviva(%20)"
+    - url: "https://calscape.org/Lewisia-rediviva-(Bitter-Root)"
       name: Calscape
 ---
-
-
-
-
-
-
-

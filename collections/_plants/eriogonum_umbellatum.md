@@ -51,6 +51,6 @@ tags:
     - droughtTolerant
 
 websites: 
-    - url: "https://calscape.org/loc-California/Eriogonum%20umbellatum(%20)"
+    - url: "https://calscape.org/Eriogonum-umbellatum-(Sulphur-Buckwheat)"
       name: "Calscape"
 ---

@@ -45,7 +45,7 @@ tags:
     -   deerResistant
 
 websites: 
-    - url: https://calscape.org/loc-California/Iris%20chrysophylla(%20) 
+    - url: "https://calscape.org/Iris-chrysophylla-(Yellowleaf-Iris)" 
       name: "Calscape"
 ---
 

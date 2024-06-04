@@ -51,8 +51,7 @@ tags:
     -   propagationSeedNoTreatment
 
 websites: 
-    - url: "https://calscape.org/loc-California/Eriophyllum%20staechadifolium(%20)
-"
+    - url: "https://calscape.org/Eriophyllum-staechadifolium-(Seaside-Woolly-Sunflower)"
       name: "Calscape"
 ---
 

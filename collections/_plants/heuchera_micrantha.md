@@ -54,7 +54,7 @@ size:
         max: 3.3
 
 websites: 
-    - url: "https://calscape.org/loc-California/Heuchera%20micrantha(%20)"
+    - url: "https://calscape.org/Heuchera-micrantha-(Crevice-Alumroot)-4"
       name: Calscape
 ---
 

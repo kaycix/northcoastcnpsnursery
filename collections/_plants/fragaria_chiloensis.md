@@ -58,7 +58,7 @@ tags:
     -   deerResistant
 
 websites:
-    - url: "https://calscape.org/loc-California/Fragaria%20chiloensis%20(Beach%20Strawberry)"
+    - url: "https://calscape.org/Fragaria-chiloensis-(Beach-Strawberry)"
       name: "Calscape"
 ---
 

@@ -51,7 +51,7 @@ size:
         max: 15
 
 websites:
-    - url: "https://calscape.org/loc-California/Coffee%20Berry%20(Frangula%20californica)"
+    - url: "https://calscape.org/Frangula-californica-(Coffeeberry)"
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=61"
       name: "Calflora"

@@ -38,7 +38,7 @@ size:
         max: 2.6
 
 websites:
-    - url: "https://calscape.org/loc-California/Festuca%20rubra%20(Red%20Fescue)"
+    - url: "https://calscape.org/Festuca-rubra-(Red-Fescue)"
       name: Calscape
 
 tags:

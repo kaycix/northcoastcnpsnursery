@@ -57,7 +57,7 @@ tags:
     - deerResistant
 
 websites:
-    - url: "https://calscape.org/Erigeron-glaucus-(Seaside-Fleabane)"
+    - url: "https://calscape.org/Erigeron-glaucus-(Seaside-Daisy)"
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=3140" 
       name: "Calflora"

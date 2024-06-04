@@ -41,7 +41,7 @@ tags:
     - moisture
 
 websites:
-    - url: "https://calscape.org/White-meadowfoam-(Limnanthes-alba)"
+    - url: "https://calscape.org/Limnanthes-alba-(White-Meadowfoam)"
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=4825"
       name: "Calflora"

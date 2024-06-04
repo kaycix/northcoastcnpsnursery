@@ -42,6 +42,6 @@ size:
         max: 2.3
 
 websites:
-    - url: "https://calscape.org/Camassia-quamash-(Common-Camas)" 
+    - url: "https://calscape.org/Camassia-quamash-(Common-Camas)"
       name: "Calscape"
 ---

@@ -39,7 +39,7 @@ tags:
     - moisture
  
 websites: 
-    - url: "https://calscape.org/loc-California/Hastingsia%20alba(%20)"
+    - url: "https://calscape.org/Hastingsia-alba-(White-Bog-Hastingsia)"
       name: Calscape
 ---
 

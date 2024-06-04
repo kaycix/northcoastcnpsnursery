@@ -52,6 +52,6 @@ tags:
     - woodland
  
 websites: 
-    - url: "https://calscape.org/loc-California/Fragaria%20vesca(%20)"
+    - url: "https://calscape.org/Fragaria-vesca-(Woodland-Strawberry)"
       name: Calscape
 ---

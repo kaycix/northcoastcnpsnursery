@@ -52,7 +52,7 @@ icon:
         url: https://calscape.org/photos/2062?srchcr=sc63e7178154e45 
  
 websites: 
-    - url: https://calscape.org/Keckiella-cordifolia-()
+    - url: "https://calscape.org/Keckiella-cordifolia-(Climbing-Penstemon)" 
       name: Calscape
   
 gardens:

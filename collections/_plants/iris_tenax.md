@@ -42,7 +42,7 @@ size:
         max: 1.5
 
 websites: 
-    - url: "https://calscape.org/loc-California/Iris%20tenax(%20)"
+    - url: "https://calscape.org/Iris-tenax-(Toughleaf-Iris)"
       name: "Calscape"
 
 tags:

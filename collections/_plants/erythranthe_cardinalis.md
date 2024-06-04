@@ -45,7 +45,7 @@ icon:
         url: https://calscape.org/photos/2518?srchcr=sc63e6ce7fe9818 
  
 websites: 
-    - url : "https://calscape.org/Erythranthe-cardinalis-()"
+    - url : "https://calscape.org/Erythranthe-cardinalis-(Scarlet-Monkeyflower)"
       name: Calscape
 
 gardens:

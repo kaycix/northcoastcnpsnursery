@@ -57,6 +57,6 @@ tags:
     -   woodland
  
 websites: 
-    -   url: "https://calscape.org/Mimulus-aurantiacus-(Bush-Monkey-Flower)"
+    -   url: "https://calscape.org/Diplacus-aurantiacus-(Bush-Monkey-Flower)"
         name: Calscape
 ---

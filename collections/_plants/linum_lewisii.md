@@ -49,7 +49,7 @@ tags:
     - propagation_30_coldmoist_stratification
     
 websites:
-    - url: "https://calscape.org/Linum-lewisii-()"
+    - url: "https://calscape.org/Linum-lewisii-(Prairie-Flax)"
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=4908"
       name: "Calflora"

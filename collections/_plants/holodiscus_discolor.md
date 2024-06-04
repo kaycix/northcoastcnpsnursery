@@ -51,7 +51,7 @@ tags:
     -   deerResistant
 
 websites: 
-    - url: https://calscape.org/Holodiscus-discolor-(Cream-Bush) 
+    - url: "https://calscape.org/Holodiscus-discolor-(Ocean-Spray)" 
       name: "Calscape"
 ---
 

@@ -43,13 +43,6 @@ tags:
     -   droughtTolerant
  
 websites:
-    - url:  "https://calscape.org/Lupinus-albifrons-()"
+    - url:  "https://calscape.org/Lupinus-albifrons-(Silver-Lupine)"
       name: Calscape
 ---
-
-
-
-
-
-
-

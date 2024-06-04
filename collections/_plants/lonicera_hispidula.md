@@ -50,7 +50,7 @@ tags:
     -   slopes
 
 websites: 
-    - url: https://calscape.org/Lonicera-hispidula-(Hairy-Honeysuckle) 
+    - url: "https://calscape.org/Lonicera-hispidula-(Pink-Honeysuckle)-2" 
       name: Calscape
     - url: https://nativeplantspnw.com/hairy-honeysuckle-lonicera-hispidula/
       name: "Native Plants PNW"

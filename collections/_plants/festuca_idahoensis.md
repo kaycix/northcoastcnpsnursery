@@ -48,7 +48,7 @@ tags:
     - groundcover
 
 websites: 
-     - url: https://calscape.org/loc-California/Festuca%20idahoensis(%20)
+     - url: "https://calscape.org/Festuca-idahoensis-(Idaho-Fescue)" 
        name: Calscape
 ---
 
