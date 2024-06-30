@@ -20,7 +20,6 @@ icon:
         url: https://calscape.org/plant/Eriogonum-kennedyi-var.-austromontanum-(Southern-Mountain-Buckwheat)/gallery
 
 inventory: 
-    -   cnps_2024_summer
     -   cnps_master_inventory
 
 sun_requirements:

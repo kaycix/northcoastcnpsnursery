@@ -29,6 +29,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2023_10
     -   cnps_2023_fall
     -   cnps_2023_05 
@@ -54,7 +55,7 @@ tags:
     -   coastal
 
 websites:
-    - url: https://calscape.org/Camissoniopsis-cheiranthifolia-() 
+    - url: https://calscape.org/Camissoniopsis-cheiranthifolia-(Beach-Primrose) 
       name: "Calscape - Beach Primrose / Camissoniopsis cheiranthifolia"
     - url: https://www.calflora.org/app/taxon?crn=11447
       name: "Calflora - Camissoniopsis cheiranthifolia"

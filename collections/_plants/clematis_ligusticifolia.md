@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2023_spring
 
 tags:  
@@ -39,7 +40,7 @@ sun_requirements:
   - "Part Shade"
 
 websites:
-    - url: "https://calscape.org/loc-California/Clematis%20ligusticifolia(%20)"
+    - url: "https://calscape.org/Clematis-ligusticifolia-(Virgin's-Bower)"
       name: "Calscape"
     - url: https://www.calfloranursery.com/plants/clematis-ligustifolia
       name: "Calflora Nursery"

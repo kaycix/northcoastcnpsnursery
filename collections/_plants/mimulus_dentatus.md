@@ -21,7 +21,6 @@ icon:
         url: https://www.calflora.org/app/taxon?crn=5506 
 
 inventory: 
-    -   cnps_2024_summer
     -   cnps_master_inventory
     -   cnps_2024_spring
     -   cnps_2023_spring

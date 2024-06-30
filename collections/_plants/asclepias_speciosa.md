@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_2023_fall
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_spring
     -   cnps_master_inventory
@@ -42,7 +43,7 @@ size:
         max: 6
  
 websites:
-    - url: "https://calscape.org/Asclepias-speciosa-()"
+    - url: "https://calscape.org/Asclepias-speciosa-(Showy-Milkweed)"
       name: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=751"
       name: "Calflora"

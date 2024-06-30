@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2023_fall
 
 size:
@@ -37,6 +38,6 @@ tags:
     -   butterfly
 
 websites:
-    - url : https://calscape.org/Calyptridium-umbellatum-() 
+    - url : https://calscape.org/Calyptridium-umbellatum-(Pussy-Paws) 
       name: "Calscape"
 ---

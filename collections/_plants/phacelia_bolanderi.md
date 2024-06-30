@@ -27,6 +27,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_fall
     -   cnps_2023_spring
@@ -48,6 +49,6 @@ size:
         max: 3.3
  
 websites: 
-    - url: "https://calscape.org/loc-California/Phacelia%20bolanderi(%20)"
+    - url: https://calscape.org/Phacelia-bolanderi-(Bolander's-Phacelia)
       name: Calscape
 ---
