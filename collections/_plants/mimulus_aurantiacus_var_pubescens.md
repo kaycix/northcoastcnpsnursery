@@ -22,6 +22,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2023_fall
     -   cnps_2023_05 
 
@@ -40,7 +41,7 @@ size:
         max: 3
  
 websites: 
-    - url: "https://calscape.org/Mimulus-aurantiacus-var.-pubescens-()"
+    - url: https://calscape.org/Mimulus-aurantiacus-var.-pubescens-(Sticky-Monkeyflower) 
       name: "Calscape"
 ---
 
