@@ -4,7 +4,7 @@ plant_id: 366
 name: 
     common: 
         - "Sierra Gooseberry"  
-    scientific: "Perideridia oregana"  
+    scientific: "Ribes roezlii"  
 
 category: "shrub"
 

@@ -12,12 +12,12 @@ humboldt_native: true
 
 icon: 
     small: 
-        url: /assets/images/plants/penstemon_newberryi_sm.jpg 
+        url: /assets/images/plants/penstemon_newberryi_sm.jpeg 
     large: 
-        url: /assets/images/plants/penstemon_newberryi_lg.jpg 
+        url: /assets/images/plants/penstemon_newberryi_lg.jpeg 
     source: 
-        name: 
-        url: 
+        name: Steve Matson 
+        url: https://calscape.org/plant/Penstemon-newberryi-(Mountain-Pride)/gallery
 
 inventory: 
     -   cnps_master_inventory

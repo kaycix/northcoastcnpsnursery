@@ -12,12 +12,12 @@ humboldt_native: false
 
 icon: 
     small: 
-        url: /assets/images/plants/penstemon_newberryi_sm.jpg 
+        url: /assets/images/plants/penstemon_speciosus_sm.jpeg 
     large: 
-        url: /assets/images/plants/penstemon_newberryi_lg.jpg 
+        url: /assets/images/plants/penstemon_speciosus_lg.jpeg 
     source: 
-        name: 
-        url: 
+        name: John Doyen 
+        url: https://calscape.org/plant/Penstemon-speciosus-(Royal-Penstemon)/gallery
 
 inventory: 
     -   cnps_master_inventory

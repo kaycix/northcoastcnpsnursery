@@ -12,12 +12,12 @@ humboldt_native: true
 
 icon: 
     small: 
-        url: /assets/images/plants/trifolium_wormskioldii_sm.jpg 
+        url: /assets/images/plants/trifolium_wormskioldii_sm.jpeg 
     large: 
-        url: /assets/images/plants/trifolium_wormskioldii_lg.jpg 
+        url: /assets/images/plants/trifolium_wormskioldii_lg.jpeg 
     source: 
-        name: 
-        url: 
+        name: John Doyen 
+        url: https://calscape.org/plant/Trifolium-wormskioldii-(Cows-Clover)/gallery 
 
 inventory: 
     -   cnps_master_inventory
