@@ -20,6 +20,7 @@ icon:
         url: https://calscape.org/photos/70666?srchcr=sc650b2a08da9a4 
 
 inventory: 
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_fall
     -   cnps_master_inventory
@@ -43,7 +44,7 @@ tags:
     - deerResistant
 
 websites:
-    - url: "https://calscape.org/Arctostaphylos-densiflora-%27Howard-Mcminn%27-(Howard-Mcminn-Manzanita)"
+    - url: https://calscape.org/Arctostaphylos-densiflora-'Howard-Mcminn'-(Howard-Mcminn-Manzanita) 
       title: "Calscape"
 ---
 

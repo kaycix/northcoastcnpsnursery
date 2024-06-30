@@ -20,6 +20,7 @@ humboldt_native: True
 
 inventory: 
     -   cnps_2023_fall
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_spring
     -   cnps_master_inventory
@@ -53,7 +54,7 @@ tags:
     -   lowGrowing
  
 websites:
-    - url : https://calscape.org/loc-California/Dicentra%20formosa(%20) 
+    - url : https://calscape.org/Dicentra-formosa-(Bleeding-Heart)
       name: "Calscape"
     - url: https://www.calflora.org/app/taxon?crn=2711
       name : "Calflora"

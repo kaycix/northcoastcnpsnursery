@@ -16,6 +16,7 @@ tags:
     -   showy 
 
 inventory: 
+    -   cnps_2024_summer
     -   cnps_2023_spring
     -   cnps_2023_fall
     -   cnps_master_inventory
@@ -38,7 +39,7 @@ icon:
         url: https://www.calflora.org/entry/occdetail.html?seq_num=mu12737 
  
 websites:
-    - url : "https://calscape.org/Darlingtonia-californica-()" 
+    - url : https://calscape.org/Darlingtonia-californica-(California-Pitcherplant) 
       name: "Calscape"
 
 gardens:

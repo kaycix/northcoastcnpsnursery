@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_fall
     -   cnps_2022_fall
@@ -43,6 +44,6 @@ size:
         max: 6
 
 websites:
-    - url: "https://www.calscape.org/Arctostaphylos-%27Sunset%27-(Sunset-Manzanita)"
+    - url: https://calscape.org/Arctostaphylos-'Sunset'-(Sunset-Manzanita) 
       name: "Calscape"
 ---

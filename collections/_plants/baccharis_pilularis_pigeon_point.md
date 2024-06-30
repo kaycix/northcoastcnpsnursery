@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_spring
 
@@ -48,6 +49,6 @@ size:
         max: 2
 
 websites:
-    - url: https://calscape.org/Baccharis-pilularis-ssp.-pilularis-%27Pigeon-Point%27-(Pigeon-Point-Coyote-Brush)?srchcr=sc5e39ba57165f9 
+    - url: https://calscape.org/Baccharis-pilularis-ssp.-pilularis-'Pigeon-Point'-(Pigeon-Point-Coyote-Brush) 
       name: "Calscape"
 ---

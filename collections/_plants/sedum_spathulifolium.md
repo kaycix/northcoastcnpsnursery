@@ -26,6 +26,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2024_summer
     -   cnps_2024_spring
     -   cnps_2023_fall
     -   cnps_2023_spring
@@ -52,7 +53,7 @@ tags:
     - slopes
  
 websites: 
-    - url: "https://calscape.org/Sedum-spathulifolium-()"
+    - url: "https://calscape.org/Sedum-spathulifolium-(Yellow-Stonecrop)"
       name: Calscape
     - url: "https://www.calflora.org/app/taxon?crn=7459"
       name: Calflora

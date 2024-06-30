@@ -20,6 +20,7 @@ icon:
         url: https://www.calflora.org/entry/occdetail.html?seq_num=po193422
 
 inventory: 
+    -   cnps_2024_summer
     -   cnps_2023_spring
     -   cnps_2023_fall
     -   cnps_master_inventory

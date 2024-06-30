@@ -4,7 +4,7 @@ id: cnps_2024_summer
 inventory_id: cnps_2024_summer
 
 title: "Current Inventory"
-excerpt: "Updated: June 1, 2024" 
+excerpt: "Updated: June 26, 2024" 
 
 header:
   overlay_color: "#000"
