@@ -5,7 +5,7 @@ layout: splash
 
 classes: wide spring-sale
 
-title: <a href="/sale/">Spring Native Plant Sale</a> 
+title: <a href="/sale/">Fall Native Plant Sale</a> 
 excerpt: "Freshwater Farms Reserve<br/>5158 Mrytle Ave, Eureka, CA"
 
 header:
@@ -37,9 +37,12 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday May 4, 
-    <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-48779927-spring#/" target="_blank">Sign Up to Shop</a>!*</h4> 
-    <h4>Sunday May 5, Open 10:00am - 3:00 pm</h4>
+    <h4>Saturday Sept 28
+    </h4>
+    <!--  
+    <a hreif="https://www.signupgenius.com/go/904054DA5A823A2F94-48779927-spring#/" target="_blank">Sign Up to Shop</a>!*</h4> 
+    -->
+    <h4>Sunday Sept 29, Open 10:00am - 3:00 pm</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
 * Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius.
@@ -57,7 +60,7 @@ feature_row:
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block"> 
+<div class="browse-block" style="display:none"> 
     <p class="notice--warning" style="margin-top: 0em !important; display:none"><b>Note: </b> We are still actively compiling our inventory. All items are subject to change. We will finalize this list on April 1st.</p>
     <div class="clear"></div> 
     <div class="heading">
