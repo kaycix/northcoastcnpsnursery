@@ -47,6 +47,6 @@ tags:
     - butterfly
 
 websites: 
-    - url: "https://calscape.org/Symphyotrichum-subspicatum-()"
+    - url: https://calscape.org/Symphyotrichum-subspicatum-(Douglas-Aster) 
       name: Calscape
 ---

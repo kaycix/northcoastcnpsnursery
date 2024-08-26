@@ -41,7 +41,7 @@ tags:
     - bee
 
 websites:
-    - url: "https://calscape.org/Penstemon-anguineus-()"
+    - url: https://calscape.org/Penstemon-anguineus-(Siskiyou-Beardtongue)
       title: "Calscape"
     - url: "https://www.calflora.org/app/taxon?crn=6137"
       title: "Calflora"

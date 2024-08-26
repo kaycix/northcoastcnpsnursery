@@ -39,6 +39,6 @@ tags:
     - butterfly
 
 websites: 
-    - url: "https://calscape.org/loc-California/Olsynium%20douglasii(%20)"
+    - url: https://calscape.org/Olsynium-douglasii-(Douglas'-Grasswidow)
       name: Calscape
 ---

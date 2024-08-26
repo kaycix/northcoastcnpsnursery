@@ -48,7 +48,7 @@ tags:
     - deerResistant
 
 websites: 
-    - url: "https://calscape.org/Sambucus-nigra-()"
+    - url: https://calscape.org/Sambucus-nigra-(Black-Elderberry) 
       name: Calscape
 ---
 

@@ -52,6 +52,6 @@ tags:
     - container
 
 websites: 
-    - url: "https://calscape.org/loc-California/Penstemon%20deustus(%20)"
+    - url: https://calscape.org/Penstemon-deustus-(Scabland-Penstemon) 
       name: Calscape
 ---
