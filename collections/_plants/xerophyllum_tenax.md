@@ -24,6 +24,7 @@ icon:
         url: https://calscape.org/photos/3884?srchcr=sc64eacbf62442f 
 
 inventory: 
+    -   cnps_2024_fall
     -   cnps_2023_fall
     -   cnps_master_inventory
 
