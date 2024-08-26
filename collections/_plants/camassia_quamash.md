@@ -28,6 +28,7 @@ icon:
 inventory: 
     -   cnps_2024_summer
     -   cnps_master_inventory
+    -   cnps_2024_fall
 
 tags:  
     -   humboldtNative

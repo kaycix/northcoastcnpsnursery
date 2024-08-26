@@ -3,7 +3,7 @@ permalink: /sale/all/
 
 layout: splash
 classes: wide spring-sale
-title: <a href="/sale/">Spring Native Plant Sale</a> 
+title: <a href="/sale/">Fall Native Plant Sale</a> 
 excerpt: "Freshwater Farms Reserve<br/>5158 Mrytle Ave, Eureka, CA"
 header:
   overlay_color: "#000"
@@ -11,7 +11,7 @@ header:
   #overlay_image: /assets/images/backgrounds/waxy_coneflower2.jpeg
   overlay_image: /assets/images/backgrounds/lupine.jpg
 ---
-{% assign inventory_tag = "cnps_2024_spring" %}
+{% assign inventory_tag = "cnps_2024_fall" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
