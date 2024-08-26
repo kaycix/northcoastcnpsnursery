@@ -50,7 +50,7 @@ tags:
     -   riparian
 
 websites: 
-    - url: https://calscape.org/loc-California/Alnus%20rubra(%20)
+    - url: https://calscape.org/Alnus-rubra-(Red-Alder) 
       name: Calscape
     - url: "https://www.calflora.org/app/taxon?crn=253" 
       name: "Calflora"

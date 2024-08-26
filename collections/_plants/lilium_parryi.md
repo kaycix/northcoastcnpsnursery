@@ -41,7 +41,7 @@ tags:
     - hummingbird
 
 websites: 
-    - url: "https://calscape.org/loc-California/Lilium%20parryi(%20)"
+    - url: https://calscape.org/Lilium-parryi-(Lemon-Lily)
       name: Calscape
 ---
 

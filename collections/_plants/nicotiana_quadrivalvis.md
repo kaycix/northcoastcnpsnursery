@@ -38,7 +38,7 @@ tags:
     - butterfly
  
 websites:
-    - url: https://calscape.org/Nicotiana-quadrivalvis-(Indian-Tobacco) 
+    - url: https://calscape.org/Nicotiana-quadrivalvis-(Indian-Tobacco)-2
       name: "Calscape"
 ---
 

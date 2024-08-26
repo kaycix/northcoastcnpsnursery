@@ -46,6 +46,6 @@ tags:
     - bog
  
 websites:
-    - url: "https://calscape.org/loc-California/Erythronium%20revolutum(%20)"
+    - url: https://calscape.org/Erythronium-revolutum-(Mahogany-Fawn-Lily) 
       name: Calscape
 ---

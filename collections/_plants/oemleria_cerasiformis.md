@@ -43,6 +43,6 @@ tags:
     - woodland 
 
 websites:
-    - url: "https://calscape.org/Oemleria-cerasiformis-(Indian-Plum)"
+    - url: https://calscape.org/Oemleria-cerasiformis-(Osoberry) 
       name: "Calscape"
 ---

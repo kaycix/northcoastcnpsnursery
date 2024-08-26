@@ -41,6 +41,6 @@ icon:
         url: https://calscape.org/photos/2195?srchcr=sc64e8e3d1544ca 
 
 websites:
-    - url: https://calscape.org/loc-California/Lilium%20pardalinum%20v.%20shastense(%20) 
+    - url: https://calscape.org/Lilium-pardalinum-ssp.-shastense-(Shasta-Lily) 
       name: "Calscape"
 ---    

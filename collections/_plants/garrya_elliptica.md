@@ -71,6 +71,6 @@ tags:
     -   deerResistant
 
 websites:
-    - url : "https://calscape.org/Garrya-elliptica-(Wavyleaf-Silktassel)"
+    - url : https://calscape.org/Garrya-elliptica-(Coast-Silktassel) 
       name: "Calscape"
 ---

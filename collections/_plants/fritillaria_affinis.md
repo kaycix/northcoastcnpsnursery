@@ -39,6 +39,6 @@ tags:
     -   bulb
 
 websites:
-    - url :  "https://calscape.org/loc-California/Fritillaria%20affinis(%20)"
+    - url : https://calscape.org/Fritillaria-affinis-(Checker-Lily) 
       name: Calscape
 ---

@@ -46,6 +46,6 @@ tags:
     - humboldtNative
 
 websites: 
-    - url: "https://calscape.org/loc-California/Lillium%20columbianum(%20)"
+    - url: https://calscape.org/Lilium-columbianum-(Columbia-Lily) 
       name: Calscape
 ---

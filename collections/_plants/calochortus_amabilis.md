@@ -42,6 +42,6 @@ size:
         max: 1.6
 
 websites:
-    - url: https://calscape.org/Calochortus-amabilis-() 
+    - url: https://calscape.org/Calochortus-amabilis-(Golden-Globelily) 
       name: "Calscape"
 ---

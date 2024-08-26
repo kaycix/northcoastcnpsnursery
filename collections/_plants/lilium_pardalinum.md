@@ -50,6 +50,6 @@ tags:
     - moisture
 
 websites:
-    - url: https://calscape.org/loc-California/Lilium%20pardalinum(%20) 
+    - url: https://calscape.org/Lilium-pardalinum-(Tiger-Lily)
       name: "Calscape"
 ---

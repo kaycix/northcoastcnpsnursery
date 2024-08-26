@@ -41,7 +41,7 @@ tags:
     - hummingbird
 
 websites: 
-    -   url: "https://calscape.org/loc-California/Lilium%20pardalinum%20ssp%20volmeri(%20)"
+    -   url: https://calscape.org/Lilium-pardalinum-ssp.-vollmeri-(Vollmer's-Lily)  
         name: Calscape
 ---
 

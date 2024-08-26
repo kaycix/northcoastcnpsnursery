@@ -40,7 +40,7 @@ size:
         max: 49.2
 
 websites: 
-    - url: "https://calscape.org/Frangula-purshiana-()"
+    - url: https://calscape.org/Frangula-purshiana-(Cascara-Sagrada) 
       name: "Calscape"
 
 tags:  

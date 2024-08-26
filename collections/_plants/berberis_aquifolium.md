@@ -56,7 +56,7 @@ tags:
     -   bankStabilization
 
 websites:
-    - url: https://calscape.org/Berberis-aquifolium-(Oregon-Grape) 
+    - url: https://calscape.org/Berberis-aquifolium-(Tall-Oregon-Grape)
       name: "Calscape"
 
 ---
