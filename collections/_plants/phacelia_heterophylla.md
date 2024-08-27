@@ -40,6 +40,6 @@ tags:
     - butterfly
  
 websites: 
-    - url:https://calscape.org/Phacelia-heterophylla-(Varileaf-Phacelia)  
+    - url: https://calscape.org/Phacelia-heterophylla-(Varileaf-Phacelia)  
       name: Calscape
 ---

@@ -56,11 +56,11 @@ feature_row:
 </p>
 -->
 
-{% assign inventory_tag = "cnps_2024_spring" %}
+{% assign inventory_tag = "cnps_2024_fall" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block" style="display:none"> 
+<div class="browse-block"> 
     <p class="notice--warning" style="margin-top: 0em !important; display:none"><b>Note: </b> We are still actively compiling our inventory. All items are subject to change. We will finalize this list on April 1st.</p>
     <div class="clear"></div> 
     <div class="heading">
@@ -99,7 +99,7 @@ feature_row:
                 <div class="row">
                     <a href="/sale/grasses/">Grasses</a>
                 </div>
-                <div class="row">
+                <div class="row" style="display:none">
                     <a href="/sale/annuals/">Annuals</a>
                 </div>
             </div>
