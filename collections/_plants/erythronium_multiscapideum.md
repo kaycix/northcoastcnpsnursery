@@ -37,10 +37,6 @@ tags:
     - woodland
 
 websites:
-    - url: "https://calscape.org/Achillea-millefolium-(Common-Yarrow)"
+    - url: https://calscape.org/Erythronium-multiscapideum-(Sierra-Fawn-Lily)
       name: "Calscape"
-    - url: "https://www.calflora.org/app/taxon?crn=61"
-      name: "Calflora"
-    - url: "https://www.rxlist.com/yarrow/supplements.htm"
-      name: "RxList"
 ---
