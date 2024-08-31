@@ -45,7 +45,7 @@ feature_row:
     <h4>Sunday Sept 29, Open 10:00am - 3:00 pm</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
-* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius - available Sept 1.
+* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius - available Sept 3.
 </p>
 <!--
 <p style="text-align:center; font-size: 0.8em">
