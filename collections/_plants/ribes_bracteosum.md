@@ -42,6 +42,6 @@ tags:
     - woodland
  
 websites: 
-    - url: https://calscape.org/Ribes-roezlii-(Sierra-Gooseberry) 
+    - url: https://calscape.org/Ribes-bracteosum-(Stink-Currant) 
       title: Calscape
 ---
