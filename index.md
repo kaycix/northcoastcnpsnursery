@@ -28,12 +28,13 @@ feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check is appreciated. Credit cards are also accepted.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
+    excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Fall Plant Sale."
+    #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check is appreciated. Credit cards are also accepted.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #excerpt: "Plant sales have resumed during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
     #excerpt: "Plant sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
-    url: "/inventory/cnps-2024-summer"
-    btn_label: "View Inventory"
-    btn_class: "btn--info"
+    #url: "/inventory/cnps-2024-summer"
+    #btn_label: "View Inventory"
+    #btn_class: "btn--info"
   - image_path: /assets/images/garden/garden-feature.jpg
     alt: "Demonstration Garden"
     title: "Demonstration Garden"
