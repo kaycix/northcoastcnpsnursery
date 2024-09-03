@@ -37,15 +37,13 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday Sept 28*
+    <h4>Saturday Sept 28,
+    <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-50689312-fall" target="_blank">Sign Up to Shop</a>!*
     </h4>
-    <!--  
-    <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-48779927-spring#/" target="_blank">Sign Up to Shop</a>!*</h4> 
-    -->
     <h4>Sunday Sept 29, Open 10:00am - 3:00 pm</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
-* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius - available Sept 3.
+* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius.
 </p>
 <!--
 <p style="text-align:center; font-size: 0.8em">
