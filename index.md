@@ -12,10 +12,10 @@ header:
 excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms Reserve in Eureka, CA. We grow over 100 species of Pacific Northwest and California native plants. Our nursery has been supplying this region with beautiful native plants since 2015."
 
 
-banner: 
-    excerpt: "Sales are currently on hold until our Fall Plant Sale weekend, Sept 28 - 29."
+#banner: 
+#    excerpt: "Sales are currently on hold until our Fall Plant Sale weekend, Sept 28 - 29."
 
-sale_banner: true
+sale_banner: false
 
 #intro: 
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
@@ -28,10 +28,10 @@ feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Fall Plant Sale."
+    #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Fall Plant Sale."
     #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check is appreciated. Credit cards are also accepted.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #excerpt: "Plant sales have resumed during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
-    #excerpt: "Plant sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
+    excerpt: "Plant sales have resumed during our <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #url: "/inventory/cnps-2024-summer"
     #btn_label: "View Inventory"
     #btn_class: "btn--info"
