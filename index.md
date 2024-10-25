@@ -12,8 +12,8 @@ header:
 excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms Reserve in Eureka, CA. We grow over 100 species of Pacific Northwest and California native plants. Our nursery has been supplying this region with beautiful native plants since 2015."
 
 
-#banner: 
-#    excerpt: "Sales are currently on hold until our Fall Plant Sale weekend, Sept 28 - 29."
+banner: 
+    excerpt: "Stay tuned! Updated inventory list, nursery hours and fall pricing information will be available soon." 
 
 sale_banner: false
 
