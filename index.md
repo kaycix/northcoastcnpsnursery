@@ -13,7 +13,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 
 
 banner: 
-    excerpt: "Good News! We will be open all Saturdays in November 10a - 3p in addition to our weekly Open Volunteer Hours." 
+    excerpt: "Good News! We will be open all Saturdays in November 10a - 3p in addition to our weekly Volunteer Open Hours." 
 
 sale_banner: false
 
