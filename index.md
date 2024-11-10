@@ -31,7 +31,7 @@ feature_row:
     #excerpt: "Plant sales have resumed during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
     #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Fall Plant Sale."
     #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check is appreciated. Credit cards are also accepted.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
-    excerpt: "Plant sales have resumed! Come visit us Saturdays in November from 10-3p or during our weekly <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot perennials (20% off): $4.00<br/> 1-gallon perennials (20% off): $8.00<br/> 1-gallon trees and shrubs (25% off): $9.00<br/> 2-gallon shrubs (40% off): $9.00<br/> All grasses (40% off): $6.00<br/>  Select perennials (40%): $6.00"
+    excerpt: "Plant sales have resumed! Come visit us Saturdays in November from 10-3p or during our weekly <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
     url: "/inventory/cnps-2024-10"
     btn_label: "View Inventory"
     btn_class: "btn--info"
