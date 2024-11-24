@@ -13,8 +13,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 
 
 banner: 
-    excerpt: "Note: We will be closed this Wednesday 11/20 through Saturday 11/23 due to the weather. Stay safe everyone!"
-#    excerpt: "Good News! We will be open all Saturdays in November 10a - 3p in addition to our weekly Volunteer Open Hours." 
+    excerpt: "We will be open for shopping Saturday November 30th 10am - 3pm in addition to our weekly Volunteer Open Hours." 
 
 sale_banner: false
 
