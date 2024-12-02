@@ -13,7 +13,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 
 
 banner: 
-    excerpt: "Sale prices continue through December! Come visit us during our weekly Volunteer Open Hours." 
+    excerpt: "<a href='/inventory/cnps-2024-10' style='color:#FFF'>Sale prices</a> continue through December! Come visit us during our weekly <a href='/contact' style='color:#FFF'>Volunteer Open Hours</a>." 
 
 sale_banner: false
 
