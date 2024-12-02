@@ -13,7 +13,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 
 
 banner: 
-    excerpt: "We will be open for shopping Saturday November 30th 10am - 3pm in addition to our weekly Volunteer Open Hours." 
+    excerpt: "Sale prices continue through December! Come visit us during our weekly Volunteer Open Hours." 
 
 sale_banner: false
 
@@ -31,7 +31,7 @@ feature_row:
     #excerpt: "Plant sales have resumed during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
     #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Fall Plant Sale."
     #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check is appreciated. Credit cards are also accepted.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
-    excerpt: "Plant sales have resumed! Come visit us Saturdays in November from 10-3p or during our weekly <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
+    excerpt: "Plant sales have resumed! Come visit us during our weekly <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
     url: "/inventory/cnps-2024-10"
     btn_label: "View Inventory"
     btn_class: "btn--info"
