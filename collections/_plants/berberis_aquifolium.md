@@ -26,7 +26,6 @@ gardens:
 
 inventory: 
     -   cnps_master_inventory
-    -   cnps_2024_10
     -   cnps_2024_fall
     -   cnps_2024_spring
     -   cnps_2023_10
