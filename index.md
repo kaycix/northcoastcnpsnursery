@@ -13,7 +13,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 
 
 banner: 
-    excerpt: "The nursery will be closed Friday December 13, 2024. <a href='/inventory/cnps-2024-10' style='color:#FFF'>Sale prices</a> will continue through December during our weekly <a href='/contact' style='color:#FFF'>Volunteer Open Hours</a>." 
+    excerpt: "The nursery will be closed Wednesday December 25, 2024 and Wednesday January 1, 2025. <a href='/inventory/cnps-2024-10' style='color:#FFF'>Sale prices</a> will continue through December during our weekly <a href='/contact' style='color:#FFF'>Volunteer Open Hours</a>." 
 
 sale_banner: false
 
