@@ -26,6 +26,7 @@ bloom_calendar:
     - 7 #july
 
 inventory: 
+    -   cnps_2025_spring
     -   cnps_2024_spring
     -   cnps_master_inventory
 

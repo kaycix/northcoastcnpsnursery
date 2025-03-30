@@ -19,6 +19,7 @@ sun_requirements:
   - "Part Shade"
 
 inventory: 
+    -   cnps_2025_spring
     -   cnps_2024_spring
     -   cnps_2023_spring
     -   cnps_master_inventory

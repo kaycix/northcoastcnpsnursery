@@ -20,6 +20,7 @@ icon:
         url: https://calscape.org/plant/Erythronium-multiscapideum-(Sierra-Fawn-Lily)/gallery
 
 inventory: 
+    -   cnps_2025_spring
     -   cnps_2024_fall
     -   cnps_master_inventory
 

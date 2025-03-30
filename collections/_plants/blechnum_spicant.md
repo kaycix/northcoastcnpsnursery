@@ -20,6 +20,7 @@ icon:
         url: https://www.calflora.org/entry/occdetail.html?seq_num=gp5497 
 
 inventory: 
+    -   cnps_2025_spring
     -   cnps_2024_fall
     -   cnps_2024_summer
     -   cnps_master_inventory
