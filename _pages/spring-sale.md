@@ -5,7 +5,7 @@ layout: splash
 
 classes: wide spring-sale
 
-title: <a href="/sale/">Fall Native Plant Sale</a> 
+title: <a href="/sale/">Spring Native Plant Sale</a> 
 excerpt: "Freshwater Farms Reserve<br/>5158 Mrytle Ave, Eureka, CA"
 
 header:
@@ -37,13 +37,14 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday Sept 28,
-    <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-50689312-fall" target="_blank">Sign Up to Shop</a>!*
+    <h4>Saturday May 3,
+    Sign Up to Shop
+    <!-- <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-50689312-fall" target="_blank">Sign Up to Shop</a>!* -->
     </h4>
-    <h4>Sunday Sept 29, Open 10:00am - 3:00 pm</h4>
+    <h4>Sunday May 4, Open 10:00am - 3:00 pm</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
-* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius.
+* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius, available in April.
 </p>
 <!--
 <p style="text-align:center; font-size: 0.8em">
@@ -54,12 +55,12 @@ feature_row:
 </p>
 -->
 
-{% assign inventory_tag = "cnps_2024_fall" %}
+{% assign inventory_tag = "cnps_2025_spring" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
 <div class="browse-block"> 
-    <p class="notice--warning" style="margin-top: 0em !important; display:none"><b>Note: </b> We are still actively compiling our inventory. All items are subject to change. We will finalize this list on April 1st.</p>
+    <p class="notice--warning" style="margin-top: 0em !important;"><b>Note: </b> We are still actively compiling our inventory. Check back for updates as we continue to finalize our inventory list!</p>
     <div class="clear"></div> 
     <div class="heading">
         <h1>Browse our Inventory:</h1>

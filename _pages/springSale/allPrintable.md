@@ -1,12 +1,12 @@
 ---
 permalink: /sale/all/print
 ---
-{% assign inventory_tag = "cnps_2023_fall" %}
+{% assign inventory_tag = "cnps_2025_spring" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
 <div class="subheading" style="margin-left:30px">
-    <h4>Spring Sale 2023 Inventory List</h4>
+    <h4>Spring Sale 2025 Inventory List</h4>
 </div>
 
 <table class="plant_list">
