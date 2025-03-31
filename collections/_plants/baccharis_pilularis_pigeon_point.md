@@ -20,6 +20,7 @@ icon:
         url: 
 
 inventory: 
+    -   cnps_2025_spring
     -   cnps_master_inventory
     -   cnps_2024_summer
     -   cnps_2024_spring
