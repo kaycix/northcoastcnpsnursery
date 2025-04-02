@@ -98,7 +98,7 @@ feature_row:
                 <div class="row">
                     <a href="/sale/grasses/">Grasses</a>
                 </div>
-                <div class="row" style="display:none">
+                <div class="row" style="">
                     <a href="/sale/annuals/">Annuals</a>
                 </div>
             </div>

@@ -24,7 +24,7 @@ header:
     <a href="/sale/shrubs/">Shrubs</a> | 
     <a href="/sale/trees/">Trees</a> |
     <a href="/sale/perennials/">Perennials</a> |
-    <!-- <a href="/sale/annuals/">Annuals</a> | -->
+    <a href="/sale/annuals/">Annuals</a> |
     <a href="/sale/ferns/">Ferns</a> | 
     <a href="/sale/grasses/">Grasses</a> | 
     <a href="/sale/succulents/">Succulents</a> |

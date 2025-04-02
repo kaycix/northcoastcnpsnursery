@@ -3,7 +3,7 @@ permalink: /sale/annuals/
 
 layout: splash
 classes: wide spring-sale
-title: <a href="/sale/">Fall Native Plant Sale</a> 
+title: <a href="/sale/">Spring Native Plant Sale</a> 
 excerpt: "Freshwater Farms Reserve<br/>5158 Mrytle Ave, Eureka, CA"
 header:
   overlay_color: "#000"
@@ -14,7 +14,7 @@ header:
 
 <!-- Jekyll 3.9 doesnt support and/or in where_exp so we have to do this the messy way -->
 
-{% assign inventory_tag = "cnps_2024_fall" %}
+{% assign inventory_tag = "cnps_2025_spring" %}
 {% assign annual_plants = site.plants | where_exp:"item",
     "item.category == 'annual herb'" %}
 {% assign inventory_plants = annual_plants | where_exp:"item",
