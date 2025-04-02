@@ -21,8 +21,8 @@ sale_banner: true
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
 #
 
-plant_spotlight_id: 153 
-plant_spotlight_title: March 
+plant_spotlight_id: 358 
+plant_spotlight_title: April 
 
 feature_row:
   - image_path: /assets/images/sale-feature.jpg
