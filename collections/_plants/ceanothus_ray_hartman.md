@@ -10,6 +10,15 @@ name:
 
 humboldt_native: False
 
+icon: 
+    small: 
+        url: /assets/images/plants/ceanothus_ray_hartman_sm.jpg
+    large: 
+        url: /assets/images/plants/ceanothus_ray_hartman_lg.jpg
+    source: 
+        name: Calscape 
+        url: https://calscape.org/plant/Ceanothus-'Ray-Hartman'-(Ray-Hartman-Ceanothus)/gallery 
+
 inventory: 
     -   cnps_master_inventory
     -   cnps_2025_spring
@@ -28,11 +37,6 @@ sun_requirements:
 
 tags:  
     -   cultivar
-
-#icon_attribution: 
-#    name: "Calscape"
-#    url: "https://calscape.com/ExtData/allimages/Photos/Ceanothus_Ray_Hartman_image_6.jpg" 
-#icon: "/assets/images/plants/ceanothus_ray_hartman_icon.jpg"
  
 websites:
     - url: "https://calscape.org/Ceanothus-%27Ray-Hartman%27-(Ray-Hartman-Ceanothus)"

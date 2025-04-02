@@ -4,7 +4,8 @@ plant_id: 224
 name: 
     common:  
         - "Western Houndstongue"  
-    scientific: "Cynoglossum grande"   
+    scientific: "Adelinia grandis"   
+   # scientific: "Cynoglossum grande"   
 
 category: "perennial herb"
 
@@ -28,6 +29,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2025_spring
     -   cnps_2024_spring
     -   cnps_2023_spring
     -   cnps_2023_07 
