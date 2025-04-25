@@ -24,7 +24,6 @@ gardens:
         - coastal
 
 inventory: 
-    -   cnps_2025_spring
     -   cnps_2024_fall
     -   cnps_2024_summer
     -   cnps_2024_spring

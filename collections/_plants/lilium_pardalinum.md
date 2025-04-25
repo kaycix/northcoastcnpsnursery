@@ -17,6 +17,7 @@ gardens:
         - redwood
 
 inventory: 
+    -   cnps_2025_spring
     -   cnps_2024_fall
     -   cnps_2023_fall
     -   cnps_master_inventory
