@@ -15,7 +15,7 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #banner: 
     #excerpt: "Save the Date! Plant sales are on hold the month of April in preparation for our Spring Sale, May 3 & 4."
 
-sale_banner: true
+sale_banner: false
 
 #intro: 
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
@@ -28,13 +28,13 @@ feature_row:
   - image_path: /assets/images/sale-feature.jpg
     alt: "Plant Sale"
     title: "Plant Sales"
-    #excerpt: "Plant sales will continue throughout March during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
-    excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Spring Plant Sale."
+    excerpt: "Plant sales will continue during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
+    #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Spring Plant Sale."
     #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check is appreciated. Credit cards are also accepted.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #excerpt: "Plant sales have resumed! Come visit us during our weekly <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
-    url: "/inventory/cnps-2024-10"
-    btn_label: "View Inventory"
-    btn_class: "btn--info"
+    #url: "/inventory/cnps-2024-10"
+    #btn_label: "View Inventory"
+    #btn_class: "btn--info"
   - image_path: /assets/images/garden/garden-feature.jpg
     alt: "Demonstration Garden"
     title: "Demonstration Garden"
@@ -52,7 +52,7 @@ feature_row:
 ---
 {% include feature_row %}
 
-<div style="display:block">
+<div style="display:none">
     {% for plant in site.plants %}
         {% if plant.plant_id == page.plant_spotlight_id %}
             {% include plant_summary_card.html title=page.plant_spotlight_title plant=plant %} 
