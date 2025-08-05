@@ -8,6 +8,12 @@ name:
     common: 
         - Narrow Leaf Milkweed
 
+description: 
+    short : "Our most common native milkweed, Narrowleaf Milkweed, Asclepias fascicularis, is a
+flowering perennial best known for attracting Monarch butterflies into the garden.
+However here on the North Coast, the plant provides resources for many beneficial
+creatures, including native bees and is a great addition to all local gardens."
+
 humboldt_native: True
 
 inventory: 
