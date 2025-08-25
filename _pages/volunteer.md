@@ -63,7 +63,7 @@ website:
 We would love for you to join us - whether you come often or occasionally, every little bit helps propel us forward in our mission.
 </p>
 <p>
-<a href = "mailto:northcoastcnps@gmail.com">Email us</a> <!--or <a href="/volunteer/form/">fill out this form</a>--> to let us know you're interested! Already a volunteer? <a href="/assets/images/icons/you-rock-meme.jpg" target="_blank">Click here</a>. 
+Email us at <a href = "mailto:northcoastcnps@gmail.com">northcoastcnps@gmail.com</a> <!--or <a href="/volunteer/form/">fill out this form</a>--> to let us know you're interested! Already a volunteer? <a href="/assets/images/icons/you-rock-meme.jpg" target="_blank">Click here</a>. 
 </p>
 <p><a href="#faq">Visit our FAQ</a> to learn more.</p>
 

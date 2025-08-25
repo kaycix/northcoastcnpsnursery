@@ -5,13 +5,14 @@ layout: splash
 
 classes: wide spring-sale
 
-title: <a href="/sale/">Spring Native Plant Sale</a> 
+title: <a href="/sale/">Fall Native Plant Sale</a> 
 excerpt: "Freshwater Farms Reserve<br/>5158 Mrytle Ave, Eureka, CA"
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/backgrounds/lupine.jpg
+  overlay_image: /assets/images/backgrounds/waxy_coneflower2.jpeg
+  #overlay_image: /assets/images/backgrounds/lupine.jpg
 
 feature_row:
   - image_path: /assets/images/backgrounds/bad-parking.jpg
@@ -37,14 +38,16 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday May 3,
-    <!-- Sign Up to Shop -->
-    <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-55747094-spring#/" target="_blank">Sign Up to Shop</a>!*
+    <h4>Saturday September 27,
+    Sign Up to Shop
+    <!--
+    <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-55747094-spring#/" target="_blank">Sign Up to Shop</a>
+    -->!*
     </h4>
-    <h4>Sunday May 4, Open 10:00am - 3:00 pm</h4>
+    <h4>Sunday September 28, Open 10:00am - 3:00 pm</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em">
-* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius.
+* Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius available here September 8.
 </p>
 <!--
 <p style="text-align:center; font-size: 0.8em">
@@ -59,7 +62,7 @@ feature_row:
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block"> 
+<div class="browse-block" style="display:none"> 
     <p class="notice--warning" style="margin-top: 0em !important; display:none"><b>Note: </b> We are still actively compiling our inventory. Check back for updates as we continue to finalize our inventory list!</p>
     <div class="clear"></div> 
     <div class="heading">
