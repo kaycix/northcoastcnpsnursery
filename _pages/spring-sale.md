@@ -32,7 +32,7 @@ feature_row:
   - image_path: /assets/images/starts.jpg
     alt: "Inventory"
     title: "Participating Nurseries & Vendors"
-    excerpt: "Proudly partnering with Samara Restoration, Lost Foods, Bob Vogt Trees, and Beresford's Bulbs."
+    excerpt: "Proudly partnering with Samara Restoration, Bob Vogt Trees, and Brant's Plants."
     #url: ""
     #btn_label: "More Information"
     #btn_class: "btn--primary"
