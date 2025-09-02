@@ -21,6 +21,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2025_fall
     -   cnps_2024_fall
 
 sun_requirements:

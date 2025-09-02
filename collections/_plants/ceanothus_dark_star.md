@@ -16,11 +16,12 @@ icon:
     large: 
         url: /assets/images/plants/ceanothus_dark_star_lg.jpg 
     source: 
-        name: © Theodore Payne Foundation
+        name: Theodore Payne Foundation
         url: https://calscape.org/view.php?pl=70804&img=31297 
 
 inventory: 
     -   cnps_master_inventory
+    -   cnps_2025_fall
     -   cnps_2025_summer
     -   cnps_2025_spring
     -   cnps_2024_fall

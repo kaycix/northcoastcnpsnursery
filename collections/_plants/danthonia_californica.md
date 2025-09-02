@@ -21,8 +21,9 @@ icon:
 
 
 inventory: 
-    -   cnps_2025_spring
     -   cnps_master_inventory
+    -   cnps_2025_fall
+    -   cnps_2025_spring
 
 gardens:  
 

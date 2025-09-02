@@ -21,6 +21,7 @@ icon:
         url: https://en.wikipedia.org/wiki/Dichelostemma_congestum#/media/File:D_congestum.jpg 
 
 inventory: 
+    -   cnps_2025_fall
     -   cnps_2023_spring
     -   cnps_2024_spring
     -   cnps_master_inventory
