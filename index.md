@@ -22,7 +22,7 @@ sale_banner: true
 #
 
 plant_spotlight_id: 161 
-plant_spotlight_title: August 
+plant_spotlight_title: September 
 
 feature_row:
   - image_path: /assets/images/sale-feature.jpg
