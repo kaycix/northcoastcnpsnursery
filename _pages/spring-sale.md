@@ -39,24 +39,20 @@ feature_row:
 ---
 <div class="hours">
     <h4>Saturday September 27,
-    Sign Up to Shop
-    <!--
-    <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-55747094-spring#/" target="_blank">Sign Up to Shop</a>
-    -->!*
+    <!-- Sign Up to Shop -->
+    <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-58297358-fall#/" target="_blank">Sign Up to Shop</a>
+    !*
     </h4>
     <h4>Sunday September 28, Open 10:00am - 3:00 pm</h4>
 </div>
+<!--
 <p style="text-align:center; font-size: 0.8em">
 * Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius available here September 8.
 </p>
-<!--
-<p style="text-align:center; font-size: 0.8em">
-* Sign up via Sign Up Genius - 30 spots per 30-minute time slot. 
-</p>
-<p style="text-align:center; font-size: 0.8em">
-* Sunday shoppers stop by whenever. No signups necessary! 
-</p>
 -->
+<p style="text-align:center; font-size: 0.8em">
+* Sign up to shop on Saturday via Sign Up Genius - 30 spots per 30-minute time slot. (No signups necessary on Sunday!) 
+</p>
 
 {% assign inventory_tag = "cnps_2025_fall" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
