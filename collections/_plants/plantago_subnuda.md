@@ -26,6 +26,7 @@ icon:
 inventory: 
     -   cnps_master_inventory
     -   cnps_2025_fall
+    -   cnps_2025_fall2
 
 sun_requirements:
   - "Full Sun"

@@ -12,6 +12,7 @@ humboldt_native: False
 
 inventory: 
     -   cnps_2025_fall
+    -   cnps_2025_fall2
     -   cnps_master_inventory
 
 sun_requirements:
