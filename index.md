@@ -20,7 +20,7 @@ banner:
 #banner: 
 #    excerpt: "Note: Plant sales are on hold until our Fall Sale Sept 27 & 28. Stop by to window shop or visit the garden!"
 
-sale_banner: false
+sale_banner: true
 
 #intro: 
 #    - excerpt: "We are a non-profit volunteer-run nursery located in beautiful Freshwater Farms Reserve in Eureka, CA." 
@@ -34,7 +34,7 @@ feature_row:
     alt: "Plant Sale"
     title: "Plant Sales"
     #excerpt: "We are now parterning with Samara Restoration to bring you a wider selection of native plants than ever! Plants can be purchased during our regular <a href='/contact'>Volunteer Open Hours</a>. Cash or check is appreciated."
-    excerpt: "We are open during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
+    excerpt: "We are open during our regular <a href='/contact'>Volunteer Open Hours</a> through the month of March. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
     #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Fall Plant Sale."
     #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check is appreciated. Credit cards are also accepted.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #excerpt: "Plant sales have resumed! Come visit us during our weekly <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
