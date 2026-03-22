@@ -14,6 +14,7 @@ category: "shrub"
 humboldt_native: True
 
 inventory: 
+    -   cnps_2026_spring
     -   cnps_2023_fall
     -   cnps_master_inventory
 
