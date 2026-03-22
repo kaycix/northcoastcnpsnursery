@@ -23,6 +23,7 @@ icon:
         url: https://calscape.org/photos/400?srchcr=sc640785b4ce5ce 
 
 inventory: 
+    -   cnps_2026_spring
     -   cnps_2025_fall
     -   cnps_2025_fall2
     -   cnps_2025_summer

@@ -11,6 +11,7 @@ category: "perennial herb"
 humboldt_native: False
 
 inventory: 
+    -   cnps_2026_spring
     -   cnps_2025_fall
     -   cnps_2025_summer
     -   cnps_2025_spring
