@@ -55,12 +55,12 @@ feature_row:
 * Sign up to shop on Saturday via Sign Up Genius - 30 spots per 30-minute time slot. (No signups necessary on Sunday!) 
 </p>
 
-{% assign inventory_tag = "cnps_2025_fall" %}
+{% assign inventory_tag = "cnps_2026_spring" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block" style="display:none"> 
-    <p class="notice--warning" style="margin-top: 0em !important; display:none"><b>Note: </b> We are still actively compiling our inventory. Check back for updates as we continue to finalize our inventory list!</p>
+<div class="browse-block" style="display:block"> 
+    <p class="notice--warning" style="margin-top: 0em !important;"><b>Note: </b> We are still actively compiling our inventory. Please check back for updates. We are aiming to have this list finalized by April 1st.</p>
     <div class="clear"></div> 
     <div class="heading">
         <h1>Browse our Inventory:</h1>

@@ -22,6 +22,7 @@ icon:
         url: https://calscape.org/plant/Clarkia-rubicunda-(Ruby-Chalice-Clarkia)/gallery 
 
 inventory: 
+    -   cnps_2026_spring
     -   cnps_2025_spring
     -   cnps_master_inventory
 
