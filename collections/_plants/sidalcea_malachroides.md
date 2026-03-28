@@ -15,12 +15,12 @@ humboldt_native: True
 
 icon: 
     small: 
-        url: /assets/images/plants/sidalcea_malachroides_sm.jpg 
+        url: /assets/images/plants/sidalcea_malachroides.jpg 
     large: 
         url: /assets/images/plants/sidalcea_malachroides_lg.jpg 
     source: 
-        name: 
-        url: 
+        name: Stan Shebs 
+        url: https://calscape.org/plant/Sidalcea-malachroides-(Maple-Leaved-Checkerbloom)/gallery
 
 inventory: 
     -   cnps_master_inventory
