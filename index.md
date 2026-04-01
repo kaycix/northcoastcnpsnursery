@@ -11,8 +11,8 @@ header:
       url: "/contact/"
 excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms Reserve in Eureka, CA. We grow over 100 species of Pacific Northwest and California native plants. Our nursery has been supplying this region with beautiful native plants since 2015."
 
-banner: 
-    excerpt: "Note: Plant sales will be on hold after April 1 as we prepare for our Spring Native Plant Sale."
+#banner: 
+#    excerpt: "Note: Plant sales will be on hold after April 1 as we prepare for our Spring Native Plant Sale."
 
 #banner: 
 #    excerpt: "End of Season Sale  — All remaining plants are now available at a discounted price throughout December." 
@@ -35,12 +35,12 @@ feature_row:
     title: "Plant Sales"
     #excerpt: "We are now parterning with Samara Restoration to bring you a wider selection of native plants than ever! Plants can be purchased during our regular <a href='/contact'>Volunteer Open Hours</a>. Cash or check is appreciated."
     excerpt: "We are open during our regular <a href='/contact'>Volunteer Open Hours</a> through the month of March. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
-    #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Fall Plant Sale."
+    excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Spring Plant Sale."
     #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check is appreciated. Credit cards are also accepted.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #excerpt: "Plant sales have resumed! Come visit us during our weekly <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
-    url: "/inventory/cnps-2025-fall2"
-    btn_label: "View Inventory"
-    btn_class: "btn--info"
+    #url: "/inventory/cnps-2025-fall2"
+    #btn_label: "View Inventory"
+    #btn_class: "btn--info"
   - image_path: /assets/images/garden/garden-feature.jpg
     alt: "Demonstration Garden"
     title: "Demonstration Garden"
