@@ -11,7 +11,7 @@ header:
 
 nursery:
   - image_path: /assets/images/seed-starting.jpg 
-    title: "<a id= 'nursery'>Nursery Volunteer</a>" 
+    title: "<a id= 'nursery' style='color:black'>Nursery Volunteer</a>" 
     excerpt: "This is our largest team of volunteers and a great place to get started. Nursery volunteers assist in all aspects of growing native plants - from seed collection to nurturing healthy plants. All skill levels welcome!<br/>Beginner gardeners, this is an amazing hands-on learning opportunity. You'll never be mystified by the back of a seed packet again! &#128521;
         <br/>Drop-in hours occur every Wednesday, Friday, and Sunday 10a - 1p."
     #url: "/gardens" 
@@ -19,7 +19,7 @@ nursery:
 
 garden: 
   - image_path: /assets/images/garden/signs.jpg 
-    title: "<a id='garden'>Demonstration Garden Volunteer</a>" 
+    title: "<a id='garden' style='color:black'>Demonstration Garden Volunteer</a>" 
     excerpt: "Once a month, volunteers gather to work in the demonstration garden. Weeding, planting, mulching and lively chatter ensue.
         <br/>Drop-in hours occur once a month, usually on Sunday mornings."
     #url: "/gardens" 
@@ -27,7 +27,7 @@ garden:
 
 cleaning: 
   - image_path: /assets/images/volunteers/pots.jpg 
-    title: "<a id='pot'>Pot Cleaning Volunteer</a>"
+    title: "<a id='pot' style='color:black'>Pot Cleaning Volunteer</a>"
     excerpt: "Recycling nursery pots is one of the many ways you can support the nursery. Reusing pots means we don’t have to buy as many new plastic pots, which reduces our costs and helps the environment. Win-win! For more information, consult our <a href='/assets/files/recycling-pots-how-to.pdf'>'How To' document</a> or email us at <a href = 'mailto:northcoastcnps@gmail.com'>northcoastcnps@gmail.com.</a>" 
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
@@ -35,7 +35,7 @@ cleaning:
 
 sale:
   - image_path: /assets/images/volunteers/sale-prep.jpg 
-    title: "<a id='sale'>Plant Sale Volunteer</a>" 
+    title: "<a id='sale' style='color:black'>Plant Sale Volunteer</a>" 
     excerpt: "Help spread the love! Volunteer at our seasonal sales - occuring the first weekend in May and last weekend of September. There are a variety of tasks: cashier, tallying, set up, clean up, hospitality, etc."
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
@@ -43,7 +43,7 @@ sale:
 social:
   - image_path: /assets/images/icons/social.png 
     image_caption: "Image by Pixabay"
-    title: "<a id='social'>Social Media Contributor</a>" 
+    title: "<a id='social' style='color:black'>Social Media Contributor</a>" 
     excerpt: "Create connection by becoming a contributor on our <a href='https://www.facebook.com/northcoastcnpsnursery' target='_blank'>Facebook</a> and <a href='https://www.instagram.com/northcoastcnpsnursery' target='_blank'>Instagram</a> accounts. Ideal candidates would stop by the nursery once or twice a month to be able to share insight into nursery operations.
     <br/>Skills Required: Basic tech-savvyness and emoji literacy &#128540;"
     #url: "/gardens" 
@@ -52,7 +52,7 @@ social:
 website:
   - image_path: /assets/images/icons/laptop.png 
     image_caption: "Image by Pixabay"
-    title: "<a href='#website'>Website Contributor</a>" 
+    title: "<a href='#website' style='color:black'>Website Contributor</a>" 
     excerpt: "If 'Github' and 'Coding' are somewhat familiar concepts, come join us! You're a rare intersection of computer and plant nerd and we would love to make use of your talents. You would be joining our existing website development team." 
     #url: "/gardens" 
     #btn_label: "READ MORE &#8594;"
