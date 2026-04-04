@@ -11,13 +11,13 @@ category: "perennial herb"
 humboldt_native: False
 
 icon: 
-#    small: 
-#        url: /assets/images/plants/monardella_odoratissima_ssp_franciscana_russian_river.jpg 
-#    large: 
-#        url: /assets/images/plants/monardella_odoratissima_ssp_franciscana_russian_river_lg.jpg 
-#    source: 
-#        name: 
-#        url: 
+    small: 
+        url: /assets/images/plants/missing_plant.jpg 
+    large: 
+        url: /assets/images/plants/missing_plant.jpg 
+    source: 
+        name: 
+        url: 
 
 inventory: 
     -   cnps_master_inventory
