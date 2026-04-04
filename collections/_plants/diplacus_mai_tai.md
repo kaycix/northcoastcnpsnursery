@@ -12,13 +12,12 @@ humboldt_native: False
 
 icon: 
     small: 
-        url: 
+        url: /assets/images/plants/diplacus_mai_tai.jpg 
     large: 
-        url: 
+        url: /assets/images/plants/diplacus_mai_tai_lg.jpg 
     source: 
-        name: 
-        url:
-
+        name: Dayna 
+        url: 
 
 inventory: 
     -   cnps_2026_spring
@@ -46,6 +45,6 @@ tags:
     - droughtTolerant
 
 websites:
-    - url: 
+    - url: https://calscape.org/Diplacus-aurantiacus-var.-puniceus-(Red-Bush-Monkeyflower) #NOT the right link 
       name: 
 ---

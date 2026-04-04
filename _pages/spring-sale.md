@@ -208,7 +208,7 @@ feature_row:
     <div>
         <b>How do I know what plants to get?</b>
         <p>
-            Get to know your planting site! Do you have sun or mostly shade? Click through our lists into the Calscape links to find more information on each plant. There will also be advisors at the sale that will be happy to help answer specific questions you have. 
+            Get to know your planting site! Do you have sun or mostly shade? Delve into <a href='https://calscape.org' target="_blank">Calscape</a> and <a href='https://www.calflora.org' target="_blank">Calflora</a> to find more information on each plant. Locate a native plant garden near you for ideas! There will also be advisors at the sale that will be happy to help answer specific questions you have. 
         </p>
     </div>
 </div>
