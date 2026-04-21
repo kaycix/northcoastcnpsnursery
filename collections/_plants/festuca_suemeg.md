@@ -13,9 +13,9 @@ humboldt_native: False
 
 icon: 
     small: 
-        url: 
+        url: /assets/images/plants/missing_plant.jpg 
     large: 
-        url: 
+        url: /assets/images/plants/missing_plant.jpg 
     source: 
         name: 
         url: 
