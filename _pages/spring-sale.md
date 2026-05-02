@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/backgrounds/bad-parking.jpg
     alt: "Parking"
     title: "Parking"
-    excerpt: "Parking is available at Freshwater Farms Reserve. Accessible parking is located directly in front of the barn and available on a first-come, first-served basis"
+    excerpt: "Parking is available at Freshwater Farms Reserve (5851 Mrytle Ave, Eureka, CA). Accessible parking is located directly in front of the barn and available on a first-come, first-served basis"
     url: "https://goo.gl/maps/Qg5BhABbH88Jaser9"
     btn_label: "View Map"
     btn_class: "btn--primary"
