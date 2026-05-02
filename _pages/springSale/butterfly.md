@@ -5,7 +5,7 @@ layout: splash
 classes: wide spring-sale
 title: <a href="/sale/">Spring Native Plant Sale</a> 
 #title: <a href="/sale/">Fall Native Plant Sale</a> 
-excerpt: "Freshwater Farms Reserve<br/>5158 Mrytle Ave, Eureka, CA"
+excerpt: "Freshwater Farms Reserve<br/>5851 Mrytle Ave, Eureka, CA"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
