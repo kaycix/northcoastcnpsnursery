@@ -1,3 +1,4 @@
+    -   cnps_2026_summer
 ---
 plant_id: 157 
 
@@ -27,6 +28,7 @@ icon:
         url: 
 
 inventory: 
+    -   cnps_2026_summer
     -   cnps_2026_spring
     -   cnps_2025_fall
     -   cnps_2025_fall2
