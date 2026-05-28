@@ -53,14 +53,16 @@ Humboldt Native
 
     {% assign sort_param = "" %}
 
-    {% if plant.sun_requirements contains 'Full Sun' %}
-       {% assign sort_param = sort_param | append: "a" %}
-    {% endif %}
-    {% if plant.sun_requirements contains 'Part Shade' %}
-       {% assign sort_param = sort_param | append: "b" %}
-    {% endif %}
-    {% if plant.sun_requirements contains 'Full Shade' %}
-       {% assign sort_param = sort_param | append: "c" %}
+    {% if plant.sun_requirements %}
+        {% if plant.sun_requirements contains 'Full Sun' %}
+           {% assign sort_param = sort_param | append: "a" %}
+        {% endif %}
+        {% if plant.sun_requirements contains 'Part Shade' %}
+           {% assign sort_param = sort_param | append: "b" %}
+        {% endif %}
+        {% if plant.sun_requirements contains 'Full Shade' %}
+           {% assign sort_param = sort_param | append: "c" %}
+        {% endif %}
     {% endif %}
 
     <div class="{{sort_param}}">
