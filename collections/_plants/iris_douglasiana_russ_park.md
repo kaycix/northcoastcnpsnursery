@@ -22,7 +22,6 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
-    -   cnps_2026_summer
 
 # no idea, just copying douglas iris info
 sun_requirements:

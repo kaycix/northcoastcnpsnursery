@@ -22,7 +22,6 @@ icon:
         url: 
 
 inventory: 
-    -   cnps_2026_summer
     -   cnps_master_inventory
 
 sun_requirements:
