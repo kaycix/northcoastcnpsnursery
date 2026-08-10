@@ -3,7 +3,7 @@ id: cnps_2026_summer
 
 inventory_id: cnps_2026_summer
 
-title: "Current Inventory"
+title: "Plant Sales"
 excerpt: "Updated: July 9, 2026" 
 
 header:
