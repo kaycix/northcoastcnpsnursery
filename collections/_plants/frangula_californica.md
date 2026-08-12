@@ -11,7 +11,7 @@ category: "shrub"
 gardens: 
     - arcata_marsh"
 
-humboldt_native: False
+humboldt_native: True
 
 icon: 
     small: 
