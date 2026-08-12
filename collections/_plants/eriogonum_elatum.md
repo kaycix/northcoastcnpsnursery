@@ -8,7 +8,7 @@ name:
 
 category: "perennial herb"
 
-humboldt_native: True
+humboldt_native: False
 
 icon: 
     small: 

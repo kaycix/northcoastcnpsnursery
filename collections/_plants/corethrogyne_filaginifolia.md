@@ -6,7 +6,7 @@ category: perennial herb
 name: 
     scientific: corethrogyne filaginifolia 
     common:  
-        - california aster
+        - california sand aster #barbara name
 
 humboldt_native: True
 

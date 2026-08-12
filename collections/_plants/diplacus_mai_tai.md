@@ -46,6 +46,6 @@ tags:
     - droughtTolerant
 
 websites:
-    - url: https://calscape.org/Diplacus-aurantiacus-var.-puniceus-(Red-Bush-Monkeyflower) #NOT the right link 
+    - url: https://calscape.org/plant/2512/Diplacus-aurantiacus-(Bush-Monkey-Flower) #NOT the right link, but closest. Barbara suggested. 
       name: 
 ---
