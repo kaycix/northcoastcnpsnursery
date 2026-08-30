@@ -5,14 +5,14 @@ layout: splash
 
 classes: wide spring-sale
 
-title: <a href="/sale/">Spring Native Plant Sale</a> 
+title: <a href="/sale/">Fall Native Plant Sale</a> 
 excerpt: "Freshwater Farms Reserve<br/>5851 Mrytle Ave, Eureka, CA"
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  #overlay_image: /assets/images/backgrounds/waxy_coneflower2.jpeg
-  overlay_image: /assets/images/backgrounds/lupine.jpg
+  overlay_image: /assets/images/backgrounds/waxy_coneflower2.jpeg
+  #overlay_image: /assets/images/backgrounds/lupine.jpg
 
 feature_row:
   - image_path: /assets/images/backgrounds/bad-parking.jpg
@@ -38,26 +38,30 @@ feature_row:
     #btn_class: "btn--primary"
 ---
 <div class="hours">
-    <h4>Saturday May 2,
+    <h4>Saturday September 26,
     
-    <!-- Sign Up to Shop -->
-    <a href="https://www.signupgenius.com/go/904054DA5A823A2F94-55747094-spring#/" target="_blank">Sign Up to Shop</a>
+    Sign Up to Shop
+    <!-- 
+    <a  href="https://www.signupgenius.com/go/904054DA5A823A2F94-55747094-spring#/" target="_blank">Sign Up to Shop</a> -->
     !*
     </h4>
-    <h4>Sunday May 3, Open 10:00am - 3:00 pm</h4>
+    <h4>Sunday September 27, Open 10:00am - 3:00 pm</h4>
 </div>
 <p style="text-align:center; font-size: 0.8em; display:none">
 * Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius available here April 1.
 </p>
 <p style="text-align:center; font-size: 0.8em">
-* Sign up to shop on Saturday via Sign Up Genius - 30 spots per 30-minute time slot. (No signups necessary on Sunday!) 
+* Sign up link will be available here on September 8th! (No signups necessary on Sunday) 
+</p>
+<p style="text-align:center; font-size: 0.8em; display: none">
+* Sign up to shop on Saturday via Sign Up Genius - 30 spots per 30-minute time slot. (No signups necessary on Sunday) 
 </p>
 
 {% assign inventory_tag = "cnps_2026_spring" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
-<div class="browse-block" style="display:block"> 
+<div class="browse-block" style="display:none"> 
     <p class="notice--warning" style="margin-top: 0em !important; display: none"><b>Note: </b> We are still actively compiling our inventory. Please check back for updates. We are aiming to have this list finalized by April 1st.</p>
     <div class="clear"></div> 
     <div class="heading">
