@@ -14,14 +14,14 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #banner: 
 #    excerpt: "Note: As of September, all credit card transactions will be subject to an additional processing fee. <a href='/cc/' style='color:#FFF'>See details.</a>"
 
-banner: 
-    excerpt: "Note: Plant sales will be on hold after September 1st as we prepare for our Fall Native Plant Sale."
+#banner: 
+#    excerpt: "Note: Plant sales will be on hold after September 1st as we prepare for our Fall Native Plant Sale."
 
 #banner: 
 #    excerpt: "End of Season Sale  — All remaining plants are now available at a discounted price throughout December." 
 
 #banner: 
-#    excerpt: "Note: Plant sales are on hold until our Fall Sale Sept 27 & 28. Stop by to window shop or visit the garden!"
+#    excerpt: "Note: Plant sales are on hold until our Fall Sale Sept 26 & 27. Stop by to window shop or visit the garden!"
 
 sale_banner: true
 
@@ -37,13 +37,13 @@ feature_row:
     alt: "Plant Sale"
     title: "Plant Sales"
     #excerpt: "We are now parterning with Samara Restoration to bring you a wider selection of native plants than ever! Plants can be purchased during our regular <a href='/contact'>Volunteer Open Hours</a>. Cash or check is appreciated. <a href='/cc'>Credit card fees apply</a>."
-    excerpt: "We are open during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated. Credit card transactions will be subject to a <a href='/cc/'>processing fee</a>."
-    #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Spring Plant Sale."
+    #excerpt: "We are open during our regular <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated. Credit card transactions will be subject to a <a href='/cc/'>processing fee</a>."
+    excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. However, plants sales are currently on hold in preparation for our Fall Plant Sale. Please note that credit card transactions will be subject to a <a href='/cc/'>processing fee</a>"
     #excerpt: "The nursery and demonstration garden are open during <a href='/contact'>Volunteer Hours</a>. Cash or check is appreciated. Credit cards are also accepted.<br/><br/>Pricing, unless otherwise marked: <br/>4-inch pot: $5.00<br/> 1-gallon pot: $10.00 - $12.00"
     #excerpt: "Plant sales have resumed! Come visit us during our weekly <a href='/contact'>Volunteer Open Hours</a>. Our inventory (which peaks during our seasonal sales in May and September) is greatly reduced. Cash or check is appreciated."
-    url: "/inventory/cnps-2026-summer"
-    btn_label: "View Inventory"
-    btn_class: "btn--info"
+    #url: "/inventory/cnps-2026-summer"
+    #btn_label: "View Inventory"
+    #btn_class: "btn--info"
   - image_path: /assets/images/garden/garden-feature.jpg
     alt: "Demonstration Garden"
     title: "Demonstration Garden"
