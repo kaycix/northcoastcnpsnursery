@@ -17,6 +17,7 @@ creatures, including native bees and is a great addition to all local gardens."
 humboldt_native: True
 
 inventory: 
+    -   cnps_2026_fall
     -   cnps_2026_summer
     -   cnps_2026_spring
     -   cnps_2025_fall2

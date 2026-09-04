@@ -20,6 +20,7 @@ icon:
         url: https://calscape.org/plant/Arnica-chamissonis-(Chamisso-Arnica)/gallery
 
 inventory: 
+    -   cnps_2026_fall
     -   cnps_2026_summer
     -   cnps_master_inventory
 
