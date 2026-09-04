@@ -32,7 +32,7 @@ feature_row:
   - image_path: /assets/images/starts.jpg
     alt: "Inventory"
     title: "Participating Nurseries & Vendors"
-    excerpt: "Proudly partnering with Samara Restoration, Mattole Restoration Council, Beresford Bulbs, and Bob Vogt Trees."
+    excerpt: "Proudly partnering with Samara Restoration, Mattole Restoration Council, and Beresford Bulbs."
     #url: ""
     #btn_label: "More Information"
     #btn_class: "btn--primary"
@@ -57,12 +57,12 @@ feature_row:
 * Sign up to shop on Saturday via Sign Up Genius - 30 spots per 30-minute time slot. (No signups necessary on Sunday) 
 </p>
 
-{% assign inventory_tag = "cnps_2026_spring" %}
+{% assign inventory_tag = "cnps_2026_fall" %}
 {% assign inventory_plants = site.plants | where_exp:"item",
     "item.inventory contains inventory_tag" %}
 
 <div class="browse-block" style="display:none"> 
-    <p class="notice--warning" style="margin-top: 0em !important; display: none"><b>Note: </b> We are still actively compiling our inventory. Please check back for updates. We are aiming to have this list finalized by April 1st.</p>
+    <p class="notice--warning" style="margin-top: 0em !important"><b>Note: </b> We are still actively compiling our inventory. Please check back for updates. We are aiming to have this list finalized by September 8th.</p>
     <div class="clear"></div> 
     <div class="heading">
         <h1>Browse our Inventory:</h1>
@@ -100,7 +100,7 @@ feature_row:
                 <div class="row">
                     <a href="/sale/grasses/">Grasses</a>
                 </div>
-                <div class="row" style="">
+                <div class="row" style="display:none">
                     <a href="/sale/annuals/">Annuals</a>
                 </div>
             </div>
