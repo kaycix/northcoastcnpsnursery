@@ -8,7 +8,7 @@ name:
         - Sunset Manzanita 
     scientific: "Arctostaphylos 'Sunset'"  
 
-humboldt_native: True
+humboldt_native: False
 
 icon: 
     small: 
