@@ -25,7 +25,7 @@ header:
 
 <div class="subheading">
     <h4><a href="/sale/all/">All Plants</a> >  Beginner Favorites ({{inventory_plants.size}})</h4>
-    <p class="notice">
+    <p class="notice" style="display:none">
     Starting out with natives can be an exciting but daunting process. Here are a few of our favorites to help get you started.
     </p>
 </div>
