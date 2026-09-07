@@ -32,7 +32,7 @@ feature_row:
   - image_path: /assets/images/starts.jpg
     alt: "Inventory"
     title: "Participating Nurseries & Vendors"
-    excerpt: "Proudly partnering with Samara Restoration, Mattole Restoration Council, and Beresford Bulbs."
+    excerpt: "Proudly partnering with Samara Restoration, Mattole Restoration Council, Beresford Bulbs, and Bob Vogt Trees."
     #url: ""
     #btn_label: "More Information"
     #btn_class: "btn--primary"
