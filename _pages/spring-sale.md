@@ -51,7 +51,7 @@ feature_row:
 * Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius available here April 1.
 </p>
 <p style="text-align:center; font-size: 0.8em">
-* Sign up link will be available here on September 8th! (No signups necessary on Sunday) 
+* Sign up link will be available here soon! (No signups necessary on Sunday) 
 </p>
 <p style="text-align:center; font-size: 0.8em; display: none">
 * Sign up to shop on Saturday via Sign Up Genius - 30 spots per 30-minute time slot. (No signups necessary on Sunday) 
