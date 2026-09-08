@@ -41,8 +41,7 @@ feature_row:
     <h4>Saturday September 26,
     
     Sign Up to Shop
-    <!-- 
-    <a  href="https://www.signupgenius.com/go/904054DA5A823A2F94-55747094-spring#/" target="_blank">Sign Up to Shop</a> -->
+    <a  href="https://www.signupgenius.com/go/904054DA5A823A2F94-65593531-fall#/" target="_blank">Sign Up to Shop</a> 
     !*
     </h4>
     <h4>Sunday September 27, Open 10:00am - 3:00 pm</h4>
@@ -50,10 +49,10 @@ feature_row:
 <p style="text-align:center; font-size: 0.8em; display:none">
 * Saturday shoppers will need to sign up for a shopping slot via Sign Up Genius available here April 1.
 </p>
-<p style="text-align:center; font-size: 0.8em">
+<p style="text-align:center; font-size: 0.8em; display: none">
 * Sign up link will be available here soon! (No signups necessary on Sunday) 
 </p>
-<p style="text-align:center; font-size: 0.8em; display: none">
+<p style="text-align:center; font-size: 0.8em">
 * Sign up to shop on Saturday via Sign Up Genius - 30 spots per 30-minute time slot. (No signups necessary on Sunday) 
 </p>
 
