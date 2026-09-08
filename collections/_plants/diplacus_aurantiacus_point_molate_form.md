@@ -1,10 +1,10 @@
 ---
-plant_id: 376
+plant_id: 421
 
 name: 
     common: 
-        - "Point Molate Form Bush Monkey Flower"
-    scientific: "Diplacus aurantiacus 'Point Molate Form'"
+        - "Point Molate Form Bush Monkey Flower"  
+    scientific:  "Diplacus aurantiacus 'Point Molate Form'"  
 
 category: "shrub"
 
@@ -12,40 +12,33 @@ humboldt_native: False
 
 icon: 
     small: 
-        url: /assets/images/plants/diplacus_aurantiacus_point_molate_form_sm.jpg 
+        url: /assets/images/plants/missing_plant.jpg 
     large: 
-        url: /assets/images/plants/diplacus_aurantiacus_point_molate_form_lg.jpg 
+        url: /assets/images/plants/missing_plant.jpg 
     source: 
-        name: Annies Annuals 
-        url: https://calscape.org/plant/Diplacus-aurantiacus-'Point-Molate-Form'-(Point-Molate-Form-Bush-Monkey-Flower)/gallery
-
+        name: 
+        url: 
 
 inventory: 
-    -   cnps_2026_summer
-    -   cnps_2026_spring
-    -   cnps_2025_spring
     -   cnps_master_inventory
+    -   cnps_2026_fall
 
-gardens:  
+tags:
+    -   bird
+    -   bats 
+    -   droughtTolerant
+    -   beginner
 
 sun_requirements:
-  - "Full Sun" 
-  - "Part Shade" 
+  - "Full Sun"
+  - "Part Shade"
 
 size:
     height: 
-        min: 3
-        max: 4
+        min: 1.5
+        max: 2
 
-tags: 
-    - humboldtNative
-    - butterfly
-    - birds
-    - bees
-    - meadow
-    - droughtTolerant
-
-websites:
-    - url: "https://calscape.org/Diplacus-aurantiacus-'Point-Molate-Form'-(Point-Molate-Form-Bush-Monkey-Flower)"
-      name: "Calscape"
+websites: 
+    -   url: https://calscape.org/plant/71557/Diplacus-aurantiacus-%27Point-Molate-Form%27-(Point-Molate-Form-Bush-Monkey-Flower)  
+        name: "Calscape"
 ---
