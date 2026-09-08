@@ -40,7 +40,7 @@ feature_row:
 <div class="hours">
     <h4>Saturday September 26,
     
-    Sign Up to Shop
+    <!-- Sign Up to Shop -->
     <a  href="https://www.signupgenius.com/go/904054DA5A823A2F94-65593531-fall#/" target="_blank">Sign Up to Shop</a> 
     !*
     </h4>
