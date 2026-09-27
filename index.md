@@ -14,8 +14,8 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #banner: 
 #    excerpt: "Note: As of September, all credit card transactions will be subject to an additional processing fee. <a href='/cc/' style='color:#FFF'>See details.</a>"
 
-banner: 
-    excerpt: "Note: We are currently CLOSED for plant sales as we prepare for our Fall Native Plant Sale, happening September 26-27."
+#banner: 
+#    excerpt: "Note: We are currently CLOSED for plant sales as we prepare for our Fall Native Plant Sale, happening September 26-27."
 
 #banner: 
 #    excerpt: "End of Season Sale  — All remaining plants are now available at a discounted price throughout December." 
