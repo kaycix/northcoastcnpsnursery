@@ -27,6 +27,7 @@ bloom_calendar:
     - 8 #august
 
 inventory: 
+    -   current
     -   cnps_2026_fall
     -   cnps_2026_spring
     -   cnps_2025_fall

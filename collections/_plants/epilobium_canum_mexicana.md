@@ -22,6 +22,7 @@ icon:
         url: 
 
 inventory: 
+    -   current
     -   cnps_2026_fall
 
 sun_requirements:

@@ -22,6 +22,7 @@ icon:
         url: https://calscape.org/plant/Sidalcea-calycosa-ssp.-rhizomata-(Pt.-Reyes-Checkerbloom)/gallery
 
 inventory: 
+    -   current
     -   cnps_2026_fall
     -   cnps_2025_fall
 

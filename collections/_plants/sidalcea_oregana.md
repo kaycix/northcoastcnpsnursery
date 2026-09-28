@@ -20,6 +20,7 @@ icon:
         ugrl: https://calscape.org/plant/3500/Sidalcea-oregana-(Oregon-Checker-Mallow)/gallery 
 
 inventory: 
+    -   current
     -   cnps_2026_fall
     -   cnps_master_inventory
 

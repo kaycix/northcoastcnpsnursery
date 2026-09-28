@@ -22,6 +22,7 @@ icon:
         url: https://calscape.org/plant/Solidago-velutina-ssp.-californica-(California-Goldenrod)/gallery 
 
 inventory: 
+    -   current
     -   cnps_2026_fall
     -   cnps_2026_spring
     -   cnps_master_inventory

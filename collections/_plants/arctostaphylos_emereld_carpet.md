@@ -20,6 +20,7 @@ icon:
         url: https://calscape.org/plant/70680/Arctostaphylos-%27Emerald-Carpet%27-(Emerald-Carpet-Manzanita)/gallery 
 
 inventory: 
+    -   current
     -   cnps_2026_fall
     -   cnps_master_inventory
 

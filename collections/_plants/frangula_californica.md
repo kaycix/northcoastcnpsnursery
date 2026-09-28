@@ -24,6 +24,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   current
     -   cnps_2026_fall
     -   cnps_2026_summer
     -   cnps_2026_spring
