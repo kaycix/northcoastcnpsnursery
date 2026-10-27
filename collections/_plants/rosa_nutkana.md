@@ -20,6 +20,7 @@ icon:
         url: https://calscape.org/plant/Rosa-nutkana-(Nootka-Rose)/gallery
 
 inventory: 
+    -   current
     -   cnps_master_inventory
     -   cnps_2026_summer
     -   cnps_2026_spring

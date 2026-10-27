@@ -35,6 +35,7 @@ icon:
         url: 
 
 inventory: 
+    -   current
     -   cnps_2026_fall
     -   cnps_2026_summer
     -   cnps_2026_spring

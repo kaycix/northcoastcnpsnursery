@@ -20,6 +20,7 @@ icon:
         url: https://www.instagram.com/explore/tags/penstemonrattanii/
 
 inventory: 
+    -   current
     -   cnps_master_inventory
     -   cnps_2025_fall
     -   cnps_2025_summer
