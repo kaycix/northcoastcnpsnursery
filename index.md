@@ -17,8 +17,8 @@ excerpt: "Come visit our fully volunteer-run nursery located in Freshwater Farms
 #banner: 
 #    excerpt: "Note: We are currently CLOSED for plant sales as we prepare for our Fall Native Plant Sale, happening September 26-27."
 
-#banner: 
-#    excerpt: "End of Season Sale  — All remaining plants are now available at a discounted price throughout December." 
+banner: 
+    excerpt: "End of Season Sale  — Most of our inventory is now available at a discounted price throughout December. Come visit during our Volunteer Open Hours!" 
 
 #banner: 
 #    excerpt: "Note: Plant sales are on hold until our Fall Sale Sept 26 & 27. Stop by to window shop or visit the garden!"
