@@ -22,6 +22,7 @@ icon:
 
 inventory: 
     -   cnps_master_inventory
+    -   current
 
 # no idea, just copying douglas iris info
 sun_requirements:
